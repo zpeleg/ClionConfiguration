@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
@@ -16,11 +16,11 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518259574660">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
         <mark key="'" line="72" column="23" />
@@ -234,11 +234,11 @@
       <jump line="17" column="4" filename="$USER_HOME$/Code/mobileproduct/src/core/bugatone_status.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QnVnYXRvbmVTdGF0dXM6OkJ1Z2F0b25lU3RhdHVzKCkgOiB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJHb3QgYnVmZmVyIGZyb20gIjw8cy5wY21TdHJlYW0gPDxlbmRsOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/=//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -329,10 +329,10 @@
         <entry>W</entry>
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>s/=//g</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
