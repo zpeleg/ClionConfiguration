@@ -1,17 +1,66 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1517767826496">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/bugatone_api_configuration.h" timestamp="1517995940648">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518259574660">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
+        <mark key="'" line="72" column="23" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="56" />
+        <mark key="." line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
+        <mark key="'" line="397" column="0" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="280" column="64" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.h" timestamp="1517765135288">
+        <mark key="'" line="15" column="3" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/appargs.cpp" timestamp="1517239140395">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1518259697987" />
+      <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
+        <mark key="'" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.cpp" timestamp="1517239069605">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517767826496">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/CMakeLists.txt" timestamp="1517756141465">
         <mark key="'" line="24" column="4" />
@@ -40,12 +89,6 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/bugatone_api_configuration.h" timestamp="1517995940648">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-      </file>
       <file name="$USER_HOME$/Bugatone-Space/projects/sampler/src/TimelineSampler.cpp" timestamp="1514108579364">
         <mark key="'" line="617" column="8" />
       </file>
@@ -56,24 +99,11 @@
         <mark key="^" line="52" column="50" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518259574660">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/streams.h" timestamp="1517163187357">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
-        <mark key="'" line="72" column="23" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="56" />
-        <mark key="." line="62" column="56" />
-        <mark key="^" line="62" column="56" />
       </file>
       <file name="/fragment.mm" timestamp="1517340267134">
         <mark key="[" line="0" column="0" />
@@ -99,35 +129,6 @@
       </file>
       <file name="/media/buga/bnf/AOSP/new-clean/external/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1517157656405">
         <mark key="'" line="284" column="9" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
-        <mark key="'" line="397" column="0" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="280" column="64" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.h" timestamp="1517765135288">
-        <mark key="'" line="15" column="3" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/appargs.cpp" timestamp="1517239140395">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-      </file>
-      <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
-        <mark key="'" line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.cpp" timestamp="1517239069605">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
       </file>
     </filemarks>
     <jumps>
