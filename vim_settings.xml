@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
@@ -49,7 +49,9 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1518259697987" />
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1518325050722">
+        <mark key="[" line="72" column="34" />
+      </file>
       <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
         <mark key="'" line="22" column="1" />
       </file>
@@ -99,6 +101,9 @@
         <mark key="^" line="52" column="50" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1518325033094">
+        <mark key="'" line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/streams.h" timestamp="1517163187357">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="0" />
@@ -132,16 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="309" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="313" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="318" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="328" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="330" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="337" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="343" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="350" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="353" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
       <jump line="357" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
       <jump line="361" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
       <jump line="364" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
@@ -232,6 +227,16 @@
       <jump line="64" column="4" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="15" column="4" filename="$USER_HOME$/Code/mobileproduct/src/core/bugatone_status.cpp" />
       <jump line="17" column="4" filename="$USER_HOME$/Code/mobileproduct/src/core/bugatone_status.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
