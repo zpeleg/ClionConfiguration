@@ -113,6 +113,9 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1518712994561">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/fragment.mm" timestamp="1517340267134">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,40 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="364" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="367" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="373" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="376" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="383" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="388" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="392" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="394" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="397" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="15" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="28" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="33" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="47" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="53" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="60" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="65" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="68" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="72" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="73" column="0" filename="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" />
-      <jump line="7" column="15" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="96" column="24" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="97" column="22" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="171" column="27" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="167" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="165" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="156" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="146" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="128" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="120" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
-      <jump line="106" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="99" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="91" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="83" column="0" filename="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" />
@@ -246,6 +215,40 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" />
       <jump line="62" column="20" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.h" />
+      <jump line="55" column="10" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="121" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="126" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="133" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="157" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="172" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="185" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="187" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="197" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="216" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="223" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="232" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="242" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="245" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="186" column="4" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="5" column="15" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="33" column="24" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,7 +258,7 @@
         <text encoding="base64">X191bnVzZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>reshape</text>
+        <text>convol</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgZWFycGhvbmVTdGF0ZSA9ICAgICAgICAgICAgICAgICBFYXJwaG9uZVN0YXRlOjpJTlZBTElEOwovLyAgICBpbkVhckRldGVjdG9yU3RhdGUgPSAgICAgICAgICAgIEluRWFyRGV0ZWN0b3JTdGF0ZTo6SU5WQUxJRDsKLy8gICAgb3V0RWFyRGV0ZWN0b3JTdGF0ZSA9ICAgICAgICAgICBPdXRFYXJEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICBpZGVudGlmeUVhcnBob25lRGV0ZWN0b3JTdGF0ZSA9IElkZW50aWZ5RWFycGhvbmVEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICB0ZWFjaGVyRGV0ZWN0b3JTdGF0ZSA9ICAgICAgICAgIFRlYWNoZXJEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICBtYW51YWxOZXdFYXJEZXRlY3RvclN0YXRlID0gICAgIE1hbnVhbE5ld0VhckRldGVjdG9yU3RhdGU6OklOVkFMSUQ7Ci8vICAgIGRldGVjdGlvblJlc3VsdExlZnQgPSAgICAgICAgICAgRGV0ZWN0aW9uUmVzdWx0OjpJTlZBTElEOwovLyAgICBkZXRlY3Rpb25SZXN1bHRSaWdodCA9ICAgICAgICAgIERldGVjdGlvblJlc3VsdDo6SU5WQUxJRDsK</text>
@@ -299,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reshape</last-search>
+      <last-search>convol</last-search>
       <last-offset />
-      <last-pattern>reshape</last-pattern>
+      <last-pattern>convol</last-pattern>
       <last-replace />
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>33</entry>
         <entry>Got false</entry>
         <entry>pcm_read</entry>
         <entry>Open</entry>
@@ -329,6 +331,7 @@
         <entry>SIGTERM</entry>
         <entry>=</entry>
         <entry>reshape</entry>
+        <entry>convol</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
