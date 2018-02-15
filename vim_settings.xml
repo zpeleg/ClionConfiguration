@@ -76,11 +76,11 @@
       <file name="/Dummy.txt" timestamp="1518722792778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1518723432555">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1518725070496">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/CMakeLists.txt" timestamp="1517756141465">
         <mark key="'" line="24" column="4" />
@@ -255,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmlydHVhbCA=</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmlydHVhbCA=</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>convol</text>
@@ -267,31 +267,31 @@
         <text>WithLog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpdmF0ZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KSW5uZXJMb2cgSW5uZXJMb2c6OldpdGgoc3RyaW5nIGtleSwgVCB2YWx1ZSkgewogICAgY291dCA8PCBrZXkgPDwgIiA9ICIgPDwgdmFsdWUgPDwgZW5kbDsKfQoKSW5uZXJMb2cgSW5uZXJMb2c6OldpdGgoc3RyaW5nIGtleSwgdmVjdG9yPGRvdWJsZT4gdmFsdWUpIHsKICAgIGNvdXQgPDwga2V5IDw8ICIgPSAiIDw8IHZhbHVlLnNpemUoKSA8PCBlbmRsOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElubmVyTG9nIFdpdGgoc3RyaW5nIGtleSwgdmVjdG9yPGRvdWJsZT4gdmVjKTsK</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KSW5uZXJMb2cgSW5uZXJMb2c6OldpdGgoc3RyaW5nIGtleSwgVCB2YWx1ZSkgewogICAgY291dCA8PCBrZXkgPDwgIiA9ICIgPDwgdmFsdWUgPDwgZW5kbDsKfQoKSW5uZXJMb2cgSW5uZXJMb2c6OldpdGgoc3RyaW5nIGtleSwgdmVjdG9yPGRvdWJsZT4gdmFsdWUpIHsKICAgIGNvdXQgPDwga2V5IDw8ICIgPSAiIDw8IHZhbHVlLnNpemUoKSA8PCBlbmRsOwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TG9nIExvZzo6Z2V0SW5zdGFuY2UoKSB7fQo=</text>
+        <text encoding="base64">ICAgIElubmVyTG9nIFdpdGgoc3RyaW5nIGtleSwgdmVjdG9yPGRvdWJsZT4gdmVjKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TG9nIExvZzo6Z2V0SW5zdGFuY2UoKSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
