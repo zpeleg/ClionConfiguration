@@ -32,6 +32,12 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/convolver.cpp" timestamp="1518714238441">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
         <mark key="'" line="397" column="0" />
         <mark key="[" line="0" column="2" />
@@ -107,23 +113,11 @@
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1518325033094">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/streams.h" timestamp="1517163187357">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1518712994561">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1517340267134">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/main.cpp" timestamp="1517322772379">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
         <mark key="[" line="46" column="0" />
@@ -251,8 +245,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">X191bnVzZWQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">X191bnVzZWQg</text>
@@ -264,15 +258,18 @@
         <text encoding="base64">Ly8gICAgZWFycGhvbmVTdGF0ZSA9ICAgICAgICAgICAgICAgICBFYXJwaG9uZVN0YXRlOjpJTlZBTElEOwovLyAgICBpbkVhckRldGVjdG9yU3RhdGUgPSAgICAgICAgICAgIEluRWFyRGV0ZWN0b3JTdGF0ZTo6SU5WQUxJRDsKLy8gICAgb3V0RWFyRGV0ZWN0b3JTdGF0ZSA9ICAgICAgICAgICBPdXRFYXJEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICBpZGVudGlmeUVhcnBob25lRGV0ZWN0b3JTdGF0ZSA9IElkZW50aWZ5RWFycGhvbmVEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICB0ZWFjaGVyRGV0ZWN0b3JTdGF0ZSA9ICAgICAgICAgIFRlYWNoZXJEZXRlY3RvclN0YXRlOjpJTlZBTElEOwovLyAgICBtYW51YWxOZXdFYXJEZXRlY3RvclN0YXRlID0gICAgIE1hbnVhbE5ld0VhckRldGVjdG9yU3RhdGU6OklOVkFMSUQ7Ci8vICAgIGRldGVjdGlvblJlc3VsdExlZnQgPSAgICAgICAgICAgRGV0ZWN0aW9uUmVzdWx0OjpJTlZBTElEOwovLyAgICBkZXRlY3Rpb25SZXN1bHRSaWdodCA9ICAgICAgICAgIERldGVjdGlvblJlc3VsdDo6SU5WQUxJRDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVnYXRvbmVTdGF0dXM6OkJ1Z2F0b25lU3RhdHVzKCkgOiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">QnVnYXRvbmVTdGF0dXM6OkJ1Z2F0b25lU3RhdHVzKCkgOiB7fQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBidWdhdG9uZVN0YXRlKCksCiAgICAgICAgZWFycGhvbmVTdGF0ZSgpLAogICAgICAgIGluRWFyRGV0ZWN0b3JTdGF0ZSgpLAogICAgICAgIG91dEVhckRldGVjdG9yU3RhdGUoKSwKICAgICAgICBpZGVudGlmeUVhcnBob25lRGV0ZWN0b3JTdGF0ZSgpLAogICAgICAgIHRlYWNoZXJEZXRlY3RvclN0YXRlKCksCiAgICAgICAgbWFudWFsTmV3RWFyRGV0ZWN0b3JTdGF0ZSgpLAogICAgICAgIGRldGVjdGlvblJlc3VsdExlZnQoKSwK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">ICAgCiAgIAogICAKID0gCiAgIAogICAKICAgCiAgIA==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>//
 //
 //
@@ -282,20 +279,17 @@
 //
 //</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJlc29sdXRpb24gPSAxNjsKICAgIHNhbXBsZVJhdGUgPSA0ODAwMDsKICAgIGNoYW5uZWxPcmRlcmluZyA9ICJMMEwxUjBSMSI7CiAgICBmb3JnZXRDYWxpYnJhdGlvbnMgPSAwOwogICAgc3RvcERldGVjdFRpbWVvdXRzU2VjcyA9IDE7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBDb2xvciByZWQoQ29sb3I6OkZPUkVfUkVEKTsKICAgICAgICBjb3V0IDw8ICJHb3QgIiA8PCBmcmFtZXNDYXB0dXJlZCA8PCAiIGZyYW1lcyIgPDwgZW5kbDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbChTSUdURVJNLCBTaWdpbnRIYW5kbGVyKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJHb3QgYnVmZmVyIGZyb20gIjw8cy5wY21TdHJlYW0gPDxlbmRsOwo=</text>
+        <text encoding="base64">ICAgIHNpZ25hbChTSUdURVJNLCBTaWdpbnRIYW5kbGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
