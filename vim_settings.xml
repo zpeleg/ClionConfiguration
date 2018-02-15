@@ -76,12 +76,12 @@
       <file name="/Dummy.txt" timestamp="1518722792778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1518726987335">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1518727000832">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="65" column="30" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="69" column="48" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+        <mark key="^" line="66" column="36" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/CMakeLists.txt" timestamp="1517756141465">
         <mark key="'" line="24" column="4" />
