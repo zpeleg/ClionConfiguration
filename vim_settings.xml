@@ -18,10 +18,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/formatter.h" timestamp="1518959334364">
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="38" column="68" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/ndk_patch.h" timestamp="1519036970979">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="23" column="5" />
@@ -70,7 +66,7 @@
       <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519036995073">
+      <file name="/Dummy.txt" timestamp="1519044472892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
@@ -97,12 +93,11 @@
         <mark key="^" line="63" column="42" />
         <mark key="." line="63" column="42" />
       </file>
-      <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/sys/limits.h" timestamp="1517757669267">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="30" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/android_sink.h" timestamp="1519034773219">
         <mark key="'" line="40" column="0" />
+      </file>
+      <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/stdlib.h" timestamp="1519044629448">
+        <mark key="'" line="67" column="26" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
@@ -121,12 +116,12 @@
         <mark key="^" line="52" column="50" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" timestamp="1519037223524">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="668" column="0" />
-        <mark key="]" line="668" column="0" />
-        <mark key="." line="668" column="0" />
-        <mark key="^" line="662" column="16" />
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" timestamp="1519044656649">
+        <mark key="'" line="4" column="56" />
+        <mark key="[" line="996" column="27" />
+        <mark key="]" line="996" column="39" />
+        <mark key="." line="996" column="26" />
+        <mark key="^" line="996" column="26" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/common.h" timestamp="1519034769806">
         <mark key="'" line="45" column="0" />
@@ -164,19 +159,15 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1519034678301">
         <mark key="'" line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" timestamp="1519037401322">
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" timestamp="1519044695954">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="65" column="11" />
-        <mark key="]" line="65" column="12" />
-        <mark key="." line="65" column="12" />
-        <mark key="^" line="65" column="12" />
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+        <mark key="^" line="73" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1783" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1780" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1776" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1767" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1764" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1760" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1757" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
@@ -234,7 +225,6 @@
       <jump line="1008" column="27" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="1004" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="1001" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="996" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="992" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="973" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="966" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
@@ -273,55 +263,60 @@
       <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="243" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="231" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
+      <jump line="668" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
+      <jump line="996" column="27" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
+      <jump line="67" column="26" filename="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/stdlib.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
+      <jump line="4" column="56" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>unsigned</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>unsigned</text>
       </register>
       <register name="/" type="4">
-        <text>android</text>
+        <text>strtoull</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9yZWdpb24gQW5kcm9pZCBQYXRjaGVzCgojaWZkZWYgX19BTkRST0lEX18KCiNpbmNsdWRlIDxzdHJpbmc+CiNpbmNsdWRlIDxzc3RyZWFtPgoKLy8gd2h5IHdvdWxkIEkgaW1wbGVtZW50IGl0IG15c2VsZj8hCi8vIHNlZSBoZXJlOiBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIyNzc0MDA5L2FuZHJvaWQtbmRrLXN0ZHRvLXN0cmluZy1zdXBwb3J0Cm5hbWVzcGFjZSBzdGQgewoKICAgIHN0ZDo6c3RyaW5nIHRvX3N0cmluZyhpbnQgdmFsdWUpIHsKICAgICAgICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3M7CgogICAgICAgIG9zIDw8IHZhbHVlOwogICAgICAgIHJldHVybiBvcy5zdHIoKTsKICAgIH0KCn0KI2VuZGlmCi8vZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">ICAgIHVuc2lnbmVkIGxvbmcgbG9uZyBzdHJ0b3VsbChjb25zdCBjaGFyKiBzdHIsIGNoYXIqKiBzdHJfZW5kLCBpbnQgaSkgewogICAgICAgIHJldHVybiA6OnN0cnRvdWxsKHN0ciwgc3RyX2VuZCwgaSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RydG91bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCiAgICAgICAgZiA9IHN0cnRvbGQoc3RyLCBlbmRwdHIpOwojZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCiAgICAgICAgZiA9IHN0cnRvZChzdHIsIGVuZHB0cik7CiNlbHNlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">I2VuZGlmCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCiAgICAgICAgZiA9IHN0cnRvbGQoc3RyLCBlbmRwdHIpOwojZWxzZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCiAgICAgICAgZiA9IHN0cnRvZihzdHIsIGVuZHB0cik7CiNlbHNlCg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9yZWdpb24gQW5kcm9pZCBQYXRjaGVzCgojaWZkZWYgX19BTkRST0lEX18KCiNpbmNsdWRlIDxzdHJpbmc+CiNpbmNsdWRlIDxzc3RyZWFtPgoKLy8gd2h5IHdvdWxkIEkgaW1wbGVtZW50IGl0IG15c2VsZj8hCi8vIHNlZSBoZXJlOiBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzIyNzc0MDA5L2FuZHJvaWQtbmRrLXN0ZHRvLXN0cmluZy1zdXBwb3J0Cm5hbWVzcGFjZSBzdGQgewoKICAgIHN0ZDo6c3RyaW5nIHRvX3N0cmluZyhpbnQgdmFsdWUpIHsKICAgICAgICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3M7CgogICAgICAgIG9zIDw8IHZhbHVlOwogICAgICAgIHJldHVybiBvcy5zdHIoKTsKICAgIH0KCn0KI2VuZGlmCi8vZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCiAgICAgICAgZiA9IHN0cnRvZChzdHIsIGVuZHB0cik7CiNlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>android</last-search>
+      <last-search>strtoull</last-search>
       <last-offset />
-      <last-pattern>android</last-pattern>
+      <last-pattern>strtoull</last-pattern>
       <last-replace />
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -329,9 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tinyalsa</entry>
-        <entry encoding="base64">XDxUSU5ZQUxTQV9QQVRIXD4=</entry>
-        <entry>open</entry>
         <entry>createStrea</entry>
         <entry>openLoop</entry>
         <entry>openPC</entry>
@@ -349,6 +341,9 @@
         <entry>std::strtof</entry>
         <entry>Android</entry>
         <entry>android</entry>
+        <entry>strto</entry>
+        <entry>namespace st</entry>
+        <entry>strtoull</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
@@ -360,7 +355,6 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w\</entry>
-        <entry>W</entry>
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>s/=//g</entry>
@@ -368,6 +362,7 @@
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
