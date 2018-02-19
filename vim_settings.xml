@@ -143,6 +143,9 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1518325050722">
+        <mark key="[" line="72" column="34" />
+      </file>
       <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
         <mark key="'" line="22" column="1" />
       </file>
@@ -152,21 +155,21 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519067390327">
+      <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519069225623">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519067252504">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519068199326">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="76" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="18" column="36" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.h" timestamp="1517163385197">
         <mark key="'" line="65" column="0" />
@@ -209,12 +212,13 @@
       <file name="/fragment.mm" timestamp="1519063069044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1519067355546">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="83" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/pattern_formatter_impl.h" timestamp="1519067575184" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1519070158198">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
         <mark key="[" line="46" column="0" />
@@ -320,7 +324,6 @@
       <jump line="140" column="29" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
       <jump line="48" column="10" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="47" column="6" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="11" column="17" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="50" column="33" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
@@ -328,55 +331,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="3707" column="32" filename="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZtdDo6Zm9ybWF0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>iterator_wrapper()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>iterator_wrapper()</text>
       </register>
       <register name="/" type="4">
-        <text>strtoull</text>
+        <text>messa</text>
       </register>
       <register name="0" type="4">
         <text>logtag,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZtdDo6Zm9ybWF0KCkK</text>
+        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLT5pbmZvKG1lc3NhZ2UuY19zdHIoKSk7Cg==</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLT53YXJuKG1lc3NhZ2UuY19zdHIoKSk7Cg==</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLT5jcml0aWNhbChtZXNzYWdlLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLT5lcnJvcihtZXNzYWdlLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJXcml0ZWluZyBqc29uIiA8PCBlbmRsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLT5kZWJ1ZyhtZXNzYWdlLmNfc3RyKCkpCg==</text>
+        <text encoding="base64">ICAgIG13IDw8IG1lc3NhZ2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci0+c2V0X3BhdHRlcm4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci0+d2FybigiYmxhIik7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBMT0dEIExvZ2dlcjo6ZmF0YWwoTE9HX1RBRykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>strtoull</last-search>
+      <last-search>messa</last-search>
       <last-offset />
-      <last-pattern>strtoull</last-pattern>
+      <last-pattern>messa</last-pattern>
       <last-replace />
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createStrea</entry>
         <entry>openLoop</entry>
         <entry>openPC</entry>
         <entry>got false</entry>
@@ -404,6 +407,7 @@
         <entry>strto</entry>
         <entry>namespace st</entry>
         <entry>strtoull</entry>
+        <entry>messa</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
@@ -421,8 +425,8 @@
         <entry>wq</entry>
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
