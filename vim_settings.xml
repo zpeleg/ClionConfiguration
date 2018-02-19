@@ -18,12 +18,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519050562167">
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519063182125">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="47" column="33" />
-        <mark key="]" line="48" column="10" />
-        <mark key="^" line="48" column="10" />
-        <mark key="." line="48" column="10" />
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/convolver.cpp" timestamp="1518714238441">
         <mark key="[" line="32" column="43" />
@@ -46,6 +46,7 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="72" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519064566790" />
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
       </file>
@@ -63,13 +64,13 @@
         <mark key="'" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1519052692212">
-        <mark key="'" line="140" column="29" />
+        <mark key="'" line="139" column="29" />
         <mark key="[" line="1" column="17" />
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1518959545640">
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1519060774309">
         <mark key="'" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/appender.cpp" timestamp="1518711339676">
@@ -113,11 +114,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/projects/common/android_specific/ndk_patch.cpp" timestamp="1519036101895">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -158,18 +154,19 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519054343528">
+      <file name="/Dummy.txt" timestamp="1519063064382">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519036997031">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519064651574">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.h" timestamp="1517163385197">
         <mark key="'" line="65" column="0" />
@@ -209,12 +206,15 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/common.h" timestamp="1519034769806">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1519054431343">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="26" column="59" />
-        <mark key="]" line="26" column="59" />
-        <mark key="." line="26" column="59" />
-        <mark key="^" line="26" column="59" />
+      <file name="/fragment.mm" timestamp="1519063069044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1519064580643">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
         <mark key="[" line="46" column="0" />
@@ -228,14 +228,6 @@
       <file name="/usr/include/stdlib.h" timestamp="1519037277803" />
     </filemarks>
     <jumps>
-      <jump line="1743" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1740" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1736" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1730" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1724" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1718" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1712" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1706" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1700" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1692" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1684" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
@@ -328,46 +320,54 @@
       <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="106" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="140" column="29" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
+      <jump line="48" column="10" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="47" column="6" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="11" column="17" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="50" column="33" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="6" column="15" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZW5kaWYgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>strtoull</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVuc2lnbmVkIGxvbmcgbG9uZyBzdHJ0b3VsbChjb25zdCBjaGFyKiBzdHIsIGNoYXIqKiBzdHJfZW5kLCBpbnQgaSkgewogICAgICAgIHJldHVybiA6OnN0cnRvdWxsKHN0ciwgc3RyX2VuZCwgaSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>bool logStdout, bool logToFile, bool saveJson</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kaWYgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgKE5PVCBNWV9CVUlMRF9BTkRST0lEKQo=</text>
+        <text encoding="base64">ICAgIExvZ2dlcigpID0gZGVsZXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uL3Vzci9pbmNsdWRlL2MrKy81L3JhbmRvbSIK</text>
+        <text encoding="base64">Ly8gICAgZm9yIChhdXRvIGs6aGkuaXRlbXMoKSkgewovLyAgICAgICAgc3RkOjpjb3V0IDw8ICJJdGVtIDogIiA8PCBrLnZhbHVlKCkgPDwgc3RkOjplbmRsOwovLyAgICB9Ci8vICAgIGludCBibGFbXSA9IHsxLCAyLCAyM307Ci8vICAgIC8vTG9nOjplcnJvcihMT0dfVEFHLCAiRXJyb3Ige30gYW5kIHN0dWZmIiwge3NkZnNkZjogNn0pOwovLwovLyAgICBzcGRsb2c6OnNldF9hc3luY19tb2RlKDQwOTYpOwovLyAgICBhdXRvIGxvZ2dlciA9IHNwZGxvZzo6c3Rkb3V0X2xvZ2dlcl9tdChMT0dfVEFHKTsKLy8gICAgbG9nZ2VyLT53YXJuKCJoYXl1c2ggezB9IiwgNCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6bG9nZ2VyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9yZWdpb24gQW5kcm9pZCBQYXRjaGVzCg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgZGF0YS5nZXQ8aW50PigpIDw8IGVuZGw7CiAgICBzdGQ6OnZlY3RvcjxzcGRsb2c6OnNpbmtfcHRyPiBzaW5rczsKICAgIHNpbmtzLnB1c2hfYmFjayhzdGQ6Om1ha2Vfc2hhcmVkPHNwZGxvZzo6c2lua3M6OnN0ZG91dF9zaW5rX3N0PigpKTsKI2lmZGVmIF9fQU5EUk9JRF9fCiAgICBzaW5rcy5wdXNoX2JhY2soc3RkOjptYWtlX3NoYXJlZDxzcGRsb2c6OnNpbmtzOjphbmRyb2lkX3Npbms+KExPR19UQUcpKTsKI2VuZGlmCiAgICBhdXRvIGNvbWJpbmVkX2xvZ2dlciA9IHN0ZDo6bWFrZV9zaGFyZWQ8c3BkbG9nOjpsb2dnZXI+KCJuYW1lIiwgYmVnaW4oc2lua3MpLCBlbmQoc2lua3MpKTsKICAgIHNwZGxvZzo6cmVnaXN0ZXJfbG9nZ2VyKGNvbWJpbmVkX2xvZ2dlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2lmZGVmIF9fQU5EUk9JRF9fCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjaW5jbHVkZSA8c3RyaW5nPgojaW5jbHVkZSA8c3N0cmVhbT4KCi8vIHdoeSB3b3VsZCBJIGltcGxlbWVudCBpdCBteXNlbGY/IQovLyBzZWUgaGVyZTogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yMjc3NDAwOS9hbmRyb2lkLW5kay1zdGR0by1zdHJpbmctc3VwcG9ydApuYW1lc3BhY2Ugc3RkIHsKCi8vICAgIHN0ZDo6c3RyaW5nIHRvX3N0cmluZyhpbnQgdmFsdWUpIHsKLy8gICAgICAgIHN0ZDo6b3N0cmluZ3N0cmVhbSBvczsKLy8KLy8gICAgICAgIG9zIDw8IHZhbHVlOwovLyAgICAgICAgcmV0dXJuIG9zLnN0cigpOwovLyAgICB9Ci8vICAgIGZsb2F0IHN0cnRvZihjb25zdCBjaGFyKiBzdHIsIGNoYXIqKiBzdHJfZW5kKSB7Ci8vICAgICAgICByZXR1cm4gOjpzdHJ0b2Yoc3RyLCBzdHJfZW5kKTsKLy8gICAgfQovLyAgICBsb25nIGRvdWJsZSBzdHJ0b2xkKGNvbnN0IGNoYXIqIHN0ciwgY2hhcioqIHN0cl9lbmQpIHsKLy8gICAgICAgIHJldHVybiA6OnN0cnRvbGQoc3RyLCBzdHJfZW5kKTsKLy8gICAgfQovLyAgICB1bnNpZ25lZCBsb25nIGxvbmcgc3RydG91bGwoY29uc3QgY2hhciogc3RyLCBjaGFyKiogc3RyX2VuZCwgaW50IGkpIHsKLy8gICAgICAgIHJldHVybiA6OnN0cnRvdWxsKHN0ciwgc3RyX2VuZCwgaSk7Ci8vICAgIH0KLy8gICAgbG9uZyBsb25nIHN0cnRvbGwoY29uc3QgY2hhciogc3RyLCBjaGFyKiogc3RyX2VuZCwgaW50IGkpIHsKLy8gICAgICAgIHJldHVybiA6OnN0cnRvbGwoc3RyLCBzdHJfZW5kLCBpKTsKLy8gICAgfQoKICAgIC8vZG91YmxlIHN0cnRvZChjb25zdCBjaGFyKiBzdHIsIGNoYXIqKiBzdHJfZW5kKSB7CiAgICAvLyAgICByZXR1cm4gOjpzdHJ0b2Qoc3RyLCBzdHJfZW5kKTsKICAgIC8vfQoKfQojZW5kaWYKLy9lbmRyZWdpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TG9nZ2VyOjpMb2dnZXIoYm9vbCBsb2dTdGRvdXQsIGJvb2wgbG9nVG9GaWxlLCBib29sIHNhdmVKc29uKSB7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RydG91bGwK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHNwZGxvZzo6c2lua19wdHI+IHNpbmtzOwogICAgaWYgKGxvZ1N0ZG91dCkgewogICAgICAgIGF1dG8gc3Rkb3V0U2luayA9IHN0ZDo6bWFrZV9zaGFyZWQ8c3BkbG9nOjpzaW5rczo6c3Rkb3V0X3Npbmtfc3Q+KCk7CiAgICAgICAgc2lua3MucHVzaF9iYWNrKHN0ZG91dFNpbmspOwogICAgfQogICAgaWYgKGxvZ1RvRmlsZSkgewogICAgICAgIGF1dG8gZmlsZVNpbmsgPSBzdGQ6Om1ha2Vfc2hhcmVkPHNwZGxvZzo6c2lua3M6OnJvdGF0aW5nX2ZpbGVfc2lua19zdD4oImJ1Z2EubG9nIiwgMTA0ODU3NiAqIDUsIDIpOwogICAgICAgIHNpbmtzLnB1c2hfYmFjayhmaWxlU2luayk7CiAgICB9CiNpZmRlZiBfX0FORFJPSURfXwogICAgYXV0byBhbmRyb2lkU2luayA9IHN0ZDo6bWFrZV9zaGFyZWQ8c3BkbG9nOjpzaW5rczo6YW5kcm9pZF9zaW5rPigpOwojZW5kaWYKICAgIGxvZ2dlciA9IHN0ZDo6bWFrZV9zaGFyZWQ8c3BkbG9nOjpsb2dnZXI+KCJidWdhbG9nIiwgYmVnaW4oc2lua3MpLCBlbmQoc2lua3MpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TG9nZ2VyIExvZ2dlcjo6Z2V0SW5zdGFuY2UoKSB7CiAgICByZXR1cm4gTG9nZ2VyKGZhbHNlLCBmYWxzZSwgZmFsc2UpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -421,8 +421,8 @@
         <entry>wq</entry>
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
