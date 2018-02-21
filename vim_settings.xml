@@ -104,18 +104,18 @@
       <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519220084534">
+      <file name="/Dummy.txt" timestamp="1519221649156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519219590030">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519221456950">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="100" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/core/logger.cpp" timestamp="1519219493932">
         <mark key="[" line="95" column="47" />
@@ -344,11 +344,11 @@
       <jump line="104" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2dnZXI9PSBudWxscHRyKXsKICAgICAgICB0aHJvdyBzdGQ6OmJhZF9leGNlcHRpb24oImhpIik7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>exception</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>messa</text>
