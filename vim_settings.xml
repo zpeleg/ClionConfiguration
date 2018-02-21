@@ -122,6 +122,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/core/core_test.cpp" timestamp="1519219190383">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -175,6 +180,12 @@
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/core/logger.cpp" timestamp="1519219493932">
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="95" column="47" />
+        <mark key="." line="95" column="47" />
+        <mark key="^" line="95" column="46" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.h" timestamp="1517163385197">
         <mark key="'" line="65" column="0" />
@@ -335,43 +346,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iterator_wrapper()</text>
+        <text>dont_write_json_set__no_json_written</text>
       </register>
       <register name="-" type="4">
-        <text>iterator_wrapper()</text>
+        <text>dont_write_json_set__no_json_written</text>
       </register>
       <register name="/" type="4">
         <text>messa</text>
       </register>
       <register name="0" type="4">
-        <text>logtag,</text>
+        <text>spdlog::level::to_str(spdlog::level::critical)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
+        <text encoding="base64">ICAgIHNwZGxvZzo6bGV2ZWw6OnRvX3N0cigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIwLzAyLzE4LgovLwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJXcml0ZWluZyBqc29uIiA8PCBlbmRsOwo=</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG13IDw8IG1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci0+c2V0X3BhdHRlcm4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJXcml0ZWluZyBqc29uIiA8PCBlbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBMT0dEIExvZ2dlcjo6ZmF0YWwoTE9HX1RBRykK</text>
+        <text encoding="base64">ICAgIG13IDw8IG1lc3NhZ2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci0+c2V0X3BhdHRlcm4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
