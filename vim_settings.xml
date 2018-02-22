@@ -89,8 +89,10 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1518325050722">
-        <mark key="[" line="72" column="34" />
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1519310586160">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
         <mark key="'" line="22" column="1" />
@@ -344,8 +346,8 @@
       <jump line="104" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -357,31 +359,31 @@
         <text>spdlog::level::to_str(spdlog::level::critical)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2dnZXI9PSBudWxscHRyKXsKICAgICAgICB0aHJvdyBzdGQ6OmJhZF9leGNlcHRpb24oImhpIik7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBMb2dnZXI6OndyaXRlTG9nKHNwZGxvZzo6bGV2ZWw6OmxldmVsX2VudW0gbG9nTGV2ZWwsIHN0cmluZyBsb2d0YWcsIHN0cmluZyBtZXNzYWdlLCBubG9obWFubjo6anNvbiBkYXRhKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChsb2dnZXI9PSBudWxscHRyKXsKICAgICAgICB0aHJvdyBzdGQ6OmJhZF9leGNlcHRpb24oImhpIik7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwZGxvZzo6bGV2ZWw6OnRvX3N0cigpCg==</text>
+        <text encoding="base64">dm9pZCBMb2dnZXI6OndyaXRlTG9nKHNwZGxvZzo6bGV2ZWw6OmxldmVsX2VudW0gbG9nTGV2ZWwsIHN0cmluZyBsb2d0YWcsIHN0cmluZyBtZXNzYWdlLCBubG9obWFubjo6anNvbiBkYXRhKSB7Cgp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIwLzAyLzE4LgovLwoK</text>
+        <text encoding="base64">ICAgIHNwZGxvZzo6bGV2ZWw6OnRvX3N0cigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIwLzAyLzE4LgovLwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
+        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJXcml0ZWluZyBqc29uIiA8PCBlbmRsOwo=</text>
+        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
