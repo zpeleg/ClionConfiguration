@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/reference_finder.cpp" timestamp="1519051982837">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="60" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/core/core_test.cpp" timestamp="1519219190383">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/bugatone_api_configuration.h" timestamp="1517995940648">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="7" />
@@ -43,19 +25,6 @@
         <mark key="^" line="99" column="3" />
         <mark key="." line="99" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
-        <mark key="'" line="72" column="23" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="56" />
-        <mark key="." line="62" column="56" />
-        <mark key="^" line="62" column="56" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519063182125">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="28" column="25" />
@@ -75,6 +44,122 @@
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.h" timestamp="1519732918948">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1519733993612">
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+        <mark key="^" line="25" column="60" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/CMakeLists.txt" timestamp="1517756141465">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="72" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
+        <mark key="'" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/projects/sampler/src/TimelineSampler.cpp" timestamp="1514108579364">
+        <mark key="'" line="617" column="8" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" timestamp="1517767797573">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="50" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1518325033094">
+        <mark key="'" line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1519052692212">
+        <mark key="'" line="139" column="29" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1519060774309">
+        <mark key="'" line="57" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/appender.cpp" timestamp="1518711339676">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/color.h" timestamp="1517336921189">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="17" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1519034678301">
+        <mark key="'" line="41" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" timestamp="1519050627676">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1519053974222">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/reference_finder.cpp" timestamp="1519051982837">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1519732251385">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="60" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/core/core_test.cpp" timestamp="1519219190383">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
+        <mark key="'" line="72" column="23" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="56" />
+        <mark key="." line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/CMakeLists.txt" timestamp="1519733477641">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
         <mark key="'" line="397" column="0" />
@@ -106,8 +191,11 @@
       <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519221649156">
+      <file name="/Dummy.txt" timestamp="1519734139898">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
         <mark key="'" line="69" column="0" />
@@ -125,22 +213,12 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="95" column="46" />
       </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/CMakeLists.txt" timestamp="1517756141465">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="72" column="65" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.h" timestamp="1517163385197">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="42" />
         <mark key="^" line="63" column="42" />
         <mark key="." line="63" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/android_sink.h" timestamp="1519034773219">
         <mark key="'" line="40" column="0" />
@@ -160,19 +238,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
-        <mark key="'" line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/projects/sampler/src/TimelineSampler.cpp" timestamp="1514108579364">
-        <mark key="'" line="617" column="8" />
-      </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" timestamp="1517767797573">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="52" column="50" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" timestamp="1519044656649">
         <mark key="'" line="4" column="56" />
         <mark key="[" line="996" column="27" />
@@ -183,19 +248,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/common.h" timestamp="1519034769806">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1518325033094">
-        <mark key="'" line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1519052692212">
-        <mark key="'" line="139" column="29" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1519060774309">
-        <mark key="'" line="57" column="37" />
-      </file>
       <file name="/fragment.mm" timestamp="1519063069044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,47 +257,20 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/appender.cpp" timestamp="1518711339676">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="8" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/tinyRecordAndPlay/src/color.h" timestamp="1517336921189">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="30" column="10" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="30" column="10" />
-      </file>
       <file name="/media/buga/bnf/AOSP/new-clean/external/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1517157656405">
         <mark key="'" line="284" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1519034678301">
-        <mark key="'" line="41" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" timestamp="1519050627676">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1519053974222">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/buffer.h" timestamp="1519734322827">
+        <mark key="'" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1648" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1643" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1636" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1629" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="1623" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
@@ -344,55 +369,57 @@
       <jump line="96" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="104" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/buffer.h" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/buffer.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>messa</text>
+        <text>extern</text>
       </register>
-      <register name="0" type="4">
-        <text>spdlog::level::to_str(spdlog::level::critical)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEFTU0VSVF9FUShpbnRlcm5hbENvbmZpZy5sb2dwYXRoLCBzZXJ2aWNlQ29uZmlnLmxvZ3BhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkIHByZWxpbWluYXJ5IGxvZ2dlciBmaWxlcy4gQWRkIGpzb24gYW5kIHNsb2dMZXZlbHBkbG9nIHRvIGNvbXBpbGF0aW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2dnZXI9PSBudWxscHRyKXsKICAgICAgICB0aHJvdyBzdGQ6OmJhZF9leGNlcHRpb24oImhpIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VSVF8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9pZCBMb2dnZXI6OndyaXRlTG9nKHNwZGxvZzo6bGV2ZWw6OmxldmVsX2VudW0gbG9nTGV2ZWwsIHN0cmluZyBsb2d0YWcsIHN0cmluZyBtZXNzYWdlLCBubG9obWFubjo6anNvbiBkYXRhKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIENvbmZpZ0J1aWxkZXIgY29uZmlnQnVpbGRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwZGxvZzo6bGV2ZWw6OnRvX3N0cigpCg==</text>
+        <text encoding="base64">cHVibGljOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIwLzAyLzE4LgovLwoK</text>
+        <text encoding="base64">VAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Li4uCi8vIFByb2Nlc3MK</text>
+        <text encoding="base64">dWlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDEgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ29uZmlnQnVpbGRlclRlc3RzIDogcHVibGljIDo6dGVzdGluZzo6VGVzdCB7CnB1YmxpYzoKICAgIHZpcnR1YWwgdm9pZCBTZXRVcCgpIHsKCiAgICB9CgogICAgdmlydHVhbCB2b2lkIFRlYXJEb3duKCkgewoKICAgIH0KCiAgICBDb25maWdCdWlsZGVyIGNvbmZpZ0J1aWxkZXI7Cn07Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGltZXN0YW1wX3QgdDAgPSBnZXRfdGltZXN0YW1wKCk7Cg==</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaQo=</text>
+        <text encoding="base64">ICAgIFRFU1RfRihDb25maWdCdWlsZGVyVGVzdHMsIFRlc3RWYWx1ZXNJbkFwaUNvbmZpZ1Bhc3NlZFRvU2VydmljZUNvbmZpZykgewogICAgICAgIEJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbiBhcGlDb25maWc7CiAgICAgICAgYXBpQ29uZmlnLnNhbXBsZVJhdGUgPSAxMjM0NTsKICAgICAgICBhcGlDb25maWcuc3RvcERldGVjdFRpbWVvdXRzU2VjcyA9IDk4OwogICAgICAgIGFwaUNvbmZpZy5mb3JnZXRDYWxpYnJhdGlvbnMgPSAxOwogICAgICAgIGFwaUNvbmZpZy5jaGFubmVsT3JkZXJpbmcgPSAiaGF5dXNoIjsKICAgICAgICBhcGlDb25maWcucmVzb2x1dGlvbiA9IDI0MzsKICAgICAgICBCdWdhdG9uZUludGVybmFsQ29uZmlnIGludGVybmFsQ29uZmlnKCIvZGV2L251bGwiLCB0cnVlLCAib21nd3RmYmJxIik7CiAgICAgICAgU2VydmljZUNvbmZpZyBzZXJ2aWNlQ29uZmlnID0gY29uZmlnQnVpbGRlci5jcmVhdGVTZXJ2aWNlQ29uZmlnKGFwaUNvbmZpZywgaW50ZXJuYWxDb25maWcpOwogICAgICAgIEFTU0VSVF9FUShhcGlDb25maWcuc2FtcGxlUmF0ZSwgc2VydmljZUNvbmZpZy5zYW1wbGVSYXRlKTsKICAgICAgICBBU1NFUlRfRVEoYXBpQ29uZmlnLnN0b3BEZXRlY3RUaW1lb3V0c1NlY3MsIHNlcnZpY2VDb25maWcuc3RvcERldGVjdFRpbWVvdXRzU2Vjcyk7CiAgICAgICAgQVNTRVJUX0VRKGFwaUNvbmZpZy5mb3JnZXRDYWxpYnJhdGlvbnMsIHNlcnZpY2VDb25maWcuZm9yZ2V0Q2FsaWJyYXRpb25zKTsKICAgICAgICBBU1NFUlRfRVEoYXBpQ29uZmlnLmNoYW5uZWxPcmRlcmluZywgc2VydmljZUNvbmZpZy5jaGFubmVsT3JkZXJpbmcpOwogICAgICAgIEFTU0VSVF9FUShhcGlDb25maWcucmVzb2x1dGlvbiwgc2VydmljZUNvbmZpZy5yZXNvbHV0aW9uKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>messa</last-search>
+      <last-search>extern</last-search>
       <last-offset />
-      <last-pattern>messa</last-pattern>
+      <last-pattern>extern</last-pattern>
       <last-replace />
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>openLoop</entry>
         <entry>openPC</entry>
         <entry>got false</entry>
         <entry>Got</entry>
@@ -420,6 +446,7 @@
         <entry>namespace st</entry>
         <entry>strtoull</entry>
         <entry>messa</entry>
+        <entry>extern</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
@@ -486,6 +513,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
