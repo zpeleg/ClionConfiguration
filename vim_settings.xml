@@ -9,9 +9,6 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/numpyish.h" timestamp="1518711687064">
-        <mark key="'" line="62" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/ndk_patch.h" timestamp="1519036970979">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="23" column="5" />
@@ -25,12 +22,12 @@
         <mark key="^" line="99" column="3" />
         <mark key="." line="99" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519736228619">
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519738037958">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="31" />
-        <mark key="^" line="54" column="31" />
+        <mark key="[" line="54" column="33" />
+        <mark key="]" line="54" column="33" />
+        <mark key="." line="54" column="33" />
+        <mark key="^" line="54" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/convolver.cpp" timestamp="1518714238441">
         <mark key="[" line="32" column="43" />
@@ -45,11 +42,11 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.h" timestamp="1519732918948">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.h" timestamp="1519738107457">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1519733993612">
         <mark key="[" line="25" column="53" />
@@ -70,11 +67,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1519735526647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="0" column="35" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1519738226874">
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -118,12 +115,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1519034678301">
         <mark key="'" line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" timestamp="1519050627676">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1519053974222">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -139,6 +130,15 @@
       <file name="vim_settings.xml" timestamp="1519732251385">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1519739697113">
+        <mark key="'" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1519738132943">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1519735500634">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="34" />
@@ -151,11 +151,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/core/core_test.cpp" timestamp="1519219190383">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
@@ -206,11 +201,11 @@
       <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519734139898">
+      <file name="/Dummy.txt" timestamp="1519738692323">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="30" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
         <mark key="'" line="69" column="0" />
@@ -250,11 +245,11 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519736163443">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519737831478">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -269,14 +264,8 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/common.h" timestamp="1519034769806">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1519063069044">
+      <file name="/fragment.mm" timestamp="1519737958864">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1519220619677">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
         <mark key="[" line="46" column="0" />
@@ -292,12 +281,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/buffer.h" timestamp="1519736233268">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/buffer.h" timestamp="1519737462499">
         <mark key="'" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
@@ -397,13 +385,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/pypool.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/pypool.h" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/pypool.h" />
+      <jump line="10" column="7" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDI3LzAyLzE4LgovLwoK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>configuration</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>extern</text>
@@ -412,34 +401,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfYnVpbGRlcl9iaW5kaW5ncy5oCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDI3LzAyLzE4LgovLwoK</text>
+        <text encoding="base64">Q29tcGxldGUgdGVzdCBmb3IgQ29uZmlnQnVpbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDI3LzAyLzE4LgovLwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIEF1dG9QYXVzZUNvbmZpZygpLCBBdXRvUGxheUNvbmZpZygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvcGF1c2UuaAogICAgICAgIGF1dG9wYXVzZS5jcHAKICAgICAgICBhdXRvcGxheS5oCiAgICAgICAgcnVudGltZV9jb25maWdzLmgKICAgICAgICBjb25maWdfYnVpbGRlci5jcHAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBXb3JraW5nQ29uZmlnKDAsIF9fbmRrMTo6YmFzaWNfc3RyaW5nIDwgY2hhciwgY2hhcl90cmFpdHMgPCBjaGFyID4gLCBhbGxvY2F0b3IgPCBjaGFyID4+ICgpLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QWRkIHByZWxpbWluYXJ5IGxvZ2dlciBmaWxlcy4gQWRkIGpzb24gYW5kIHNsb2dMZXZlbHBkbG9nIHRvIGNvbXBpbGF0aW9uLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlQ29uZmlnKF9fbmRrMTo6YmFzaWNfc3RyaW5nIDwgY2hhciwgY2hhcl90cmFpdHMgPCBjaGFyID4gLCBhbGxvY2F0b3IgPCBjaGFyID4+ICgpLCAwLAogICAgICAgICAgICAgICAgICAgICAgICAgX19uZGsxOjpiYXNpY19zdHJpbmcgPCBjaGFyLCBjaGFyX3RyYWl0cyA8IGNoYXIgPiAsIGFsbG9jYXRvciA8IGNoYXIgPj4gKCksIDAsIDAsCiAgICAgICAgICAgICAgICAgICAgICAgICBfX25kazE6OmJhc2ljX3N0cmluZyA8IGNoYXIsIGNoYXJfdHJhaXRzIDwgY2hhciA+ICwgYWxsb2NhdG9yIDwgY2hhciA+PiAoKSwgMCwgMCk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFTU0VSVF8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbmZpZ0J1aWxkZXIgY29uZmlnQnVpbGRlcjsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljOgo=</text>
+        <text encoding="base64">c2l6ZV90IGluaXRfY29uZmlnX2J1aWxkZXIoKSB7CiAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VAo=</text>
+        <text encoding="base64">UHlQb29sPENvbmZpZ0J1aWxkZXI+IHB5UG9vbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dWlsCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -492,8 +481,8 @@
         <entry>e src/CMakeLists.txt</entry>
         <entry>W</entry>
         <entry>/</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
