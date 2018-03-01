@@ -15,12 +15,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" timestamp="1519203905686">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="99" column="3" />
-        <mark key="^" line="99" column="3" />
-        <mark key="." line="99" column="3" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" timestamp="1519903858649">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1519738037958">
         <mark key="'" line="42" column="0" />
@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1519738226874">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1519902835609">
+        <mark key="[" line="134" column="44" />
+        <mark key="]" line="134" column="46" />
+        <mark key="." line="134" column="46" />
+        <mark key="^" line="134" column="46" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -201,7 +201,7 @@
       <file name="/GDB" timestamp="1518972782014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519738692323">
+      <file name="/Dummy.txt" timestamp="1519903713077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -248,11 +248,11 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519901247316">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519902698401">
+        <mark key="[" line="104" column="14" />
+        <mark key="]" line="104" column="14" />
         <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+        <mark key="." line="104" column="14" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -391,11 +391,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAvLyBEdXJhdGlvbiBvZiB0aGUgb3V0LWVhciBkZXRlY3Rpb24gc2lnbmFsIFtTZWNvbmRzXQogICAgLy91c2VkIG9ubHkgZm9yIG9wdGltaXplZCBzaWduYWwgKHNpZ25hbElkID09IDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>csc</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
@@ -404,34 +404,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfYnVpbGRlcl9iaW5kaW5ncy5oCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29tcGxldGUgdGVzdCBmb3IgQ29uZmlnQnVpbGRlcgo=</text>
+        <text encoding="base64">CiAgICAvLyBEdXJhdGlvbiBvZiB0aGUgb3V0LWVhciBkZXRlY3Rpb24gc2lnbmFsIFtTZWNvbmRzXQogICAgLy91c2VkIG9ubHkgZm9yIG9wdGltaXplZCBzaWduYWwgKHNpZ25hbElkID09IDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIEF1dG9QYXVzZUNvbmZpZygpLCBBdXRvUGxheUNvbmZpZygpKTsK</text>
+        <text encoding="base64">CiAgICAvLyBVc2VkIG9ubHkgd2l0aCBtYW51YWwgY2hhbm5lbCBzZWxlY3Rpb24gKGF1dG9tYXRpY0NoYW5uZWxTZWxlY3Rpb24gPT0gZmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBXb3JraW5nQ29uZmlnKDAsIF9fbmRrMTo6YmFzaWNfc3RyaW5nIDwgY2hhciwgY2hhcl90cmFpdHMgPCBjaGFyID4gLCBhbGxvY2F0b3IgPCBjaGFyID4+ICgpLAo=</text>
+        <text encoding="base64">CiAgICAvLyBmYWxzZSAtIGNvbnRpbnVlIHBsYXlpbmcgZGV0ZWN0aW9uIHNpZ25hbCBhZnRlciBkZXRlY3Rpb24KICAgIC8vIHRydWUgIC0gc3RvcCBwbGF5aW5nIGRldGVjdGlvbiBzaWduYWwgYWZ0ZXIgZGV0ZWN0aW9uCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlQ29uZmlnKF9fbmRrMTo6YmFzaWNfc3RyaW5nIDwgY2hhciwgY2hhcl90cmFpdHMgPCBjaGFyID4gLCBhbGxvY2F0b3IgPCBjaGFyID4+ICgpLCAwLAogICAgICAgICAgICAgICAgICAgICAgICAgX19uZGsxOjpiYXNpY19zdHJpbmcgPCBjaGFyLCBjaGFyX3RyYWl0cyA8IGNoYXIgPiAsIGFsbG9jYXRvciA8IGNoYXIgPj4gKCksIDAsIDAsCiAgICAgICAgICAgICAgICAgICAgICAgICBfX25kazE6OmJhc2ljX3N0cmluZyA8IGNoYXIsIGNoYXJfdHJhaXRzIDwgY2hhciA+ICwgYWxsb2NhdG9yIDwgY2hhciA+PiAoKSwgMCwgMCk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAvLyBmYWxzZSAtIERhZW1vbiBtYW51YWxseSBzZWxlY3RzIHRoZSBjaGFubmVscyB0byBwbGF5IHRoZSBzaWduYWwgb24uCiAgICAvLyB0cnVlICAtIHRoZSBkZXRlY3RvciBhdXRvbWF0aWNhbGx5IHNlbGVjdHMgY2hhbm5lbHMgZm9yIHBsYXlpbmcgdGhlIGF1dG9wbGF5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBUaGUgc2lnbmFsIHRvIHBsYXkgZHVyaW5nIG91dGVhciBkZXRlY3Rpb24KICAgIC8vIDAgLSBvcHRpbWl6ZWQsIGFkYXB0aXZlIHNpZ25hbCBjcmVhdGVkIGJ5IEJ1Z2F0b25lCiAgICAvLyA8Y3VzdG9tPiAtIGlkIG9mIGN1c3RvbSBzb25nIHN1cHBsaWVkIGJ5IHRoZSBEYWVtb24uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2l6ZV90IGluaXRfY29uZmlnX2J1aWxkZXIoKSB7CiAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">CnZvaWQgQmxhKCl7CiAgICBJbkVhckRldGVjdGlvbkNvbmZpZ3VyYXRpb24gaCA9IHsKICAgICAgICAgICAgLnNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNTZWMgPSA2LjcsCiAgICAgICAgICAgIC5zaWduYWxJZCA9IDEyLAogICAgICAgICAgICAuYXV0b21hdGljQ2hhbm5lbFNlbGVjdGlvbiA9IGZhbHNlLAogICAgICAgICAgICAuc3RvcEFmdGVyRGV0ZWN0aW9uID0gZmFsc2UsCiAgICAgICAgICAgIC5kZXRlY3RDaGFubmVscz0wLAogICAgICAgICAgICAuc2lnbmFsRHVyYXRpb25TZWMgPSA2LjcKICAgIH07Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UHlQb29sPENvbmZpZ0J1aWxkZXI+IHB5UG9vbDsK</text>
+        <text encoding="base64">ICAgIEluRWFyRGV0ZWN0aW9uQ29uZmlndXJhdGlvbigpOwoKICAgIH5JbkVhckRldGVjdGlvbkNvbmZpZ3VyYXRpb24oKSA9IGRlZmF1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
+        <text encoding="base64">ICAgIEluRWFyRGV0ZWN0aW9uQ29uZmlndXJhdGlvbigpOwoKICAgIH5JbkVhckRldGVjdGlvbkNvbmZpZ3VyYXRpb24oKSA9IGRlZmF1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -476,7 +476,6 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w\</entry>
-        <entry>Q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>s/=//g</entry>
         <entry>wq</entry>
@@ -484,8 +483,9 @@
         <entry>e src/CMakeLists.txt</entry>
         <entry>W</entry>
         <entry>/</entry>
-        <entry>w</entry>
+        <entry>Q</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
