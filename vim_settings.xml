@@ -242,6 +242,9 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" timestamp="1519740172441">
+        <mark key="'" line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
@@ -286,17 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="1008" column="27" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="1004" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="1001" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="992" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="973" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="966" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="947" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
@@ -386,6 +378,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/pypool.h" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/pypool.h" />
       <jump line="10" column="7" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
