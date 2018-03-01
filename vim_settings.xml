@@ -248,11 +248,11 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519902698401">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519913154191">
         <mark key="[" line="104" column="14" />
-        <mark key="]" line="104" column="14" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="104" column="14" />
+        <mark key="]" line="95" column="10" />
+        <mark key="^" line="95" column="10" />
+        <mark key="." line="95" column="10" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
