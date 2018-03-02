@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1519902835609">
-        <mark key="[" line="134" column="44" />
-        <mark key="]" line="134" column="46" />
-        <mark key="." line="134" column="46" />
-        <mark key="^" line="134" column="46" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520001509566">
+        <mark key="[" line="35" column="90" />
+        <mark key="]" line="36" column="3" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="36" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -248,11 +248,12 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1519913154191">
-        <mark key="[" line="104" column="14" />
-        <mark key="]" line="95" column="10" />
-        <mark key="^" line="95" column="10" />
-        <mark key="." line="95" column="10" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520001393104">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="3" />
+        <mark key="^" line="102" column="3" />
+        <mark key="." line="102" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -289,12 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="973" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="966" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="947" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="939" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="924" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="912" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="908" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="901" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
       <jump line="882" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
@@ -389,13 +384,19 @@
       <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyAxIC0gbmV3IHVzZXIgaXMgc3VzcGVjdGVkIHRvIHVzZSB0aGUgZWFycGhvbmUuIEZpcnN0IHZhbGlkYXRlIHRoZSB1c2VyCiAgICAvLyAwIC0gdXNlIGNhbGlicmF0ZWQgdXNlcnMsIG5vIG5lZWQgZm9yIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">ICAgIHJldHVybiBjc2M7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>csc</text>
+        <text>PyWorkingConfig*</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
@@ -403,32 +404,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWdfYnVpbGRlcl9iaW5kaW5ncy5oCg==</text>
       </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="95" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyAxIC0gbmV3IHVzZXIgaXMgc3VzcGVjdGVkIHRvIHVzZSB0aGUgZWFycGhvbmUuIEZpcnN0IHZhbGlkYXRlIHRoZSB1c2VyCiAgICAvLyAwIC0gdXNlIGNhbGlicmF0ZWQgdXNlcnMsIG5vIG5lZWQgZm9yIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">ICAgIHJldHVybiBjc2M7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvLyBTZW5zaXRpdml0eSBvZiB0aGUgZGV0ZWN0b3IgdG8gbW92ZW1lbnQKICAgIC8vIDAgLSBsb3dlc3Qgc2Vuc2l0aXZpdHk7IDEgLSBtZWRpdW0gc2Vuc2l0aXZpdHk7IDIgLSBoaWdoZXN0IHNlbnNpdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBTZWxlY3QgdGhlIGNoYW5uZWxzIG9uIHdoaWNoIGRldGVjdGlvbiBpcyBwZXJmb3JtZWQKICAgIC8vIDAgLSBsZWZ0OyAxIC0gcmlnaHQ7IDIgLSBib3RoIGNoYW5uZWxzOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gY3NjID0gbmV3IFB5U2VydmljZUNvbmZpZ3sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyBNYXhpbWFsIHByb2JhYmlsaXR5IGZvciBhIGZhbHNlIHBhdXNlICh3aGVuIHRoZXJlIGlzIG5vIG1vdmVtZW50KS4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyBUaGUgbWluaW1hbCBkdXJhdGlvbiBvZiBjb25zZWN1dGl2ZSBvdXQgb2YgZWFyIGRldGVjdGlvbnMgdG8gc2V0IG91dC1vZi1lYXIgZXZlbnQgW1NlY29uZHNdCg==</text>
+        <text encoding="base64">dm9pZCBjcmVhdGVfc2VydmljZV9jb25maWcoc2l6ZV90IGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeUJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbiYgYXBpQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeUJ1Z2F0b25lSW50ZXJuYWxDb25maWcmIGludGVybmFsQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICBQeVNlcnZpY2VDb25maWcmIG91dCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBEdXJhdGlvbiBvZiB0aGUgb3V0LWVhciBkZXRlY3Rpb24gc2lnbmFsIFtTZWNvbmRzXQogICAgLy91c2VkIG9ubHkgZm9yIG9wdGltaXplZCBzaWduYWwgKHNpZ25hbElkID09IDApCg==</text>
+        <text encoding="base64">UHlTZXJ2aWNlQ29uZmlnKiBjcmVhdGVfc2VydmljZV9jb25maWcoc2l6ZV90IGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeUJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbiYgYXBpQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeUJ1Z2F0b25lSW50ZXJuYWxDb25maWcmIGludGVybmFsQ29uZmlnKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvLyBVc2VkIG9ubHkgd2l0aCBtYW51YWwgY2hhbm5lbCBzZWxlY3Rpb24gKGF1dG9tYXRpY0NoYW5uZWxTZWxlY3Rpb24gPT0gZmFsc2UpCg==</text>
+        <text encoding="base64">dm9pZCBjcmVhdGVfc2VydmljZV9jb25maWcoc2l6ZV90IGlkLCBjb25zdCBQeUJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbiYgYXBpQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeUJ1Z2F0b25lSW50ZXJuYWxDb25maWcmIGludGVybmFsQ29uZmlnLCBQeVNlcnZpY2VDb25maWcmIG91dCkgewoKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyBmYWxzZSAtIGNvbnRpbnVlIHBsYXlpbmcgZGV0ZWN0aW9uIHNpZ25hbCBhZnRlciBkZXRlY3Rpb24KICAgIC8vIHRydWUgIC0gc3RvcCBwbGF5aW5nIGRldGVjdGlvbiBzaWduYWwgYWZ0ZXIgZGV0ZWN0aW9uCg==</text>
+        <text encoding="base64">CiAgICAvLyAxIC0gbmV3IHVzZXIgaXMgc3VzcGVjdGVkIHRvIHVzZSB0aGUgZWFycGhvbmUuIEZpcnN0IHZhbGlkYXRlIHRoZSB1c2VyCiAgICAvLyAwIC0gdXNlIGNhbGlicmF0ZWQgdXNlcnMsIG5vIG5lZWQgZm9yIHZhbGlkYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBmYWxzZSAtIERhZW1vbiBtYW51YWxseSBzZWxlY3RzIHRoZSBjaGFubmVscyB0byBwbGF5IHRoZSBzaWduYWwgb24uCiAgICAvLyB0cnVlICAtIHRoZSBkZXRlY3RvciBhdXRvbWF0aWNhbGx5IHNlbGVjdHMgY2hhbm5lbHMgZm9yIHBsYXlpbmcgdGhlIGF1dG9wbGF5Cg==</text>
+        <text encoding="base64">CiAgICAvLyBTZW5zaXRpdml0eSBvZiB0aGUgZGV0ZWN0b3IgdG8gbW92ZW1lbnQKICAgIC8vIDAgLSBsb3dlc3Qgc2Vuc2l0aXZpdHk7IDEgLSBtZWRpdW0gc2Vuc2l0aXZpdHk7IDIgLSBoaWdoZXN0IHNlbnNpdGl2aXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -481,10 +493,10 @@
         <entry>wq</entry>
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
-        <entry>W</entry>
         <entry>/</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
