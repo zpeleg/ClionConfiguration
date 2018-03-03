@@ -67,12 +67,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520088566944">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520094622001">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="146" column="26" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="136" column="46" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -249,12 +249,12 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520089836102">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520094600739">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="3" />
-        <mark key="." line="110" column="3" />
-        <mark key="^" line="110" column="3" />
+        <mark key="[" line="109" column="31" />
+        <mark key="]" line="109" column="50" />
+        <mark key="." line="109" column="50" />
+        <mark key="^" line="109" column="50" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -393,8 +393,8 @@
       <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZXJuICJDIiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZXh0ZXJuICJDIiA=</text>
@@ -417,34 +417,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiaGloaWhpaGloaWhoaVxuIik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
+        <text encoding="base64">ICAgIHZvaWQgZG9zaGl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjV29ya2luZ0NvbmZpZzsK</text>
+        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY1dvcmtpbmdDb25maWcgPSBuZXcgUHlXb3JraW5nQ29uZmlnOwo=</text>
+        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">LT4KLT4KLT4KLT4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>cWorkingConfig
-cWorkingConfig
-cWorkingConfig
-cWorkingConfig</text>
+      <register name="8" type="2">
+        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHlXb3JraW5nQ29uZmlnKiBjcmVhdGVfd29ya2luZ19jb25maWcoc2l6ZV90IGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeVNlcnZpY2VDb25maWcmIGNTZXJ2aWNlQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBEZXRlY3RvckNvbmZpZ3VyYXRpb24mIGRldGVjdG9yQ29uZmlndXJhdGlvbikgewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjV29ya2luZ0NvbmZpZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -490,7 +487,6 @@ cWorkingConfig</text>
         <entry>e capture.c</entry>
         <entry>e capture.cpp</entry>
         <entry>q!</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>s/=//g</entry>
@@ -501,6 +497,7 @@ cWorkingConfig</text>
         <entry>Q</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
