@@ -67,12 +67,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520097902860">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520103156550">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="131" column="9" />
-        <mark key="^" line="131" column="9" />
-        <mark key="." line="131" column="9" />
+        <mark key="[" line="39" column="72" />
+        <mark key="]" line="39" column="72" />
+        <mark key="^" line="39" column="72" />
+        <mark key="." line="39" column="72" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -172,11 +172,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" timestamp="1520098096774">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" timestamp="1520102946113">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
         <mark key="'" line="397" column="0" />
@@ -200,10 +200,10 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/GDB" timestamp="1520098427703">
+      <file name="/GDB" timestamp="1520102919174">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520097347379">
+      <file name="/Dummy.txt" timestamp="1520103219344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -270,7 +270,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/common.h" timestamp="1519034769806">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1519737958864">
+      <file name="/fragment.mm" timestamp="1520102582188">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.h" timestamp="1517765129365">
@@ -292,20 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="29" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
-      <jump line="48" column="10" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="11" column="17" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="50" column="33" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="6" column="15" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="3707" column="32" filename="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="63" column="4" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
-      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
-      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
@@ -366,9 +352,7 @@
       <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="133" column="4" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="130" column="4" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="125" column="4" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="118" column="22" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
@@ -379,11 +363,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="100" column="10" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="17" column="36" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
@@ -392,19 +371,40 @@
       <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="147" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="140" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Level</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Level</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
       </register>
-      <register name="0" type="4">
-        <text>free_pyservice_config</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChzZXJ2aWNlQ29uZmlnLmxvZ3BhdGggPT0gbnVsbHB0cikgewogICAgICAgIHRocm93IHN0ZDo6aW52YWxpZF9hcmd1bWVudCgiaW50ZXJuYWxjb25maWcubG9nTGV2ZWwgaXMgbnVsbCIpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -421,28 +421,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnRlcm5hbENvbmZpZy5sb2dMZXZlbCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbGNvbmZpZy5sb2dMZXZlbCBpcyBudWxsIik7CiAgICB9CiAgICBpZiAoaW50ZXJuYWxDb25maWcubG9ncGF0aCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbENvbmZpZy5sb2dwYXRoIGlzIG51bGwiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VDb25maWcuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBwc2M7Cg==</text>
+      <register name="3" type="8">
+        <text>//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBwd2M7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChpbnRlcm5hbENvbmZpZy5sb2dMZXZlbCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbGNvbmZpZy5sb2dMZXZlbCBpcyBudWxsIik7CiAgICB9CiAgICBpZiAoaW50ZXJuYWxDb25maWcubG9ncGF0aCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbENvbmZpZy5sb2dwYXRoIGlzIG51bGwiKTsKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBwc2M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiaGloaWhpaGloaWhoaVxuIik7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBwd2M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZG9zaGl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
+        <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -496,9 +497,9 @@
         <entry>e src/CMakeLists.txt</entry>
         <entry>/</entry>
         <entry>Q</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
