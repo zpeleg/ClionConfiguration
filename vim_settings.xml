@@ -249,12 +249,12 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520088979731">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520089836102">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="111" column="24" />
-        <mark key="." line="110" column="0" />
+        <mark key="]" line="110" column="3" />
+        <mark key="." line="110" column="3" />
+        <mark key="^" line="110" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -393,11 +393,11 @@
       <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXh0ZXJuICJDIiA=</text>
       </register>
       <register name="-" type="4">
-        <text>PyServiceConfig* psc</text>
+        <text encoding="base64">ZXh0ZXJuICJDIiA=</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
@@ -417,34 +417,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
+        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjV29ya2luZ0NvbmZpZzsK</text>
+        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjV29ya2luZ0NvbmZpZzsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGF1dG8gY1dvcmtpbmdDb25maWcgPSBuZXcgUHlXb3JraW5nQ29uZmlnOwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">LT4KLT4KLT4KLT4=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>cWorkingConfig
 cWorkingConfig
 cWorkingConfig
 cWorkingConfig</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UHlXb3JraW5nQ29uZmlnKiBjcmVhdGVfd29ya2luZ19jb25maWcoc2l6ZV90IGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeVNlcnZpY2VDb25maWcmIGNTZXJ2aWNlQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBEZXRlY3RvckNvbmZpZ3VyYXRpb24mIGRldGVjdG9yQ29uZmlndXJhdGlvbikgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCBjcmVhdGVfd29ya2luZ19jb25maWcoc2l6ZV90IGlkLCBjb25zdCBQeVNlcnZpY2VDb25maWcmIHNlcnZpY2VDb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IERldGVjdG9yQ29uZmlndXJhdGlvbiYgZGV0ZWN0b3JDb25maWd1cmF0aW9uLCBQeVdvcmtpbmdDb25maWcmIG91dCkgewo=</text>
+        <text encoding="base64">UHlXb3JraW5nQ29uZmlnKiBjcmVhdGVfd29ya2luZ19jb25maWcoc2l6ZV90IGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQeVNlcnZpY2VDb25maWcmIGNTZXJ2aWNlQ29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBEZXRlY3RvckNvbmZpZ3VyYXRpb24mIGRldGVjdG9yQ29uZmlndXJhdGlvbikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
