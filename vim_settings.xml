@@ -67,12 +67,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520096469880">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520097902860">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="136" column="46" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="131" column="9" />
+        <mark key="^" line="131" column="9" />
+        <mark key="." line="131" column="9" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -172,6 +172,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" timestamp="1520098096774">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/Mixer.cpp" timestamp="1517400693390">
         <mark key="'" line="397" column="0" />
         <mark key="[" line="0" column="2" />
@@ -185,11 +191,6 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1519732166397">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="/opt/android-ndk-r11c/platforms/android-23/arch-arm64/usr/include/errno.h" timestamp="1517142447755">
         <mark key="'" line="22" column="1" />
       </file>
@@ -199,10 +200,10 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/GDB" timestamp="1520096540269">
+      <file name="/GDB" timestamp="1520098272832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519903713077">
+      <file name="/Dummy.txt" timestamp="1520097347379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -249,8 +250,8 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520094600739">
-        <mark key="'" line="93" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520097344812">
+        <mark key="'" line="100" column="10" />
         <mark key="[" line="109" column="31" />
         <mark key="]" line="109" column="50" />
         <mark key="." line="109" column="50" />
@@ -291,13 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="56" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="76" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
-      <jump line="106" column="0" filename="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/json.hpp" />
       <jump line="140" column="29" filename="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" />
       <jump line="48" column="10" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
@@ -350,7 +344,6 @@
       <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.h" />
-      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="108" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
@@ -391,13 +384,21 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="100" column="10" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="17" column="36" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/numpyish.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZXJuICJDIiA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
@@ -420,28 +421,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpbnRlcm5hbENvbmZpZy5sb2dMZXZlbCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbGNvbmZpZy5sb2dMZXZlbCBpcyBudWxsIik7CiAgICB9CiAgICBpZiAoaW50ZXJuYWxDb25maWcubG9ncGF0aCA9PSBudWxscHRyKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJpbnRlcm5hbENvbmZpZy5sb2dwYXRoIGlzIG51bGwiKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiaGloaWhpaGloaWhoaVxuIik7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBwc2M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZG9zaGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBwd2M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dm9pZCBkb3NoaXQoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiaGloaWhpaGloaWhoaVxuIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
+        <text encoding="base64">ICAgIHZvaWQgZG9zaGl0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjV29ya2luZ0NvbmZpZzsK</text>
+        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRvc2hpdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
