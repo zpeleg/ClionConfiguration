@@ -67,11 +67,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/fmt/bundled/format.h" timestamp="1519066824801">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520008980404">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1520085796001">
         <mark key="'" line="34" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="136" column="31" />
+        <mark key="]" line="136" column="31" />
+        <mark key="^" line="136" column="31" />
+        <mark key="." line="136" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/spdlog.h" timestamp="1518959073421">
         <mark key="'" line="122" column="0" />
@@ -248,12 +249,12 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520009266556">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520085872722">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="4" />
-        <mark key="^" line="99" column="26" />
-        <mark key="." line="109" column="4" />
+        <mark key="[" line="108" column="47" />
+        <mark key="]" line="108" column="50" />
+        <mark key="^" line="108" column="50" />
+        <mark key="." line="108" column="50" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
@@ -392,11 +393,11 @@
       <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBmcmVlX3B5c2VydmljZV9jb25maWcoUHlTZXJ2aWNlQ29uZmlnKiBwc2MpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>PyServiceConfig* psc</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>PyServiceConfig* psc</text>
       </register>
       <register name="/" type="4">
         <text>extern</text>
