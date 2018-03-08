@@ -250,13 +250,6 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1520097344812">
-        <mark key="'" line="100" column="10" />
-        <mark key="[" line="109" column="31" />
-        <mark key="]" line="109" column="50" />
-        <mark key="." line="109" column="50" />
-        <mark key="^" line="109" column="50" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
         <mark key="[" line="2" column="23" />
       </file>
@@ -446,7 +439,7 @@
         <text encoding="base64">dm9pZCBkb3NoaXQoKSB7CiAgICBwcmludGYoImRvaW5nIHNoaXRcbiIpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -499,8 +492,8 @@
         <entry>Q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
