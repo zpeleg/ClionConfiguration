@@ -41,6 +41,14 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="45" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" timestamp="1521113646503">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="47" />
+        <mark key="." line="80" column="47" />
+        <mark key="^" line="80" column="47" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1521112911521" />
       <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1521097181061">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="32" column="0" />
@@ -179,12 +187,12 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521090960127">
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521114262741">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="22" />
+        <mark key="[" line="239" column="46" />
+        <mark key="]" line="239" column="46" />
+        <mark key="^" line="239" column="46" />
+        <mark key="." line="239" column="46" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/CMakeLists.txt" timestamp="1519733477641">
         <mark key="[" line="13" column="21" />
@@ -220,11 +228,11 @@
       <file name="/GDB" timestamp="1521090167108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521110698189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="42" />
-        <mark key="^" line="0" column="40" />
+      <file name="/Dummy.txt" timestamp="1521114554452">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519221456950">
         <mark key="'" line="0" column="0" />
@@ -265,7 +273,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521096675948">
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521113682603">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
@@ -281,7 +289,7 @@
       <file name="/fragment.mm" timestamp="1521090540396">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521111910205">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521114541867">
         <mark key="[" line="26" column="107" />
         <mark key="]" line="26" column="107" />
         <mark key="." line="26" column="107" />
@@ -295,27 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.cpp" />
@@ -395,19 +382,89 @@
       <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="169" column="4" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="154" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkZWQgcmVsZWFzZSB0byAuL21ha2Uuc2ggY2xlYW4gY2MK</text>
+      </register>
+      <register name="h" type="4">
+        <keys>
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgc3RkOjpjb3V0Owo=</text>
+      <register name="0" type="4">
+        <text>DetectionResult::DETECTION_OFF:</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -421,31 +478,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">QWRkZWQgcmVsZWFzZSB0byAuL21ha2Uuc2ggY2xlYW4gY2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZShHb29nbGVUZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfamsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgZW5kbDsKICAgIGNoYXIgbW9yZUF1ZGlvWzQ4XTsKICAgIGxicy5yZWFkKG1vcmVBdWRpbywgNDgpOwogICAgZm9yIChjaGFyIGM6bW9yZUF1ZGlvKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoY2hhciBjOmF1ZGlvQnVmZmVyKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZVTkNUSU9OX0VOVEVSOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50ICA9IDA7ICA8IDsgKyspIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnN0cmluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
