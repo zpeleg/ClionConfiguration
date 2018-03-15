@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1521097252971">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/reference_signal.h" timestamp="1521089340263">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="62" column="0" />
@@ -35,12 +41,12 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1521085383695">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1521097181061">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/convolver.cpp" timestamp="1518714238441">
         <mark key="[" line="32" column="43" />
@@ -135,11 +141,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1519034678301">
         <mark key="'" line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1519053974222">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1521096262742">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="23" />
         <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/reference_finder.cpp" timestamp="1519051982837">
         <mark key="[" line="5" column="19" />
@@ -171,6 +177,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1521097197525">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
@@ -229,8 +241,8 @@
       <file name="/GDB" timestamp="1521090167108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521090670069">
-        <mark key="[" line="0" column="20" />
+      <file name="/Dummy.txt" timestamp="1521097027742">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="40" />
@@ -289,8 +301,11 @@
       <file name="$USER_HOME$/tinyRecordAndPlay/lib/AsyncIO/AsyncIO.h" timestamp="1517404666904">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1519209218466">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521096675948">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" timestamp="1519044656649">
         <mark key="'" line="4" column="56" />
@@ -319,10 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
@@ -419,10 +430,14 @@
       <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
       <jump line="43" column="37" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGk=</text>
@@ -445,31 +460,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfamsK</text>
+        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgZW5kbDsKICAgIGNoYXIgbW9yZUF1ZGlvWzQ4XTsKICAgIGxicy5yZWFkKG1vcmVBdWRpbywgNDgpOwogICAgZm9yIChjaGFyIGM6bW9yZUF1ZGlvKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
+        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoY2hhciBjOmF1ZGlvQnVmZmVyKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
+        <text encoding="base64">aW5jbHVkZShHb29nbGVUZXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZVTkNUSU9OX0VOVEVSOwo=</text>
+        <text encoding="base64">ICAgICAgICBBU1NFUlRfamsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgZW5kbDsKICAgIGNoYXIgbW9yZUF1ZGlvWzQ4XTsKICAgIGxicy5yZWFkKG1vcmVBdWRpbywgNDgpOwogICAgZm9yIChjaGFyIGM6bW9yZUF1ZGlvKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50ICA9IDA7ICA8IDsgKyspIHsK</text>
+        <text encoding="base64">ICAgIGZvciAoY2hhciBjOmF1ZGlvQnVmZmVyKSB7CiAgICAgICAgY291dCA8PCAoc2hvcnQpYyA8PCAiICI7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZVTkNUSU9OX0VOVEVSOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnNpemVfdCBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX2luaXQoaW50MzJfdCBmcmVxLCBkb3VibGUgYW1wLCBzaXplX3Qgc2FtcGxlX3JhdGUpCnsKICAgIHJldHVybiBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3B5cG9vbC5hZGQobmV3IFNpbnVzUmVmZXJlbmNlU2lnbmFsKChpbnQpZnJlcSwgYW1wLCBzYW1wbGVfcmF0ZSkpOwp9Cgp2b2lkIHNpbnVzX3JlZmVyZW5jZV9zaWduYWxfZGVsZXRlKHNpemVfdCBpZCkKewogICAgc2ludXNfcmVmZXJlbmNlX3NpZ25hbF9weXBvb2wucmVtb3ZlKGlkKTsKfQoKdm9pZCBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX2dldChzaXplX3QgaWQsIGRvdWJsZSogb3V0cHV0KQp7CiAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IHZlY19vdXRwdXQ7CiAgICBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3B5cG9vbC5nZXRfb2JqZWN0X2Zvcl9pZChpZCktPmdldCh2ZWNfb3V0cHV0KTsKICAgIHN0ZDo6Y29weSh2ZWNfb3V0cHV0LmJlZ2luKCksIHZlY19vdXRwdXQuZW5kKCksIG91dHB1dCk7Cn0KCmludDMyX3Qgc2ludXNfcmVmZXJlbmNlX3NpZ25hbF9nZXRfZnJlcShzaXplX3QgaWQpCnsKICAgIHJldHVybiBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3B5cG9vbC5nZXRfb2JqZWN0X2Zvcl9pZChpZCktPmdldEZyZXEoKTsKfQoKZG91YmxlIHNpbnVzX3JlZmVyZW5jZV9zaWduYWxfZ2V0X2FtcChzaXplX3QgaWQpCnsKICAgIHJldHVybiBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3B5cG9vbC5nZXRfb2JqZWN0X2Zvcl9pZChpZCktPmdldEFtcCgpOwp9CgpzaXplX3Qgc2ludXNfcmVmZXJlbmNlX3NpZ25hbF9nZXRfc2FtcGxlX3JhdGUoc2l6ZV90IGlkKQp7CiAgICByZXR1cm4gc2ludXNfcmVmZXJlbmNlX3NpZ25hbF9weXBvb2wuZ2V0X29iamVjdF9mb3JfaWQoaWQpLT5nZXRTYW1wbGVSYXRlKCk7Cn0KCnNpemVfdCBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3BlcmlvZChzaXplX3QgaWQpCnsKICAgIHJldHVybiBzaW51c19yZWZlcmVuY2Vfc2lnbmFsX3B5cG9vbC5nZXRfb2JqZWN0X2Zvcl9pZChpZCktPnBlcmlvZCgpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInB5cG9vbC5oIgo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50ICA9IDA7ICA8IDsgKyspIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
