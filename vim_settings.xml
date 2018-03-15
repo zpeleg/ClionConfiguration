@@ -61,6 +61,12 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/debugging_definitions.h" timestamp="1521109711489">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.h" timestamp="1521089378107">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="5" column="16" />
@@ -241,10 +247,10 @@
       <file name="/GDB" timestamp="1521090167108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521097027742">
+      <file name="/Dummy.txt" timestamp="1521109465102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="0" column="51" />
         <mark key="^" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/exceptions.hpp" timestamp="1519037121552">
@@ -436,11 +442,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQphZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKYWRkX3N1YmRpcmVjdG9yeShsb2dnaW5nX2J1Z2EvbG9nZ2luZ19idWdhX3J1bm5lcikKYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCmFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>data/local/tmp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGk=</text>
+        <text>data/local/tmp</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
