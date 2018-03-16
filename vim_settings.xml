@@ -153,9 +153,6 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="vim_settings.xml" timestamp="1519732251385">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1519738132943">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -168,6 +165,7 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/release/include/bugatone_status.h" timestamp="1521188645328" />
       <file name="$USER_HOME$/tinyRecordAndPlay/src/playback.cpp" timestamp="1517163309067">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
@@ -226,9 +224,6 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/GDB" timestamp="1521090167108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1521117544460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
@@ -280,9 +275,6 @@
         <mark key="]" line="996" column="39" />
         <mark key="." line="996" column="26" />
         <mark key="^" line="996" column="26" />
-      </file>
-      <file name="/fragment.mm" timestamp="1521090540396">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521114541867">
         <mark key="[" line="26" column="107" />
