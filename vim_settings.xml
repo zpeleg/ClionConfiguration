@@ -229,7 +229,7 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521281275090">
+      <file name="/Dummy.txt" timestamp="1521285971028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -275,11 +275,11 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521280441959">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/nlohmann/include/nlohmann/detail/input/lexer.hpp" timestamp="1519044656649">
         <mark key="'" line="4" column="56" />
@@ -444,8 +444,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG11dGV4LnVubG9jaygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>shared</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -460,7 +460,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enqueue</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -556,11 +556,11 @@
         <entry>wq</entry>
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
-        <entry>/</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>/</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
