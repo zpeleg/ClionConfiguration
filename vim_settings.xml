@@ -92,11 +92,11 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521273812527">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="7" />
-        <mark key="^" line="204" column="7" />
-        <mark key="." line="204" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521277545766">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/CMakeLists.txt" timestamp="1519733477641">
         <mark key="[" line="13" column="21" />
@@ -430,8 +430,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuYXV0b21hdGljQ2hhbm5lbFNlbGVjdGlvbiwgYWN0dWFsLmluRWFyLmF1dG9tYXRpY0NoYW5uZWxTZWxlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgICAgIDw8ICJhdXRvbWF0aWNDaGFubmVsU2VsZWN0aW9uIGlzIHdyb25nIjsKICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuZGV0ZWN0Q2hhbm5lbHMsIGFjdHVhbC5pbkVhci5kZXRlY3RDaGFubmVscykgPDwgImRldGVjdENoYW5uZWxzIGlzIHdyb25nIjsKICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuc2lnbmFsRHVyYXRpb25TZWMsIGFjdHVhbC5pbkVhci5zaWduYWxEdXJhdGlvblNlYykgPDwgInNpZ25hbER1cmF0aW9uU2VjIGlzIHdyb25nIjsKICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuc2lnbmFsSWQsIGFjdHVhbC5pbkVhci5zaWduYWxJZCkgPDwgInNpZ25hbElkIGlzIHdyb25nIjsKICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuc2lsZW5jZUJldHdlZW5UZXN0U2lnbmFsc1NlYywgYWN0dWFsLmluRWFyLnNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNTZWMpCiAgICAgICAgICAgICAgICAgICAgICAgIDw8ICJzaWxlbmNlQmV0d2VlblRlc3RTaWduYWxzU2VjIGlzIHdyb25nIjsKICAgIEVYUEVDVF9FUShjZmcuaW5FYXIuc3RvcEFmdGVyRGV0ZWN0aW9uLCBhY3R1YWwuaW5FYXIuc3RvcEFmdGVyRGV0ZWN0aW9uKSA8PCAic3RvcEFmdGVyRGV0ZWN0aW9uIGlzIHdyb25nIjsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -446,7 +446,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW50ZXIg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
