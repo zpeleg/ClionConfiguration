@@ -92,6 +92,12 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521272072755">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="7" />
+        <mark key="^" line="204" column="7" />
+        <mark key="." line="204" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/CMakeLists.txt" timestamp="1519733477641">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="14" column="20" />
