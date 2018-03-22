@@ -182,18 +182,24 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521729200423">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521732140370">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="^" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/buga_stream_tests.cpp" timestamp="1521732388158">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/FileManager.cpp" timestamp="1517765413703">
         <mark key="'" line="72" column="23" />
@@ -227,18 +233,13 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.cpp" timestamp="1517239069605">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="20" />
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521729290451">
+      <file name="/Dummy.txt" timestamp="1521732291007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -270,18 +271,20 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
+      <file name="/test_daemon.h" timestamp="1521732121541" />
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.h" timestamp="1521282996851">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521730917293">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="7" />
-        <mark key="." line="115" column="7" />
-        <mark key="^" line="115" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521732525232">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="111" column="63" />
+        <mark key="k" line="12" column="12" />
+        <mark key="]" line="111" column="66" />
+        <mark key="." line="111" column="66" />
+        <mark key="^" line="111" column="66" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -319,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/test_daemon_logging_copy.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/test_daemon_logging_copy.cpp" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/test_daemon_logging_copy.cpp" />
       <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/test_daemon_logging_copy.cpp" />
@@ -419,6 +421,7 @@
       <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="2" column="17" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -458,8 +461,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>1s</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -474,7 +477,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>1s</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -494,31 +497,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgbmFtZXNwYWNlIHN0ZDo6Y2hyb25vX2xpdGVyYWxzOwogICAgICAgICAgICBhdXRvIGhhbGZtaW4gPSAzMHM7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlUXVldWUud2prCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNocm9ubz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uL29wdC9hbmRyb2lkLW5kay1yMTZiL3NvdXJjZXMvY3h4LXN0bC9sbHZtLWxpYmMrKy9pbmNsdWRlL2Nocm9ubyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jazwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDo6bGl0ZXJhbHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjpkdXJhdGlvbiBibGEgPSA1bXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJQnVnYVNpZ25hbAo=</text>
+        <text encoding="base64">dXNpbmcgc3RkOjpjaHJvbm86OnNlY29uZHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6Om9mc3RyZWFtIGZpbGVTdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlUXVldWUud2prCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
