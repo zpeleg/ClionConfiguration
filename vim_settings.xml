@@ -238,7 +238,7 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521729205156">
+      <file name="/Dummy.txt" timestamp="1521729290451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -276,12 +276,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521729189578">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521730917293">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="100" column="41" />
-        <mark key="]" line="100" column="41" />
-        <mark key="." line="100" column="41" />
-        <mark key="^" line="100" column="41" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="7" />
+        <mark key="." line="115" column="7" />
+        <mark key="^" line="115" column="7" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -458,8 +458,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1024</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -494,31 +494,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jazwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJQnVnYVNpZ25hbAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlUXVldWUud2prCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6Om9mc3RyZWFtIGZpbGVTdHJlYW0oKQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9jazwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBJQnVnYVNpZ25hbAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6Om9mc3RyZWFtIGZpbGVTdHJlYW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBGVU5DVElPTl9FWElUOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -572,9 +572,9 @@
         <entry>e src/CMakeLists.txt</entry>
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>/</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
