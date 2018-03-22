@@ -278,13 +278,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521732525232">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521733241636">
         <mark key="'" line="2" column="17" />
-        <mark key="[" line="111" column="63" />
+        <mark key="[" line="117" column="0" />
         <mark key="k" line="12" column="12" />
-        <mark key="]" line="111" column="66" />
-        <mark key="." line="111" column="66" />
-        <mark key="^" line="111" column="66" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -461,8 +461,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZSwgc3RkOjptaWxsaT4gZWxhcHNlZCA9IGVuZC1zdGFydDsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJXYWl0ZWQgIiA8PCBlbGFwc2VkLmNvdW50KCkgPDwgIiBtc1xuIjsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -477,7 +477,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1s</text>
+        <text encoding="base64">ZHVyYXRpb25fY2FzdDxtaTUw</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -497,31 +497,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgbmFtZXNwYWNlIHN0ZDo6Y2hyb25vX2xpdGVyYWxzOwogICAgICAgICAgICBhdXRvIGhhbGZtaW4gPSAzMHM7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZSwgc3RkOjptaWxsaT4gZWxhcHNlZCA9IGVuZC1zdGFydDsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJXYWl0ZWQgIiA8PCBlbGFwc2VkLmNvdW50KCkgPDwgIiBtc1xuIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNocm9ubz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uL29wdC9hbmRyb2lkLW5kay1yMTZiL3NvdXJjZXMvY3h4LXN0bC9sbHZtLWxpYmMrKy9pbmNsdWRlL2Nocm9ubyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBzdGFydCA9IHN0ZDo6Y2hyb25vOjpoaWdoX3Jlc29sdXRpb25fY2xvY2s6Om5vdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJIZWxsbyB3YWl0ZXIiIDw8IHN0ZDo6ZW5kbDsgLy8gZmx1c2ggaXMgaW50ZW50aW9uYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDo6bGl0ZXJhbHM7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjpkdXJhdGlvbiBibGEgPSA1bXM7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgc3RkOjpjaHJvbm86OnNlY29uZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgbmFtZXNwYWNlIHN0ZDo6Y2hyb25vX2xpdGVyYWxzOwogICAgICAgICAgICBhdXRvIGhhbGZtaW4gPSAzMHM7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNocm9ubz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlUXVldWUud2prCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uL29wdC9hbmRyb2lkLW5kay1yMTZiL3NvdXJjZXMvY3h4LXN0bC9sbHZtLWxpYmMrKy9pbmNsdWRlL2Nocm9ubyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
