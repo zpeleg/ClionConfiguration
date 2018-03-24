@@ -193,19 +193,18 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.cpp" timestamp="1521743371893" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1521097197525">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521743345893">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="74" column="25" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521911794851">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="27" />
+        <mark key="^" line="80" column="27" />
+        <mark key="." line="80" column="27" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
@@ -265,7 +264,7 @@
       <file name="/GDB" timestamp="1521739961351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521743428236">
+      <file name="/Dummy.txt" timestamp="1521911186009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -297,7 +296,6 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/test_daemon.h" timestamp="1521732121541" />
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.h" timestamp="1521282996851">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -309,13 +307,13 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521743386105">
-        <mark key="'" line="122" column="12" />
-        <mark key="k" line="12" column="12" />
-        <mark key="[" line="161" column="38" />
-        <mark key="]" line="161" column="39" />
-        <mark key="^" line="161" column="39" />
-        <mark key="." line="161" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521911899174">
+        <mark key="'" line="196" column="0" />
+        <mark key="k" line="13" column="12" />
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="91" column="47" />
+        <mark key="^" line="78" column="21" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -336,7 +334,7 @@
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1521743115848">
+      <file name="/fragment.mm" timestamp="1521911185898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521445819833">
@@ -353,45 +351,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="90" column="15" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="110" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
-      <jump line="2" column="17" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="115" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="112" column="64" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="120" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="68" column="17" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
       <jump line="23" column="8" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
@@ -420,7 +380,6 @@
       <jump line="118" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="121" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="119" column="44" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
@@ -453,6 +412,45 @@
       <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
       <jump line="70" column="41" filename="$USER_HOME$/Code/mobileproduct/tests/logging_buga/buga_logging_test.cpp" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="76" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" />
+      <jump line="12" column="7" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="106" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="112" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="169" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
+      <jump line="181" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -492,8 +490,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>operator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6SU5WQUxJRDpicmVhazsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -508,13 +506,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>operator</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGV0ZWN0aW9uKEFsZ29UeXBlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDUwbXMpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -528,31 +526,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6SU5WQUxJRDpicmVhazsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGV0ZWN0aW9uKEFsZ29UeXBlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
+        <text encoding="base64">ICAgIHN0ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBCdWdhdG9uZUV2ZW50VHlwZTo6RUFSUEhPTkVfSU46Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERldGVjdG9yQ29uZmlndXJhdGlvbiBjb25maWd7CiAgICAgICAgICAgICAgICAgICAgICAgIEFsZ29UeXBlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04sCiAgICAgICAgICAgICAgICAgICAgICAgIEVhckRldGVjdGlvbkNvbmZpZ3VyYXRpb257CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJlcXVlbmN5OjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWluaW1hbEludGVydmFsU2VjOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yUHJvYjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3RDaGFubmVsczogMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5zaXRpdml0eTogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JnZXRVc2VyczogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduYWxJZDogMQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgYnVnYUFwaS0+c3RvcERldGVjdCgpOwogICAgICAgICAgICAgICAgd2hpbGUgKGJ1Z2FBcGktPnF1ZXJ5U3RhdHVzKCkuYnVnYXRvbmVTdGF0ZSAhPSBBbGdvU3RhdGU6OklETEUpIHsKICAgICAgICAgICAgICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoNTBtcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBidWdhQXBpLT5zdGFydERldGVjdChjb25maWcpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gaGkgPXN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHMoNik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoNTApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERldGVjdG9yQ29uZmlndXJhdGlvbigpOwoKICAgIH5EZXRlY3RvckNvbmZpZ3VyYXRpb24oKSA9IGRlZmF1bHQ7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
