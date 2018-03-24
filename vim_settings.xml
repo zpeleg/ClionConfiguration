@@ -162,6 +162,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918473559">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="79" column="31" />
+        <mark key="." line="79" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1519738132943">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -200,11 +206,11 @@
         <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521911794851">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="27" />
-        <mark key="^" line="80" column="27" />
-        <mark key="." line="80" column="27" />
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="81" column="24" />
+        <mark key="]" line="81" column="27" />
+        <mark key="^" line="81" column="27" />
+        <mark key="." line="81" column="27" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
@@ -307,13 +313,13 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521917215067">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521918414377">
         <mark key="'" line="69" column="0" />
         <mark key="k" line="13" column="12" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="77" column="55" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -334,7 +340,7 @@
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1521911185898">
+      <file name="/fragment.mm" timestamp="1521918393786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521445819833">
@@ -490,8 +496,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRGaWxlLmNsb3NlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;test.txt&quot;</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -506,13 +512,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;test.txt&quot;</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDUwbXMpOwo=</text>
+        <text encoding="base64">ICAgIGxvbmcgcmVnRmlsZVNpemUgPSBnZXRGaWxlc2l6ZShwbGF5RmlsZVBhdGgpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -526,31 +532,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRGaWxlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxjaGFyPigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGJ1Z2FTdHJlYW09PW51bGwpCg==</text>
+        <text encoding="base64">ICAgIGxvbmcgcmVnRmlsZVNpemUgPSBnZXRGaWxlc2l6ZShwbGF5RmlsZVBhdGgpOwogICAgbG9uZyBtaXhGaWxlU2l6ZSA9IGdldEZpbGVzaXplKG1peGluRmlsZVBhdGgpOwogICAgbG9uZyBkZXRlY3RGaWxlU2l6ZSA9IGdldEZpbGVzaXplKGRldGVjdGlvbkZpbGVQYXRoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6SU5WQUxJRDpicmVhazsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTg0MDE0OC9ob3ctY2FuLWktZ2V0LWEtZmlsZXMtc2l6ZS1pbi1jCnN0ZDo6aWZzdHJlYW06OnBvc190eXBlIGdldEZpbGVzaXplKGNvbnN0IHN0cmluZyYgZmlsZW5hbWUpIHsKICAgIHN0ZDo6aWZzdHJlYW0gaW4oZmlsZW5hbWUsIHN0ZDo6aWZzdHJlYW06OmF0ZSB8IHN0ZDo6aWZzdHJlYW06OmJpbmFyeSk7CiAgICByZXR1cm4gaW4udGVsbGcoKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRGaWxlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGJ1Z2FTdHJlYW09PW51bGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6SU5WQUxJRDpicmVhazsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gaGkgPXN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHMoNik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoNTApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
