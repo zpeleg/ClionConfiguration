@@ -96,12 +96,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1521925033074">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="231" column="77" />
-        <mark key="]" line="231" column="77" />
-        <mark key="^" line="231" column="77" />
-        <mark key="." line="231" column="77" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1521926356078">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="104" column="67" />
+        <mark key="]" line="104" column="67" />
+        <mark key="^" line="104" column="67" />
+        <mark key="." line="104" column="67" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1519733993612">
         <mark key="[" line="25" column="53" />
@@ -123,7 +123,7 @@
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1521925048342">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1521926196634">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="^" line="55" column="6" />
@@ -369,16 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="102" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="108" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="126" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
-      <jump line="141" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="122" column="12" filename="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" />
       <jump line="11" column="6" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
@@ -454,7 +444,6 @@
       <jump line="212" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="199" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="112" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="109" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
@@ -469,6 +458,17 @@
       <jump line="197" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="140" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="120" column="18" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="233" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="232" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="230" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="217" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="147" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -508,8 +508,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgd3JpdGVUb0J1Z2FTdHJlYW0oc3RkOjp2ZWN0b3I8Y2hhcj4gdmVjdG9yLCBzaXplX3QgaW5kZXgpOwoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXIqIGRldGVjdGlvblB0ciA9ICZkZXRlY3RGaWxlW2RldGVjdEluZGV4XTsKICAgICAgICAgICAgICAgIHNpemVfdCBkZXRlY3RCdWZmZXJTaXplID0gZGV0ZWN0SW5kZXggKyBCVUZTSVpFID4gZGV0ZWN0RmlsZS5zaXplKCkgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4IDogQlVGU0laRTsKICAgICAgICAgICAgICAgIGJ1Z2FTdHJlYW0tPndyaXRlKGRldGVjdGlvblB0ciwgZGV0ZWN0QnVmZmVyU2l6ZSk7CiAgICAgICAgICAgICAgICBkZXRlY3RJbmRleCArPSBCVUZTSVpFOwogICAgICAgICAgICAgICAgaWYgKGRldGVjdEluZGV4ID4gZGV0ZWN0RmlsZS5zaXplKCkpIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RJbmRleCA9IDA7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -524,13 +524,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>mixFile</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="4">
-        <text>detectBufferSize = detectFile.size() - detectIndex</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlVG9CdWdhU3RyZWFtKG1peEZpbGUsIHBsYXlJbmRleCwgQlVGU0laRSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -543,32 +543,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgd3JpdGVUb0J1Z2FTdHJlYW0oc3RkOjp2ZWN0b3I8Y2hhcj4gdmVjdG9yLCBzaXplX3QgaW5kZXgpOwoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXIqIGRldGVjdGlvblB0ciA9ICZkZXRlY3RGaWxlW2RldGVjdEluZGV4XTsKICAgICAgICAgICAgICAgIHNpemVfdCBkZXRlY3RCdWZmZXJTaXplID0gZGV0ZWN0SW5kZXggKyBCVUZTSVpFID4gZGV0ZWN0RmlsZS5zaXplKCkgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4IDogQlVGU0laRTsKICAgICAgICAgICAgICAgIGJ1Z2FTdHJlYW0tPndyaXRlKGRldGVjdGlvblB0ciwgZGV0ZWN0QnVmZmVyU2l6ZSk7CiAgICAgICAgICAgICAgICBkZXRlY3RJbmRleCArPSBCVUZTSVpFOwogICAgICAgICAgICAgICAgaWYgKGRldGVjdEluZGV4ID4gZGV0ZWN0RmlsZS5zaXplKCkpIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RJbmRleCA9IDA7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkZXRlY3RJbmRleCArIEJVRlNJWkUgPiBkZXRlY3RGaWxlLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUgPSBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4OwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RCdWZmZXJTaXplID0gQlVGU0laRTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZvaWQgd3JpdGVUb0J1Z2FTdHJlYW0oY29uc3Qgc3RkOjp2ZWN0b3I8Y2hhcj4mIGZpbGVEYXRhLCBzaXplX3QmIGluZGV4KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBwbGF5SW5kZXggPSAwLCBkZXRlY3RJbmRleCA9IDA7CiAgICBjaGFyIGJ1ZmZlcltCVUZTSVpFXTsKCiAgICBpZiAocGxheUZpbGUuc2l6ZSgpICE9IG1peEZpbGUuc2l6ZSgpKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJwbGF5IGZpbGUgc2l6ZSBpcyBkaWZmZXJlbnQgZnJvbSBtaXhpbiBmaWxlIHNpemUiKTsKICAgIH0KCiAgICB3aGlsZSAoIXN0b3ApIHsKICAgICAgICB3aGlsZSAoIWlzUmVjb3JkaW5nKSB7CiAgICAgICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcig1MG1zKTsKICAgICAgICB9CiAgICAgICAgaWYgKGJ1Z2FTdHJlYW0gPT0gbnVsbHB0cikgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgc3dpdGNoIChyZWNUaHJlYWRTdGF0ZS5sb2FkKCkpIHsKICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6UkVHVUxBUjoKICAgICAgICAgICAgICAgIGRldGVjdEluZGV4ID0gMDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFJlY1RocmVhZFN0YXRlOjpNSVhJTjoKICAgICAgICAgICAgICAgIGRldGVjdEluZGV4ID0gMDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFJlY1RocmVhZFN0YXRlOjpERVRFQ1RJT046CiAgICAgICAgICAgICAgICBjaGFyKiBkZXRlY3Rpb25QdHIgPSAmZGV0ZWN0RmlsZVtkZXRlY3RJbmRleF07CiAgICAgICAgICAgICAgICBzaXplX3QgZGV0ZWN0QnVmZmVyU2l6ZTsKICAgICAgICAgICAgICAgIGlmIChkZXRlY3RJbmRleCArIEJVRlNJWkUgPiBkZXRlY3RGaWxlLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUgPSBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4OwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RCdWZmZXJTaXplID0gQlVGCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgd3JpdGVUb0J1Z2FTdHJlYW0oc3RkOjp2ZWN0b3I8Y2hhcj4gdmVjdG9yLCBzaXplX3QgaW5kZXgpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdEZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYXIgYnVmZmVyW0JVRlNJWkVdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkZXRlY3RJbmRleCArIEJVRlNJWkUgPiBkZXRlY3RGaWxlLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUgPSBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4OwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RCdWZmZXJTaXplID0gQlVGU0laRTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdGlvbkZpbGUucmVhZChidWZmZXIsIEJVRlNJWkUpOwogICAgICAgICAgICAgICAgZGV0ZWN0aW9uRmlsZS5sZQogICAgICAgICAgICAgICAgYnVnYVN0cmVhbS0+d3JpdGUoYnVmZmVyLCBCVUZTSVpFKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNpemVfdCBwbGF5SW5kZXggPSAwLCBkZXRlY3RJbmRleCA9IDA7CiAgICBjaGFyIGJ1ZmZlcltCVUZTSVpFXTsKCiAgICBpZiAocGxheUZpbGUuc2l6ZSgpICE9IG1peEZpbGUuc2l6ZSgpKSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJwbGF5IGZpbGUgc2l6ZSBpcyBkaWZmZXJlbnQgZnJvbSBtaXhpbiBmaWxlIHNpemUiKTsKICAgIH0KCiAgICB3aGlsZSAoIXN0b3ApIHsKICAgICAgICB3aGlsZSAoIWlzUmVjb3JkaW5nKSB7CiAgICAgICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcig1MG1zKTsKICAgICAgICB9CiAgICAgICAgaWYgKGJ1Z2FTdHJlYW0gPT0gbnVsbHB0cikgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgc3dpdGNoIChyZWNUaHJlYWRTdGF0ZS5sb2FkKCkpIHsKICAgICAgICAgICAgY2FzZSBSZWNUaHJlYWRTdGF0ZTo6UkVHVUxBUjoKICAgICAgICAgICAgICAgIGRldGVjdEluZGV4ID0gMDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFJlY1RocmVhZFN0YXRlOjpNSVhJTjoKICAgICAgICAgICAgICAgIGRldGVjdEluZGV4ID0gMDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFJlY1RocmVhZFN0YXRlOjpERVRFQ1RJT046CiAgICAgICAgICAgICAgICBjaGFyKiBkZXRlY3Rpb25QdHIgPSAmZGV0ZWN0RmlsZVtkZXRlY3RJbmRleF07CiAgICAgICAgICAgICAgICBzaXplX3QgZGV0ZWN0QnVmZmVyU2l6ZTsKICAgICAgICAgICAgICAgIGlmIChkZXRlY3RJbmRleCArIEJVRlNJWkUgPiBkZXRlY3RGaWxlLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIGRldGVjdEJ1ZmZlclNpemUgPSBkZXRlY3RGaWxlLnNpemUoKSAtIGRldGVjdEluZGV4OwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkZXRlY3RCdWZmZXJTaXplID0gQlVGCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
