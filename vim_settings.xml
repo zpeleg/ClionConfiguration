@@ -35,12 +35,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" timestamp="1519904512556">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="45" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" timestamp="1521741543653">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" timestamp="1521113646503">
         <mark key="'" line="0" column="0" />
@@ -193,18 +193,19 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="60" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.cpp" timestamp="1521743371893" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1521097197525">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521738911552">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.h" timestamp="1521743345893">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="74" column="25" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
         <mark key="^" line="74" column="25" />
-        <mark key="." line="74" column="25" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1518324197927">
         <mark key="[" line="64" column="0" />
@@ -264,7 +265,7 @@
       <file name="/GDB" timestamp="1521739961351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521741038811">
+      <file name="/Dummy.txt" timestamp="1521743428236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -308,12 +309,13 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521741464040">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521743386105">
         <mark key="'" line="122" column="12" />
         <mark key="k" line="12" column="12" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="22" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="161" column="38" />
+        <mark key="]" line="161" column="39" />
+        <mark key="^" line="161" column="39" />
+        <mark key="." line="161" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
@@ -334,7 +336,7 @@
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1521739970959">
+      <file name="/fragment.mm" timestamp="1521743115848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521445819833">
@@ -490,8 +492,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>operator</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -506,13 +508,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bugaApi</text>
+        <text>operator</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="4">
-        <text>L0L1R0R1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGV0ZWN0aW9uKEFsZ29UeXBlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -526,31 +528,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1Z2FBcGkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGV0ZWN0aW9uKEFsZ29UeXBlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbigpOwoKICAgIHZpcnR1YWwgfkJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbigpID0gZGVmYXVsdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBCdWdhdG9uZUV2ZW50VHlwZTo6RUFSUEhPTkVfSU46Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1Z2FBcGktPmluaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEJ1Z2F0b25lQXBpQ29uZmlndXJhdGlvbigpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERldGVjdG9yQ29uZmlndXJhdGlvbiBjb25maWd7CiAgICAgICAgICAgICAgICAgICAgICAgIEFsZ29UeXBlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04sCiAgICAgICAgICAgICAgICAgICAgICAgIEVhckRldGVjdGlvbkNvbmZpZ3VyYXRpb257CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJlcXVlbmN5OjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWluaW1hbEludGVydmFsU2VjOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yUHJvYjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3RDaGFubmVsczogMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5zaXRpdml0eTogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JnZXRVc2VyczogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduYWxJZDogMQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgYnVnYUFwaS0+c3RvcERldGVjdCgpOwogICAgICAgICAgICAgICAgd2hpbGUgKGJ1Z2FBcGktPnF1ZXJ5U3RhdHVzKCkuYnVnYXRvbmVTdGF0ZSAhPSBBbGdvU3RhdGU6OklETEUpIHsKICAgICAgICAgICAgICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoNTBtcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBidWdhQXBpLT5zdGFydERldGVjdChjb25maWcpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBCdWdhdG9uZUV2ZW50VHlwZTo6Tk9ORToKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIERldGVjdG9yQ29uZmlndXJhdGlvbigpOwoKICAgIH5EZXRlY3RvckNvbmZpZ3VyYXRpb24oKSA9IGRlZmF1bHQ7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -603,10 +605,10 @@
         <entry>b CMakeLists.txt</entry>
         <entry>e src/CMakeLists.txt</entry>
         <entry>Q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>/</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
