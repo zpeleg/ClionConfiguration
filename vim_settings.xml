@@ -103,12 +103,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1521998930727">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1522000360921">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="158" column="70" />
-        <mark key="]" line="159" column="41" />
-        <mark key="." line="159" column="41" />
-        <mark key="^" line="159" column="41" />
+        <mark key="[" line="283" column="34" />
+        <mark key="]" line="283" column="34" />
+        <mark key="." line="283" column="34" />
+        <mark key="^" line="283" column="34" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1519733993612">
         <mark key="[" line="25" column="53" />
@@ -142,12 +142,12 @@
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1521966565215">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1521999026597">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="62" column="56" />
-        <mark key="]" line="103" column="9" />
-        <mark key="^" line="103" column="9" />
-        <mark key="." line="103" column="9" />
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="82" column="23" />
+        <mark key="^" line="82" column="23" />
+        <mark key="." line="82" column="23" />
       </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/capture.cpp" timestamp="1517767797573">
         <mark key="'" line="64" column="4" />
@@ -261,12 +261,12 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1521998754365">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="41" />
-        <mark key="^" line="48" column="41" />
-        <mark key="." line="48" column="41" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1522000630565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="109" column="52" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/CMakeLists.txt" timestamp="1519733477641">
         <mark key="[" line="13" column="21" />
@@ -301,10 +301,10 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/GDB" timestamp="1521998892692">
+      <file name="/GDB" timestamp="1522000794115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521983416333">
+      <file name="/Dummy.txt" timestamp="1522000334888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1519221456950">
@@ -374,11 +374,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/foreground_calibration.h" timestamp="1521982249408">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1521998465697">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1522000754622">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" timestamp="1521983310188">
         <mark key="'" line="37" column="0" />
@@ -387,7 +387,7 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="/fragment.mm" timestamp="1521997788604">
+      <file name="/fragment.mm" timestamp="1521999514586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1521445819833">
@@ -410,37 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="265" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="264" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="255" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="236" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="233" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="227" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="218" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="210" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="199" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="190" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="176" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="157" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="151" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="145" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="141" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="123" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="115" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="111" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="94" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="88" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
@@ -510,6 +479,37 @@
       <jump line="253" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
       <jump line="261" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
       <jump line="262" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" />
+      <jump line="114" column="39" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="101" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -549,8 +549,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoRWFycGhvbmVTdGF0ZTo6SU5WQUxJRCA9PSBzdGF0dXMuZWFycGhvbmVTdGF0ZSkgewogICAgICAgICAgICBERUJVRygic3RhdHVzLmVhcnBob25lU3RhdGUgaXMgaW52YWxpZCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -565,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -585,31 +585,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoRWFycGhvbmVTdGF0ZTo6SU5WQUxJRCA9PSBzdGF0dXMuZWFycGhvbmVTdGF0ZSkgewogICAgICAgICAgICBERUJVRygic3RhdHVzLmVhcnBob25lU3RhdGUgaXMgaW52YWxpZCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIzLzAzLzE4LgovLwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpzdGprCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZvcmVncm91bmRfY2FsaWJyYXRpb24uaCIK</text>
+        <text encoding="base64">CiAgICBMb2dnZXI6OmRlYnVnKExPR19UQUcsICJSZXR1cm5pbmcgZnJvbSB3YWtlV2FpdGluZ1RocmVhZCgpIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6ZGVidWcoTE9HX1RBRywgIldha2luZyB1cCB3YWl0aW5nIHRocmVhZCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICNzZXQoQ01BS0VfU1lTVEVNX1ZFUlNJT04gMjMpCiAgICAjc2V0KEFORFJPSURfU1RMIGMrK19zaGFyZWQpCiAgICAjc2V0KENNQUtFX0FORFJPSURfU1RMX1RZUEUgYysrX3NoYXJlZCkKICAgICNzZXQoQVJDSCBhcm02NC12OGEpCiAgICAjc2V0KEFORFJPSURfVE9PTENIQUlOIGNsYW5nKQo=</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6ZGVidWcoTE9HX1RBRywgIndha2VXYWl0aW5nVGhyZWFkKCkgY2FsbGVkIik7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNzZXQoQ01BS0VfU1lTVEVNX05BTUUgQW5kcm9pZCkKICAgICNzZXQoQ01BS0VfQU5EUk9JRF9OREsgL29wdC9hbmRyb2lkLW5kay1yMTZiKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDIzLzAzLzE4LgovLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRsaWI+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImZvcmVncm91bmRfY2FsaWJyYXRpb24uaCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvcmUvcmVmZXJlbmNlX3NpZ25hbC5oIgo=</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
