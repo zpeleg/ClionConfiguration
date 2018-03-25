@@ -12,11 +12,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" timestamp="1521969573369">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api_configuration.h" timestamp="1521739446885">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/bugatone_api_configuration.h" timestamp="1517995940648">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="7" />
@@ -191,11 +186,6 @@
         <mark key="^" line="83" column="75" />
         <mark key="." line="83" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918966839">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1519738132943">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -285,11 +275,6 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/tinyRecordAndPlay/src/audio.cpp" timestamp="1517239069605">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="20" />
@@ -337,16 +322,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/CMakeLists.txt" timestamp="1521733332281">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521980514260">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/error_algo_result.h" timestamp="1521969993786">
         <mark key="[" line="3" column="0" />
@@ -535,7 +515,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>1c</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -550,7 +530,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>1c</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -597,7 +577,7 @@
         <text encoding="base64">I2luY2x1ZGUgPGZzdHJlYW0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -633,7 +613,6 @@
         <entry>init</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
         <entry>make</entry>
         <entry>!make</entry>
         <entry>b cap</entry>
@@ -651,8 +630,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w;</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
