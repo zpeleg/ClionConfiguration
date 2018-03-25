@@ -29,6 +29,9 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" timestamp="1521973565186">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/ndk_patch.h" timestamp="1519036970979">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="23" column="5" />
@@ -144,6 +147,13 @@
         <mark key="^" line="52" column="50" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" timestamp="1521973049682">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/core/streams.cpp" timestamp="1519052692212">
         <mark key="'" line="139" column="29" />
         <mark key="[" line="1" column="17" />
@@ -180,9 +190,6 @@
         <mark key="]" line="83" column="75" />
         <mark key="^" line="83" column="75" />
         <mark key="." line="83" column="75" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1521970199384">
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918966839">
         <mark key="[" line="78" column="0" />
@@ -335,14 +342,6 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/test_daemon.cpp" timestamp="1521918414377">
-        <mark key="'" line="69" column="0" />
-        <mark key="k" line="13" column="12" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="77" column="55" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1521285797148">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="29" />
@@ -365,6 +364,13 @@
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/state_test_main.cpp" timestamp="1521966958984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" timestamp="1521973554640">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="/fragment.mm" timestamp="1521929470022">
         <mark key="[" line="0" column="0" />
@@ -389,27 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="14" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="136" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="244" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="273" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="268" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="259" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="245" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="231" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="211" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="201" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="158" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="134" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="95" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="89" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="82" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
@@ -489,6 +474,27 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="31" column="88" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/function_signal.cpp" />
+      <jump line="26" column="21" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" />
+      <jump line="43" column="24" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -529,7 +535,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>floatWave</text>
+        <text>:</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -544,7 +550,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>floatWave</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -591,7 +597,7 @@
         <text encoding="base64">I2luY2x1ZGUgPGZzdHJlYW0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -645,8 +651,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w;</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
