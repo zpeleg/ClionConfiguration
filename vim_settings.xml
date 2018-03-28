@@ -58,6 +58,12 @@
       <file name="/Dummy.txt" timestamp="1522156250688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1522232670112">
+        <mark key="[" line="164" column="47" />
+        <mark key="]" line="165" column="31" />
+        <mark key="^" line="165" column="31" />
+        <mark key="." line="165" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1522232315119">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="32" />
@@ -125,10 +131,10 @@
         <mark key="]" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -370,7 +376,6 @@
         <entry>abs</entry>
       </history-search>
       <history-cmd>
-        <entry>make</entry>
         <entry>!make</entry>
         <entry>b cap</entry>
         <entry>e capture.c</entry>
@@ -389,6 +394,7 @@
         <entry>w;</entry>
         <entry>x</entry>
         <entry>q</entry>
+        <entry>'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
