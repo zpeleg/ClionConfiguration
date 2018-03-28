@@ -8,8 +8,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" timestamp="1521969573369">
-        <mark key="'" line="58" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1522179824285">
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="92" column="4" />
+        <mark key="^" line="92" column="4" />
+        <mark key="." line="92" column="4" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api_configuration.h" timestamp="1521739446885">
         <mark key="[" line="12" column="0" />
@@ -29,7 +32,6 @@
         <mark key="[" line="271" column="0" />
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
-        <mark key="^" line="278" column="20" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iunderground_teacher_controller.h" timestamp="1522009618496">
         <mark key="[" line="5" column="6" />
@@ -41,12 +43,6 @@
         <mark key="[" line="335" column="0" />
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_finder.cpp" timestamp="1521982144452">
-        <mark key="'" line="58" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/readerwriterqueue.h" timestamp="1521282842896">
-        <mark key="'" line="873" column="23" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
         <mark key="[" line="101" column="0" />
@@ -60,17 +56,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1522142476319">
-        <mark key="[" line="277" column="30" />
-        <mark key="]" line="277" column="30" />
-        <mark key="." line="277" column="30" />
-        <mark key="^" line="277" column="30" />
+        <mark key="[" line="278" column="30" />
+        <mark key="]" line="278" column="30" />
+        <mark key="." line="278" column="30" />
+        <mark key="^" line="278" column="30" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1522142867843">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
         <mark key="[" line="261" column="0" />
@@ -124,21 +119,8 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/foreground_calibration.h" timestamp="1521982249408">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" timestamp="1521983310188">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="27" column="21" />
-      </file>
       <file name="/fragment.mm" timestamp="1522005237407">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1522008050235">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/CMakeLists.txt" timestamp="1522009379587">
         <mark key="[" line="24" column="8" />
