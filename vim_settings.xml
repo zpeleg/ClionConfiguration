@@ -134,6 +134,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1522331164202" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_daemon.cpp" />
