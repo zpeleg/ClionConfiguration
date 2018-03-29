@@ -47,14 +47,18 @@
       <file name="/GDB" timestamp="1522316157628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522347264246">
+      <file name="/Dummy.txt" timestamp="1522347994171">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522347234796">
-        <mark key="[" line="62" column="16" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="62" column="25" />
+      <file name="/logger.cpp" timestamp="1522348009008">
+        <mark key="[" line="111" column="3" />
+        <mark key="]" line="114" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522347775807">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="83" />
+        <mark key="." line="44" column="27" />
+        <mark key="^" line="62" column="27" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522322487239">
         <mark key="[" line="79" column="12" />
@@ -113,11 +117,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522347249337">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="17" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522348011737">
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="114" column="4" />
+        <mark key="^" line="114" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
@@ -273,7 +277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">IGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -288,13 +292,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>unordered_map</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXItPmxvZyhsb2dMZXZlbCwgIlt7fV0ge31cdHt9IiwgbG9nVGFnLCBtZXNzYWdlLCBkYXRhLmR1bXAoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -307,32 +311,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiWyI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGF1dG8gaXQgPSAobG9nVGFnKTsKICAgIGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiWyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bG9uZyBMb2dnZXI6OmJlc3QgPSAxMDAwMDAwOwpsb25nIExvZ2dlcjo6d29yc3QgPSAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2hhciBMb2dnZXI6OmJ1ZmZlclsyMDBdID0gezB9Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bG9uZyBMb2dnZXI6OmJlc3QgPSAxMDAwMDAwOwpsb25nIExvZ2dlcjo6d29yc3QgPSAwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2hhciBMb2dnZXI6OmJ1ZmZlclsyMDBdID0gezB9Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Ci8vICAgIGF1dG8gdDIgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKLy8gICAgbG9uZyBkaWZmID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pY3Jvc2Vjb25kcz4odDItdDEpLmNvdW50KCk7Ci8vICAgIHN0ZDo6Y291dCA8PCAiTG9nIHRvb2sgIiA8PCBkaWZmIDw8ICJ1cyIgPDwgc3RkOjplbmRsOwovLyAgICBpZiAoZGlmZiA8IGJlc3QpIHsKLy8gICAgICAgIGJlc3QgPSBkaWZmOwovLyAgICB9Ci8vICAgIGlmIChkaWZmID4gd29yc3QpIHsKLy8gICAgICAgIHdvcnN0ID0gZGlmZjsKLy8gICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8KCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vICAgIGZtdDo6TWVtb3J5V3JpdGVyIG13OwovLyAgICBtdyA8PCAiWyIgPDwgbG9nVGFnIDw8ICJdICIgPDwgbWVzc2FnZTsKLy8gICAgaWYgKExvZ2dlcjo6d3JpdGVKc29uICYmICFkYXRhLmlzX251bGwoKSkgewovLyAgICAgICAgbXcgPDwgIlx0IiA8PCBkYXRhLmR1bXAoKTsKLy8gICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
