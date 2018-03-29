@@ -33,10 +33,10 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522327159484">
-        <mark key="[" line="90" column="25" />
-        <mark key="]" line="90" column="25" />
-        <mark key="." line="90" column="25" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522329614225">
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="22" />
+        <mark key="." line="90" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1522312278829" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
