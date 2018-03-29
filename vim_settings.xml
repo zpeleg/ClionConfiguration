@@ -33,12 +33,12 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522329614225">
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522342746370">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="90" column="22" />
         <mark key="." line="90" column="22" />
+        <mark key="^" line="90" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1522312278829" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -47,15 +47,14 @@
       <file name="/GDB" timestamp="1522316157628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522326601168">
+      <file name="/Dummy.txt" timestamp="1522345244209">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522331002978">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522343201150">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/core/logger.cpp" timestamp="1522322572941" />
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522322487239">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="79" column="15" />
@@ -76,7 +75,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/buga_stream_bindings.cpp" timestamp="1521969970970">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1522312656397" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="49" />
@@ -114,25 +112,23 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522336157298">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="112" column="28" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522345728212">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="101" column="7" />
+        <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1522312679514" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/log_msg.h" timestamp="1522331164202" />
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/details/async_log_helper.h" timestamp="1522335850020" />
-      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/tweakme.h" timestamp="1522335875527">
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/tweakme.h" timestamp="1522344812005">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -276,7 +272,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdDEgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -291,13 +287,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
       </register>
-      <register name="0" type="4">
-        <text>32768</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXItPmxvZyhsb2dMZXZlbCwgIlt7fV0ge31cdHt9IiwgbG9nVGFnLCBtZXNzYWdlLCBkYXRhLmR1bXAoKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -311,31 +307,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdDEgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdDEgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2hhciBMb2dnZXI6OmJ1ZmZlclsyMDBdID0gezB9Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjaGFyIGJ1ZmZlclsyMDBdOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci0+bG9nKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBwYXRoID0gIi90bXAvY2FsaWJzLyI7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBwYXRoID0gbWtkdGVtcChwYXRodGVtcGxhdGUpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">bG9uZyBMb2dnZXI6OmJlc3QgPSAxMDAwMDAwOwpsb25nIExvZ2dlcjo6d29yc3QgPSAwOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2hhciBMb2dnZXI6OmJ1ZmZlclsyMDBdID0gezB9Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8vICAgIGF1dG8gdDIgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKLy8gICAgbG9uZyBkaWZmID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pY3Jvc2Vjb25kcz4odDItdDEpLmNvdW50KCk7Ci8vICAgIHN0ZDo6Y291dCA8PCAiTG9nIHRvb2sgIiA8PCBkaWZmIDw8ICJ1cyIgPDwgc3RkOjplbmRsOwovLyAgICBpZiAoZGlmZiA8IGJlc3QpIHsKLy8gICAgICAgIGJlc3QgPSBkaWZmOwovLyAgICB9Ci8vICAgIGlmIChkaWZmID4gd29yc3QpIHsKLy8gICAgICAgIHdvcnN0ID0gZGlmZjsKLy8gICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8KCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8vICAgIGZtdDo6TWVtb3J5V3JpdGVyIG13OwovLyAgICBtdyA8PCAiWyIgPDwgbG9nVGFnIDw8ICJdICIgPDwgbWVzc2FnZTsKLy8gICAgaWYgKExvZ2dlcjo6d3JpdGVKc29uICYmICFkYXRhLmlzX251bGwoKSkgewovLyAgICAgICAgbXcgPDwgIlx0IiA8PCBkYXRhLmR1bXAoKTsKLy8gICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGl0ID0gbG9nTGV2ZWxNYXNrLmZpbmQobG9nVGFnKQogICAgICAgIGl0CiAgICAgICAgbG9nTGV2ZWxNYXNrLmZpbmQoKQo=</text>
+        <text encoding="base64">ICAgIHN0ci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
