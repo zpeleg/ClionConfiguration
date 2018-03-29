@@ -8,11 +8,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1522179824285">
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="92" column="4" />
-        <mark key="^" line="92" column="4" />
-        <mark key="." line="92" column="4" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1522312886795">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" timestamp="1521969573369">
         <mark key="'" line="58" column="0" />
@@ -48,7 +48,7 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522243091135" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1522312278829" />
       <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_finder.cpp" timestamp="1521982144452">
         <mark key="'" line="58" column="12" />
       </file>
@@ -60,10 +60,10 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/GDB" timestamp="1522008862207">
+      <file name="/GDB" timestamp="1522312828337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522311080689">
+      <file name="/Dummy.txt" timestamp="1522312618073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1522232315119">
@@ -73,10 +73,10 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522310820589">
-        <mark key="[" line="118" column="20" />
-        <mark key="]" line="118" column="23" />
-        <mark key="." line="118" column="23" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522312601432">
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="22" />
+        <mark key="." line="99" column="22" />
         <mark key="^" line="118" column="23" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/buga_stream_bindings.cpp" timestamp="1521969970970">
         <mark key="[" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1522312656397" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="49" />
@@ -131,12 +132,13 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/foreground_calibration.h" timestamp="1521982249408">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1522005237407">
+      <file name="/fragment.mm" timestamp="1522312824641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1522008050235">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1522312679514" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="5" column="0" />
@@ -285,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>a</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -300,7 +302,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
