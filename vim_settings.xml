@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918966839">
@@ -33,7 +33,7 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522342746370">
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522349725316">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="90" column="22" />
         <mark key="." line="90" column="22" />
@@ -54,11 +54,11 @@
         <mark key="[" line="111" column="3" />
         <mark key="]" line="114" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522347775807">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="83" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="62" column="27" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522322487239">
         <mark key="[" line="79" column="12" />
@@ -117,11 +117,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522348011737">
-        <mark key="[" line="114" column="4" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="114" column="4" />
-        <mark key="^" line="114" column="3" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522349798762">
+        <mark key="[" line="63" column="88" />
+        <mark key="]" line="63" column="97" />
+        <mark key="." line="63" column="97" />
+        <mark key="^" line="63" column="97" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
@@ -277,7 +277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -292,13 +292,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unordered_map</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+        <text>spdlog::level::level_enum, bool</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -311,32 +311,42 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGF1dG8gaXQgPSAobG9nVGFnKTsKICAgIGlmIChpdCA9PSBsb2dMZXZlbE1hc2suZW5kKCkpIHsKICAgICAgICAvLyBObyBsb2cgbGV2ZWwgZGVmaW5lZCBmb3IgdGhpcyBsb2cgdGFnLgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGF1dG8gaXQgPSBzdGQ6OmZpbmRfaWYoc3RkOjpiZWdpbihsb2dMZXZlbE1hc2spLCBzdGQ6OmVuZChsb2dMZXZlbE1hc2spLAogICAgICAgICAgICAgICAgICAgICAgICAgICBbbG9nVGFnXShhdXRvIGEpIHsgcmV0dXJuIGEuZmlyc3QgPT0gbG9nVGFnOyB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiWyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghbG9nTGV2ZWxNYXNrLmVtcHR5KCkpIHsKICAgICAgICBMb2dnZXI6OmxvZ0xldmVsTWFzayA9IHN0ZDo6bW92ZShsb2dMZXZlbE1hc2spOwogICAgfQogICAgZWxzZSB7CiAgICAgICAgTG9nZ2VyOjpsb2dMZXZlbE1hc2sgPSB7CgogICAgICAgIH07CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+      <register name="4" type="4">
+        <text>{ 6, 7 },
+        { 10, 12 },
+        { 300, 5000 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bG9uZyBMb2dnZXI6OmJlc3QgPSAxMDAwMDAwOwpsb25nIExvZ2dlcjo6d29yc3QgPSAwOwo=</text>
+      <register name="5" type="4">
+        <text>{&quot;SimpleAutoPlayController&quot;, spdlog::level::warn},
+                {&quot;BugaStream&quot;,               spdlog::level::debug},
+                {&quot;BugatoneApi&quot;,              spdlog::level::debug},
+                {&quot;EarphoneDb&quot;,               spdlog::level::warn},
+                {&quot;IdentifyEarphoneState&quot;,    spdlog::level::debug},
+                {&quot;IdleState&quot;,                spdlog::level::debug},
+                {&quot;InEarDetectionState&quot;,      spdlog::level::debug},
+                {&quot;OutEarDetectionState&quot;,     spdlog::level::debug},
+                {&quot;StateMachine&quot;,             spdlog::level::debug},</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2hhciBMb2dnZXI6OmJ1ZmZlclsyMDBdID0gezB9Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8vICAgIGF1dG8gdDIgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKLy8gICAgbG9uZyBkaWZmID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pY3Jvc2Vjb25kcz4odDItdDEpLmNvdW50KCk7Ci8vICAgIHN0ZDo6Y291dCA8PCAiTG9nIHRvb2sgIiA8PCBkaWZmIDw8ICJ1cyIgPDwgc3RkOjplbmRsOwovLyAgICBpZiAoZGlmZiA8IGJlc3QpIHsKLy8gICAgICAgIGJlc3QgPSBkaWZmOwovLyAgICB9Ci8vICAgIGlmIChkaWZmID4gd29yc3QpIHsKLy8gICAgICAgIHdvcnN0ID0gZGlmZjsKLy8gICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnZlY3RvcjxzdGQ6OnBhaXI8c3RyaW5nLCBzcGRsb2c6OmxldmVsOjpsZXZlbF9lbnVtPj4gbG9nTGV2ZWxNYXNrOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpwYWlyPHN0cmluZywgc3BkbG9nOjpsZXZlbDo6bGV2ZWxfZW51bT4+IExvZ2dlcjo6bG9nTGV2ZWxNYXNre307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KCg==</text>
+        <text encoding="base64">dXNpbmcgSXRlbSA9IHN0ZDo6cGFpcjxpbnQsIGludD47CmNvbnN0ZXhwciBJdGVtIG1hcF9pdGVtc1tdID0gewogICAgICAgIHsgNiwgNyB9LAogICAgICAgIHsgMTAsIDEyIH0sCiAgICAgICAgeyAzMDAsIDUwMDAgfSwKfTsKY29uc3RleHByIGF1dG8gbWFwX3NpemUgPSBzaXplb2YgbWFwX2l0ZW1zL3NpemVvZiBtYXBfaXRlbXNbMF07CgpzdGF0aWMgY29uc3RleHByIGludCBmaW5kVmFsdWUoaW50IGtleSwgaW50IHJhbmdlID0gbWFwX3NpemUpIHsKICAgIHJldHVybgogICAgICAgICAgICAocmFuZ2UgPT0gMCkgPyB0aHJvdyAiS2V5IG5vdCBwcmVzZW50IjoKICAgICAgICAgICAgKG1hcF9pdGVtc1tyYW5nZSAtIDFdLmZpcnN0ID09IGtleSkgPyBtYXBfaXRlbXNbcmFuZ2UgLSAxXS5zZWNvbmQ6CiAgICAgICAgICAgIGZpbmRWYWx1ZShrZXksIHJhbmdlIC0gMSk7Cn07CgpzdGF0aWMgY29uc3RleHByIGludCBmaW5kS2V5KGludCB2YWx1ZSwgaW50IHJhbmdlID0gbWFwX3NpemUpIHsKICAgIHJldHVybgogICAgICAgICAgICAocmFuZ2UgPT0gMCkgPyB0aHJvdyAiVmFsdWUgbm90IHByZXNlbnQiOgogICAgICAgICAgICAobWFwX2l0ZW1zW3JhbmdlIC0gMV0uc2Vjb25kID09IHZhbHVlKSA/IG1hcF9pdGVtc1tyYW5nZSAtIDFdLmZpcnN0OgogICAgICAgICAgICBmaW5kS2V5KHZhbHVlLCByYW5nZSAtIDEpOwp9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,13 +398,13 @@
         <entry>e src/CMakeLists.txt</entry>
         <entry>Q</entry>
         <entry>/</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w;</entry>
         <entry>x</entry>
         <entry>'</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
