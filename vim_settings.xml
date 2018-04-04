@@ -62,7 +62,6 @@
         <mark key="^" line="211" column="29" />
         <mark key="." line="211" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/concurrentqueue.h" timestamp="1522833898107" />
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -103,11 +102,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522832762158">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522837706871">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
