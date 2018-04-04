@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918966839">
@@ -32,12 +32,6 @@
         <mark key="[" line="335" column="0" />
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/logging_buga_tester.cpp" timestamp="1522349725316">
-        <mark key="[" line="90" column="21" />
-        <mark key="]" line="90" column="22" />
-        <mark key="." line="90" column="22" />
-        <mark key="^" line="90" column="21" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
         <mark key="[" line="101" column="0" />
@@ -117,7 +111,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522349798762">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522830339819">
         <mark key="[" line="63" column="88" />
         <mark key="]" line="63" column="97" />
         <mark key="." line="63" column="97" />
@@ -349,7 +343,7 @@
         <text encoding="base64">dXNpbmcgSXRlbSA9IHN0ZDo6cGFpcjxpbnQsIGludD47CmNvbnN0ZXhwciBJdGVtIG1hcF9pdGVtc1tdID0gewogICAgICAgIHsgNiwgNyB9LAogICAgICAgIHsgMTAsIDEyIH0sCiAgICAgICAgeyAzMDAsIDUwMDAgfSwKfTsKY29uc3RleHByIGF1dG8gbWFwX3NpemUgPSBzaXplb2YgbWFwX2l0ZW1zL3NpemVvZiBtYXBfaXRlbXNbMF07CgpzdGF0aWMgY29uc3RleHByIGludCBmaW5kVmFsdWUoaW50IGtleSwgaW50IHJhbmdlID0gbWFwX3NpemUpIHsKICAgIHJldHVybgogICAgICAgICAgICAocmFuZ2UgPT0gMCkgPyB0aHJvdyAiS2V5IG5vdCBwcmVzZW50IjoKICAgICAgICAgICAgKG1hcF9pdGVtc1tyYW5nZSAtIDFdLmZpcnN0ID09IGtleSkgPyBtYXBfaXRlbXNbcmFuZ2UgLSAxXS5zZWNvbmQ6CiAgICAgICAgICAgIGZpbmRWYWx1ZShrZXksIHJhbmdlIC0gMSk7Cn07CgpzdGF0aWMgY29uc3RleHByIGludCBmaW5kS2V5KGludCB2YWx1ZSwgaW50IHJhbmdlID0gbWFwX3NpemUpIHsKICAgIHJldHVybgogICAgICAgICAgICAocmFuZ2UgPT0gMCkgPyB0aHJvdyAiVmFsdWUgbm90IHByZXNlbnQiOgogICAgICAgICAgICAobWFwX2l0ZW1zW3JhbmdlIC0gMV0uc2Vjb25kID09IHZhbHVlKSA/IG1hcF9pdGVtc1tyYW5nZSAtIDFdLmZpcnN0OgogICAgICAgICAgICBmaW5kS2V5KHZhbHVlLCByYW5nZSAtIDEpOwp9OwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -401,10 +395,10 @@
         <entry>w;</entry>
         <entry>x</entry>
         <entry>'</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
