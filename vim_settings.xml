@@ -14,6 +14,12 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1522834913670">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api_configuration.h" timestamp="1521739446885">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -24,14 +30,18 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/data/earphone_db_test.cpp" timestamp="1522322821424">
-        <mark key="^" line="31" column="45" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/CMakeLists.txt" timestamp="1522834846231">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/CMakeLists.txt" timestamp="1522832096011">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.h" timestamp="1522834870730">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="26" column="79" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iunderground_teacher_controller.h" timestamp="1522009618496">
         <mark key="[" line="5" column="6" />
@@ -58,7 +68,7 @@
       <file name="/GDB" timestamp="1522316157628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522347994171">
+      <file name="/Dummy.txt" timestamp="1522834405147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/logger.cpp" timestamp="1522348009008">
@@ -71,11 +81,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522322487239">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="15" />
-        <mark key="." line="79" column="15" />
-        <mark key="^" line="79" column="15" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/concurrentqueue.h" timestamp="1522833898107" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522834309987">
+        <mark key="[" line="119" column="45" />
+        <mark key="]" line="119" column="53" />
+        <mark key="." line="119" column="53" />
+        <mark key="^" line="119" column="53" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
         <mark key="[" line="261" column="0" />
@@ -102,6 +113,11 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.h" timestamp="1522834896438">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1522142312934">
         <mark key="[" line="191" column="85" />
         <mark key="]" line="191" column="85" />
@@ -114,18 +130,19 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522832103370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522832776744">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1522309465338">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1522832562702">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="44" />
       </file>
-      <file name="/fragment.mm" timestamp="1522347265758">
+      <file name="/fragment.mm" timestamp="1522834405141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1522326447188">
@@ -139,11 +156,17 @@
         <mark key="." line="63" column="97" />
         <mark key="^" line="63" column="97" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522832160466">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/iinternal_buga_stream.h" timestamp="1522834775382">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522832762158">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
@@ -159,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_daemon.cpp" />
       <jump line="77" column="4" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
@@ -259,6 +281,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" />
+      <jump line="8" column="24" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -298,8 +321,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -314,13 +337,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CnNldChDTUFLRV9DWFhfU1RBTkRBUkQgMTQpCgpzZXQoU09VUkNFX0ZJTEVTCiAgICAgICAgaWJ1Z2F0b25lX2FwaS5oCiAgICAgICAgaWRhZW1vbl9hcGkuaAogICAgICAgIGJ1Z2F0b25lX3N0YXR1cy5oCiAgICAgICAgaWJ1Z2Ffc3RyZWFtLmgKICAgICAgICBpYnVnYV9zaWduYWwuaAogICAgICAgIGJ1Z2F0b25lX2FwaV9jb25maWd1cmF0aW9uLmgKICAgICAgICBkZXRlY3Rvcl9jb25maWd1cmF0aW9uLmgKICAgICAgICBhcGlfdG9fanNvbi5oCiAgICAgICAgYXBpX3RvX2pzb24uY3BwCiAgICAgICAgYnVnYV9zdHJlYW0uaAogICAgICAgIGJ1Z2Ffc3RyZWFtLmNwcAogICAgICAgIGNvbmN1cnJlbnRfc3RhdHVzLmgKICAgICAgICBjb25jdXJyZW50X3N0YXR1cy5jcHAKICAgICAgICBzaW1wbGVfYnVnYV9zaWduYWwuY3BwCiAgICAgICAgc2ltcGxlX2J1Z2Ffc2lnbmFsLmgKICAgICAgICBidWdhdG9uZV9hcGkuY3BwCiAgICAgICAgYnVnYXRvbmVfYXBpLmgpCgphZGRfbGlicmFyeSgke1BST0pFQ1RfTkFNRX0gU1RBVElDICR7U09VUkNFX0ZJTEVTfSkKCnRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKCR7UFJPSkVDVF9OQU1FfQogICAgICAgIFBVQkxJQwogICAgICAgIC4uLy4uL2RlcGVuZGVuY2llcy9zcGRsb2cvaW5jbHVkZQogICAgICAgIC4uLy4uL2RlcGVuZGVuY2llcy9ubG9obWFubi9pbmNsdWRlKQoKdGFyZ2V0X2xpbmtfbGlicmFyaWVzKCR7UFJPSkVDVF9OQU1FfQogICAgICAgIGNvcmUpCg==</text>
+      <register name="0" type="4">
+        <text>std::chrono::milliseconds readTimeout = std::chrono::milliseconds(1000)</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -334,41 +357,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpYnVnYXRvbmVfYXBpLmgKICAgICAgICBpZGFlbW9uX2FwaS5oCiAgICAgICAgYnVnYXRvbmVfc3RhdHVzLmgKICAgICAgICBpYnVnYV9zdHJlYW0uaAogICAgICAgIGlidWdhX3NpZ25hbC5oCiAgICAgICAgYnVnYXRvbmVfYXBpX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGRldGVjdG9yX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGFwaV90b19qc29uLmgKICAgICAgICBhcGlfdG9fanNvbi5jcHAKICAgICAgICBidWdhX3N0cmVhbS5oCiAgICAgICAgYnVnYV9zdHJlYW0uY3BwCiAgICAgICAgY29uY3VycmVudF9zdGF0dXMuaAogICAgICAgIGNvbmN1cnJlbnRfc3RhdHVzLmNwcAogICAgICAgIHNpbXBsZV9idWdhX3NpZ25hbC5jcHAKICAgICAgICBzaW1wbGVfYnVnYV9zaWduYWwuaAogICAgICAgIGJ1Z2F0b25lX2FwaS5jcHAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gaXQgPSBzdGQ6OmZpbmRfaWYoc3RkOjpiZWdpbihsb2dMZXZlbE1hc2spLCBzdGQ6OmVuZChsb2dMZXZlbE1hc2spLAogICAgICAgICAgICAgICAgICAgICAgICAgICBbbG9nVGFnXShhdXRvIGEpIHsgcmV0dXJuIGEuZmlyc3QgPT0gbG9nVGFnOyB9KTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpYnVnYXRvbmVfYXBpLmgKICAgICAgICBpZGFlbW9uX2FwaS5oCiAgICAgICAgYnVnYXRvbmVfc3RhdHVzLmgKICAgICAgICBpYnVnYV9zdHJlYW0uaAogICAgICAgIGlidWdhX3NpZ25hbC5oCiAgICAgICAgYnVnYXRvbmVfYXBpX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGRldGVjdG9yX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGFwaV90b19qc29uLmgKICAgICAgICBhcGlfdG9fanNvbi5jcHAKICAgICAgICBidWdhX3N0cmVhbS5oCiAgICAgICAgYnVnYV9zdHJlYW0uY3BwCiAgICAgICAgY29uY3VycmVudF9zdGF0dXMuaAogICAgICAgIGNvbmN1cnJlbnRfc3RhdHVzLmNwcAogICAgICAgIHNpbXBsZV9idWdhX3NpZ25hbC5jcHAKICAgICAgICBzaW1wbGVfYnVnYV9zaWduYWwuaAogICAgICAgIGJ1Z2F0b25lX2FwaS5jcHAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGF1dG8gaXQgPSBzdGQ6OmZpbmRfaWYoc3RkOjpiZWdpbihsb2dMZXZlbE1hc2spLCBzdGQ6OmVuZChsb2dMZXZlbE1hc2spLAogICAgICAgICAgICAgICAgICAgICAgICAgICBbbG9nVGFnXShhdXRvIGEpIHsgcmV0dXJuIGEuZmlyc3QgPT0gbG9nVGFnOyB9KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICghbG9nTGV2ZWxNYXNrLmVtcHR5KCkpIHsKICAgICAgICBMb2dnZXI6OmxvZ0xldmVsTWFzayA9IHN0ZDo6bW92ZShsb2dMZXZlbE1hc2spOwogICAgfQogICAgZWxzZSB7CiAgICAgICAgTG9nZ2VyOjpsb2dMZXZlbE1hc2sgPSB7CgogICAgICAgIH07CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{ 6, 7 },
         { 10, 12 },
         { 300, 5000 }</text>
-      </register>
-      <register name="7" type="4">
-        <text>{&quot;SimpleAutoPlayController&quot;, spdlog::level::warn},
-                {&quot;BugaStream&quot;,               spdlog::level::debug},
-                {&quot;BugatoneApi&quot;,              spdlog::level::debug},
-                {&quot;EarphoneDb&quot;,               spdlog::level::warn},
-                {&quot;IdentifyEarphoneState&quot;,    spdlog::level::debug},
-                {&quot;IdleState&quot;,                spdlog::level::debug},
-                {&quot;InEarDetectionState&quot;,      spdlog::level::debug},
-                {&quot;OutEarDetectionState&quot;,     spdlog::level::debug},
-                {&quot;StateMachine&quot;,             spdlog::level::debug},</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnZlY3RvcjxzdGQ6OnBhaXI8c3RyaW5nLCBzcGRsb2c6OmxldmVsOjpsZXZlbF9lbnVtPj4gbG9nTGV2ZWxNYXNrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -424,8 +439,8 @@
         <entry>x</entry>
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
