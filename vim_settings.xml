@@ -68,12 +68,8 @@
       <file name="/GDB" timestamp="1522316157628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522834405147">
+      <file name="/Dummy.txt" timestamp="1522835426752">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/logger.cpp" timestamp="1522348009008">
-        <mark key="[" line="111" column="3" />
-        <mark key="]" line="114" column="5" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
@@ -82,11 +78,17 @@
         <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/concurrentqueue.h" timestamp="1522833898107" />
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522834309987">
-        <mark key="[" line="119" column="45" />
-        <mark key="]" line="119" column="53" />
-        <mark key="." line="119" column="53" />
-        <mark key="^" line="119" column="53" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522835527113">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1522835400983">
+        <mark key="[" line="67" column="50" />
+        <mark key="]" line="67" column="51" />
+        <mark key="^" line="67" column="56" />
+        <mark key="." line="67" column="51" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
         <mark key="[" line="261" column="0" />
@@ -142,8 +144,11 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="/fragment.mm" timestamp="1522834405141">
+      <file name="/fragment.mm" timestamp="1522835432864">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1522326447188">
         <mark key="[" line="39" column="0" />
@@ -322,7 +327,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -337,7 +342,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
