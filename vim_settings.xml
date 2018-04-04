@@ -79,11 +79,11 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522832776744">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522845724419">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1522835950118">
         <mark key="[" line="50" column="11" />
@@ -102,11 +102,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522842314861">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="49" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.h" timestamp="1522845541327">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_buga_logging.cpp" timestamp="1522232515021">
         <mark key="[" line="4" column="37" />
@@ -369,8 +369,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>buffer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -385,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buffer</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -405,31 +405,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vb2R5Ywo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcm9jZXNzIGl0ZW0uLi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpYnVnYXRvbmVfYXBpLmgKICAgICAgICBpZGFlbW9uX2FwaS5oCiAgICAgICAgYnVnYXRvbmVfc3RhdHVzLmgKICAgICAgICBpYnVnYV9zdHJlYW0uaAogICAgICAgIGlidWdhX3NpZ25hbC5oCiAgICAgICAgYnVnYXRvbmVfYXBpX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGRldGVjdG9yX2NvbmZpZ3VyYXRpb24uaAogICAgICAgIGFwaV90b19qc29uLmgKICAgICAgICBhcGlfdG9fanNvbi5jcHAKICAgICAgICBidWdhX3N0cmVhbS5oCiAgICAgICAgYnVnYV9zdHJlYW0uY3BwCiAgICAgICAgY29uY3VycmVudF9zdGF0dXMuaAogICAgICAgIGNvbmN1cnJlbnRfc3RhdHVzLmNwcAogICAgICAgIHNpbXBsZV9idWdhX3NpZ25hbC5jcHAKICAgICAgICBzaW1wbGVfYnVnYV9zaWduYWwuaAogICAgICAgIGJ1Z2F0b25lX2FwaS5jcHAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gaXQgPSBzdGQ6OmZpbmRfaWYoc3RkOjpiZWdpbihsb2dMZXZlbE1hc2spLCBzdGQ6OmVuZChsb2dMZXZlbE1hc2spLAogICAgICAgICAgICAgICAgICAgICAgICAgICBbbG9nVGFnXShhdXRvIGEpIHsgcmV0dXJuIGEuZmlyc3QgPT0gbG9nVGFnOyB9KTsK</text>
+        <text encoding="base64">ICAgIG1vb2R5Ywo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9nTGV2ZWxNYXNrLmVtcHR5KCkpIHsKICAgICAgICBMb2dnZXI6OmxvZ0xldmVsTWFzayA9IHN0ZDo6bW92ZShsb2dMZXZlbE1hc2spOwogICAgfQogICAgZWxzZSB7CiAgICAgICAgTG9nZ2VyOjpsb2dMZXZlbE1hc2sgPSB7CgogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDA0LzA0LzE4LgovLwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
