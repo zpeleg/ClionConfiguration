@@ -79,11 +79,11 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522852001441">
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" timestamp="1522853674774">
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="73" />
+        <mark key="." line="40" column="73" />
+        <mark key="^" line="40" column="73" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1522835950118">
         <mark key="[" line="50" column="11" />
@@ -164,7 +164,7 @@
       <file name="/GDB" timestamp="1522316157628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522836399546">
+      <file name="/Dummy.txt" timestamp="1522853679708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -369,8 +369,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>curSize</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -385,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>curSize</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -405,34 +405,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBjdXJTaXplID0gbW9vZHlCdWZmZXIuc2l6ZV9hcHByb3goKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb29keVJlc2V0cy50cmRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb29keUJ1ZmZlci4K</text>
+        <text encoding="base64">ICAgICAgICBtb29keVJlc2V0cy50cmRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXIgaXRlbTsKICAgIHdoaWxlIChtb29keUJ1ZmZlci50cnlfZGVxdWV1ZShpdGVtKSkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtb29keUJ1ZmZlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vb2R5QnVmZmVyLgo=</text>
+        <text encoding="base64">ICAgIGNoYXIgaXRlbTsKICAgIHdoaWxlIChtb29keUJ1ZmZlci50cnlfZGVxdWV1ZShpdGVtKSkgewogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG1vb2R5QnVmZmVyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnBhaXI8c3RkOjp1bmlxdWVfcHRyPHN0ZDo6dmVjdG9yPGNoYXI+PiwgYm9vbD4ob3V0cHV0LCB0cnVlKTsKfQo=</text>
+        <text encoding="base64">ICAgIG1vb2R5QnVmZmVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnBhaXI8c3RkOjp1bmlxdWVfcHRyPHN0ZDo6dmVjdG9yPGNoYXI+PiwgYm9vbD4ob3V0cHV0LCB0cnVlKTsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -485,9 +485,9 @@
         <entry>x</entry>
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
