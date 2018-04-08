@@ -15,27 +15,17 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/test_daemon.cpp" timestamp="1521918966839">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1522312949988">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="30" />
-        <mark key="^" line="48" column="30" />
-        <mark key="." line="48" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523189724419">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="105" />
+        <mark key="^" line="29" column="105" />
+        <mark key="." line="29" column="105" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1522834913670">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api_configuration.h" timestamp="1521739446885">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1522835976017">
         <mark key="[" line="46" column="46" />
@@ -67,13 +57,6 @@
         <mark key="^" line="58" column="54" />
         <mark key="." line="58" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/CMakeLists.txt" timestamp="1522834846231">
-        <mark key="'" line="8" column="24" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.h" timestamp="1522846245082">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -98,12 +81,7 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/json_tests.cpp" timestamp="1521260546760">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="/GDB" timestamp="1522316157628">
+      <file name="/GDB" timestamp="1523189795578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522853679708">
@@ -114,6 +92,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523188744254">
+        <mark key="'" line="356" column="45" />
+        <mark key="[" line="289" column="57" />
+        <mark key="]" line="289" column="57" />
+        <mark key="." line="289" column="57" />
+        <mark key="^" line="289" column="57" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522835776213">
         <mark key="[" line="111" column="16" />
@@ -126,11 +111,6 @@
         <mark key="]" line="48" column="36" />
         <mark key="^" line="48" column="36" />
         <mark key="." line="48" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/foreground_calibration.cpp" timestamp="1521983397886">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
@@ -147,15 +127,11 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_daemon/CMakeLists.txt" timestamp="1521733332281">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.h" timestamp="1522834896438">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1523188520921">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="78" column="21" />
+        <mark key="^" line="78" column="21" />
+        <mark key="." line="78" column="21" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1522835860454">
         <mark key="[" line="61" column="15" />
@@ -186,11 +162,6 @@
         <mark key="]" line="50" column="19" />
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1522326447188">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1523181949097">
         <mark key="[" line="0" column="0" />
@@ -230,14 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="59" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
@@ -330,6 +293,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" />
       <jump line="8" column="24" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/CMakeLists.txt" />
       <jump line="26" column="15" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/moody_camel_stream.cpp" />
+      <jump line="51" column="35" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="358" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="373" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="375" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="383" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="389" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="395" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="354" column="45" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -370,7 +341,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>$USER_HOME$/Code/mobileproduct/config_files/calibrations</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -385,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>$USER_HOME$/Code/mobileproduct/config_files/calibrations</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -405,33 +376,32 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNoYXI+IHRvdGFsQnVmZmVyKHF1ZXVlLnNpemVfYXBwcm94KCkpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dW5pcXVlX3B0cjxzdGQ6OnZlY3RvcjxjaGFyPj4gbXlwdHIoc3RkOjptb3ZlKHRvdGFsQnVmZmVyKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdG90YWxCdWZmZXIgPSBzdGQ6Om1ha2VfdW5pcXVlKCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBpbnQgdGltZXJDeWNsZTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>[]() {
+    }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMTAwbXMpOwogICAgICAgICAgICBtZXNzYWdlUXVldWUuZW5xdWV1ZShCdWdhdG9uZVN0YXR1c3t9KTsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkQnVmZmVyLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNoYXI+IHRvdGFsQnVmZmVyKHF1ZXVlLnNpemVfYXBwcm94KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZEJ1ZmZlci5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dW5pcXVlX3B0cjxzdGQ6OnZlY3RvcjxjaGFyPj4gbXlwdHIoc3RkOjptb3ZlKHRvdGFsQnVmZmVyKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWludDE2X3QgcmVhZCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gdG90YWxCdWZmZXIgPSBzdGQ6Om1ha2VfdW5pcXVlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWludDE2X3QgcmVhZCA9IDA7CiAgICAgICAgICAgIHdoaWxlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkQnVmZmVyLmNsZWFyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -545,6 +515,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
