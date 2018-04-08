@@ -15,11 +15,11 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523189724419">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="105" />
-        <mark key="^" line="29" column="105" />
-        <mark key="." line="29" column="105" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523190670379">
+        <mark key="[" line="78" column="75" />
+        <mark key="]" line="78" column="75" />
+        <mark key="^" line="78" column="75" />
+        <mark key="." line="78" column="75" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1522834913670">
         <mark key="[" line="16" column="21" />
@@ -81,7 +81,8 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="61" />
       </file>
-      <file name="/GDB" timestamp="1523189795578">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/readerwriterqueue.h" timestamp="1523190194553" />
+      <file name="/GDB" timestamp="1523190377816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522853679708">
@@ -93,12 +94,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523188744254">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523190491919">
         <mark key="'" line="356" column="45" />
-        <mark key="[" line="289" column="57" />
-        <mark key="]" line="289" column="57" />
-        <mark key="." line="289" column="57" />
-        <mark key="^" line="289" column="57" />
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="393" column="21" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1522835776213">
         <mark key="[" line="111" column="16" />
@@ -341,7 +342,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Code/mobileproduct/config_files/calibrations</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -356,7 +357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Code/mobileproduct/config_files/calibrations</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -376,32 +377,32 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjpzeXN0ZW1fY2xvY2soKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBpbnQgdGltZXJDeWNsZTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>[]() {
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMTAwbXMpOwogICAgICAgICAgICBtZXNzYWdlUXVldWUuZW5xdWV1ZShCdWdhdG9uZVN0YXR1c3t9KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNoYXI+IHRvdGFsQnVmZmVyKHF1ZXVlLnNpemVfYXBwcm94KCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dW5pcXVlX3B0cjxzdGQ6OnZlY3RvcjxjaGFyPj4gbXlwdHIoc3RkOjptb3ZlKHRvdGFsQnVmZmVyKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGF1dG8gdG90YWxCdWZmZXIgPSBzdGQ6Om1ha2VfdW5pcXVlKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkQnVmZmVyLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,8 +459,8 @@
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
