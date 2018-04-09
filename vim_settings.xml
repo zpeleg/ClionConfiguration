@@ -212,8 +212,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" timestamp="1523260747061">
-        <mark key="'" line="25" column="8" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" timestamp="1523269704913">
+        <mark key="'" line="26" column="8" />
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
@@ -423,7 +423,7 @@
         <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -476,9 +476,9 @@
         <entry>x</entry>
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
