@@ -184,6 +184,11 @@
         <mark key="." line="63" column="97" />
         <mark key="^" line="63" column="97" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523250307561">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/iinternal_buga_stream.h" timestamp="1522834775382">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -349,8 +354,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6ZXhjaGFuZ2UoKQo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -385,16 +390,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b3B0aW9uYWwK</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZXhjaGFuZ2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYkFwaSA9IG5ldyBEYXRhVmFsaWRhdGlvbkJ1Z2F0b25lQXBpKCZleHBlY3RlZERhdGEsIHRydWUsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6b3B0aW9uYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBFeHBlY3RlZERhdGEgZXhwZWN0ZWREYXRhewogICAgICAgICAgICAuY2FsaWIgPSBubG9obWFubjo6anNvbjo6cGFyc2UoY2FsaWJKc29uKSwKICAgICAgICAgICAgLnNDZmcgPSB7CiAgICAgICAgICAgICAgICAgICAgLmNoYW5uZWxPcmRlcmluZyA9ICJMMEwxUjBSMSIsCiAgICAgICAgICAgICAgICAgICAgLnNhbXBsZVJhdGUgPSA0ODAwMCwKICAgICAgICAgICAgICAgICAgICAucmVzb2x1dGlvbiA9IDE2LAogICAgICAgICAgICAgICAgICAgIC5sb2dMZXZlbCA9ICJkZWJ1ZyIsCiAgICAgICAgICAgICAgICAgICAgLmxvZ3BhdGggPSAiL3RtcC9sb2dwYXRoIgogICAgICAgICAgICB9LAogICAgICAgICAgICAud0NmZyA9IHsKICAgICAgICAgICAgICAgICAgICAuc2FtcGxlUmF0ZSA9IDQ4MDAwLAogICAgICAgICAgICAgICAgICAgIC5jaGFubmVsT3JkZXJpbmcgID0gIkwwTDFSMFIxIgogICAgICAgICAgICB9CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGF1dG8gYkFwaSA9IG5ldyBEYXRhVmFsaWRhdGlvbkJ1Z2F0b25lQXBpKCZleHBlY3RlZERhdGEsIHRydWUsIHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBFeHBlY3RlZERhdGEgZXhwZWN0ZWREYXRhewogICAgICAgICAgICAuY2FsaWIgPSBubG9obWFubjo6anNvbjo6cGFyc2UoY2FsaWJKc29uKSwKICAgICAgICAgICAgLnNDZmcgPSB7CiAgICAgICAgICAgICAgICAgICAgLmNoYW5uZWxPcmRlcmluZyA9ICJMMEwxUjBSMSIsCiAgICAgICAgICAgICAgICAgICAgLnNhbXBsZVJhdGUgPSA0ODAwMCwKICAgICAgICAgICAgICAgICAgICAucmVzb2x1dGlvbiA9IDE2LAogICAgICAgICAgICAgICAgICAgIC5sb2dMZXZlbCA9ICJkZWJ1ZyIsCiAgICAgICAgICAgICAgICAgICAgLmxvZ3BhdGggPSAiL3RtcC9sb2dwYXRoIgogICAgICAgICAgICB9LAogICAgICAgICAgICAud0NmZyA9IHsKICAgICAgICAgICAgICAgICAgICAuc2FtcGxlUmF0ZSA9IDQ4MDAwLAogICAgICAgICAgICAgICAgICAgIC5jaGFubmVsT3JkZXJpbmcgID0gIkwwTDFSMFIxIgogICAgICAgICAgICB9CiAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -406,13 +411,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDo6Y2hyb25vX2xpdGVyYWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vYy5wcmVsb2FkZWRfa25vd25fbW9kZWxzLmNsZWFyKCk7CiAgICAvLyBUT0RPOiBiYWNrdXAgZWFycGhvbmVfZGIK</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDo6Y2hyb25vX2xpdGVyYWxzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -465,9 +470,9 @@
         <entry>x</entry>
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
