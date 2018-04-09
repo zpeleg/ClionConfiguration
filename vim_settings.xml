@@ -33,11 +33,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1523259547564">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1523260402943">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="82" column="15" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1522835976017">
         <mark key="[" line="46" column="46" />
@@ -93,10 +94,10 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="61" />
       </file>
-      <file name="/GDB" timestamp="1523259427986">
+      <file name="/GDB" timestamp="1523259856363">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523247334761">
+      <file name="/Dummy.txt" timestamp="1523260967248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -162,7 +163,7 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1523259416478">
+      <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1523259847508">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="22" />
@@ -180,11 +181,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523250307561">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522830339819">
         <mark key="[" line="63" column="88" />
@@ -216,20 +212,15 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" timestamp="1523259274708">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" timestamp="1523260747061">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="40" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" />
-      <jump line="340" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_signal.cpp" />
@@ -325,6 +316,11 @@
       <jump line="74" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
       <jump line="77" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
       <jump line="25" column="8" filename="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" />
+      <jump line="72" column="25" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+      <jump line="59" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -364,8 +360,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeSA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -386,7 +382,7 @@
         <text>abs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGEubWFpbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3V0PDwxPDxlbmRsOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -400,31 +396,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHN0b3BEZXRlY3Rpb24gPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeT0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHN0ZDo6dW5pcXVlX2xvY2s8c3RkOjptdXRleD4gbGsobSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkeSA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZWFkeT0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6ZXhjaGFuZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b3B0aW9uYWwK</text>
+        <text encoding="base64">ICAgICAgICByZWFkeT1mYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -481,8 +477,8 @@
         <entry>'</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
