@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp" />
+    <option name="FILE_MASK" value="*.txt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.cpp</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
