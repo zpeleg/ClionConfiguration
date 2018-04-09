@@ -55,12 +55,6 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1523273733219">
-        <mark key="[" line="157" column="35" />
-        <mark key="]" line="157" column="41" />
-        <mark key="^" line="157" column="41" />
-        <mark key="." line="157" column="41" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1523273607503">
         <mark key="[" line="30" column="42" />
         <mark key="]" line="30" column="48" />
@@ -253,11 +247,11 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1523191320216">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1523275755340">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" timestamp="1523271850415">
         <mark key="'" line="55" column="0" />
@@ -273,13 +267,6 @@
         <mark key="]" line="17" column="14" />
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/idle_state.cpp" timestamp="1523271499609">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="14" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -422,8 +409,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb25jdXJyZW50U3RhdHVzIHN0YXR1cygmCgogICAgICAgIGQsIEFsZ29TdGF0ZTo6SU5WQUxJRCwgRWFycGhvbmVTdGF0ZTo6SU5WQUxJRCwKICAgICAgICBEZXRlY3Rpb25SZXN1bHQ6OklOVkFMSUQsIERldGVjdGlvblJlc3VsdDo6SU5WQUxJRCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>shared</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -438,7 +425,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
