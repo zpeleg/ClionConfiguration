@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.cpp" timestamp="1522846919479">
@@ -26,6 +26,12 @@
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1523257203500">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1522835976017">
         <mark key="[" line="46" column="46" />
