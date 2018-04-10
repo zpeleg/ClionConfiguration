@@ -15,6 +15,12 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523335556465">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="98" />
+        <mark key="." line="53" column="98" />
+        <mark key="^" line="53" column="98" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="48" />
@@ -160,7 +166,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523334401633" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523334973031">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="44" />
+        <mark key="." line="305" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523273685078">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="25" column="8" />
@@ -221,7 +231,7 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/GDB" timestamp="1523334404078">
+      <file name="/GDB" timestamp="1523335015230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1523334208515">
@@ -427,7 +437,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Logging</text>
+        <text>Bugatone-Space/python/projects/demo_porting/audio_params/calib_device2_D2002</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -442,13 +452,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Logging</text>
+        <text>Bugatone-Space/python/projects/demo_porting/audio_params/calib_device2_D2002</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1vY2tEYWVtb24gZDsKICAgIFNlcnZpY2VDb25maWcgY2ZnewogICAgICAgICAgICAiZHVtbXlfbG9ncGF0aCIsICAvLyBsb2dwYXRoCiAgICAgICAgICAgIGZhbHNlLCAgLy8gbG9nVG9GaWxlCiAgICAgICAgICAgICJkZWJ1ZyIsICAvLyBsb2dMZXZlbAogICAgICAgICAgICBmYWxzZSwgIC8vIHNhdmVTdHJlYW1BdWRpbwogICAgICAgICAgICAiZHVtbXlfYXVkaW9fcGF0aCIsICAvLyBhdWRpb0ZpbGVQYXRoCiAgICAgICAgICAgIGZhbHNlLCAgLy8gbWl4SW5Gb3JlZ3JvdW5kCiAgICAgICAgICAgICIiLCAgLy8gbWl4RmlsZQogICAgICAgICAgICAwLCAgLy8gZmluaXNoRm9yZWdyb3VuZFNlY3MKICAgICAgICAgICAgMSwgIC8vIHJlc29sdXRpb24KICAgICAgICAgICAgNDgwMDAsICAvLyBzYW1wbGVSYXRlCiAgICAgICAgICAgICJMMEwxUjBSMSIsLy8gY2hhbm5lbE9yZGVyaW5nCiAgICAgICAgICAgIDAvL2ZvcmdldENhbGlicmF0aW9ucwogICAgfTsKICAgIENvbmN1cnJlbnRTdGF0dXMgc3RhdHVzKCZkLCBBbGdvU3RhdGU6OklOVkFMSUQsIEVhcnBob25lU3RhdGU6OklOVkFMSUQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZXRlY3Rpb25SZXN1bHQ6OklOVkFMSUQsIERldGVjdGlvblJlc3VsdDo6SU5WQUxJRCk7CiAgICBDYWxpYnJhdGlvbnMgZHVtbXlDYWxpYnt9OwogICAgV29ya2luZ0NvbmZpZyBkdW1teUNmZ3s0ODAwMCwgIkwwTDFSMFIxIiwgQXV0b1BhdXNlQ29uZmlnKCksIEF1dG9QbGF5Q29uZmlnKCksIEZvcmVncm91bmRDYWxpYnJhdGlvbkNvbmZpZygpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBBbGdvU3RhdGU6OklETEV9Owo=</text>
+        <text encoding="base64">ICAgIGpbInJlZl9icF9taW5fZnJlcSJdID0gY2ZnLnJlZkJwTWluRnJlcTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
