@@ -27,6 +27,13 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1523260402943">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="82" column="15" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1522835976017">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="54" />
@@ -98,6 +105,7 @@
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/data/earphone_db.cpp" timestamp="1523334023675" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1523273661826">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="49" />
@@ -152,6 +160,7 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523334401633" />
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523273685078">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="25" column="8" />
@@ -212,10 +221,10 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/GDB" timestamp="1523333263592">
+      <file name="/GDB" timestamp="1523334404078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523289172035">
+      <file name="/Dummy.txt" timestamp="1523334208515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -256,6 +265,13 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
+      </file>
+      <file name="/fragment.mm" timestamp="1523334584026">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522830339819">
         <mark key="[" line="63" column="88" />
