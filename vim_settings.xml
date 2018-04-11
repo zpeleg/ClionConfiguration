@@ -108,6 +108,12 @@
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523421045968">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/data/earphone_db.cpp" timestamp="1523421314917" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1523273661826">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="49" />
@@ -227,7 +233,7 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/GDB" timestamp="1523335015230">
+      <file name="/GDB" timestamp="1523421581988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1523349054511">
@@ -279,7 +285,8 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1522830339819">
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1523420963795">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="63" column="88" />
         <mark key="]" line="63" column="97" />
         <mark key="." line="63" column="97" />
@@ -293,13 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
@@ -393,6 +393,13 @@
       <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" />
+      <jump line="9" column="13" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -424,7 +431,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEwK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -459,31 +466,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaW5nIEUyZVRlc3REYWVtb246OkxPR19UQUcoIlRFU1QtREFFTU9OIik7Cg==</text>
+        <text encoding="base64">ICAgIGVhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEJ1Z2F0b25lRXZlbnRUeXBlOjpDWUNMRV9TVEFSVDoKICAgICAgICAgICAgcmV0dXJuICJDWUNMRV9TVEFSVCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENZQ0xFX1NUQVJUCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBzdGQ6OnRocmVhZCBoaTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgdGltZXJDeWNsZSgpOwoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMuZWFycGhvbmVTdGF0ZSA9PSBFYXJwaG9uZVN0YXRlOjpVTktOT1dOX01PREVMKSB7CiAgICAgICAgcmV0dXJuIEJ1Z2F0b25lRXZlbnRUeXBlOjpDWUNMRV9TVEFSVDsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExvZ2dlcjo6aW5pdExvZ2dlcih0cnVlLGZhbHNlLGZhbHNlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qgc3RyaW5nIEUyZVRlc3REYWVtb246OkxPR19UQUcoIlRFU1QtREFFTU9OIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIEJ1Z2F0b25lRXZlbnRUeXBlOjpDWUNMRV9TVEFSVDoKICAgICAgICAgICAgcmV0dXJuICJDWUNMRV9TVEFSVCI7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBCdWdhdG9uZUV2ZW50VHlwZTo6Q1lDTEVfU1RBUlQ6CiAgICAgICAgICAgICAgICBzdGFydERldGVjdGlvbihBbGdvVHlwZTo6TVVTSUNfREVURUNUSU9OKTsK</text>
+        <text encoding="base64">ICAgIENZQ0xFX1NUQVJUCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
