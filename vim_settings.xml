@@ -119,8 +119,8 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1523437309993">
-        <mark key="'" line="123" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1523458883684">
+        <mark key="'" line="167" column="4" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="136" column="16" />
       </file>
@@ -257,7 +257,7 @@
       <file name="/GDB" timestamp="1523421581988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523448921777">
+      <file name="/Dummy.txt" timestamp="1523458737424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -334,8 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" />
@@ -423,7 +421,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="4" column="15" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" />
       <jump line="10" column="51" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" />
-      <jump line="166" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="153" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
@@ -434,6 +431,9 @@
       <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="123" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="165" column="4" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="166" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="167" column="4" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
