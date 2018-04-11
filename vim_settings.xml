@@ -51,11 +51,11 @@
         <mark key="^" line="56" column="31" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" timestamp="1523434137816">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" timestamp="1523434752814">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_tests.cpp" timestamp="1522835892277">
         <mark key="[" line="58" column="46" />
@@ -189,11 +189,11 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1523433146031">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="11" column="48" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1523434403074">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1523273699135">
         <mark key="[" line="26" column="42" />
@@ -246,7 +246,7 @@
       <file name="/GDB" timestamp="1523421581988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523432995118">
+      <file name="/Dummy.txt" timestamp="1523434673740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -294,12 +294,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/fragment.mm" timestamp="1523334584026">
+      <file name="/fragment.mm" timestamp="1523434267877">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1523420963795">
         <mark key="'" line="57" column="0" />
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/idle_tests.cpp" />
@@ -416,6 +415,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="4" column="15" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -446,8 +446,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>audioData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZ3VyYXRpb24vY29uZmlnX2J1aWxkZXIuaCIK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -462,13 +462,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>audioData</text>
+        <text>nlohmann</text>
       </register>
       <register name="/" type="4">
-        <text>abs</text>
+        <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm9pZCBzaW1wbGVfYXV0b19wYXVzZV9jb250cm9sbGVyX3B1c2goc2l6ZV90IGlkLCBjaGFyKiBhdWRpb0RhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuLi8uLi9kZXBlbmRlbmNpZXMvbmxvaG1hbm4vaW5jbHVkZQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -482,48 +482,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZ3VyYXRpb24vY29uZmlnX2J1aWxkZXIuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImRhdGEvYXVkaW9fZGF0YS5oIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfYnVpbGRlcl9iaW5kaW5ncy5oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWdhX3N0cmVhbV9iaW5kaW5ncy5oCg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBqc29yZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0c19iaW5kaW5ncy5oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsc3RzcV9iaW5kaW5ncy5oCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHRzX2JpbmRpbmdzLmgK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfYnVpbGRlcl9iaW5kaW5ncy5oCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLmgK</text>
+        <text encoding="base64">ICAgICAgICBidWdhX3N0cmVhbV9iaW5kaW5ncy5oCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDExLzA0LzE4LgovLwoK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0c19iaW5kaW5ncy5oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>abs</last-search>
-      <last-offset>/n</last-offset>
-      <last-pattern>abs</last-pattern>
+      <last-search encoding="base64">XDxhdWRpb19kYXRhXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhdWRpb19kYXRhXD4=</last-pattern>
       <last-replace />
       <last-substitute>=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>openPCM</entry>
         <entry>LIGHT</entry>
         <entry>SIGTERM</entry>
         <entry>=</entry>
@@ -543,6 +542,7 @@
         <entry>std::</entry>
         <entry>std::abs</entry>
         <entry>abs</entry>
+        <entry encoding="base64">XDxhdWRpb19kYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>!make</entry>
