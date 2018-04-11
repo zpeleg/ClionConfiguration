@@ -69,11 +69,11 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_auto_pause_controller_bindings.cpp" timestamp="1523437778729">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_auto_pause_controller_bindings.cpp" timestamp="1523458985041">
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="19" column="3" />
         <mark key="^" line="19" column="3" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523426992196">
         <mark key="'" line="0" column="0" />
@@ -119,10 +119,10 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1523458883684">
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1523458971152">
         <mark key="'" line="167" column="4" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="136" column="16" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="165" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1522835950118">
         <mark key="[" line="50" column="11" />
@@ -257,7 +257,7 @@
       <file name="/GDB" timestamp="1523421581988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523458737424">
+      <file name="/Dummy.txt" timestamp="1523458962971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -465,7 +465,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHM7Cg==</text>
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGogPSBubG9obWFubjo6anNvbjo6cGFyc2UoYXVkaW9EYXRhLCBhdWRpb0RhdGEgKyAoaW50KXN0cmxlbihhdWRpb0RhdGEpKTsKICAgIEF1ZGlvRGF0YSBhdWRpb0RhdGExID0gajsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -485,8 +485,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>simple_auto_pause_controller_reset</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGogPSBubG9obWFubjo6anNvbjo6cGFyc2UoYXVkaW9EYXRhLCBhdWRpb0RhdGEgKyAoaW50KXN0cmxlbihhdWRpb0RhdGEpKTsKICAgIEF1ZGlvRGF0YSBhdWRpb0RhdGExID0gajsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -500,28 +500,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHM7Cg==</text>
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGogPSBubG9obWFubjo6anNvbjo6cGFyc2UoYXVkaW9EYXRhLCBhdWRpb0RhdGEgKyAoaW50KXN0cmxlbihhdWRpb0RhdGEpKTsKICAgIEF1ZGlvRGF0YSBhdWRpb0RhdGExID0gajsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZm9yZWdyb3VuZF9jYWxpYnJhdGlvbl9hbGdvX2dlbmVyYXRlX3NvbmdzJzogKFtjX3NpemVfdCwgUE9JTlRFUihudW1weWlzaF9kb3VibGVzKV0sIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAganNvbiBoaShyZXMpOwovLyAgICByZXR1cm4gaGkuZHVtcCgpOwogICAgcmV0dXJuIG51bGxwdHI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZ3VyYXRpb24vY29uZmlnX2J1aWxkZXIuaCIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImRhdGEvYXVkaW9fZGF0YS5oIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnZm9yZWdyb3VuZF9jYWxpYnJhdGlvbl9hbGdvX2dlbmVyYXRlX3NvbmdzJzogKFtjX3NpemVfdCwgUE9JTlRFUihudW1weWlzaF9kb3VibGVzKV0sIE5vbmUpLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAganNvbiBoaShyZXMpOwovLyAgICByZXR1cm4gaGkuZHVtcCgpOwogICAgcmV0dXJuIG51bGxwdHI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZ3VyYXRpb24vY29uZmlnX2J1aWxkZXIuaCIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBqc29yZXM7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImRhdGEvYXVkaW9fZGF0YS5oIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
