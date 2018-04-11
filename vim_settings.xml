@@ -15,11 +15,10 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523422323886">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523426972875">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
@@ -64,12 +63,12 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523349386414">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523426992196">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
         <mark key="^" line="162" column="75" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1523273607503">
         <mark key="[" line="30" column="42" />
@@ -77,12 +76,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1523349382059">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.h" timestamp="1523427028551">
         <mark key="'" line="126" column="0" />
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="99" column="39" />
-        <mark key="." line="99" column="39" />
-        <mark key="^" line="99" column="39" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1522835860454">
         <mark key="[" line="61" column="15" />
@@ -242,7 +241,7 @@
       <file name="/GDB" timestamp="1523421581988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523422355352">
+      <file name="/Dummy.txt" timestamp="1523426984656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -437,7 +436,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>tmp_dir/audio_data_1</text>
+        <text>event_</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -452,7 +451,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tmp_dir/audio_data_1</text>
+        <text>event_</text>
       </register>
       <register name="/" type="4">
         <text>abs</text>
@@ -472,31 +471,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyJjb3VudGVyIixjb3VudGVyfX0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVhcgo=</text>
+        <text encoding="base64">Ly8gICAgd2hpbGUgKHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaW51dGVzPihzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0KS5jb3VudCgpIDwgMikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVhcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5pdExvZ2dlcih0cnVlLGZhbHNlLGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaW5nIEUyZVRlc3REYWVtb246OkxPR19UQUcoIlRFU1QtREFFTU9OIik7Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6aW5pdExvZ2dlcih0cnVlLGZhbHNlLGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEJ1Z2F0b25lRXZlbnRUeXBlOjpDWUNMRV9TVEFSVDoKICAgICAgICAgICAgcmV0dXJuICJDWUNMRV9TVEFSVCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENZQ0xFX1NUQVJUCg==</text>
+        <text encoding="base64">Y29uc3Qgc3RyaW5nIEUyZVRlc3REYWVtb246OkxPR19UQUcoIlRFU1QtREFFTU9OIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
