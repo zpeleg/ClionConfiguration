@@ -27,9 +27,9 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523524257600">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523526039286">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="27" column="12" />
+        <mark key="[" line="38" column="9" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
         <mark key="^" line="39" column="11" />
@@ -161,7 +161,7 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523525123076">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523525938527">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="121" column="25" />
         <mark key="]" line="122" column="36" />
@@ -299,7 +299,7 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523524785529">
+      <file name="/Dummy.txt" timestamp="1523526309625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -314,11 +314,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" timestamp="1523523023391">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" timestamp="1523525522199">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523192271530">
         <mark key="[" line="111" column="16" />
@@ -394,11 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
-      <jump line="4" column="15" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" />
       <jump line="10" column="51" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
@@ -494,6 +490,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
+      <jump line="17" column="49" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -524,8 +525,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+      <register name="&quot;" type="4">
+        <text>MUSIC_DETECTION</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -540,13 +541,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>startRecording();</text>
+        <text>MUSIC_DETECTION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNT0NLX01FVEhPRDEocHVzaCwgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPElBbGdvUmVzdWx0Pj4oCiAgICAgICAgICAgICAgICBjb25zdCBBdWRpb0RhdGEmKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudEFsZ28gPT0gQWxnb1N0YXRlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04pIHsKICAgICAgICAgICAgYXV0b1BhdXNlQWxnby5yZXNldCgpOwogICAgICAgICAgICBjdXJyZW50QWxnbyA9IEFsZ29TdGF0ZTo6TVVTSUNfREVURUNUSU9OOwogICAgICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -560,31 +561,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dGllKHN0cmVhbSwgc3VjY2VzcykgPSAK</text>
+        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50QWxnbz09QWxnb1N0YXRlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04pe30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKHN0cmVhbT09IG51bGxwdHIpIHsK</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH1lbHNlewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghZGFlbW9uLT5yZXF1ZXN0U3RhcnRSZWNvcmRpbmcoc3RyZWFtLmdldCgpKSkgewogICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRywgInJlcXVlc3QgcmVjb3JkaW5nIGZhaWxlZCEiKTsKICAgICAgICBzZXRFcnJvcihnZXRFcnJvckNvZGUoRXJyb3JGYWNpbGl0eTo6T1VUX0VBUl9ERVRFQ1RJT04sIEJ1Z2F0b25lRXJyb3JDb2RlOjpVTkVYUEVDVEVEX0VYQ0VQVElPTiksCiAgICAgICAgICAgICAgICAgTE9HX1RBRyArICIgcmVxdWVzdCByZWNvcmRpbmcgZmFpbGVkISIpOwogICAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0ZDo6dGllKHN0cmVhbSwgc3VjY2VzcykgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vY3JlYXRlIHRoZSBzaWduYWwgYW5kIHN0YXJ0IG1peGluZwo=</text>
+        <text encoding="base64">ICAgIGlmKHN0cmVhbT09IG51bGxwdHIpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b3B0aW9uYWw8aW50PiBibGE7Cg==</text>
+        <text encoding="base64">ICAgIH1lbHNlewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghZGFlbW9uLT5yZXF1ZXN0U3RhcnRSZWNvcmRpbmcoc3RyZWFtLmdldCgpKSkgewogICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRywgInJlcXVlc3QgcmVjb3JkaW5nIGZhaWxlZCEiKTsKICAgICAgICBzZXRFcnJvcihnZXRFcnJvckNvZGUoRXJyb3JGYWNpbGl0eTo6T1VUX0VBUl9ERVRFQ1RJT04sIEJ1Z2F0b25lRXJyb3JDb2RlOjpVTkVYUEVDVEVEX0VYQ0VQVElPTiksCiAgICAgICAgICAgICAgICAgTE9HX1RBRyArICIgcmVxdWVzdCByZWNvcmRpbmcgZmFpbGVkISIpOwogICAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vY3JlYXRlIHRoZSBzaWduYWwgYW5kIHN0YXJ0IG1peGluZwogICAgYXV0byBzaWduYWwgPSBTaW1wbGVCdWdhU2lnbmFsKDIwMDAwKTsKICAgIGRhZW1vbi0+cmVxdWVzdFN0YXJ0TWl4aW5nKCZzaWduYWwpOwo=</text>
+        <text encoding="base64">ICAgIC8vY3JlYXRlIHRoZSBzaWduYWwgYW5kIHN0YXJ0IG1peGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -640,8 +641,8 @@
         <entry>'</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
