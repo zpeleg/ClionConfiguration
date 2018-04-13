@@ -52,12 +52,12 @@
         <mark key="." line="170" column="27" />
         <mark key="^" line="170" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/data/audio_data_util.cpp" timestamp="1523617225268">
+      <file name="$USER_HOME$/Code/mobileproduct/src/data/audio_data_util.cpp" timestamp="1523618810743">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="66" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="9" column="66" />
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+        <mark key="." line="74" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.cpp" timestamp="1523511519951">
         <mark key="'" line="3" column="0" />
@@ -158,10 +158,10 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1523617356126">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1523618826810">
         <mark key="[" line="181" column="28" />
         <mark key="]" line="181" column="28" />
-        <mark key="^" line="61" column="23" />
+        <mark key="^" line="181" column="28" />
         <mark key="." line="181" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_main.cpp" timestamp="1522142823447">
@@ -188,12 +188,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523617044589">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523618961085">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="218" column="28" />
-        <mark key="]" line="218" column="34" />
-        <mark key="." line="218" column="34" />
-        <mark key="^" line="218" column="34" />
+        <mark key="]" line="218" column="28" />
+        <mark key="." line="218" column="28" />
+        <mark key="^" line="218" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523612170129">
         <mark key="'" line="352" column="0" />
@@ -242,6 +242,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/data/audio_data_util_tests.cpp" timestamp="1523618529031">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1523248073428">
         <mark key="[" line="31" column="54" />
@@ -324,7 +330,7 @@
       <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523617015304">
+      <file name="/Dummy.txt" timestamp="1523619176377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -347,7 +353,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523617363936">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523618833516">
         <mark key="[" line="274" column="28" />
         <mark key="]" line="274" column="28" />
         <mark key="." line="274" column="28" />
@@ -570,7 +576,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -585,7 +591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
@@ -605,31 +611,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Q3ljbGUoMCksCg==</text>
+        <text encoding="base64">ICAgIHJlcy5sb29wYmFjayA9IENoYW5uZWxsZWQ8dmVjdG9yPGRvdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiU3RvcHBpbmcgb3V0X2Vhcl9kZXRlY3Rpb25fc3RhdGUiLCB7eyJjdXJyZW50Q3ljbGUiLCAgY3VycmVudEN5Y2xlLmxvYWQoKX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsic3RvcERldGVjdGlvbiIsIHN0b3BEZXRlY3Rpb24ubG9hZCgpfX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Q3ljbGUoMCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXRvbWljPGludD4gY3VycmVudEN5Y2xlOwo=</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiU3RvcHBpbmcgb3V0X2Vhcl9kZXRlY3Rpb25fc3RhdGUiLCB7eyJjdXJyZW50Q3ljbGUiLCAgY3VycmVudEN5Y2xlLmxvYWQoKX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsic3RvcERldGVjdGlvbiIsIHN0b3BEZXRlY3Rpb24ubG9hZCgpfX0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRDeWNsZS5mZXRjaF9hZGQoMSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXRvbWljPGludD4gY3VycmVudEN5Y2xlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U2luZ2xlIGNvbnRyb2xsZXIgY2FuIGNoYW5nZSBmcm9tIE1VU0lDX0RFVCB0byBTUEVDSUFMX0RFVAo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRDeWNsZS5mZXRjaF9hZGQoMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICIgVGhpcyB3YXMgdGhlIGJ1ZyAxIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">U2luZ2xlIGNvbnRyb2xsZXIgY2FuIGNoYW5nZSBmcm9tIE1VU0lDX0RFVCB0byBTUEVDSUFMX0RFVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICJUaGlzIHdhcyB0aGUgYnVnIDIiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICIgVGhpcyB3YXMgdGhlIGJ1ZyAxIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgc2V0RGV0ZWN0aW9uUmVzdWx0KERldGVjdGlvblJlc3VsdDo6SU4sIERldGVjdGlvblJlc3VsdDo6SU4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICJUaGlzIHdhcyB0aGUgYnVnIDIiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgc2V0RGV0ZWN0aW9uUmVzdWx0KERldGVjdGlvblJlc3VsdDo6SU4sIERldGVjdGlvblJlc3VsdDo6SU4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -686,8 +692,8 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
