@@ -33,12 +33,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523605099873">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523607136333">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="59" column="63" />
-        <mark key="]" line="59" column="103" />
-        <mark key="." line="59" column="103" />
-        <mark key="^" line="59" column="103" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="85" column="11" />
+        <mark key="." line="85" column="11" />
+        <mark key="^" line="85" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1523521429727">
         <mark key="[" line="33" column="19" />
@@ -390,7 +390,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1523606437433">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1523606917447">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="163" column="12" />
         <mark key="]" line="163" column="15" />
@@ -555,8 +555,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>debug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -571,13 +571,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>autoPauseAlgo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGUyZURhZW1vbi0+c3RhcnREZXRlY3Rpb24oQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -591,12 +591,18 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGxheSIpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>BugatoneStatus{
                 .earphoneState=EarphoneState::READY,
                 .bugatoneState=AlgoState::MUSIC_DETECTION,
@@ -604,7 +610,7 @@
                 .detectionResultRight=DetectionResult::OUT
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>BugatoneStatus{
                 .earphoneState=EarphoneState::READY,
                 .bugatoneState=AlgoState::SPECIAL_SIGNAL_DETECTION,
@@ -612,20 +618,14 @@
                 .detectionResultRight=DetectionResult::IN
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlUXVldWUuZW5xdWV1ZShCdWdhdG9uZVN0YXR1cygpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBCdWdhdG9uZUV2ZW50VHlwZSBldmVudFR5cGUgPSBzdGF0dXNUb0V2ZW50VHlwZShzdGF0dXMpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlMmVEYWVtb24tPnN0YXJ0RGV0ZWN0aW9uKEFsZ29TdGF0ZTo6U1BFQ0lBTF9TSUdOQUxfREVURUNUSU9OKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlMmVEYWVtb24tPnN0YXJ0RGV0ZWN0aW9uKEFsZ29TdGF0ZTo6U1BFQ0lBTF9TSUdOQUxfREVURUNUSU9OKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
