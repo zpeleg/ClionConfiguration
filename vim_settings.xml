@@ -33,12 +33,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523595716778">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523603646317">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="49" column="78" />
-        <mark key="]" line="49" column="78" />
-        <mark key="." line="49" column="78" />
-        <mark key="^" line="74" column="29" />
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="40" column="57" />
+        <mark key="^" line="40" column="57" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1523521429727">
         <mark key="[" line="33" column="19" />
@@ -552,7 +552,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>!=</text>
+        <text>autoPlayAlgo</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -567,13 +567,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!=</text>
+        <text>autoPlayAlgo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGUyZURhZW1vbi0+c3RhcnREZXRlY3Rpb24oQWxnb1N0YXRlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04pOwogICAgd2hpbGUgKHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjpzZWNvbmRzPgogICAgICAgICAgICAgICAgICAgKHN0ZDo6Y2hyb25vOjpzdGVhZHlfY2xvY2s6Om5vdygpIC0gc3RhcnQpLmNvdW50KCkgPCAxNSkgewogICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcig1MG1zKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcsICJSZXNldHRpbmcgYXV0b1BsYXlBbGdvIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
