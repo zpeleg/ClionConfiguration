@@ -15,11 +15,11 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523595894200">
-        <mark key="[" line="77" column="74" />
-        <mark key="]" line="77" column="74" />
-        <mark key="." line="77" column="74" />
-        <mark key="^" line="77" column="74" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523596161763">
+        <mark key="[" line="82" column="72" />
+        <mark key="]" line="82" column="73" />
+        <mark key="." line="82" column="73" />
+        <mark key="^" line="82" column="73" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
@@ -51,6 +51,9 @@
         <mark key="]" line="170" column="27" />
         <mark key="." line="170" column="27" />
         <mark key="^" line="170" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/data/audio_data_util.cpp" timestamp="1523597357212">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.cpp" timestamp="1523511519951">
         <mark key="'" line="3" column="0" />
@@ -114,7 +117,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523596045018">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523596312261">
         <mark key="'" line="367" column="0" />
         <mark key="[" line="422" column="39" />
         <mark key="]" line="422" column="39" />
@@ -175,12 +178,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523595403546">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523596690175">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
+        <mark key="[" line="69" column="44" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523594574492">
         <mark key="'" line="352" column="0" />
@@ -312,10 +315,10 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/GDB" timestamp="1523595634775">
+      <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523595964736">
+      <file name="/Dummy.txt" timestamp="1523596315208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -418,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_algo_result.cpp" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_algo_result.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_algo_result.cpp" />
       <jump line="36" column="29" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
@@ -518,6 +520,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/data/audio_data_util.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,8 +551,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -564,13 +567,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>!=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>MANUAL_SPECIAL_DET</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGUyZURhZW1vbi0+c3RhcnREZXRlY3Rpb24oQWxnb1N0YXRlOjpTUEVDSUFMX1NJR05BTF9ERVRFQ1RJT04pOwogICAgd2hpbGUgKHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjpzZWNvbmRzPgogICAgICAgICAgICAgICAgICAgKHN0ZDo6Y2hyb25vOjpzdGVhZHlfY2xvY2s6Om5vdygpIC0gc3RhcnQpLmNvdW50KCkgPCAxNSkgewogICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcig1MG1zKTsKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -675,8 +678,8 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
