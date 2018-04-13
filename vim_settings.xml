@@ -178,12 +178,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523596690175">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523599944796">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="69" column="44" />
-        <mark key="]" line="70" column="45" />
-        <mark key="." line="70" column="45" />
-        <mark key="^" line="70" column="45" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="41" column="140" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523594574492">
         <mark key="'" line="352" column="0" />
@@ -318,7 +318,7 @@
       <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523596315208">
+      <file name="/Dummy.txt" timestamp="1523599723779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
