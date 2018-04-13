@@ -15,11 +15,11 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523596161763">
-        <mark key="[" line="82" column="72" />
-        <mark key="]" line="82" column="73" />
-        <mark key="." line="82" column="73" />
-        <mark key="^" line="82" column="73" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523604951511">
+        <mark key="[" line="87" column="72" />
+        <mark key="]" line="87" column="73" />
+        <mark key="." line="87" column="73" />
+        <mark key="^" line="87" column="73" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
@@ -33,12 +33,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523603646317">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523605099873">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="57" />
-        <mark key="." line="40" column="57" />
-        <mark key="^" line="40" column="57" />
+        <mark key="[" line="59" column="63" />
+        <mark key="]" line="59" column="103" />
+        <mark key="." line="59" column="103" />
+        <mark key="^" line="59" column="103" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1523521429727">
         <mark key="[" line="33" column="19" />
@@ -117,7 +117,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523596312261">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523604991151">
         <mark key="'" line="367" column="0" />
         <mark key="[" line="422" column="39" />
         <mark key="]" line="422" column="39" />
@@ -318,7 +318,7 @@
       <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523599723779">
+      <file name="/Dummy.txt" timestamp="1523604786346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -552,7 +552,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>autoPlayAlgo</text>
+        <text>apRes.left, apRes.right</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -567,13 +567,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>autoPlayAlgo</text>
+        <text>apRes.left, apRes.right</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcsICJSZXNldHRpbmcgYXV0b1BsYXlBbGdvIik7Cg==</text>
+        <text encoding="base64">ICAgIGUyZURhZW1vbi0+c3RhcnREZXRlY3Rpb24oQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04pOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
