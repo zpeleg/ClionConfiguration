@@ -33,12 +33,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523607136333">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523608374171">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="85" column="11" />
-        <mark key="." line="85" column="11" />
-        <mark key="^" line="85" column="11" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="59" column="84" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1523521429727">
         <mark key="[" line="33" column="19" />
@@ -178,11 +178,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523605965276">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523608310189">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
         <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523594574492">
@@ -318,8 +318,10 @@
       <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523604786346">
+      <file name="/Dummy.txt" timestamp="1523608425444">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
@@ -556,7 +558,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
+        <text encoding="base64">U2luZ2xlIGNvbnRyb2xsZXIgY2FuIGNoYW5nZSBmcm9tIE1VU0lDX0RFVCB0byBTUEVDSUFMX0RFVAo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -571,7 +573,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>autoPauseAlgo</text>
+        <text>DetectionResult::OUT, DetectionResult::OUT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
@@ -591,41 +593,36 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
+        <text encoding="base64">U2luZ2xlIGNvbnRyb2xsZXIgY2FuIGNoYW5nZSBmcm9tIE1VU0lDX0RFVCB0byBTUEVDSUFMX0RFVAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGxheSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICIgVGhpcyB3YXMgdGhlIGJ1ZyAxIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTG9nZ2VyOjp3YXJuKExPR19UQUcsICJUaGlzIHdhcyB0aGUgYnVnIDIiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgc2V0RGV0ZWN0aW9uUmVzdWx0KERldGVjdGlvblJlc3VsdDo6SU4sIERldGVjdGlvblJlc3VsdDo6SU4pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGF1c2VBbGdvIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlc2V0dGluZyBhdXRvUGxheSIpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>BugatoneStatus{
                 .earphoneState=EarphoneState::READY,
                 .bugatoneState=AlgoState::MUSIC_DETECTION,
                 .detectionResultLeft=DetectionResult::OUT,
                 .detectionResultRight=DetectionResult::OUT
         }</text>
-      </register>
-      <register name="6" type="4">
-        <text>BugatoneStatus{
-                .earphoneState=EarphoneState::READY,
-                .bugatoneState=AlgoState::SPECIAL_SIGNAL_DETECTION,
-                .detectionResultLeft=DetectionResult::IN,
-                .detectionResultRight=DetectionResult::IN
-        }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlUXVldWUuZW5xdWV1ZShCdWdhdG9uZVN0YXR1cygpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdWdhdG9uZUV2ZW50VHlwZSBldmVudFR5cGUgPSBzdGF0dXNUb0V2ZW50VHlwZShzdGF0dXMpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlMmVEYWVtb24tPnN0YXJ0RGV0ZWN0aW9uKEFsZ29TdGF0ZTo6U1BFQ0lBTF9TSUdOQUxfREVURUNUSU9OKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
