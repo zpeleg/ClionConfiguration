@@ -188,12 +188,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523625804820">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="40" column="51" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523634475184">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="31" column="74" />
+        <mark key="]" line="31" column="74" />
+        <mark key="." line="31" column="74" />
+        <mark key="^" line="31" column="74" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523612170129">
         <mark key="'" line="352" column="0" />
