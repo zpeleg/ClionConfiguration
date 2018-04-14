@@ -46,6 +46,10 @@
         <mark key="^" line="34" column="41" />
         <mark key="." line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/results_to_json.h" timestamp="1523684803879">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.cpp" timestamp="1523511047359">
         <mark key="[" line="170" column="27" />
         <mark key="]" line="170" column="27" />
@@ -58,13 +62,6 @@
         <mark key="]" line="74" column="18" />
         <mark key="^" line="74" column="18" />
         <mark key="." line="74" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.cpp" timestamp="1523511519951">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.h" timestamp="1523612797095">
         <mark key="[" line="41" column="0" />
@@ -188,11 +185,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523683637442">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523684952936">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1523684956643" />
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523612170129">
         <mark key="'" line="352" column="0" />
         <mark key="[" line="248" column="0" />
@@ -328,7 +326,7 @@
       <file name="/GDB" timestamp="1523596697151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523629005282">
+      <file name="/Dummy.txt" timestamp="1523684752225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,6 +420,9 @@
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_algo_result.cpp" timestamp="1523684844075">
+        <mark key="[" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/CMakeLists.txt" timestamp="1523273691948">
         <mark key="[" line="15" column="42" />
@@ -575,7 +576,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vLy8vIExPRyBUSElTCg==</text>
+        <text encoding="base64">dm9pZCB0b19qc29uKGpzb24mIGosIGNvbnN0IE5ld0NhbGlicmF0aW9uc0FsZ29SZXN1bHRzJiByZXMpOwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -596,7 +597,7 @@
         <text encoding="base64">XDxhdWRpb19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAicmVxdWVzdFN0b3BNaXhpbmcgZW50ZXIiKTsK</text>
+        <text encoding="base64">dm9pZCB0b19qc29uKGpzb24mIGosIGNvbnN0IE5ld0NhbGlicmF0aW9uc0FsZ29SZXN1bHRzJiByZXMpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -610,35 +611,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLy8vIExPRyBUSElTCg==</text>
+        <text encoding="base64">dm9pZCB0b19qc29uKGpzb24mIGosIGNvbnN0IE5ld0NhbGlicmF0aW9uc0FsZ29SZXN1bHRzJiByZXMpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vLy8vIExPRyBUSElTCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vLy8gTE9HIFRISVMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>S
     try</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIFRoaXMgd2lsbCBrZWVwIGJlaW5nIGEgcHJvYmxlbSBsYXRlciBvbgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgcmV0dXJuIGN1cnJlbnRDeWNsZSA+IHN0b3BEZXRlY3Rpb247Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgc3RvcERldGVjdGlvbi5mZXRjaF9hZGQoMSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgImZpbmlzaCBwdXNoIik7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgImZpbmlzaCByZXN1bHRzIik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nc3RyZWFtIG1zZzsKICAgIG1zZyA8PCAic2V0IGRldGVjdGlvbiByZXN1bHRzOiBsZWZ0ICIgPDwgKGludCkgbGVmdCA8PCAiIHJpZ2h0ICIgPDwgKGludCkgcmlnaHQ7CiAgICBzdHJpbmcgc3RyID0gbXNnLnN0cigpOwogICAgTG9nZ2VyOjpkZWJ1ZyhMT0dfVEFHLCBzdHIpOwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -691,9 +692,9 @@
         <entry>'</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
