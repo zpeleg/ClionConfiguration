@@ -310,11 +310,6 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/results_to_json.cpp" timestamp="1523685449609">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1523273699135">
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="48" />
@@ -366,7 +361,7 @@
       <file name="/GDB" timestamp="1523692395980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523702994575">
+      <file name="/Dummy.txt" timestamp="1523706051263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -612,7 +607,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nIiwgZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nKTsK</text>
+        <text encoding="base64">RGVsZXRlIGFsbCBzdGF0ZXMgd2hlbiBkZWxldGluZyBzdGF0ZSBtYWNoaW5lLgo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -647,31 +642,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nIiwgZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nKTsK</text>
+        <text encoding="base64">RGVsZXRlIGFsbCBzdGF0ZXMgd2hlbiBkZWxldGluZyBzdGF0ZSBtYWNoaW5lLgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlQ2FjaGUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoqIElkbGUgc3RhdGUgbm90IHdvcmtpbmcgdGhlIHNlY29uZCB0aW1lCiogQXVkaW9EYXRhVXRpbCBoYXZpbmcgYW4gdW5pbml0aWFsaXplZCB2YXJpYWJsZSBjYXVzaW5nIHNlZ2ZhdWx0cwoqIHN0b3BEZXRlY3Rpb24gaW4gb3V0X2Vhcl9kZXRlY3Rpb25fc3RhdGUgd2lsbCB3b3JrIGJldHRl</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBzdGF0ZTsK</text>
+      <register name="3" type="4">
+        <text>Fix bugs.
+
+* Idle state not working the second time
+* AudioDataUtil having an uninitialized variable causing se</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElEYWVtb25BcGkqIGRhZW1vbkFwaTsK</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nIiwgZGFlbW9uLT5xdWVyeVN0YXR1cygpLmlzUmVjb3JkaW5nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YmFzaWNfb3N0cmVhbTxjaGFyLCBzdGQ6OmNoYXJfdHJhaXRzPGNoYXI+Pjo6X19vc3RyZWFtX3R5cGUmIGhpOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRlQ2FjaGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4KICAgICAgICAgICAgICAgICAgIChzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0KS5jb3VudCgpIDwgMTApIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBzdGF0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4KICAgICAgICAgICAgICAgICAgIChzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0KS5jb3VudCgpIDwgMTApIHsK</text>
+        <text encoding="base64">ICAgIElEYWVtb25BcGkqIGRhZW1vbkFwaTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4KICAgICAgICAgICAgICAgICAgIChzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0KS5jb3VudCgpIDwgMTApIHsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6YmFzaWNfb3N0cmVhbTxjaGFyLCBzdGQ6OmNoYXJfdHJhaXRzPGNoYXI+Pjo6X19vc3RyZWFtX3R5cGUmIGhpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogKiB0b2RvOiBvcHRpbWl6ZSBieSBwYXNzaW5nIHJlcyBieSByZWY/Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4KICAgICAgICAgICAgICAgICAgIChzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0KS5jb3VudCgpIDwgMTApIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
