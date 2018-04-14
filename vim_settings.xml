@@ -118,6 +118,12 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.cpp" timestamp="1523706573090">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="112" />
+        <mark key="^" line="9" column="112" />
+        <mark key="." line="9" column="112" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -199,11 +205,11 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.h" timestamp="1523520452428">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="121" />
-        <mark key="^" line="15" column="123" />
-        <mark key="." line="15" column="123" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.h" timestamp="1523706549615">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="79" />
+        <mark key="^" line="23" column="79" />
+        <mark key="." line="23" column="79" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1523259847508">
         <mark key="[" line="4" column="22" />
@@ -385,8 +391,8 @@
         <mark key="." line="197" column="0" />
         <mark key="^" line="197" column="97" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1523699791480">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1523706956588">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="48" column="28" />
         <mark key="]" line="48" column="36" />
         <mark key="^" line="48" column="36" />
@@ -476,8 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.h" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.h" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.h" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.h" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.h" />
@@ -531,9 +535,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" />
       <jump line="96" column="49" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
       <jump line="15" column="13" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
@@ -576,6 +577,11 @@
       <jump line="321" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
       <jump line="338" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
       <jump line="354" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="21" column="24" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
