@@ -47,9 +47,9 @@
         <mark key="." line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/results_to_json.h" timestamp="1523685585215">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="62" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="62" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.cpp" timestamp="1523511047359">
         <mark key="[" line="170" column="27" />
@@ -391,12 +391,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/buga_stream_bindings.cpp" timestamp="1521969970970">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/earphone_algo_result.cpp" timestamp="1523685792674">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="38" />
-      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/earphone_algo_result.cpp" timestamp="1523685792674" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="49" />
