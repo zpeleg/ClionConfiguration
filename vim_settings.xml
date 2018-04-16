@@ -15,6 +15,13 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523698769903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="76" />
+        <mark key="." line="87" column="73" />
+        <mark key="^" line="87" column="73" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="48" />
@@ -88,12 +95,12 @@
         <mark key="^" line="75" column="44" />
         <mark key="." line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1523859722125">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1523859957377">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/song_interval_algo_result.cpp" timestamp="1523685396448">
         <mark key="'" line="18" column="11" />
@@ -465,6 +472,13 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_algo_result.cpp" timestamp="1523685777774">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/CMakeLists.txt" timestamp="1523273691948">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="17" column="14" />
@@ -622,7 +636,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>enter</text>
+        <text>DETECTION_OFF</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -637,13 +651,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enter</text>
+        <text>DETECTION_OFF</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgInJlcXVlc3RTdG9wTWl4aW5nIGVudGVyIik7Cg==</text>
+        <text encoding="base64">QnVnYXRvbmVTdGF0dXMgc3RhdHVzIHsKICAgICAgICAuc3RhdGU9VVNFUl9DQUxJQlJBVElPTiwKICAgICAgICAubGVmdFJlc3VsdD1ERVRFQ1RJT05fT0ZGLAogICAgICAgIC50aWdodFJlc3VsdD1ERVRFQ1RJT05fT0ZGLAogICAgICAgIC5lYXBob25lblN0YXRlPVJFQURZCn07Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
