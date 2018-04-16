@@ -502,12 +502,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523886524978">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523888845382">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="32" column="14" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
@@ -654,8 +654,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>std::endl</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -670,7 +670,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2Jvci5kYXRhKCkgPDwg</text>
+        <text>std::endl</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
