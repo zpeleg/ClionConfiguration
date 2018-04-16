@@ -236,11 +236,6 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523709007681">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
         <mark key="[" line="13" column="0" />
@@ -409,11 +404,6 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/results_to_json.cpp" timestamp="1523685449609">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/in_ear_tests.cpp" timestamp="1522835880241">
         <mark key="[" line="54" column="46" />
