@@ -150,8 +150,10 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/CMakeLists.txt" timestamp="1523861289020">
-        <mark key="[" line="33" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/CMakeLists.txt" timestamp="1523876542738">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/audio_data_util.h" timestamp="1523617345655">
         <mark key="[" line="3" column="17" />
@@ -234,13 +236,6 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523861740361">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="132" column="26" />
-        <mark key="]" line="132" column="50" />
-        <mark key="." line="132" column="50" />
-        <mark key="^" line="132" column="50" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523701198233">
         <mark key="'" line="354" column="0" />
@@ -424,14 +419,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523854122491">
-        <mark key="[" line="272" column="49" />
-        <mark key="]" line="272" column="52" />
-        <mark key="." line="272" column="52" />
-        <mark key="^" line="272" column="52" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1523706956588">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1523876698347">
+        <mark key="'" line="67" column="0" />
         <mark key="[" line="48" column="28" />
         <mark key="]" line="48" column="36" />
         <mark key="^" line="48" column="36" />
@@ -526,14 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="284" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="326" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="354" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="383" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="395" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="406" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="325" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="353" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="382" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="394" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
@@ -626,6 +607,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
+      <jump line="64" column="17" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -657,7 +646,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TW9yZSBvdXRwdXQgaW4gcmVhZF9zdGF0dXMucHkK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -692,16 +681,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TW9yZSBvdXRwdXQgaW4gcmVhZF9zdGF0dXMucHkK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
+        <text encoding="base64">TW9yZSBvdXRwdXQgaW4gcmVhZF9zdGF0dXMucHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBpZGUgZGlhZ25vc3RpYyBpZ25vcmVkICJPQ1VudXNlZEdsb2JhbERlY2xhcmF0aW9uSW5zcGVjdGlvbiIK</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIk1pc3Npbmcga2V5IGluIFB5dGhvbjogIiA8PCBrZXkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBpZGUgZGlhZ25vc3RpYyBpZ25vcmVkICJPQ1VudXNlZEdsb2JhbERlY2xhcmF0aW9uSW5zcGVjdGlvbiIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIk1pc3Npbmcga2V5IGluIFB5dGhvbjogIiA8PCBrZXkgPDwgc3RkOjplbmRsOwo=</text>
@@ -710,13 +699,13 @@
         <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIk1pc3Npbmcga2V5IGluIFB5dGhvbjogIiA8PCBrZXkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIk1pc3Npbmcga2V5IGluIFB5dGhvbjogIiA8PCBrZXkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImlkYWVtb25fYXBpLmgiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIk1pc3Npbmcga2V5IGluIFB5dGhvbiBvciBpbiBpbnRlcm5hbCBjb25maWc6ICIgPDwga2V5IDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">I2luY2x1ZGUgImlkYWVtb25fYXBpLmgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
