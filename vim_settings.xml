@@ -15,12 +15,8 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523698769903">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1523863174455">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="72" column="76" />
-        <mark key="." line="87" column="73" />
-        <mark key="^" line="87" column="73" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/CMakeLists.txt" timestamp="1523273680483">
         <mark key="[" line="16" column="42" />
@@ -33,12 +29,6 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1523860757065">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/logging_controller.h" timestamp="1523700378183">
         <mark key="[" line="8" column="23" />
@@ -83,10 +73,10 @@
         <mark key="[" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.h" timestamp="1523612797095">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" timestamp="1523436178758">
         <mark key="[" line="19" column="61" />
@@ -161,12 +151,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/CMakeLists.txt" timestamp="1523861289020">
         <mark key="[" line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523604991151">
-        <mark key="'" line="367" column="0" />
-        <mark key="[" line="422" column="39" />
-        <mark key="]" line="422" column="39" />
-        <mark key="." line="422" column="39" />
-        <mark key="^" line="422" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523863060619">
+        <mark key="'" line="368" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1523699896345">
         <mark key="[" line="58" column="21" />
@@ -223,11 +212,11 @@
         <mark key="^" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/change_buga_state_algo_result.h" timestamp="1523861300264">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/change_buga_state_algo_result.h" timestamp="1523861487251">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="71" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1523259847508">
         <mark key="[" line="4" column="22" />
@@ -235,13 +224,14 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523861097806">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="225" column="38" />
-        <mark key="]" line="225" column="38" />
-        <mark key="." line="225" column="38" />
-        <mark key="^" line="225" column="38" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523861740361">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="132" column="26" />
+        <mark key="]" line="132" column="50" />
+        <mark key="." line="132" column="50" />
+        <mark key="^" line="132" column="50" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1523684956643" />
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523701198233">
         <mark key="'" line="354" column="0" />
         <mark key="[" line="75" column="25" />
@@ -345,9 +335,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iauto_play_controller.cpp" timestamp="1523708405097">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1523273699135">
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="48" />
@@ -366,6 +353,7 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1523862008631" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.h" timestamp="1522846245082">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -396,7 +384,7 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/GDB" timestamp="1523692395980">
+      <file name="/GDB" timestamp="1523862217549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1523854131822">
@@ -415,6 +403,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" timestamp="1523591548793">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523854122491">
         <mark key="[" line="272" column="49" />
@@ -438,6 +432,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/buga_stream_bindings.cpp" timestamp="1521969970970">
         <mark key="[" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/earphone_algo_result.cpp" timestamp="1523685792674" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="49" />
@@ -473,7 +468,7 @@
         <mark key="." line="163" column="15" />
         <mark key="^" line="163" column="15" />
       </file>
-      <file name="/fragment.mm" timestamp="1523617017570">
+      <file name="/fragment.mm" timestamp="1523862238905">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -520,11 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" />
       <jump line="96" column="49" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
       <jump line="15" column="13" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
@@ -620,6 +610,11 @@
       <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/detector_configuration.h" />
+      <jump line="219" column="1" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
+      <jump line="215" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
+      <jump line="211" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
+      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
+      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -650,8 +645,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AlgoState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoKICogCgogKiAKICogCiAqLwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -666,13 +661,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AlgoState</text>
+        <text>apRes.left, apRes.right</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEFsZ29TdGF0ZSBnZXRTdGF0ZSgpewogICAgICAgIHJldHVybiBzdGF0ZTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>IDENTIFY_USER</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -685,32 +680,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDE2LzA0LzE4LgovLwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoKICogCgogKiAKICogCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbyhMT0dfVEFHLCAiR290IHN0YXR1cyIsIHN0YXR1cyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDE2LzA0LzE4LgovLwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dm9pZCBPdXRFYXJEZXRlY3Rpb25TdGF0ZTo6c2V0QnVnYXRvbmVTdGF0ZShBbGdvU3RhdGUgYWxnb1N0YXRlKSB7CiAgICBzdGF0dXMuc2V0QnVnYXRvbmVTdGF0ZShhbGdvU3RhdGUpOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElBbGdvUmVzdWx0Q29tbWFuZGFibGU6OnNldEJ1Z2F0b25lU3RhdGUoYWxnb1N0YXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiIpCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cy5zZXRCdWdhdG9uZVN0YXRlKHdvcmtpbmdDb25maWcuYWxnb1N0YXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlYWQgZnJvbSBzdHJlYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Jlc2V0IGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGU7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmIHRoZXJlIGlzIG5vIGRhdGEgdG8gcHVzaCwgY29udGludWUK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDE2LzA0LzE4LgovLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xvb3Agb3ZlciByZXN1bHRzIGFuZCBzZXQgdGhlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -764,10 +759,10 @@
         <entry>x</entry>
         <entry>'</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>d</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
