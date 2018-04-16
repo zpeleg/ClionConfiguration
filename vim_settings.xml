@@ -502,12 +502,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523881993692">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523885738164">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="4" column="28" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="52" />
+        <mark key="." line="43" column="52" />
+        <mark key="^" line="43" column="52" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
@@ -655,7 +655,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;controller_audio_path&quot;</text>
+        <text>json</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -670,13 +670,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;controller_audio_path&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHZlY3Rvcjx1aW50OF90PiYgY2JvciA9IG5sb2htYW5uOjpqc29uOjp0b19jYm9yKGpzb24pOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -769,10 +769,10 @@ cfg.controllerAudioPath</text>
         <entry>'</entry>
         <entry>we</entry>
         <entry>d</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>x</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
