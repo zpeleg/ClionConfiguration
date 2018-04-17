@@ -308,12 +308,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1523964047247">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1523967171715">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="66" column="32" />
+        <mark key="." line="66" column="32" />
+        <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -328,11 +328,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523884281185">
-        <mark key="[" line="170" column="37" />
-        <mark key="]" line="170" column="37" />
-        <mark key="^" line="170" column="37" />
-        <mark key="." line="170" column="37" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523967925542">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -400,9 +400,9 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523937638831">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523967730617">
         <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -466,6 +466,11 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/foreground_calibration.h" timestamp="1523966752155">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1523877084976">
         <mark key="'" line="105" column="0" />
@@ -653,8 +658,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>autopause</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBrZXkgPSAiYXV0b3BhdXNlIjsKICAgICAgICBjZmcuYXV0b3BhdXNlQWxnbyA9IGouYXQoImF1dG9wYXVzZSIpLmdldDxBdXRvUGF1c2VDb25maWc+KCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -669,13 +674,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>autopause</text>
+        <text>channelOrdering</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUud3JpdGUocmVpbnRlcnByZXRfY2FzdDxjb25zdCBjaGFyKj4oY2Jvci5kYXRhKCkpLCBjYm9yLnNpemUoKSk7CiAgICBsb2dmaWxlIDw8IHN0ZDo6ZW5kbDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">YXV0b3BhdXNlQWxnbyA=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -689,32 +694,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSAiYXV0b3BhdXNlIjsKICAgICAgICBjZmcuYXV0b3BhdXNlQWxnbyA9IGouYXQoImF1dG9wYXVzZSIpLmdldDxBdXRvUGF1c2VDb25maWc+KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkJsYUJsYTo6QmxhQmxhKGNvbnN0IENhbGlicmF0aW9ucyYgY2FsaWIsIHN0ZDo6dW5pcXVlX3B0cjxJQXV0b1BhdXNlQ29udHJvbGxlcj4gY3RybCkgOiBJQXV0b1BhdXNlQ29udHJvbGxlcihjYWxpYikgewoKfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBrZXkgPSAiY2hhbm5lbF9vcmRlcmluZyI7CiAgICAgICAgY2ZnLmNoYW5uZWxPcmRlcmluZyA9IGouYXQoImNoYW5uZWxfb3JkZXJpbmciKS5nZXQ8c3RyaW5nPigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNsYXNzIEJsYUJsYSA6IHB1YmxpYyBJQXV0b1BhdXNlQ29udHJvbGxlcnsKcHVibGljOgogICAgQmxhQmxhKGNvbnN0IENhbGlicmF0aW9ucyYgY2FsaWIsIHN0ZDo6dW5pcXVlX3B0cjxJQXV0b1BhdXNlQ29udHJvbGxlcj4gY3RybCk7Cgp9Owo=</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSAic2FtcGxlX3JhdGUiOwogICAgICAgIGNmZy5zYW1wbGVSYXRlID0gai5hdCgic2FtcGxlX3JhdGUiKS5nZXQ8dWludDMyX3Q+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V3JvdGUgdGhlIGNvZGUgZm9yIENvbnRyb2xsZXJMb2dnZXIgaW4gYysrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgdHlwZW5hbWUgVT4KVSBnZXRLZXk8VT4oY29uc3QganNvbiYgaiwgVCYgdHlwZSwgc3RyaW5nIG5hbWUpIHsKICAgIHRyeSB7CiAgICAgICAgcmV0dXJuIGouYXQobmFtZSkuZ2V0PFU+KCk7CiAgICB9CiAgICBjYXRjaCAoY29uc3QganNvbjo6b3V0X29mX3JhbmdlJiBlKSB7CiAgICAgICAgTG9nZ2VyOjplcnJvcihMT0dfVEFHLCAiTWlzc2luZyBrZXkgaW4gUHl0aG9uOiAiICsgbmFtZSk7CiAgICAgICAgdGhyb3c7CiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>cfg.saveControllerAudio
-cfg.controllerAudioPath</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChkZXRlY3RvckNvbmZpZyAhPSBudWxscHRyKSB7CiAgICAgICAgY2ZnLmFsZ29TdGF0ZSA9IGFsZ29UeXBlVG9BbGdvU3RhdGUoZGV0ZWN0b3JDb25maWctPmFsZ29UeXBlKTsKICAgIH0KICAgIGVsc2UgaWYgKGFsZ29TdGF0ZSAhPSBBbGdvU3RhdGU6OklOVkFMSUQpIHsKICAgICAgICBjZmcuYWxnb1N0YXRlID0gYWxnb1N0YXRlOwogICAgfQogICAgZWxzZSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJkZXRlY3RvckNvbmZpZyBhbmQgYWxnb1N0YXRlIGFyZSBib3RoIG51bGwiKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAnc2F2ZV9jb250cm9sbGVyX2F1ZGlvJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuc2F2ZV9jb250cm9sbGVyX2F1ZGlvLAogICAgICAgICAgICAnY29udHJvbGxlcl9hdWRpb19wYXRoJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuY29udHJvbGxlcl9hdWRpb19wYXRoLAo=</text>
+        <text encoding="base64">ICAgIEF1dG9QYXVzZUNvbmZpZyBzcGVjaWFsU2lnbmFsRGV0ZWN0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -768,10 +772,10 @@ cfg.controllerAudioPath</text>
         <entry>'</entry>
         <entry>we</entry>
         <entry>d</entry>
-        <entry>q</entry>
         <entry>x</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -837,6 +841,9 @@ cfg.controllerAudioPath</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
