@@ -502,11 +502,11 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523888845382">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523940097601">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
         <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
@@ -524,7 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="1" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
       <jump line="79" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
@@ -615,8 +614,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
@@ -624,6 +621,9 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="36" column="73" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -654,8 +654,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>std::endl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -690,29 +690,29 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>cfg.saveControllerAudio
 cfg.controllerAudioPath</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAnc2F2ZV9jb250cm9sbGVyX2F1ZGlvJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuc2F2ZV9jb250cm9sbGVyX2F1ZGlvLAogICAgICAgICAgICAnY29udHJvbGxlcl9hdWRpb19wYXRoJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuY29udHJvbGxlcl9hdWRpb19wYXRoLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgImR1bW15X2xvZ3BhdGgiLCAgLy8gbG9ncGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIGxvZ1RvRmlsZQogICAgICAgICAgICAiZGVidWciLCAgLy8gbG9nTGV2ZWwKICAgICAgICAgICAgZmFsc2UsICAvLyBzYXZlU3RyZWFtQXVkaW8KICAgICAgICAgICAgImR1bW15X2F1ZGlvX3BhdGgiLCAgLy8gYXVkaW9GaWxlUGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIG1peEluRm9yZWdyb3VuZAogICAgICAgICAgICAiIiwgIC8vIG1peEZpbGUKICAgICAgICAgICAgMCwgIC8vIGZpbmlzaEZvcmVncm91bmRTZWNzCiAgICAgICAgICAgIDEsICAvLyByZXNvbHV0aW9uCiAgICAgICAgICAgIDQ4MDAwLCAgLy8gc2FtcGxlUmF0ZQogICAgICAgICAgICAiTDBMMVIwUjEiLC8vIGNoYW5uZWxPcmRlcmluZwogICAgICAgICAgICAwLy9mb3JnZXRDYWxpYnJhdGlvbnM=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImR1bW15X2xvZ3BhdGgiLCAgLy8gbG9ncGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIGxvZ1RvRmlsZQogICAgICAgICAgICAiZGVidWciLCAgLy8gbG9nTGV2ZWwKICAgICAgICAgICAgZmFsc2UsICAvLyBzYXZlU3RyZWFtQXVkaW8KICAgICAgICAgICAgImR1bW15X2F1ZGlvX3BhdGgiLCAgLy8gYXVkaW9GaWxlUGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIG1peEluRm9yZWdyb3VuZAogICAgICAgICAgICAiIiwgIC8vIG1peEZpbGUKICAgICAgICAgICAgMCwgIC8vIGZpbmlzaEZvcmVncm91bmRTZWNzCiAgICAgICAgICAgIDEsICAvLyByZXNvbHV0aW9uCiAgICAgICAgICAgIDQ4MDAwLCAgLy8gc2FtcGxlUmF0ZQogICAgICAgICAgICAiTDBMMVIwUjEiLC8vIGNoYW5uZWxPcmRlcmluZwogICAgICAgICAgICAwLy9mb3JnZXRDYWxpYnJhdGlvbnMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImR1bW15X2xvZ3BhdGgiLCAgLy8gbG9ncGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIGxvZ1RvRmlsZQogICAgICAgICAgICAiZGVidWciLCAgLy8gbG9nTGV2ZWwKICAgICAgICAgICAgZmFsc2UsICAvLyBzYXZlU3RyZWFtQXVkaW8KICAgICAgICAgICAgImR1bW15X2F1ZGlvX3BhdGgiLCAgLy8gYXVkaW9GaWxlUGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIG1peEluRm9yZWdyb3VuZAogICAgICAgICAgICAiIiwgIC8vIG1peEZpbGUKICAgICAgICAgICAgMCwgIC8vIGZpbmlzaEZvcmVncm91bmRTZWNzCiAgICAgICAgICAgIDEsICAvLyByZXNvbHV0aW9uCiAgICAgICAgICAgIDQ4MDAwLCAgLy8gc2FtcGxlUmF0ZQogICAgICAgICAgICAiTDBMMVIwUjEiLC8vIGNoYW5uZWxPcmRlcmluZwogICAgICAgICAgICAwLy9mb3JnZXRDYWxpYnJhdGlvbnMK</text>
