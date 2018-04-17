@@ -186,11 +186,11 @@
         <mark key="." line="121" column="34" />
         <mark key="^" line="121" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1523883181014">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="220" column="7" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1523976381290">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="^" line="226" column="35" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/error_algo_result.cpp" timestamp="1523685475618">
         <mark key="'" line="26" column="0" />
@@ -328,12 +328,12 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523973960746">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523976191697">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="20" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="53" column="20" />
+        <mark key="[" line="112" column="6" />
+        <mark key="]" line="112" column="15" />
+        <mark key="^" line="112" column="15" />
+        <mark key="." line="112" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -404,7 +404,7 @@
       <file name="/GDB" timestamp="1523973755438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523971299766">
+      <file name="/Dummy.txt" timestamp="1523976686749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
@@ -657,8 +657,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>break;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBqLmR1bXAoNCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -673,7 +673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>break;</text>
+        <text>MUSIC_DETECTION</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
@@ -693,31 +693,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBqLmR1bXAoNCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGouZHUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IFNQRUNJQUxfU0lHTkFMX0RFVEVDVElPTiA9ICJzcGVjaWFsU2lnbmFsRGV0ZWN0aW9uIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRlIGMrKyBjb25maWd1cmF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpbU1BFQ10K</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IFNQRUNJQUxfU0lHTkFMX0RFVEVDVElPTiA9ICJzcGVjaWFsU2lnbmFsRGV0ZWN0aW9uIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIGMrKyBjb25maWd1cmF0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IE1VU0lDX0RFVEVDVElPTiA9ICJhdXRvcGF1c2UiOwo=</text>
+        <text encoding="base64">ICAgIGpbU1BFQ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IE1VU0lDX0RFVEUgPSAiYXV0b3BhdXNlIjsKCnN0YXRpYyBjb25zdCBjaGFyKiBjb25zdCBNVVNJQ19ERVRFQ1RJT04gPSAibXVzaWNEZXRlY3Rpb24iOwoKI2luY2x1ZGUgInJ1bnRpbWVfY29uZmlncy5oIgojaW5jbHVkZSAiLi4vYnVnYXRvbmVfYXBpL2J1Z2F0b25lX2FwaV9jb25maWd1cmF0aW9uLmgiCiNpbmNsdWRlICIuLi9idWdhdG9uZV9hcGkvZGV0ZWN0b3JfY29uZmlndXJhdGlvbi5oIgojaW5jbHVkZSAiLi4vYnVnYXRvbmVfYXBpL2J1Z2F0b25lX3N0YXR1cy5oIgojaW5jbHVkZSA8bmxvaG1hbm4vanNvbi5ocHA+Cgp1c2luZyBqc29uPW5sb2htYW5uOjpqc29uOwoKY2xhc3MgQ29uZmlnQnVpbGRlciB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGtleTsK</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IE1VU0lDX0RFVEVDVElPTiA9ICJhdXRvcGF1c2UiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
