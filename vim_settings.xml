@@ -447,10 +447,10 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1523701826234">
+      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1523978776069">
         <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/error_algo_result.h" timestamp="1523685441489">
@@ -657,8 +657,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBqLmR1bXAoNCkgPDwgc3RkOjplbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -673,7 +673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MUSIC_DETECTION</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
