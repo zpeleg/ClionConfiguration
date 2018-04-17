@@ -69,12 +69,12 @@
         <mark key="^" line="42" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" timestamp="1523874329367">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" timestamp="1523968315265">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+        <mark key="[" line="165" column="24" />
+        <mark key="]" line="165" column="24" />
+        <mark key="." line="165" column="24" />
+        <mark key="^" line="152" column="4" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_audo_pause_controller_bindings.cpp" timestamp="1523436178758">
         <mark key="[" line="19" column="61" />
@@ -162,11 +162,10 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test_daemon.cpp" timestamp="1523863060619">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.h" timestamp="1523969194798">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/config_builder.cpp" timestamp="1523699896345">
         <mark key="[" line="58" column="21" />
@@ -328,11 +327,12 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523967925542">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="104" column="25" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1523969419727">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -400,10 +400,11 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523967730617">
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1523969702609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
@@ -416,12 +417,6 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" timestamp="1523879457414">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523881400936">
         <mark key="[" line="227" column="5" />
@@ -528,81 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="24" column="8" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
-      <jump line="215" column="20" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="107" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="86" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="106" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="125" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="205" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="195" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="151" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="64" column="17" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="65" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="95" column="2" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="87" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="127" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="119" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="113" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="41" column="4" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
       <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.h" />
@@ -628,6 +548,81 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="165" column="24" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="118" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="116" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="110" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/api_to_json.cpp" />
+      <jump line="108" column="4" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="222" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="219" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="214" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="196" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="146" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="124" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="114" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="381" column="67" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="36" column="76" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="50" column="12" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="75" column="12" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="74" column="15" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="399" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="398" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="387" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="375" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="346" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="318" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="276" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="235" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="187" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="134" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="120" column="7" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="107" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="98" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -659,7 +654,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAiYXV0b3BhdXNlIjsKICAgICAgICBjZmcuYXV0b3BhdXNlQWxnbyA9IGouYXQoImF1dG9wYXVzZSIpLmdldDxBdXRvUGF1c2VDb25maWc+KCk7Cg==</text>
+        <text encoding="base64">VXBkYXRlIGMrKyBjb25maWd1cmF0aW9ucwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -674,7 +669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>channelOrdering</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
@@ -694,31 +689,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAiYXV0b3BhdXNlIjsKICAgICAgICBjZmcuYXV0b3BhdXNlQWxnbyA9IGouYXQoImF1dG9wYXVzZSIpLmdldDxBdXRvUGF1c2VDb25maWc+KCk7Cg==</text>
+        <text encoding="base64">VXBkYXRlIGMrKyBjb25maWd1cmF0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAiY2hhbm5lbF9vcmRlcmluZyI7CiAgICAgICAgY2ZnLmNoYW5uZWxPcmRlcmluZyA9IGouYXQoImNoYW5uZWxfb3JkZXJpbmciKS5nZXQ8c3RyaW5nPigpOwo=</text>
+        <text encoding="base64">ICAgIGpbU1BFQ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAic2FtcGxlX3JhdGUiOwogICAgICAgIGNmZy5zYW1wbGVSYXRlID0gai5hdCgic2FtcGxlX3JhdGUiKS5nZXQ8dWludDMyX3Q+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V3JvdGUgdGhlIGNvZGUgZm9yIENvbnRyb2xsZXJMb2dnZXIgaW4gYysrCg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IE1VU0lDX0RFVEVDVElPTiA9ICJhdXRvcGF1c2UiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgdHlwZW5hbWUgVT4KVSBnZXRLZXk8VT4oY29uc3QganNvbiYgaiwgVCYgdHlwZSwgc3RyaW5nIG5hbWUpIHsKICAgIHRyeSB7CiAgICAgICAgcmV0dXJuIGouYXQobmFtZSkuZ2V0PFU+KCk7CiAgICB9CiAgICBjYXRjaCAoY29uc3QganNvbjo6b3V0X29mX3JhbmdlJiBlKSB7CiAgICAgICAgTG9nZ2VyOjplcnJvcihMT0dfVEFHLCAiTWlzc2luZyBrZXkgaW4gUHl0aG9uOiAiICsgbmFtZSk7CiAgICAgICAgdGhyb3c7CiAgICB9Cn0K</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIGNvbnN0IE1VU0lDX0RFVEUgPSAiYXV0b3BhdXNlIjsKCnN0YXRpYyBjb25zdCBjaGFyKiBjb25zdCBNVVNJQ19ERVRFQ1RJT04gPSAibXVzaWNEZXRlY3Rpb24iOwoKI2luY2x1ZGUgInJ1bnRpbWVfY29uZmlncy5oIgojaW5jbHVkZSAiLi4vYnVnYXRvbmVfYXBpL2J1Z2F0b25lX2FwaV9jb25maWd1cmF0aW9uLmgiCiNpbmNsdWRlICIuLi9idWdhdG9uZV9hcGkvZGV0ZWN0b3JfY29uZmlndXJhdGlvbi5oIgojaW5jbHVkZSAiLi4vYnVnYXRvbmVfYXBpL2J1Z2F0b25lX3N0YXR1cy5oIgojaW5jbHVkZSA8bmxvaG1hbm4vanNvbi5ocHA+Cgp1c2luZyBqc29uPW5sb2htYW5uOjpqc29uOwoKY2xhc3MgQ29uZmlnQnVpbGRlciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGtleTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChkZXRlY3RvckNvbmZpZyAhPSBudWxscHRyKSB7CiAgICAgICAgY2ZnLmFsZ29TdGF0ZSA9IGFsZ29UeXBlVG9BbGdvU3RhdGUoZGV0ZWN0b3JDb25maWctPmFsZ29UeXBlKTsKICAgIH0KICAgIGVsc2UgaWYgKGFsZ29TdGF0ZSAhPSBBbGdvU3RhdGU6OklOVkFMSUQpIHsKICAgICAgICBjZmcuYWxnb1N0YXRlID0gYWxnb1N0YXRlOwogICAgfQogICAgZWxzZSB7CiAgICAgICAgdGhyb3cgc3RkOjppbnZhbGlkX2FyZ3VtZW50KCJkZXRlY3RvckNvbmZpZyBhbmQgYWxnb1N0YXRlIGFyZSBib3RoIG51bGwiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEF1dG9QYXVzZUNvbmZpZyBzcGVjaWFsU2lnbmFsRGV0ZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
