@@ -127,11 +127,10 @@
         <mark key="^" line="97" column="45" />
         <mark key="." line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.cpp" timestamp="1523708417717">
-        <mark key="[" line="7" column="117" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.cpp" timestamp="1523963552636">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
@@ -224,11 +223,11 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.h" timestamp="1523706549615">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="79" />
-        <mark key="^" line="23" column="79" />
-        <mark key="." line="23" column="79" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iautopause_controller.h" timestamp="1523963507536">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/change_buga_state_algo_result.h" timestamp="1523861487251">
         <mark key="[" line="3" column="0" />
@@ -309,12 +308,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1523883341851">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1523964047247">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -654,8 +653,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>autopause</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -670,7 +669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>std::endl</text>
+        <text>autopause</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
@@ -692,30 +691,30 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkJsYUJsYTo6QmxhQmxhKGNvbnN0IENhbGlicmF0aW9ucyYgY2FsaWIsIHN0ZDo6dW5pcXVlX3B0cjxJQXV0b1BhdXNlQ29udHJvbGxlcj4gY3RybCkgOiBJQXV0b1BhdXNlQ29udHJvbGxlcihjYWxpYikgewoKfQ==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CmNsYXNzIEJsYUJsYSA6IHB1YmxpYyBJQXV0b1BhdXNlQ29udHJvbGxlcnsKcHVibGljOgogICAgQmxhQmxhKGNvbnN0IENhbGlicmF0aW9ucyYgY2FsaWIsIHN0ZDo6dW5pcXVlX3B0cjxJQXV0b1BhdXNlQ29udHJvbGxlcj4gY3RybCk7Cgp9Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJmNib3JbMF0gPDwgc3RkOjplbmRsOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>cfg.saveControllerAudio
 cfg.controllerAudioPath</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAnc2F2ZV9jb250cm9sbGVyX2F1ZGlvJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuc2F2ZV9jb250cm9sbGVyX2F1ZGlvLAogICAgICAgICAgICAnY29udHJvbGxlcl9hdWRpb19wYXRoJzogYnVnYXRvbmVfaW50ZXJuYWxfY29uZmlnLmxvZ2dpbmcuY29udHJvbGxlcl9hdWRpb19wYXRoLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgImR1bW15X2xvZ3BhdGgiLCAgLy8gbG9ncGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIGxvZ1RvRmlsZQogICAgICAgICAgICAiZGVidWciLCAgLy8gbG9nTGV2ZWwKICAgICAgICAgICAgZmFsc2UsICAvLyBzYXZlU3RyZWFtQXVkaW8KICAgICAgICAgICAgImR1bW15X2F1ZGlvX3BhdGgiLCAgLy8gYXVkaW9GaWxlUGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIG1peEluRm9yZWdyb3VuZAogICAgICAgICAgICAiIiwgIC8vIG1peEZpbGUKICAgICAgICAgICAgMCwgIC8vIGZpbmlzaEZvcmVncm91bmRTZWNzCiAgICAgICAgICAgIDEsICAvLyByZXNvbHV0aW9uCiAgICAgICAgICAgIDQ4MDAwLCAgLy8gc2FtcGxlUmF0ZQogICAgICAgICAgICAiTDBMMVIwUjEiLC8vIGNoYW5uZWxPcmRlcmluZwogICAgICAgICAgICAwLy9mb3JnZXRDYWxpYnJhdGlvbnM=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImR1bW15X2xvZ3BhdGgiLCAgLy8gbG9ncGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIGxvZ1RvRmlsZQogICAgICAgICAgICAiZGVidWciLCAgLy8gbG9nTGV2ZWwKICAgICAgICAgICAgZmFsc2UsICAvLyBzYXZlU3RyZWFtQXVkaW8KICAgICAgICAgICAgImR1bW15X2F1ZGlvX3BhdGgiLCAgLy8gYXVkaW9GaWxlUGF0aAogICAgICAgICAgICBmYWxzZSwgIC8vIG1peEluRm9yZWdyb3VuZAogICAgICAgICAgICAiIiwgIC8vIG1peEZpbGUKICAgICAgICAgICAgMCwgIC8vIGZpbmlzaEZvcmVncm91bmRTZWNzCiAgICAgICAgICAgIDEsICAvLyByZXNvbHV0aW9uCiAgICAgICAgICAgIDQ4MDAwLCAgLy8gc2FtcGxlUmF0ZQogICAgICAgICAgICAiTDBMMVIwUjEiLC8vIGNoYW5uZWxPcmRlcmluZwogICAgICAgICAgICAwLy9mb3JnZXRDYWxpYnJhdGlvbnMK</text>
+        <text encoding="base64">ICAgIHByaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
