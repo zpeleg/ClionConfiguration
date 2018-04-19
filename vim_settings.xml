@@ -344,12 +344,12 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1524118144351">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1524145157584">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="112" column="6" />
-        <mark key="]" line="112" column="15" />
-        <mark key="^" line="112" column="15" />
-        <mark key="." line="112" column="15" />
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="40" />
+        <mark key="^" line="105" column="40" />
+        <mark key="." line="105" column="40" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -369,7 +369,6 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/underground_user_calib.h" timestamp="1524124884526" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/CMakeLists.txt" timestamp="1523273699135">
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="48" />
@@ -421,7 +420,7 @@
       <file name="/GDB" timestamp="1524123425662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524139515563">
+      <file name="/Dummy.txt" timestamp="1524145131667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -692,7 +691,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>algoStateStringToEnum</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -707,7 +706,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>algoStateStringToEnum</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
