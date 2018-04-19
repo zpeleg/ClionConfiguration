@@ -524,8 +524,8 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1523962700871">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524128254234">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -546,8 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="318" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="276" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="235" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
       <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
@@ -646,6 +644,8 @@
       <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
       <jump line="8" column="51" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_auto_pause_controller_bindings.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
