@@ -196,12 +196,12 @@
         <mark key="." line="121" column="34" />
         <mark key="^" line="121" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1524126366190">
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1524139534305">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="234" column="1" />
-        <mark key="^" line="291" column="35" />
-        <mark key="." line="170" column="0" />
+        <mark key="[" line="291" column="90" />
+        <mark key="]" line="292" column="37" />
+        <mark key="^" line="292" column="37" />
+        <mark key="." line="292" column="37" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/error_algo_result.cpp" timestamp="1523685475618">
         <mark key="'" line="26" column="0" />
@@ -421,7 +421,7 @@
       <file name="/GDB" timestamp="1524123425662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524135456251">
+      <file name="/Dummy.txt" timestamp="1524139515563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
