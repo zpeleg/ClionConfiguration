@@ -533,12 +533,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524135611783">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524137013918">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="31" />
-        <mark key="." line="69" column="31" />
-        <mark key="^" line="69" column="31" />
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1524128394741">
         <mark key="[" line="8" column="4" />
@@ -808,8 +808,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
