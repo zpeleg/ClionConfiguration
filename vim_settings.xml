@@ -241,11 +241,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1523881234479">
-        <mark key="[" line="133" column="5" />
-        <mark key="]" line="134" column="15" />
-        <mark key="^" line="134" column="15" />
-        <mark key="." line="134" column="15" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1524122534563">
+        <mark key="[" line="132" column="40" />
+        <mark key="]" line="132" column="48" />
+        <mark key="^" line="132" column="48" />
+        <mark key="." line="132" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523974046731">
         <mark key="'" line="356" column="0" />
@@ -404,7 +404,7 @@
       <file name="/GDB" timestamp="1523973755438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524118093883">
+      <file name="/Dummy.txt" timestamp="1524123111646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
@@ -422,11 +422,11 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1523881400936">
-        <mark key="[" line="220" column="5" />
-        <mark key="]" line="221" column="15" />
-        <mark key="." line="221" column="15" />
-        <mark key="^" line="221" column="15" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1524122515542">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="74" />
+        <mark key="." line="226" column="74" />
+        <mark key="^" line="226" column="74" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1523879941674">
         <mark key="'" line="67" column="0" />
@@ -658,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>identify</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -673,13 +673,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>identify</text>
       </register>
       <register name="/" type="4">
         <text>New</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YXV0b3BhdXNlQWxnbyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oTE9HX1RBRywgIkNyZWF0aW5nIGlkZW50aWZ5IGNvbnRyb2xsZXIgd2l0aCBsb2dnZXIiKTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
