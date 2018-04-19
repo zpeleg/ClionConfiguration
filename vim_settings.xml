@@ -533,12 +533,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524137013918">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524138862816">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="39" />
-        <mark key="^" line="73" column="39" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="73" column="51" />
+        <mark key="." line="73" column="51" />
+        <mark key="^" line="73" column="51" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1524128394741">
         <mark key="[" line="8" column="4" />
@@ -692,7 +692,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\n\n</text>
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -707,7 +707,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\n\n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
