@@ -199,12 +199,12 @@
         <mark key="." line="121" column="34" />
         <mark key="^" line="121" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1524146957423">
-        <mark key="'" line="212" column="86" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="170" column="86" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" timestamp="1524210352242">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="^" line="171" column="86" />
+        <mark key="." line="333" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/error_algo_result.cpp" timestamp="1523685475618">
         <mark key="'" line="26" column="0" />
@@ -255,9 +255,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1524126086917">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="6" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" timestamp="1524210497311">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="202" column="1" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="203" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1524131414947">
         <mark key="[" line="132" column="100" />
@@ -422,7 +425,7 @@
       <file name="/GDB" timestamp="1524123425662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524210086546">
+      <file name="/Dummy.txt" timestamp="1524210164042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -469,6 +472,13 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.h" timestamp="1524210218354">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" timestamp="1524146964618">
         <mark key="'" line="129" column="0" />
@@ -559,106 +569,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="86" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="106" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="125" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="151" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="195" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="78" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="237" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="244" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="248" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="234" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="230" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="223" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="216" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="209" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="202" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="195" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="169" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="95" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="8" column="51" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/simple_auto_pause_controller_bindings.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="109" column="27" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
-      <jump line="108" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
-      <jump line="89" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
-      <jump line="87" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" />
-      <jump line="58" column="12" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
-      <jump line="33" column="34" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.h" />
-      <jump line="109" column="32" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="189" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="172" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="161" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="140" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="134" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" />
-      <jump line="212" column="86" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
-      <jump line="127" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="152" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="128" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.h" />
-      <jump line="6" column="17" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="178" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="167" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="155" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="152" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="136" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="116" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="102" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="95" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="21" column="19" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/src/python_bindings/config_builder_bindings.cpp" />
+      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="202" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="189" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="185" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="181" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="166" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="162" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="145" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="138" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="123" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="112" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="101" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="110" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="116" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="120" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="124" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="143" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="146" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="153" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="160" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="163" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="167" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="178" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="190" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="194" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="199" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="210" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="207" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="205" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
+      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,8 +699,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dm9pZCBpZGVudGlmeV9lYXJwaG9uZV9hbGdvX2RlbGV0ZShzaXplX3QgaWQpIHsKCn0K</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -705,13 +715,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V29ya2luZ0NvbmZpZyBweXdvcmtpbmdjb25maWdfdG9fd29ya2luZ2NvbmZpZyhjb25zdCBQeVdvcmtpbmdDb25maWcmIHB5V29ya2luZ0NvbmZpZykgewogICAgYXV0byB3ZWlnaHRTbGljZXMgPSBudW1weWlzaF90b192ZWN0b3JzPDI+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uud2VpZ2h0c1NsaWNlcyk7CiAgICBhdXRvIGF1dG9QYXVzZUNvbmZpZyA9IEF1dG9QYXVzZUNvbmZpZ3suZGV0ZWN0aW9uQ2hhbm5lbHMgPSBudW1weWlzaF90b192ZWN0b3JzPDE+KAogICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmRldGVjdGlvbkNoYW5uZWxzKSwKICAgICAgICAgICAgLnJlZkVuYWJsZWQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkVuYWJsZWQsCiAgICAgICAgICAgIC5yZWZGcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZGcmVxLAogICAgICAgICAgICAucmVmQW1wID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZBbXAsCiAgICAgICAgICAgIC5yZWZCcE51bVRhcHMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkJwTnVtVGFwcywKICAgICAgICAgICAgLnJlZkJwTWluRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmQnBNaW5GcmVxLAogICAgICAgICAgICAuYmxvY2tMZW4gPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJsb2NrTGVuLAogICAgICAgICAgICAuZWNob1NsaWNlTGVuID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvU2xpY2VMZW4sCiAgICAgICAgICAgIC5lY2hvTWVtb3J5TGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTWVtb3J5TGVuZ3RoLAogICAgICAgICAgICAuZWNob01pbmltYWxJbnRlcnZhbCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob01pbmltYWxJbnRlcnZhbCwKICAgICAgICAgICAgLmVjaG9MYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTGF6eSwKICAgICAgICAgICAgLmJhbmRwYXNzRW5hYmxlZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NFbmFibGVkLAogICAgICAgICAgICAuYmFuZHBhc3NNaW5GcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc01pbkZyZXEsCiAgICAgICAgICAgIC5iYW5kcGFzc01heEZyZXEgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzTWF4RnJlcSwKICAgICAgICAgICAgLmJhbmRwYXNzU2l6ZSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NTaXplLAogICAgICAgICAgICAuYmFuZHBhc3NMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc0xhenksCiAgICAgICAgICAgIC53ZWlnaHRzU2xpY2VzID0gd2VpZ2h0U2xpY2VzLAogICAgICAgICAgICAud2VpZ2h0c0xhenkgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLndlaWdodHNMYXp5LAogICAgICAgICAgICAuc2NvcmVFcnJTaWdtYXMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlRXJyU2lnbWFzLAogICAgICAgICAgICAuc2NvcmVCb3VuZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVCb3VuZCwKICAgICAgICAgICAgLnNjb3JlTWluaW1hbEVjaG9SYXRpbyA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVNaW5pbWFsRWNob1JhdGlvLAogICAgICAgICAgICAuc2NvcmVMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5zY29yZUxhenl9OwoKICAgIGF1dG8gYXV0b1BsYXlDb25maWcgPSBBdXRvUGxheUNvbmZpZ3tudW1weWlzaF90b192ZWN0b3JzPDE+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kZXRlY3Rpb25DaGFubmVscyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkVuYWJsZWQsICAvLyByZWZFbmFibGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkZyZXEsICAvLyByZWZGcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkFtcCwgIC8vIHJlZkFtcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZSVG9sLCAgLy8gcmVmUlRvbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZCcE51bVRhcHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkJwTWluRnJlcSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmS2VlcENoZWNraW5nLCAgLy8gcmVmQnBOdW1UYXBzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnRvbERvdWJsZSwgIC8vIHJlZkJwTWluRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5taW5GcmVxLCAgLy8gcmVmS2VlcENoZWNraW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1heEZyZXEsICAvLyB0b2xEb3VibGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZnJlcVN0ZXAsICAvLyBtaW5GcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnZvbHVtZSwgIC8vIG1heEZyZXEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWluRCwgIC8vIGZyZXFTdGVwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm51bUZyZXFzLCAgLy8gdm9sdW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lmxvd2ZyZXFzRmlsdGVyLCAgLy8gbWluRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kaWZmVXBwZXJUcmVzaCwgIC8vIG51bUZyZXFzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm5vcm1Mb3dlclRocmVzaCwgIC8vIGxvd2ZyZXFzRmlsdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbiwgIC8vIGRpZmZVcHBlclRyZXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNtb290aExlbiwgIC8vIG5vcm1Mb3dlclRocmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kdXJhdGlvbiwgIC8vIHNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5hdXRvR2FpblpvbmUsICAvLyBzbW9vdGhMZW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZWNob1NsaWNlTGVuLCAgLy8gZHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuYmxvY2tMZW4sICAvLyBhdXRvR2FpblpvbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWVtb3J5TGVuZ3RofTsgIC8vIGVjaG9TbGljZUxlbgogICAgYXV0byBGb3JlZ3JvdW5kQ29uZmlnID0gRm9yZWdyb3VuZENhbGlicmF0aW9uQ29uZmlnKCk7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLmN0X29mZnNldCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uY3Rfb2Zmc2V0OwogICAgRm9yZWdyb3VuZENvbmZpZy5zb25nX3N0ZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uc29uZ19zdGQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLnNvbmdfbGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5zb25nX2xlbmd0aDsKICAgIEZvcmVncm91bmRDb25maWcubWluX25vcm1fYm91bmQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLm1pbl9ub3JtX2JvdW5kOwogICAgRm9yZWdyb3VuZENvbmZpZy56ZXJvX3RocmVzaG9sZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uemVyb190aHJlc2hvbGQ7CgogICAgRm9yZWdyb3VuZENvbmZpZy53MF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcudzBfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX3dlaWdodHNfbnVtOwogICAgRm9yZWdyb3VuZENvbmZpZy5jdF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcuY3Rfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X3dlaWdodHNfbnVtOwogICAgcmV0dXJuIFdvcmtpbmdDb25maWd7cHlXb3JraW5nQ29uZmlnLnNhbXBsZVJhdGUsIHB5V29ya2luZ0NvbmZpZy5jaGFubmVsT3JkZXJpbmcsIGF1dG9QYXVzZUNvbmZpZywgYXV0b1BsYXlDb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICBGb3JlZ3JvdW5kQ29uZmlnfTsKfQo=</text>
+        <text encoding="base64">c2l6ZV90IGZvcmVncm91bmRfY2FsaWJyYXRpb25fYWxnb19pbml0KGNvbnN0IGNoYXIqIGNvbmZzdHIsIGNvbnN0IGNoYXIqIGNhbGlicmF0aW9uc3N0cik7CnZvaWQqIGZvcmVncm91bmRfY2FsaWJyYXRpb25fYWxnb19wdXNoKHNpemVfdCBpZCwgY29uc3QgQ1RlbXBvcmFyeUF1ZGlvRGF0YSYgY2F1ZGlvRGF0YSk7CnZvaWQgZm9yZWdyb3VuZF9jYWxpYnJhdGlvbl9hbGdvX3Jlc2V0KHNpemVfdCBpZCk7CnZvaWQgZm9yZWdyb3VuZF9jYWxpYnJhdGlvbl9hbGdvX2dlbmVyYXRlX3NvbmdzKHNpemVfdCBpZCwgbnVtcHlpc2g8ZG91YmxlPiYgb3V0cHV0KTsKdm9pZCBmb3JlZ3JvdW5kX2NhbGlicmF0aW9uX2FsZ29fZGVsZXRlKHNpemVfdCBpZCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -725,31 +735,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V29ya2luZ0NvbmZpZyBweXdvcmtpbmdjb25maWdfdG9fd29ya2luZ2NvbmZpZyhjb25zdCBQeVdvcmtpbmdDb25maWcmIHB5V29ya2luZ0NvbmZpZykgewogICAgYXV0byB3ZWlnaHRTbGljZXMgPSBudW1weWlzaF90b192ZWN0b3JzPDI+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uud2VpZ2h0c1NsaWNlcyk7CiAgICBhdXRvIGF1dG9QYXVzZUNvbmZpZyA9IEF1dG9QYXVzZUNvbmZpZ3suZGV0ZWN0aW9uQ2hhbm5lbHMgPSBudW1weWlzaF90b192ZWN0b3JzPDE+KAogICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmRldGVjdGlvbkNoYW5uZWxzKSwKICAgICAgICAgICAgLnJlZkVuYWJsZWQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkVuYWJsZWQsCiAgICAgICAgICAgIC5yZWZGcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZGcmVxLAogICAgICAgICAgICAucmVmQW1wID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZBbXAsCiAgICAgICAgICAgIC5yZWZCcE51bVRhcHMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkJwTnVtVGFwcywKICAgICAgICAgICAgLnJlZkJwTWluRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmQnBNaW5GcmVxLAogICAgICAgICAgICAuYmxvY2tMZW4gPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJsb2NrTGVuLAogICAgICAgICAgICAuZWNob1NsaWNlTGVuID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvU2xpY2VMZW4sCiAgICAgICAgICAgIC5lY2hvTWVtb3J5TGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTWVtb3J5TGVuZ3RoLAogICAgICAgICAgICAuZWNob01pbmltYWxJbnRlcnZhbCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob01pbmltYWxJbnRlcnZhbCwKICAgICAgICAgICAgLmVjaG9MYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTGF6eSwKICAgICAgICAgICAgLmJhbmRwYXNzRW5hYmxlZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NFbmFibGVkLAogICAgICAgICAgICAuYmFuZHBhc3NNaW5GcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc01pbkZyZXEsCiAgICAgICAgICAgIC5iYW5kcGFzc01heEZyZXEgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzTWF4RnJlcSwKICAgICAgICAgICAgLmJhbmRwYXNzU2l6ZSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NTaXplLAogICAgICAgICAgICAuYmFuZHBhc3NMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc0xhenksCiAgICAgICAgICAgIC53ZWlnaHRzU2xpY2VzID0gd2VpZ2h0U2xpY2VzLAogICAgICAgICAgICAud2VpZ2h0c0xhenkgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLndlaWdodHNMYXp5LAogICAgICAgICAgICAuc2NvcmVFcnJTaWdtYXMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlRXJyU2lnbWFzLAogICAgICAgICAgICAuc2NvcmVCb3VuZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVCb3VuZCwKICAgICAgICAgICAgLnNjb3JlTWluaW1hbEVjaG9SYXRpbyA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVNaW5pbWFsRWNob1JhdGlvLAogICAgICAgICAgICAuc2NvcmVMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5zY29yZUxhenl9OwoKICAgIGF1dG8gYXV0b1BsYXlDb25maWcgPSBBdXRvUGxheUNvbmZpZ3tudW1weWlzaF90b192ZWN0b3JzPDE+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kZXRlY3Rpb25DaGFubmVscyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkVuYWJsZWQsICAvLyByZWZFbmFibGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkZyZXEsICAvLyByZWZGcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkFtcCwgIC8vIHJlZkFtcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZSVG9sLCAgLy8gcmVmUlRvbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZCcE51bVRhcHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkJwTWluRnJlcSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmS2VlcENoZWNraW5nLCAgLy8gcmVmQnBOdW1UYXBzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnRvbERvdWJsZSwgIC8vIHJlZkJwTWluRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5taW5GcmVxLCAgLy8gcmVmS2VlcENoZWNraW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1heEZyZXEsICAvLyB0b2xEb3VibGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZnJlcVN0ZXAsICAvLyBtaW5GcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnZvbHVtZSwgIC8vIG1heEZyZXEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWluRCwgIC8vIGZyZXFTdGVwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm51bUZyZXFzLCAgLy8gdm9sdW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lmxvd2ZyZXFzRmlsdGVyLCAgLy8gbWluRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kaWZmVXBwZXJUcmVzaCwgIC8vIG51bUZyZXFzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm5vcm1Mb3dlclRocmVzaCwgIC8vIGxvd2ZyZXFzRmlsdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbiwgIC8vIGRpZmZVcHBlclRyZXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNtb290aExlbiwgIC8vIG5vcm1Mb3dlclRocmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kdXJhdGlvbiwgIC8vIHNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5hdXRvR2FpblpvbmUsICAvLyBzbW9vdGhMZW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZWNob1NsaWNlTGVuLCAgLy8gZHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuYmxvY2tMZW4sICAvLyBhdXRvR2FpblpvbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWVtb3J5TGVuZ3RofTsgIC8vIGVjaG9TbGljZUxlbgogICAgYXV0byBGb3JlZ3JvdW5kQ29uZmlnID0gRm9yZWdyb3VuZENhbGlicmF0aW9uQ29uZmlnKCk7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLmN0X29mZnNldCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uY3Rfb2Zmc2V0OwogICAgRm9yZWdyb3VuZENvbmZpZy5zb25nX3N0ZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uc29uZ19zdGQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLnNvbmdfbGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5zb25nX2xlbmd0aDsKICAgIEZvcmVncm91bmRDb25maWcubWluX25vcm1fYm91bmQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLm1pbl9ub3JtX2JvdW5kOwogICAgRm9yZWdyb3VuZENvbmZpZy56ZXJvX3RocmVzaG9sZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uemVyb190aHJlc2hvbGQ7CgogICAgRm9yZWdyb3VuZENvbmZpZy53MF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcudzBfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX3dlaWdodHNfbnVtOwogICAgRm9yZWdyb3VuZENvbmZpZy5jdF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcuY3Rfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X3dlaWdodHNfbnVtOwogICAgcmV0dXJuIFdvcmtpbmdDb25maWd7cHlXb3JraW5nQ29uZmlnLnNhbXBsZVJhdGUsIHB5V29ya2luZ0NvbmZpZy5jaGFubmVsT3JkZXJpbmcsIGF1dG9QYXVzZUNvbmZpZywgYXV0b1BsYXlDb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICBGb3JlZ3JvdW5kQ29uZmlnfTsKfQoK</text>
+        <text encoding="base64">dm9pZCBpZGVudGlmeV9lYXJwaG9uZV9hbGdvX2RlbGV0ZShzaXplX3QgaWQpIHsKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V29ya2luZ0NvbmZpZyBweXdvcmtpbmdjb25maWdfdG9fd29ya2luZ2NvbmZpZyhjb25zdCBQeVdvcmtpbmdDb25maWcmIHB5V29ya2luZ0NvbmZpZyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gd2VpZ2h0U2xpY2VzID0gbnVtcHlpc2hfdG9fdmVjdG9yczwyPihweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLndlaWdodHNTbGljZXMpOwogICAgYXV0byBhdXRvUGF1c2VDb25maWcgPSBBdXRvUGF1c2VDb25maWd7LmRldGVjdGlvbkNoYW5uZWxzID0gbnVtcHlpc2hfdG9fdmVjdG9yczwxPigKICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5kZXRlY3Rpb25DaGFubmVscyksCiAgICAgICAgICAgIC5yZWZFbmFibGVkID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZFbmFibGVkLAogICAgICAgICAgICAucmVmRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmRnJlcSwKICAgICAgICAgICAgLnJlZkFtcCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmQW1wLAogICAgICAgICAgICAucmVmQnBOdW1UYXBzID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZCcE51bVRhcHMsCiAgICAgICAgICAgIC5yZWZCcE1pbkZyZXEgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkJwTWluRnJlcSwKICAgICAgICAgICAgLmJsb2NrTGVuID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5ibG9ja0xlbiwKICAgICAgICAgICAgLmVjaG9TbGljZUxlbiA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob1NsaWNlTGVuLAogICAgICAgICAgICAuZWNob01lbW9yeUxlbmd0aCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob01lbW9yeUxlbmd0aCwKICAgICAgICAgICAgLmVjaG9NaW5pbWFsSW50ZXJ2YWwgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmVjaG9NaW5pbWFsSW50ZXJ2YWwsCiAgICAgICAgICAgIC5lY2hvTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob0xhenksCiAgICAgICAgICAgIC5iYW5kcGFzc0VuYWJsZWQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzRW5hYmxlZCwKICAgICAgICAgICAgLmJhbmRwYXNzTWluRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NNaW5GcmVxLAogICAgICAgICAgICAuYmFuZHBhc3NNYXhGcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc01heEZyZXEsCiAgICAgICAgICAgIC5iYW5kcGFzc1NpemUgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzU2l6ZSwKICAgICAgICAgICAgLmJhbmRwYXNzTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NMYXp5LAogICAgICAgICAgICAud2VpZ2h0c1NsaWNlcyA9IHdlaWdodFNsaWNlcywKICAgICAgICAgICAgLndlaWdodHNMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS53ZWlnaHRzTGF6eSwKICAgICAgICAgICAgLnNjb3JlRXJyU2lnbWFzID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5zY29yZUVyclNpZ21hcywKICAgICAgICAgICAgLnNjb3JlQm91bmQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlQm91bmQsCiAgICAgICAgICAgIC5zY29yZU1pbmltYWxFY2hvUmF0aW8gPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlTWluaW1hbEVjaG9SYXRpbywKICAgICAgICAgICAgLnNjb3JlTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVMYXp5fTsKCiAgICBhdXRvIGF1dG9QbGF5Q29uZmlnID0gQXV0b1BsYXlDb25maWd7bnVtcHlpc2hfdG9fdmVjdG9yczwxPihweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZGV0ZWN0aW9uQ2hhbm5lbHMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZFbmFibGVkLCAgLy8gcmVmRW5hYmxlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZGcmVxLCAgLy8gcmVmRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZBbXAsICAvLyByZWZBbXAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmUlRvbCwgIC8vIHJlZlJUb2wKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmQnBOdW1UYXBzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZCcE1pbkZyZXEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZktlZXBDaGVja2luZywgIC8vIHJlZkJwTnVtVGFwcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS50b2xEb3VibGUsICAvLyByZWZCcE1pbkZyZXEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWluRnJlcSwgIC8vIHJlZktlZXBDaGVja2luZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5tYXhGcmVxLCAgLy8gdG9sRG91YmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmZyZXFTdGVwLCAgLy8gbWluRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS52b2x1bWUsICAvLyBtYXhGcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1pbkQsICAvLyBmcmVxU3RlcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5udW1GcmVxcywgIC8vIHZvbHVtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5sb3dmcmVxc0ZpbHRlciwgIC8vIG1pbkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZGlmZlVwcGVyVHJlc2gsICAvLyBudW1GcmVxcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5ub3JtTG93ZXJUaHJlc2gsICAvLyBsb3dmcmVxc0ZpbHRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5zaWxlbmNlQmV0d2VlblRlc3RTaWduYWxzRHVyYXRpb24sICAvLyBkaWZmVXBwZXJUcmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5zbW9vdGhMZW4sICAvLyBub3JtTG93ZXJUaHJlc2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZHVyYXRpb24sICAvLyBzaWxlbmNlQmV0d2VlblRlc3RTaWduYWxzRHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuYXV0b0dhaW5ab25lLCAgLy8gc21vb3RoTGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmVjaG9TbGljZUxlbiwgIC8vIGR1cmF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmJsb2NrTGVuLCAgLy8gYXV0b0dhaW5ab25lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1lbW9yeUxlbmd0aH07ICAvLyBlY2hvU2xpY2VMZW4KICAgIGF1dG8gRm9yZWdyb3VuZENvbmZpZyA9IEZvcmVncm91bmRDYWxpYnJhdGlvbkNvbmZpZygpOwogICAgRm9yZWdyb3VuZENvbmZpZy5jdF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcuc29uZ19zdGQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLnNvbmdfc3RkOwogICAgRm9yZWdyb3VuZENvbmZpZy5zb25nX2xlbmd0aCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uc29uZ19sZW5ndGg7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLm1pbl9ub3JtX2JvdW5kID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5taW5fbm9ybV9ib3VuZDsKICAgIEZvcmVncm91bmRDb25maWcuemVyb190aHJlc2hvbGQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLnplcm9fdGhyZXNob2xkOwoKICAgIEZvcmVncm91bmRDb25maWcudzBfb2Zmc2V0ID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi53MF9vZmZzZXQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLncwX3dlaWdodHNfbnVtID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi53MF93ZWlnaHRzX251bTsKICAgIEZvcmVncm91bmRDb25maWcuY3Rfb2Zmc2V0ID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5jdF9vZmZzZXQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLmN0X3dlaWdodHNfbnVtID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5jdF93ZWlnaHRzX251bTsKICAgIHJldHVybiBXb3JraW5nQ29uZmlne3B5V29ya2luZ0NvbmZpZy5zYW1wbGVSYXRlLCBweVdvcmtpbmdDb25maWcuY2hhbm5lbE9yZGVyaW5nLCBhdXRvUGF1c2VDb25maWcsIGF1dG9QbGF5Q29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgRm9yZWdyb3VuZENvbmZpZ307Cn0K</text>
+        <text encoding="base64">c2l6ZV90IGlkZW50aWZ5X2VhcnBob25lX2FsZ29faW5pdChjb25zdCBjaGFyICpjb25mc3RyLCBjb25zdCBjaGFyICpjYWxpYnJhdGlvbnNzdHIpIHsKICAgIHJldHVybiAwOwp9Cgp2b2lkICppZGVudGlmeV9lYXJwaG9uZV9hbGdvX3B1c2goc2l6ZV90IGlkLCBjb25zdCBDVGVtcG9yYXJ5QXVkaW9EYXRhICZjYXVkaW9EYXRhKSB7CiAgICByZXR1cm4gbnVsbHB0cjsKfQoKdm9pZCBpZGVudGlmeV9lYXJwaG9uZV9hbGdvX3Jlc2V0KHNpemVfdCBpZCkgewoKfQoKdm9pZCBpZGVudGlmeV9lYXJwaG9uZV9hbGdvX2RlbGV0ZShzaXplX3QgaWQpIHsKCn0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUud3JpdGUocmVpbnRlcnByZXRfY2FzdDxjb25zdCBjaGFyKj4oY2Jvci5kYXRhKCkpLCBjYm9yLnNpemUoKSk7CiAgICBsb2dmaWxlIDw8ICJcblxuIjs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">dm9pZCAgIGlkZW50aWZ5X2VhcnBob25lX2FsZ29fZ2VuZXJhdGVfc29uZ3Moc2l6ZV90IGlkLCBudW1weWlzaDxkb3VibGU+JiBvdXRwdXQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUud3JpdGUocmVpbnRlcnByZXRfY2FzdDxjb25zdCBjaGFyKj4oY2Jvci5kYXRhKCkpLCBjYm9yLnNpemUoKSk7CiAgICBsb2dmaWxlIDw8ICJcblxuIjs=</text>
+      <register name="5" type="8">
+        <text>foreground_calibration
+foreground_calibration
+foreground_calibration
+foreground_calibration
+foreground_calibration</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2ZpbGUgPDwgJlswXSA8PCAiXG5cbiI7Cg==</text>
+        <text encoding="base64">V29ya2luZ0NvbmZpZyBweXdvcmtpbmdjb25maWdfdG9fd29ya2luZ2NvbmZpZyhjb25zdCBQeVdvcmtpbmdDb25maWcmIHB5V29ya2luZ0NvbmZpZykgewogICAgYXV0byB3ZWlnaHRTbGljZXMgPSBudW1weWlzaF90b192ZWN0b3JzPDI+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uud2VpZ2h0c1NsaWNlcyk7CiAgICBhdXRvIGF1dG9QYXVzZUNvbmZpZyA9IEF1dG9QYXVzZUNvbmZpZ3suZGV0ZWN0aW9uQ2hhbm5lbHMgPSBudW1weWlzaF90b192ZWN0b3JzPDE+KAogICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmRldGVjdGlvbkNoYW5uZWxzKSwKICAgICAgICAgICAgLnJlZkVuYWJsZWQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkVuYWJsZWQsCiAgICAgICAgICAgIC5yZWZGcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZGcmVxLAogICAgICAgICAgICAucmVmQW1wID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZBbXAsCiAgICAgICAgICAgIC5yZWZCcE51bVRhcHMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkJwTnVtVGFwcywKICAgICAgICAgICAgLnJlZkJwTWluRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmQnBNaW5GcmVxLAogICAgICAgICAgICAuYmxvY2tMZW4gPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJsb2NrTGVuLAogICAgICAgICAgICAuZWNob1NsaWNlTGVuID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvU2xpY2VMZW4sCiAgICAgICAgICAgIC5lY2hvTWVtb3J5TGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTWVtb3J5TGVuZ3RoLAogICAgICAgICAgICAuZWNob01pbmltYWxJbnRlcnZhbCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob01pbmltYWxJbnRlcnZhbCwKICAgICAgICAgICAgLmVjaG9MYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5lY2hvTGF6eSwKICAgICAgICAgICAgLmJhbmRwYXNzRW5hYmxlZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NFbmFibGVkLAogICAgICAgICAgICAuYmFuZHBhc3NNaW5GcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc01pbkZyZXEsCiAgICAgICAgICAgIC5iYW5kcGFzc01heEZyZXEgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzTWF4RnJlcSwKICAgICAgICAgICAgLmJhbmRwYXNzU2l6ZSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NTaXplLAogICAgICAgICAgICAuYmFuZHBhc3NMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc0xhenksCiAgICAgICAgICAgIC53ZWlnaHRzU2xpY2VzID0gd2VpZ2h0U2xpY2VzLAogICAgICAgICAgICAud2VpZ2h0c0xhenkgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLndlaWdodHNMYXp5LAogICAgICAgICAgICAuc2NvcmVFcnJTaWdtYXMgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlRXJyU2lnbWFzLAogICAgICAgICAgICAuc2NvcmVCb3VuZCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVCb3VuZCwKICAgICAgICAgICAgLnNjb3JlTWluaW1hbEVjaG9SYXRpbyA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVNaW5pbWFsRWNob1JhdGlvLAogICAgICAgICAgICAuc2NvcmVMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5zY29yZUxhenl9OwoKICAgIGF1dG8gYXV0b1BsYXlDb25maWcgPSBBdXRvUGxheUNvbmZpZ3tudW1weWlzaF90b192ZWN0b3JzPDE+KHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kZXRlY3Rpb25DaGFubmVscyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkVuYWJsZWQsICAvLyByZWZFbmFibGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkZyZXEsICAvLyByZWZGcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkFtcCwgIC8vIHJlZkFtcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZSVG9sLCAgLy8gcmVmUlRvbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZCcE51bVRhcHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZkJwTWluRnJlcSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmS2VlcENoZWNraW5nLCAgLy8gcmVmQnBOdW1UYXBzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnRvbERvdWJsZSwgIC8vIHJlZkJwTWluRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5taW5GcmVxLCAgLy8gcmVmS2VlcENoZWNraW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1heEZyZXEsICAvLyB0b2xEb3VibGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZnJlcVN0ZXAsICAvLyBtaW5GcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnZvbHVtZSwgIC8vIG1heEZyZXEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWluRCwgIC8vIGZyZXFTdGVwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm51bUZyZXFzLCAgLy8gdm9sdW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lmxvd2ZyZXFzRmlsdGVyLCAgLy8gbWluRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kaWZmVXBwZXJUcmVzaCwgIC8vIG51bUZyZXFzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm5vcm1Mb3dlclRocmVzaCwgIC8vIGxvd2ZyZXFzRmlsdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbiwgIC8vIGRpZmZVcHBlclRyZXNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnNtb290aExlbiwgIC8vIG5vcm1Mb3dlclRocmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5kdXJhdGlvbiwgIC8vIHNpbGVuY2VCZXR3ZWVuVGVzdFNpZ25hbHNEdXJhdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5hdXRvR2FpblpvbmUsICAvLyBzbW9vdGhMZW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZWNob1NsaWNlTGVuLCAgLy8gZHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuYmxvY2tMZW4sICAvLyBhdXRvR2FpblpvbmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWVtb3J5TGVuZ3RofTsgIC8vIGVjaG9TbGljZUxlbgogICAgYXV0byBGb3JlZ3JvdW5kQ29uZmlnID0gRm9yZWdyb3VuZENhbGlicmF0aW9uQ29uZmlnKCk7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLmN0X29mZnNldCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uY3Rfb2Zmc2V0OwogICAgRm9yZWdyb3VuZENvbmZpZy5zb25nX3N0ZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uc29uZ19zdGQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLnNvbmdfbGVuZ3RoID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5zb25nX2xlbmd0aDsKICAgIEZvcmVncm91bmRDb25maWcubWluX25vcm1fYm91bmQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLm1pbl9ub3JtX2JvdW5kOwogICAgRm9yZWdyb3VuZENvbmZpZy56ZXJvX3RocmVzaG9sZCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uemVyb190aHJlc2hvbGQ7CgogICAgRm9yZWdyb3VuZENvbmZpZy53MF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcudzBfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLncwX3dlaWdodHNfbnVtOwogICAgRm9yZWdyb3VuZENvbmZpZy5jdF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcuY3Rfd2VpZ2h0c19udW0gPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X3dlaWdodHNfbnVtOwogICAgcmV0dXJuIFdvcmtpbmdDb25maWd7cHlXb3JraW5nQ29uZmlnLnNhbXBsZVJhdGUsIHB5V29ya2luZ0NvbmZpZy5jaGFubmVsT3JkZXJpbmcsIGF1dG9QYXVzZUNvbmZpZywgYXV0b1BsYXlDb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICBGb3JlZ3JvdW5kQ29uZmlnfTsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgd3JpdGVUb0xvZyhjb25zdCBjaGFyKiBkYXRhLCB1bnNpZ25lZCBsb25nIHNpemUpOwo=</text>
+        <text encoding="base64">V29ya2luZ0NvbmZpZyBweXdvcmtpbmdjb25maWdfdG9fd29ya2luZ2NvbmZpZyhjb25zdCBQeVdvcmtpbmdDb25maWcmIHB5V29ya2luZ0NvbmZpZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9pZCBDb250cm9sbGVyTG9nZ2VyOjp3cml0ZVRvTG9nKGNvbnN0IGNoYXIqIGRhdGEsIHVuc2lnbmVkIGxvbmcgc2l6ZSkgY29uc3Qgewp9Cgo=</text>
+        <text encoding="base64">ICAgIGF1dG8gd2VpZ2h0U2xpY2VzID0gbnVtcHlpc2hfdG9fdmVjdG9yczwyPihweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLndlaWdodHNTbGljZXMpOwogICAgYXV0byBhdXRvUGF1c2VDb25maWcgPSBBdXRvUGF1c2VDb25maWd7LmRldGVjdGlvbkNoYW5uZWxzID0gbnVtcHlpc2hfdG9fdmVjdG9yczwxPigKICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5kZXRlY3Rpb25DaGFubmVscyksCiAgICAgICAgICAgIC5yZWZFbmFibGVkID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZFbmFibGVkLAogICAgICAgICAgICAucmVmRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmRnJlcSwKICAgICAgICAgICAgLnJlZkFtcCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UucmVmQW1wLAogICAgICAgICAgICAucmVmQnBOdW1UYXBzID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5yZWZCcE51bVRhcHMsCiAgICAgICAgICAgIC5yZWZCcE1pbkZyZXEgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnJlZkJwTWluRnJlcSwKICAgICAgICAgICAgLmJsb2NrTGVuID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5ibG9ja0xlbiwKICAgICAgICAgICAgLmVjaG9TbGljZUxlbiA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob1NsaWNlTGVuLAogICAgICAgICAgICAuZWNob01lbW9yeUxlbmd0aCA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob01lbW9yeUxlbmd0aCwKICAgICAgICAgICAgLmVjaG9NaW5pbWFsSW50ZXJ2YWwgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmVjaG9NaW5pbWFsSW50ZXJ2YWwsCiAgICAgICAgICAgIC5lY2hvTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuZWNob0xhenksCiAgICAgICAgICAgIC5iYW5kcGFzc0VuYWJsZWQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzRW5hYmxlZCwKICAgICAgICAgICAgLmJhbmRwYXNzTWluRnJlcSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NNaW5GcmVxLAogICAgICAgICAgICAuYmFuZHBhc3NNYXhGcmVxID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5iYW5kcGFzc01heEZyZXEsCiAgICAgICAgICAgIC5iYW5kcGFzc1NpemUgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLmJhbmRwYXNzU2l6ZSwKICAgICAgICAgICAgLmJhbmRwYXNzTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2UuYmFuZHBhc3NMYXp5LAogICAgICAgICAgICAud2VpZ2h0c1NsaWNlcyA9IHdlaWdodFNsaWNlcywKICAgICAgICAgICAgLndlaWdodHNMYXp5ID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS53ZWlnaHRzTGF6eSwKICAgICAgICAgICAgLnNjb3JlRXJyU2lnbWFzID0gcHlXb3JraW5nQ29uZmlnLmF1dG9wYXVzZS5zY29yZUVyclNpZ21hcywKICAgICAgICAgICAgLnNjb3JlQm91bmQgPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlQm91bmQsCiAgICAgICAgICAgIC5zY29yZU1pbmltYWxFY2hvUmF0aW8gPSBweVdvcmtpbmdDb25maWcuYXV0b3BhdXNlLnNjb3JlTWluaW1hbEVjaG9SYXRpbywKICAgICAgICAgICAgLnNjb3JlTGF6eSA9IHB5V29ya2luZ0NvbmZpZy5hdXRvcGF1c2Uuc2NvcmVMYXp5fTsKCiAgICBhdXRvIGF1dG9QbGF5Q29uZmlnID0gQXV0b1BsYXlDb25maWd7bnVtcHlpc2hfdG9fdmVjdG9yczwxPihweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZGV0ZWN0aW9uQ2hhbm5lbHMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZFbmFibGVkLCAgLy8gcmVmRW5hYmxlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZGcmVxLCAgLy8gcmVmRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZBbXAsICAvLyByZWZBbXAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmUlRvbCwgIC8vIHJlZlJUb2wKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkucmVmQnBOdW1UYXBzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5yZWZCcE1pbkZyZXEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LnJlZktlZXBDaGVja2luZywgIC8vIHJlZkJwTnVtVGFwcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS50b2xEb3VibGUsICAvLyByZWZCcE1pbkZyZXEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkubWluRnJlcSwgIC8vIHJlZktlZXBDaGVja2luZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5tYXhGcmVxLCAgLy8gdG9sRG91YmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmZyZXFTdGVwLCAgLy8gbWluRnJlcQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS52b2x1bWUsICAvLyBtYXhGcmVxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1pbkQsICAvLyBmcmVxU3RlcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5udW1GcmVxcywgIC8vIHZvbHVtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5sb3dmcmVxc0ZpbHRlciwgIC8vIG1pbkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZGlmZlVwcGVyVHJlc2gsICAvLyBudW1GcmVxcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5ub3JtTG93ZXJUaHJlc2gsICAvLyBsb3dmcmVxc0ZpbHRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5zaWxlbmNlQmV0d2VlblRlc3RTaWduYWxzRHVyYXRpb24sICAvLyBkaWZmVXBwZXJUcmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB5V29ya2luZ0NvbmZpZy5hdXRvcGxheS5zbW9vdGhMZW4sICAvLyBub3JtTG93ZXJUaHJlc2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuZHVyYXRpb24sICAvLyBzaWxlbmNlQmV0d2VlblRlc3RTaWduYWxzRHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBweVdvcmtpbmdDb25maWcuYXV0b3BsYXkuYXV0b0dhaW5ab25lLCAgLy8gc21vb3RoTGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmVjaG9TbGljZUxlbiwgIC8vIGR1cmF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5LmJsb2NrTGVuLCAgLy8gYXV0b0dhaW5ab25lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHlXb3JraW5nQ29uZmlnLmF1dG9wbGF5Lm1lbW9yeUxlbmd0aH07ICAvLyBlY2hvU2xpY2VMZW4KICAgIGF1dG8gRm9yZWdyb3VuZENvbmZpZyA9IEZvcmVncm91bmRDYWxpYnJhdGlvbkNvbmZpZygpOwogICAgRm9yZWdyb3VuZENvbmZpZy5jdF9vZmZzZXQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLmN0X29mZnNldDsKICAgIEZvcmVncm91bmRDb25maWcuc29uZ19zdGQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLnNvbmdfc3RkOwogICAgRm9yZWdyb3VuZENvbmZpZy5zb25nX2xlbmd0aCA9IHB5V29ya2luZ0NvbmZpZy5mb3JlZ3JvdW5kQ2FsaWJyYXRpb24uc29uZ19sZW5ndGg7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLm1pbl9ub3JtX2JvdW5kID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5taW5fbm9ybV9ib3VuZDsKICAgIEZvcmVncm91bmRDb25maWcuemVyb190aHJlc2hvbGQgPSBweVdvcmtpbmdDb25maWcuZm9yZWdyb3VuZENhbGlicmF0aW9uLnplcm9fdGhyZXNob2xkOwoKICAgIEZvcmVncm91bmRDb25maWcudzBfb2Zmc2V0ID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi53MF9vZmZzZXQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLncwX3dlaWdodHNfbnVtID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi53MF93ZWlnaHRzX251bTsKICAgIEZvcmVncm91bmRDb25maWcuY3Rfb2Zmc2V0ID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5jdF9vZmZzZXQ7CiAgICBGb3JlZ3JvdW5kQ29uZmlnLmN0X3dlaWdodHNfbnVtID0gcHlXb3JraW5nQ29uZmlnLmZvcmVncm91bmRDYWxpYnJhdGlvbi5jdF93ZWlnaHRzX251bTsKICAgIHJldHVybiBXb3JraW5nQ29uZmlne3B5V29ya2luZ0NvbmZpZy5zYW1wbGVSYXRlLCBweVdvcmtpbmdDb25maWcuY2hhbm5lbE9yZGVyaW5nLCBhdXRvUGF1c2VDb25maWcsIGF1dG9QbGF5Q29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgRm9yZWdyb3VuZENvbmZpZ307Cn0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdyaXRlVG9Mb2coZGF0YSwgc2l6ZSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGxvZ2ZpbGUud3JpdGUocmVpbnRlcnByZXRfY2FzdDxjb25zdCBjaGFyKj4oY2Jvci5kYXRhKCkpLCBjYm9yLnNpemUoKSk7CiAgICBsb2dmaWxlIDw8ICJcblxuIjs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,8 +819,8 @@
         <entry>d</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
