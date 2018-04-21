@@ -223,8 +223,8 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" timestamp="1524239954617">
-        <mark key="'" line="259" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" timestamp="1524301575866">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="0" />
         <mark key="^" line="308" column="6" />
@@ -587,8 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="178" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="190" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
@@ -687,6 +685,8 @@
       <jump line="65" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
       <jump line="67" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
+      <jump line="263" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
