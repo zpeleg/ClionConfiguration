@@ -278,12 +278,12 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524289343906">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524290777331">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="42" column="81" />
-        <mark key="]" line="42" column="81" />
-        <mark key="^" line="42" column="81" />
-        <mark key="." line="42" column="81" />
+        <mark key="[" line="73" column="48" />
+        <mark key="]" line="73" column="53" />
+        <mark key="^" line="73" column="53" />
+        <mark key="." line="73" column="53" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
