@@ -278,8 +278,12 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524138862816">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524289343906">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="42" column="81" />
+        <mark key="]" line="42" column="81" />
+        <mark key="^" line="42" column="81" />
+        <mark key="." line="42" column="81" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
@@ -582,15 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="212" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="218" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="136" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="143" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="146" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
-      <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="153" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="160" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="163" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/pydetectors.cpp" />
@@ -682,6 +677,15 @@
       <jump line="223" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" />
       <jump line="226" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" />
       <jump line="259" column="30" filename="$USER_HOME$/Code/mobileproduct/src/algo/stats.cpp" />
+      <jump line="42" column="81" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,7 +717,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Write C++ part of python bindings.</text>
+        <text>}</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -728,7 +732,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Write C++ part of python bindings.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDVGVtcG9yYXJ5QXVkaW9EYXRhXD4=</text>
