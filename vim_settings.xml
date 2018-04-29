@@ -23,9 +23,6 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/simple_auto_pause_controller.cpp" timestamp="1524230479195">
-        <mark key="'" line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/logging_controller.h" timestamp="1523700378183">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -147,17 +144,13 @@
         <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1524298315519">
-        <mark key="[" line="132" column="100" />
-        <mark key="]" line="132" column="48" />
-        <mark key="^" line="132" column="48" />
-        <mark key="." line="132" column="48" />
+        <mark key="[" line="140" column="100" />
+        <mark key="]" line="140" column="48" />
+        <mark key="^" line="140" column="48" />
+        <mark key="." line="140" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523974046731">
-        <mark key="'" line="356" column="0" />
-        <mark key="[" line="320" column="34" />
-        <mark key="]" line="320" column="34" />
-        <mark key="." line="320" column="34" />
-        <mark key="^" line="320" column="34" />
+        <mark key="'" line="377" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1523273661826">
         <mark key="[" line="16" column="0" />
@@ -190,11 +183,11 @@
         <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1524297571588">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="70" column="42" />
-        <mark key="]" line="70" column="43" />
-        <mark key="." line="70" column="43" />
-        <mark key="^" line="70" column="43" />
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="71" column="42" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -283,11 +276,11 @@
         <mark key="^" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1524290777331">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="73" column="48" />
-        <mark key="]" line="73" column="53" />
-        <mark key="^" line="73" column="53" />
-        <mark key="." line="73" column="53" />
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="66" column="48" />
+        <mark key="]" line="66" column="53" />
+        <mark key="^" line="66" column="53" />
+        <mark key="." line="66" column="53" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523436737001">
         <mark key="'" line="10" column="51" />
