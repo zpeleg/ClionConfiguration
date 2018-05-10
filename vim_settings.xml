@@ -88,18 +88,23 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/library.h" timestamp="1525974161311">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="16" />
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1525956387226">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="195" column="42" />
-        <mark key="]" line="195" column="48" />
-        <mark key="." line="195" column="48" />
-        <mark key="^" line="195" column="48" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1525974300500">
+        <mark key="[" line="201" column="28" />
+        <mark key="]" line="201" column="28" />
+        <mark key="." line="201" column="28" />
+        <mark key="^" line="201" column="28" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
@@ -255,8 +260,12 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1525966282294">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1525972937923">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="69" column="8" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/tweakme.h" timestamp="1522344812005">
         <mark key="[" line="19" column="0" />
@@ -342,11 +351,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525968031729">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1525974183273">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
@@ -420,11 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="168" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="147" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="122" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
@@ -434,7 +438,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="161" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="178" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="172" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="162" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
@@ -450,7 +453,6 @@
       <jump line="186" column="9" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="207" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="201" column="11" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="179" column="5" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/benchmark/CMakeLists.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/benchmark/CMakeLists.txt" />
@@ -464,17 +466,9 @@
       <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="185" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/ppf_ncx2_tables.cpp" />
       <jump line="1775" column="4" filename="$USER_HOME$/Code/mobileproduct/src/algo/ppf_ncx2_tables.cpp" />
       <jump line="1431" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/ppf_ncx2_tables.cpp" />
@@ -484,13 +478,6 @@
       <jump line="1430" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/ppf_ncx2_tables.cpp" />
       <jump line="1426" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/ppf_ncx2_tables.cpp" />
       <jump line="180" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="102" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="120" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="130" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="145" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="163" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="166" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="174" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="49" column="12" filename="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" />
       <jump line="69" column="17" filename="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" />
@@ -520,6 +507,28 @@
       <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" />
+      <jump line="191" column="24" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="164" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="102" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="120" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="145" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="163" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="166" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" />
+      <jump line="10" column="19" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="201" column="26" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
+      <jump line="202" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,8 +559,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGd0ZXN0X2Rpc2NvdmVyX3Rlc3RzKCR7UFJPSkVDVF9OQU1FfV90ZXN0cykK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -566,13 +575,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Fix compilation</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTkRST0lEX0xJQlNcPg==</text>
+        <text>add_de</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuLi8uLi9zcmMK</text>
+      <register name="0" type="4">
+        <text>${GIT_MODIFIED}</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -586,40 +595,58 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGd0ZXN0X2Rpc2NvdmVyX3Rlc3RzKCR7UFJPSkVDVF9OQU1FfV90ZXN0cykK</text>
+        <text encoding="base64">SGlkZSB3YXJuaW5ncyBmcm9tIEVpZ2VuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">ICAgIHNldChHSVRfTU9ESUZJRUQgX2NsZWFuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">ICAgIHNldChHSVRfTU9ESUZJRUQgX21vZGlmaWVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGd0ZXN0X2Rpc2NvdmVyX3Rlc3RzKCR7UFJPSkVDVF9OQU1FfV90ZXN0cykK</text>
+      <register name="5" type="4">
+        <text># Put the revision id into a variable named COMMIT_ID
+exec_program(
+        &quot;git&quot;
+        ${CMAKE_CURRENT_SOURCE_DIR}
+        ARGS &quot;rev-parse HEAD&quot;
+        OUTPUT_VARIABLE COMMIT_ID
+)
+
+exec_program(
+        &quot;git&quot;
+        ${CMAKE_CURRENT_SOURCE_DIR}
+        ARGS &quot;status -s&quot;
+        OUTPUT_VARIABLE GIT_STATUS
+)
+if (${GIT_STATUS} STREQUAL &quot;&quot;)
+    set(GIT_MODIFIED _modified)
+else ()
+    set(GIT_MODIFIED &quot;&quot;)
+endif ()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">ICAgICMgICAgYWRkX3N1YmRpcmVjdG9yeShkdW1teV9idWdhKQogICAgIyAgICBhZGRfc3ViZGlyZWN0b3J5KGxvZ2dpbmdfYnVnYSkKICAgICMgICAgYWRkX3N1YmRpcmVjdG9yeShjb3JlKQogICAgIyAgICBhZGRfc3ViZGlyZWN0b3J5KGFsZ29fY29udHJvbGxlcnMpCiAgICAjICAgIGFkZF9zdWJkaXJlY3RvcnkoZGF0YSkKICAgICMgICAgYWRkX3N1YmRpcmVjdG9yeShjb25maWd1cmF0aW9uKQogICAgIyAgICBhZGRfc3ViZGlyZWN0b3J5KHN0YXRlcykKICAgICMgICAgYWRkX3N1YmRpcmVjdG9yeShidWdhdG9uZV9hcGkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi8uLi9kZXBlbmRlbmNpZXMvbmxvaG1hbm4vaW5jbHVkZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4vc3JjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3Rlc3RfZGlzY292ZXJfdGVzdHMoJHtQUk9KRUNUX05BTUV9KQo=</text>
+        <text encoding="base64">ICAgIGd0ZXN0X2Rpc2NvdmVyX3Rlc3RzKCR7UFJPSkVDVF9OQU1FfV90ZXN0cykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTkRST0lEX0xJQlNcPg==</last-search>
+      <last-search>add_de</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTkRST0lEX0xJQlNcPg==</last-pattern>
+      <last-pattern>add_de</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhdWRpb19kYXRhXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +654,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdXNlX3Jhd19tc2dcPg==</entry>
         <entry encoding="base64">XDxzdHJ0b2ZcPg==</entry>
         <entry>std::strtof</entry>
         <entry>Android</entry>
@@ -647,6 +673,7 @@
         <entry>con</entry>
         <entry encoding="base64">XDxDVGVtcG9yYXJ5QXVkaW9EYXRhXD4=</entry>
         <entry encoding="base64">XDxBTkRST0lEX0xJQlNcPg==</entry>
+        <entry>add_de</entry>
       </history-search>
       <history-cmd>
         <entry>e capture.c</entry>
@@ -664,10 +691,10 @@
         <entry>'</entry>
         <entry>we</entry>
         <entry>d</entry>
-        <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
