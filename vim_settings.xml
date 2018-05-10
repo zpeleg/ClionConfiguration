@@ -201,11 +201,11 @@
         <mark key="." line="58" column="24" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1525961815115">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="12" />
+        <mark key="^" line="30" column="12" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1523880025736">
         <mark key="[" line="121" column="20" />
@@ -378,10 +378,7 @@
         <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1525956370934">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="8" />
+        <mark key="]" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.h" timestamp="1523522887035">
         <mark key="[" line="17" column="10" />
