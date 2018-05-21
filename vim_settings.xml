@@ -372,12 +372,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1526915830079">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1526918015801">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="102" column="32" />
-        <mark key="]" line="102" column="33" />
+        <mark key="[" line="113" column="67" />
+        <mark key="]" line="113" column="67" />
         <mark key="^" line="102" column="33" />
-        <mark key="." line="102" column="33" />
+        <mark key="." line="113" column="67" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
@@ -564,7 +564,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PDwgIngiIDw8IG90aGVyc2l6ZSA8PCA=</text>
+        <text>3</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -579,7 +579,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PDwgIngiIDw8IG90aGVyc2l6ZSA8PCA=</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>add_de</text>
