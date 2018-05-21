@@ -372,12 +372,11 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1526918015801">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1526919261533">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="113" column="67" />
-        <mark key="]" line="113" column="67" />
-        <mark key="^" line="102" column="33" />
-        <mark key="." line="113" column="67" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
@@ -563,8 +562,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprCg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -599,31 +598,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFtpXSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtY3B5KGluX2ZmdCxvcmlnaW5hbC5kYXRhKCksdmVjc2l6ZSogc2l6ZW9mKEZDKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGF1dG8gYTpvcmlnaW5hbCl7CiAgICAgICAgICAgICAgICBpbgogICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFtpXSA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3B5KG9yaWdpbmFsLmJlZ2luKCksIG9yaWdpbmFsLmVuZCgpLCBpbl9mZnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVtY3B5KGluX2ZmdCxvcmlnaW5hbC5kYXRhKCksdmVjc2l6ZSogc2l6ZW9mKEZDKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIG5vdExvY2FsOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGF1dG8gYTpvcmlnaW5hbCl7CiAgICAgICAgICAgICAgICBpbgogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRkMqIG5vdExvY2FsID0gKEZDKikgZmZ0d19tYWxsb2Moc2l6ZW9mKEZDKSAqIHZlY3NpemUpOwogICAgICAgICAgICBtZW1jcHkobm90TG9jYWwsIGluX2ZmdCwgdmVjc2l6ZSAqIHNpemVvZihGQykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3B5KG9yaWdpbmFsLmJlZ2luKCksIG9yaWdpbmFsLmVuZCgpLCBpbl9mZnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5fZmZ0WzBdWzBdID0gaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIG5vdExvY2FsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRkMqIG5vdExvY2FsID0gKEZDKikgZmZ0d19tYWxsb2Moc2l6ZW9mKEZDKSAqIHZlY3NpemUpOwogICAgICAgICAgICBtZW1jcHkobm90TG9jYWwsIGluX2ZmdCwgdmVjc2l6ZSAqIHNpemVvZihGQykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmZ0d19wbGFuIGZmdF9wbGFuID0gZmZ0d19wbGFuX2RmdF8xZCh2ZWNzaXplLCBub3RMb2NhbCwgb3V0X2ZmdCwgRkZUV19GT1JXQVJELCBGRlRXX0VTVElNQVRFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5fZmZ0WzBdWzBdID0gaTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
