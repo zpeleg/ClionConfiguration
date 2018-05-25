@@ -91,11 +91,11 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/library.h" timestamp="1525974161311">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/library.h" timestamp="1527270082990">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="57" />
+        <mark key="^" line="7" column="57" />
+        <mark key="." line="7" column="57" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1527241452744">
         <mark key="." line="43" column="23" />
@@ -163,6 +163,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/dependencies/eigen-eigen-5a0156e40feb/Eigen/src/Core/util/Macros.h" timestamp="1527269957023" />
       <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1523618826810">
         <mark key="[" line="181" column="28" />
         <mark key="]" line="181" column="28" />
@@ -423,9 +424,6 @@
       </file>
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527259755335">
-        <mark key="'" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
