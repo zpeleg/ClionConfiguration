@@ -216,10 +216,10 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527248639139">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-        <mark key="^" line="42" column="18" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523974046731">
         <mark key="'" line="377" column="0" />
@@ -424,19 +424,9 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1527242536557">
         <mark key="'" line="88" column="0" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
-        <mark key="^" line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo/reference_signal.cpp" timestamp="1527247304476" />
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527249030616">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
