@@ -216,10 +216,6 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527248639139">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523974046731">
         <mark key="'" line="377" column="0" />
@@ -368,7 +364,7 @@
       <file name="/GDB" timestamp="1527247484478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527248605085">
+      <file name="/Dummy.txt" timestamp="1527259976257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -428,6 +424,9 @@
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527259755335">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -453,11 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="7" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="7" column="36" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
@@ -553,6 +547,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" />
+      <jump line="14" column="5" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
