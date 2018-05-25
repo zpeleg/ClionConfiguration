@@ -285,9 +285,6 @@
         <mark key="." line="27" column="9" />
         <mark key="^" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1525956370934">
-        <mark key="]" line="15" column="15" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.h" timestamp="1523522887035">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="25" />
@@ -413,9 +410,6 @@
       </file>
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527244146174">
-        <mark key="]" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
