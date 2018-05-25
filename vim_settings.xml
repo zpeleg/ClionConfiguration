@@ -411,6 +411,12 @@
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527246040012">
+        <mark key="[" line="11" column="64" />
+        <mark key="]" line="11" column="64" />
+        <mark key="." line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -566,8 +572,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>20000</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -582,7 +588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>20000</text>
       </register>
       <register name="/" type="4">
         <text>add_de</text>
