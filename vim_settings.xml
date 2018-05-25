@@ -285,6 +285,9 @@
         <mark key="." line="27" column="9" />
         <mark key="^" line="27" column="9" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1525956370934">
+        <mark key="]" line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.h" timestamp="1523522887035">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="25" />
@@ -411,12 +414,8 @@
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527242701649">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="61" column="45" />
-        <mark key="^" line="61" column="45" />
-        <mark key="." line="61" column="45" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527244146174">
+        <mark key="]" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
@@ -443,10 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
@@ -527,7 +522,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
@@ -543,6 +537,11 @@
       <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
       <jump line="88" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/buga_stream.cpp" />
+      <jump line="59" column="4" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,8 +572,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -608,32 +607,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIElCdWdhU2lnbmFsKiBidWdhU2lnbmFsID0gbmV3IFNpbXBsZUJ1Z2FTaWduYWwoMjAwMDAsIDAuMiwgNDgwMCwgMiwgIkwwTDFSMFIxIik7CiAgICBkYWVtb25BcGktPnJlcXVlc3RTdGFydE1peGluZyhidWdhU2lnbmFsKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFtpXSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtY3B5KGluX2ZmdCxvcmlnaW5hbC5kYXRhKCksdmVjc2l6ZSogc2l6ZW9mKEZDKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb21wLmprZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGF1dG8gYTpvcmlnaW5hbCl7CiAgICAgICAgICAgICAgICBpbgogICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFtpXSA9IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3B5KG9yaWdpbmFsLmJlZ2luKCksIG9yaWdpbmFsLmVuZCgpLCBpbl9mZnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVtY3B5KGluX2ZmdCxvcmlnaW5hbC5kYXRhKCksdmVjc2l6ZSogc2l6ZW9mKEZDKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
