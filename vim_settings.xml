@@ -265,19 +265,11 @@
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1527241280019">
         <mark key="'" line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1527248001465">
-        <mark key="'" line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="48" />
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1527248030540">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="34" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -414,7 +406,7 @@
       <file name="/fragment.mm" timestamp="1527178457982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1527502981949">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528190981552">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
@@ -572,8 +564,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vTG9nZ2VyOjpkZWJ1ZygiU2ltcGxlQnVnYVNpZ25hbCIsICJyZWFkIHJldHVybmluZzogIiArIHN0ZDo6dG9fc3RyaW5nKGN1ckluZGV4KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>daemonApi</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -588,7 +580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>daemonApi</text>
       </register>
       <register name="/" type="4">
         <text>add_de</text>
