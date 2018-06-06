@@ -409,6 +409,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528190981552">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1528258318473" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
