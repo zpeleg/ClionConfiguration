@@ -367,8 +367,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1527240938238">
-        <mark key="'" line="159" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1528266121659">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
@@ -435,17 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="258" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="253" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="229" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="201" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="199" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="197" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="192" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="169" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="163" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="161" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="156" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
@@ -535,6 +524,17 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
