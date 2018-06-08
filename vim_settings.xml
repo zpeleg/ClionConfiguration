@@ -139,7 +139,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1528360842439">
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/in_ear_detection_state.cpp" timestamp="1528456552810">
         <mark key="[" line="181" column="28" />
         <mark key="]" line="181" column="28" />
         <mark key="^" line="181" column="28" />
@@ -187,6 +187,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/tests/test_common.cpp" timestamp="1525006119191">
         <mark key="'" line="166" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1528456515665" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527503546063">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="30" column="0" />
