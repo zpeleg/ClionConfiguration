@@ -189,9 +189,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1523974046731">
-        <mark key="'" line="377" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -379,7 +376,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528190981552">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1528258318473" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1528450479709">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="76" />
+        <mark key="." line="27" column="76" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/logging_buga/CMakeLists.txt" timestamp="1525966841508">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -405,9 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" />
       <jump line="202" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="340" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
@@ -505,6 +504,9 @@
       <jump line="312" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
       <jump line="325" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
       <jump line="390" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -554,7 +556,7 @@
         <text>daemonApi</text>
       </register>
       <register name="/" type="4">
-        <text>add_de</text>
+        <text>mnt</text>
       </register>
       <register name="0" type="4">
         <text>R0R1L0L1</text>
@@ -602,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_de</last-search>
+      <last-search>mnt</last-search>
       <last-offset />
-      <last-pattern>add_de</last-pattern>
+      <last-pattern>mnt</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhdWRpb19kYXRhXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJ0b2ZcPg==</entry>
         <entry>std::strtof</entry>
         <entry>Android</entry>
         <entry>android</entry>
@@ -632,6 +633,7 @@
         <entry encoding="base64">XDxDVGVtcG9yYXJ5QXVkaW9EYXRhXD4=</entry>
         <entry encoding="base64">XDxBTkRST0lEX0xJQlNcPg==</entry>
         <entry>add_de</entry>
+        <entry>mnt</entry>
       </history-search>
       <history-cmd>
         <entry>e capture.c</entry>
