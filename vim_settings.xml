@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.cpp" timestamp="1522846919479">
@@ -83,13 +83,6 @@
         <mark key="]" line="89" column="44" />
         <mark key="^" line="61" column="74" />
         <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/benchmark/CMakeLists.txt" timestamp="1525956276604">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
@@ -187,7 +180,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/tests/test_common.cpp" timestamp="1525006119191">
         <mark key="'" line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1528456515665" />
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527503546063">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="30" column="0" />
@@ -239,25 +231,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/CMakeLists.txt" timestamp="1525972937923">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="69" column="8" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/dependencies/spdlog/include/spdlog/tweakme.h" timestamp="1522344812005">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1528452606214">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="20" />
-        <mark key="." line="86" column="20" />
-        <mark key="^" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -368,10 +346,9 @@
         <mark key="^" line="240" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1528457146257">
-        <mark key="[" line="71" column="79" />
-        <mark key="]" line="73" column="52" />
-        <mark key="^" line="73" column="52" />
-        <mark key="." line="73" column="52" />
+        <mark key="]" line="23" column="52" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="52" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
@@ -385,13 +362,6 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/CMakeLists.txt" timestamp="1527082275342">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/detectors/CMakeLists.txt" timestamp="1525966844635">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -403,8 +373,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528190981552">
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528458631597">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" timestamp="1528450479709">
         <mark key="[" line="27" column="75" />
@@ -436,12 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" />
-      <jump line="202" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="340" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="339" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="327" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
-      <jump line="320" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="313" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="308" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
       <jump line="304" column="0" filename="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" />
@@ -465,7 +432,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
@@ -536,6 +502,13 @@
       <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/core/logger.cpp" />
+      <jump line="21" column="24" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -566,8 +539,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ctrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnZvaWQgQnVnYXRvbmVBcGk6OmNyZWF0ZVN0YXRlTWFjaGluZShJRGFlbW9uQXBpKiBkYWVtb24pIHsKICAgIHN0YXRlTWFjaGluZSA9IG5ldyBTdGF0ZU1hY2hpbmUoZGFlbW9uKTsKfQoK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -602,31 +575,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXh0ZXJuIGlubGluZSBzdGQ6OnN0cmluZyBMT0dfVEFHKCk7Cg==</text>
+        <text encoding="base64">CnZvaWQgQnVnYXRvbmVBcGk6OmNyZWF0ZVN0YXRlTWFjaGluZShJRGFlbW9uQXBpKiBkYWVtb24pIHsKICAgIHN0YXRlTWFjaGluZSA9IG5ldyBTdGF0ZU1hY2hpbmUoZGFlbW9uKTsKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoJHtQUk9KRUNUX05BTUV9IFNIQVJFJHtTT1VSQ0VfRklMRVN9KQo=</text>
+        <text encoding="base64">Ly8KLy8gICAgaWYgKCFhcGlMb2NrLnRyeV9sb2NrKCkpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCBzdHJpbmcoIjo6cXVlcnlTdGF0dXMgRXJyb3I6IGNvbmN1cnJlbnQgQVBJIGFjY2VzcyIpKTsKLy8gICAgICAgIGRhZW1vbkFwaS0+bm90aWZ5RXJyb3IoZ2V0RXJyb3JDb2RlKEVycm9yRmFjaWxpdHk6OkJVR0FfQVBJLCBCdWdhdG9uZUVycm9yQ29kZTo6Q09OQ1VSUkVOVF9BUElfQUNDRVNTKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkNvbmN1cnJlbnQgQVBJIGFjY2VzcyIpOwovLyAgICAgICAgcmV0dXJuIGJzOwovLyAgICB9Ci8vCi8vICAgIHRyeSB7Ci8vICAgICAgICBicyA9IHN0YXRlTWFjaGluZS0+cXVlcnlTdGF0dXMoKTsKLy8gICAgfSBjYXRjaChjb25zdCBzdGQ6OmV4Y2VwdGlvbiYgZSkgewovLyAgICAgICAgTG9nZ2VyOjplcnJvcihMT0dfVEFHKCksIHN0cmluZygiOjpxdWVyeVN0YXR1cyBVbmV4cGVjdGVkIGV4Y2VwdGlvbjogIikgKyBlLndoYXQoKSk7Ci8vICAgICAgICBkYWVtb25BcGktPm5vdGlmeUVycm9yKGdldEVycm9yQ29kZShFcnJvckZhY2lsaXR5OjpCVUdBX0FQSSwgQnVnYXRvbmVFcnJvckNvZGU6OlVORVhQRUNURURfRVhDRVBUSU9OKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkV4Y2VwdGlvbiBpbiBzdG9wRGV0ZWN0KCkiKTsKLy8gICAgfQovLwovLyAgICBhcGlMb2NrLnVubG9jaygpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vTG9nZ2VyOjpkZWJ1ZygiU2ltcGxlQnVnYVNpZ25hbCIsICJyZWFkIHJldHVybmluZzogIiArIHN0ZDo6dG9fc3RyaW5nKGN1ckluZGV4KSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFhcGlMb2NrLnRyeV9sb2NrKCkpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCBzdHJpbmcoIjo6c3RvcERldGVjdCBFcnJvcjogY29uY3VycmVudCBBUEkgYWNjZXNzIikpOwovLyAgICAgICAgZGFlbW9uQXBpLT5ub3RpZnlFcnJvcihnZXRFcnJvckNvZGUoRXJyb3JGYWNpbGl0eTo6QlVHQV9BUEksIEJ1Z2F0b25lRXJyb3JDb2RlOjpDT05DVVJSRU5UX0FQSV9BQ0NFU1MpLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ29uY3VycmVudCBBUEkgYWNjZXNzIik7Ci8vICAgICAgICByZXR1cm47Ci8vICAgIH0KLy8KLy8gICAgdHJ5IHsKLy8gICAgICAgIGludDMyX3QgcmVzID0gc3RhdGVNYWNoaW5lLT5zdG9wRGV0ZWN0KCk7Ci8vICAgICAgICBpZiAocmVzICE9IEJ1Z2F0b25lRXJyb3JDb2RlOjpPSykgewovLyAgICAgICAgICAgIGRhZW1vbkFwaS0+bm90aWZ5RXJyb3IocmVzLCAiOjpzdG9wRGV0ZWN0IEVycm9yIGluIHN0b3BEZXRlY3QoKSIpOwovLyAgICAgICAgfQovLyAgICB9IGNhdGNoKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBlKSB7Ci8vICAgICAgICBMb2dnZXI6OmVycm9yKExPR19UQUcoKSwgc3RyaW5nKCI6OnN0b3BEZXRlY3QgVW5leHBlY3RlZCBleGNlcHRpb246ICIpICsgZS53aGF0KCkpOwovLyAgICAgICAgZGFlbW9uQXBpLT5ub3RpZnlFcnJvcihnZXRFcnJvckNvZGUoRXJyb3JGYWNpbGl0eTo6QlVHQV9BUEksIEJ1Z2F0b25lRXJyb3JDb2RlOjpVTkVYUEVDVEVEX0VYQ0VQVElPTiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFeGNlcHRpb24gaW4gc3RvcERldGVjdCgpIik7Ci8vICAgIH0KLy8KLy8gICAgYXBpTG9jay51bmxvY2soKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFhcGlMb2NrLnRyeV9sb2NrKCkpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCBzdHJpbmcoIjo6c3RhcnREZXRlY3QgRXJyb3I6IGNvbmN1cnJlbnQgQVBJIGFjY2VzcyIpKTsKLy8gICAgICAgIHJldHVybiBnZXRFcnJvckNvZGUoRXJyb3JGYWNpbGl0eTo6QlVHQV9BUEksIEJ1Z2F0b25lRXJyb3JDb2RlOjpDT05DVVJSRU5UX0FQSV9BQ0NFU1MpOwovLyAgICB9Ci8vCi8vICAgIGludDMyX3QgcmVzOwovLwovLyAgICB0cnkgewovLyAgICAgICAgcmVzID0gc3RhdGVNYWNoaW5lLT5zdGFydERldGVjdChjb25maWcpOwovLyAgICB9IGNhdGNoKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBlKSB7Ci8vICAgICAgICBMb2dnZXI6OmVycm9yKExPR19UQUcoKSwgc3RyaW5nKCI6OnN0YXJ0RGV0ZWN0IFVuZXhwZWN0ZWQgZXhjZXB0aW9uOiAiKSArIGUud2hhdCgpKTsKLy8gICAgICAgIHJlcyA9IGdldEVycm9yQ29kZShFcnJvckZhY2lsaXR5OjpCVUdBX0FQSSwgQnVnYXRvbmVFcnJvckNvZGU6OlVORVhQRUNURURfRVhDRVBUSU9OKTsKLy8gICAgfQovLwovLyAgICBhcGlMb2NrLnVubG9jaygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2lmbmRlZiBfX0FORFJPSURfXwpzdGF0aWNfYXNzZXJ0KGZhbHNlKTsKI2VuZGlmCg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFhcGlMb2NrLnRyeV9sb2NrKCkpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCBzdHJpbmcoIjo6Y3JlYXRlU3RhdGVNYWNoaW5lIEVycm9yOiBjb25jdXJyZW50IEFQSSBhY2Nlc3MiKSk7Ci8vICAgICAgICByZXR1cm4gZmFsc2U7Ci8vICAgIH0KLy8KLy8gICAgYm9vbCBzdWNjZXNzID0gZmFsc2U7Ci8vCi8vICAgIHRyeSB7Ci8vICAgICAgICAvLyBJbiBjYXNlIHN0b3AgaXMgY2FsbGVkIHR3aWNlLCBkb24ndCBjcmFzaC4KLy8gICAgICAgIGlmIChzdGF0ZU1hY2hpbmUgIT0gbnVsbHB0cikgewovLyAgICAgICAgICAgIGF1dG8gcmVzID0gc3RhdGVNYWNoaW5lLT5zdG9wRGV0ZWN0KCk7Ci8vICAgICAgICAgICAgZGVsZXRlIHN0YXRlTWFjaGluZTsKLy8gICAgICAgICAgICBzdGF0ZU1hY2hpbmUgPSBudWxscHRyOwovLyAgICAgICAgfQovLyAgICAgICAgc3VjY2VzcyA9IHRydWU7Ci8vICAgIH0gY2F0Y2goY29uc3Qgc3RkOjpleGNlcHRpb24mIGUpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCBzdHJpbmcoIjo6Y3JlYXRlU3RhdGVNYWNoaW5lIFVuZXhwZWN0ZWQgZXhjZXB0aW9uOiAiKSArIGUud2hhdCgpKTsKLy8gICAgfQovLwovLyAgICBhcGlMb2NrLnVubG9jaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2RlZmluZSBNWV9CVUlMRF9BTkRST0lECg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFhcGlMb2NrLnRyeV9sb2NrKCkpIHsKLy8gICAgICAgIExvZ2dlcjo6ZXJyb3IoTE9HX1RBRygpLCAiOjppbml0IEVycm9yOiBjb25jdXJyZW50IEFQSSBhY2Nlc3MiKTsKLy8gICAgICAgIHJldHVybiBmYWxzZTsKLy8gICAgfQovLwovLyAgICBkYWVtb25BcGkgPSBkYWVtb247Ci8vICAgIGJvb2wgc3VjY2VzcyA9IGZhbHNlOwovLwovLyAgICB0cnkgewovLyAgICAgICAgY3JlYXRlU3RhdGVNYWNoaW5lKGRhZW1vbik7Ci8vICAgICAgICBzdGF0ZU1hY2hpbmUtPmluaXQoY29uZmlnKTsKLy8gICAgICAgIHN1Y2Nlc3MgPSB0cnVlOwovLyAgICB9IGNhdGNoKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBlKSB7Ci8vICAgICAgICBMb2dnZXI6OmVycm9yKExPR19UQUcoKSwgc3RyaW5nKCI6OmluaXQgVW5leHBlY3RlZCBleGNlcHRpb246ICIpICsgZS53aGF0KCkpOwovLyAgICB9Ci8vCi8vICAgIGFwaUxvY2sudW5sb2NrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
+        <text encoding="base64">ZXh0ZXJuIGlubGluZSBzdGQ6OnN0cmluZyBMT0dfVEFHKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElEYWVtb25BcGkqIGRhZW1vbkFwaTsK</text>
+        <text encoding="base64">YWRkX2xpYnJhcnkoJHtQUk9KRUNUX05BTUV9IFNIQVJFJHtTT1VSQ0VfRklMRVN9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElCdWdhU3RyZWFtKiBidWdhU3RyZWFtID0gbmV3IEJ1Z2FTdHJlYW0oKTsKICAgIGRhZW1vbkFwaS0+cmVxdWVzdFN0YXJ0UmVjb3JkaW5nKGJ1Z2FTdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgIC8vTG9nZ2VyOjpkZWJ1ZygiU2ltcGxlQnVnYVNpZ25hbCIsICJyZWFkIHJldHVybmluZzogIiArIHN0ZDo6dG9fc3RyaW5nKGN1ckluZGV4KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
