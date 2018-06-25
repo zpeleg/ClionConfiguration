@@ -418,12 +418,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" timestamp="1529930586887">
+      <file name="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" timestamp="1529931676240">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
+        <mark key="[" line="31" column="94" />
+        <mark key="]" line="31" column="116" />
+        <mark key="." line="31" column="94" />
+        <mark key="^" line="31" column="93" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1524128394741">
         <mark key="[" line="8" column="4" />
@@ -527,7 +527,6 @@
       <jump line="229" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="231" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="237" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="30" column="4" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="28" column="29" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
@@ -539,6 +538,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -570,7 +570,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${PYTHON_INCLUDE_PATH}</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -591,7 +591,7 @@
         <text>mnt</text>
       </register>
       <register name="0" type="4">
-        <text>${CMAKE_CURRENT_SOURCE_DIR}/</text>
+        <text>${PYTHON_INCLUDE_PATH}</text>
       </register>
       <register name="p" type="4">
         <keys>
