@@ -274,12 +274,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530542058077">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530546421122">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="52" />
-        <mark key="]" line="55" column="52" />
-        <mark key="." line="55" column="52" />
-        <mark key="^" line="55" column="45" />
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1529937799319">
         <mark key="'" line="14" column="0" />
@@ -608,7 +608,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -623,7 +623,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
