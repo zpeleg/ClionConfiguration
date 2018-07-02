@@ -109,6 +109,12 @@
         <mark key="." line="110" column="51" />
         <mark key="^" line="110" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/underground_user_calib.cpp" timestamp="1530541495121">
+        <mark key="[" line="204" column="51" />
+        <mark key="]" line="204" column="51" />
+        <mark key="." line="204" column="51" />
+        <mark key="^" line="204" column="51" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -195,8 +201,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/test_common.cpp" timestamp="1525006119191">
-        <mark key="'" line="166" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_common.cpp" timestamp="1530541892618">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="57" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527503546063">
         <mark key="'" line="44" column="0" />
@@ -240,6 +250,12 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/swig/swig_inputPYTHON_wrap.cxx" timestamp="1529937617986">
         <mark key="'" line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/configuration/to_json.cpp" timestamp="1530541842384">
+        <mark key="[" line="185" column="24" />
+        <mark key="]" line="185" column="31" />
+        <mark key="." line="185" column="31" />
+        <mark key="^" line="185" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/data/audio_data_util_tests.cpp" timestamp="1523618529031">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -258,12 +274,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530541245383">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530542058077">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
-        <mark key="^" line="59" column="19" />
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="45" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1529937799319">
         <mark key="'" line="14" column="0" />
@@ -277,6 +293,12 @@
         <mark key="]" line="19" column="48" />
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1530541561853">
+        <mark key="[" line="325" column="54" />
+        <mark key="]" line="325" column="59" />
+        <mark key="." line="325" column="59" />
+        <mark key="^" line="325" column="59" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -347,7 +369,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529938886027">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/test_common.h" timestamp="1530541900350">
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530541248933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -580,7 +608,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHVwbGU8</text>
+        <text>e</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -595,13 +623,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHVwbGU8</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vZGV0ZWN0b3JzL2F1dG9wYXVzZV9saW5lYXJfcm9idXN0LmNwcAo=</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4Kdm9pZCB2YWxpZGF0ZV92ZWN0b3JzKGNvbnN0IHZlY3RvcjxUPiYgdjEsIGNvbnN0IHZlY3RvcjxUPiYgdjIpIHsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -614,21 +642,41 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>)
-)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>)
-)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="4" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="5" type="8">
         <text>std::make_tuple(
 std::make_tuple(
 std::make_tuple(
 std::make_tuple(</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="7" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="8" type="8">
+        <text>std::make_tuple(
+std::make_tuple(
+std::make_tuple(
+std::make_tuple(</text>
+      </register>
+      <register name="9" type="4">
         <text>//
 // Created by buga on 02/07/18.
 //
@@ -637,22 +685,6 @@ std::make_tuple(</text>
 #define MOBILEPRODUCT_TEMPORARY_H
 
 #endif //MOBILEPRODUCT_TEMPORARY_H</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I3ByYWdtYSBidWdhX2oK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>#target_INCLUDE_DIRECTORIES(magic_to_json ${PYTHON_INCLUDE_PATH})
-#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
