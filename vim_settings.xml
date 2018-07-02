@@ -258,12 +258,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530539968335">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530541245383">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1529937799319">
         <mark key="'" line="14" column="0" />
@@ -580,7 +580,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>spdlog::level::err</text>
+        <text encoding="base64">dHVwbGU8</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -595,7 +595,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>spdlog::level::err</text>
+        <text encoding="base64">dHVwbGU8</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
@@ -614,7 +614,21 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="2" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="3" type="8">
+        <text>std::make_tuple(
+std::make_tuple(
+std::make_tuple(
+std::make_tuple(</text>
+      </register>
+      <register name="4" type="4">
         <text>//
 // Created by buga on 02/07/18.
 //
@@ -624,30 +638,21 @@
 
 #endif //MOBILEPRODUCT_TEMPORARY_H</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">I3ByYWdtYSBidWdhX2oK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>#target_INCLUDE_DIRECTORIES(magic_to_json ${PYTHON_INCLUDE_PATH})
-#</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1NFVF9TT1VSQ0VfRklMRVNfUFJPUEVSVElFUygke1NXSUdfRklMRX0gUFJPUEVSVElFUyBTV0lHX0ZMQUdTICItaW5jbHVkZWFsbCIpCiNzd2lnX2FkZF9tb2R1bGUobWFnaWNfdG9fanNvbiBweXRob24gJHtTV0lHX0ZJTEV9KQo=</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0KENNQUtFX1NXSUdfT1VUKQoKI1NFVF9TT1VSQ0VfRklMRVNfUFJPUEVSVElFUygke1NXSUdfRklMRX0gUFJPUEVSVElFUyBTV0lHX0ZMQUdTICItaW5jbHVkZWFsbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CgoK</text>
+        <text>#target_INCLUDE_DIRECTORIES(magic_to_json ${PYTHON_INCLUDE_PATH})
+#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
