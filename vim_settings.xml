@@ -39,6 +39,12 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/swig/temporary.h" timestamp="1530537909891">
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/logging_controller.h" timestamp="1523700378183">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -96,8 +102,12 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1529929810729">
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1530537443244">
         <mark key="'" line="9" column="0" />
+        <mark key="[" line="110" column="36" />
+        <mark key="]" line="110" column="51" />
+        <mark key="." line="110" column="51" />
+        <mark key="^" line="110" column="51" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
@@ -248,18 +258,18 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1529928684765">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530537328298">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1529937799319">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -438,14 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="207" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="209" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="214" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="216" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
-      <jump line="221" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
       <jump line="223" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
       <jump line="234" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
       <jump line="236" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/autopause.cpp" />
@@ -538,6 +540,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/mobileproduct/src/swig/swig_inputPYTHON_wrap.cxx" />
+      <jump line="13" column="4" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="41" column="4" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -569,7 +579,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>code_gen_utils</text>
+        <text>spdlog::level::err</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -584,13 +594,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>code_gen_utils</text>
+        <text>spdlog::level::err</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
       </register>
-      <register name="0" type="4">
-        <text>CMAKE_BINARY_DIR</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vZGV0ZWN0b3JzL2F1dG9wYXVzZV9saW5lYXJfcm9idXN0LmNwcAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -603,33 +613,40 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
+      <register name="1" type="4">
+        <text>//
+// Created by buga on 02/07/18.
+//
+
+#ifndef MOBILEPRODUCT_TEMPORARY_H
+#define MOBILEPRODUCT_TEMPORARY_H
+
+#endif //MOBILEPRODUCT_TEMPORARY_H</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
+        <text encoding="base64">I3ByYWdtYSBidWdhX2oK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIlRoZSBkaXJlY3RvcnkgaXMgJHtDTUFLRV9TT1VSQ0VfRElSfSIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>#target_INCLUDE_DIRECTORIES(magic_to_json ${PYTHON_INCLUDE_PATH})
 #</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">I1NFVF9TT1VSQ0VfRklMRVNfUFJPUEVSVElFUygke1NXSUdfRklMRX0gUFJPUEVSVElFUyBTV0lHX0ZMQUdTICItaW5jbHVkZWFsbCIpCiNzd2lnX2FkZF9tb2R1bGUobWFnaWNfdG9fanNvbiBweXRob24gJHtTV0lHX0ZJTEV9KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2V0KENNQUtFX1NXSUdfT1VUKQoKI1NFVF9TT1VSQ0VfRklMRVNfUFJPUEVSVElFUygke1NXSUdfRklMRX0gUFJPUEVSVElFUyBTV0lHX0ZMQUdTICItaW5jbHVkZWFsbCIpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUWVBFIFNIQVJFRAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">U0VUX1NPVVJDRV9GSUxFU19QUk9QRVJUSUVTKCR7U1dJR19GSUxFfSBQUk9QRVJUSUVTIENQTFVTUExVUyBPTikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -685,8 +702,8 @@
         <entry>d</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
