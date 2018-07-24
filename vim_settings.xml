@@ -272,12 +272,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530551138430">
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530606582714">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="41" />
-        <mark key="]" line="55" column="41" />
-        <mark key="." line="55" column="41" />
-        <mark key="^" line="55" column="48" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1530547183598">
         <mark key="'" line="149" column="0" />
@@ -597,8 +596,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -633,48 +632,41 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>)
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="8">
         <text>)
 )</text>
       </register>
       <register name="5" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="6" type="8">
         <text>std::make_tuple(
 std::make_tuple(
 std::make_tuple(
 std::make_tuple(</text>
-      </register>
-      <register name="6" type="8">
-        <text>)
-)</text>
       </register>
       <register name="7" type="8">
         <text>)
 )</text>
       </register>
       <register name="8" type="8">
+        <text>)
+)</text>
+      </register>
+      <register name="9" type="8">
         <text>std::make_tuple(
 std::make_tuple(
 std::make_tuple(
 std::make_tuple(</text>
-      </register>
-      <register name="9" type="4">
-        <text>//
-// Created by buga on 02/07/18.
-//
-
-#ifndef MOBILEPRODUCT_TEMPORARY_H
-#define MOBILEPRODUCT_TEMPORARY_H
-
-#endif //MOBILEPRODUCT_TEMPORARY_H</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
