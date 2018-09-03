@@ -108,18 +108,12 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1530537443244">
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1535967106743">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="110" column="36" />
         <mark key="]" line="110" column="51" />
         <mark key="." line="110" column="51" />
         <mark key="^" line="110" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/underground_user_calib.cpp" timestamp="1530541495121">
-        <mark key="[" line="204" column="51" />
-        <mark key="]" line="204" column="51" />
-        <mark key="." line="204" column="51" />
-        <mark key="^" line="204" column="51" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
@@ -274,9 +268,6 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/autopause.h" timestamp="1530606582714">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="1" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1530547183598">
         <mark key="'" line="149" column="0" />
@@ -299,10 +290,10 @@
         <mark key="." line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1530541561853">
-        <mark key="[" line="325" column="54" />
-        <mark key="]" line="325" column="59" />
-        <mark key="." line="325" column="59" />
-        <mark key="^" line="325" column="59" />
+        <mark key="[" line="329" column="54" />
+        <mark key="]" line="329" column="59" />
+        <mark key="." line="329" column="59" />
+        <mark key="^" line="329" column="59" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
