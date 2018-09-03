@@ -412,6 +412,12 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1535984903376">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="49" />
@@ -457,17 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="24" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" />
-      <jump line="286" column="34" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="285" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="278" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="273" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
@@ -557,6 +552,17 @@
       <jump line="115" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
       <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
       <jump line="149" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" />
+      <jump line="45" column="8" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -587,8 +593,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
+      <register name="&quot;" type="4">
+        <text>protos/helloworld.proto</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -603,7 +609,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>protos/helloworld.proto</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
@@ -622,42 +628,34 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
+      <register name="1" type="4">
+        <text>opt/grpc</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>)
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">YWRkX2NvbXBpbGVfb3B0aW9ucygtc3RkPWMrKzExKQo=</text>
       </register>
-      <register name="5" type="8">
-        <text>)
-)</text>
+      <register name="4" type="4">
+        <text>opt/grpc</text>
       </register>
-      <register name="6" type="8">
-        <text>std::make_tuple(
-std::make_tuple(
-std::make_tuple(
-std::make_tuple(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>)
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="8">
         <text>)
 )</text>
       </register>
       <register name="9" type="8">
-        <text>std::make_tuple(
-std::make_tuple(
-std::make_tuple(
-std::make_tuple(</text>
+        <text>)
+)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
