@@ -102,6 +102,10 @@
         <mark key="^" line="61" column="74" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/device_communication/cpp/cmake-build-debug/rpc_proto/proto-src/shit.grpc.pb.h" timestamp="1535987072537">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="149" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="16" />
@@ -307,6 +311,11 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/device_communication/cpp/CMakeLists.txt" timestamp="1535986596215">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo/bugafft.h" timestamp="1527271589212">
         <mark key="'" line="380" column="0" />
       </file>
@@ -401,22 +410,17 @@
         <mark key="." line="240" column="25" />
         <mark key="^" line="240" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1528457146257">
-        <mark key="]" line="23" column="52" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="52" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1535984903376">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1535986887492">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -435,6 +439,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/CMakeLists.txt" timestamp="1523273691948">
         <mark key="[" line="15" column="42" />
@@ -463,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="278" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="273" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="271" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
@@ -563,6 +572,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="20" column="4" filename="$USER_HOME$/Code/device_communication/cpp/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -594,7 +604,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>protos/helloworld.proto</text>
+        <text>shit</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -609,13 +619,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>protos/helloworld.proto</text>
+        <text>shit</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4Kdm9pZCB2YWxpZGF0ZV92ZWN0b3JzKGNvbnN0IHZlY3RvcjxUPiYgdjEsIGNvbnN0IHZlY3RvcjxUPiYgdjIpIHsK</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgOjpncnBjOjpTdGF0dXMgY2FsbCg6OmdycGM6OlNlcnZlckNvbnRleHQqIGNvbnRleHQsIGNvbnN0IDo6YnVnYV9ycGM6Ok1hcnNoYWxsZWRPYmplY3QqIHJlcXVlc3QsIDo6YnVnYV9ycGM6Ok1hcnNoYWxsZWRPYmplY3QqIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -628,34 +638,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>opt/grpc</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBTdGF0dXMgU2F5SGVsbG8oU2VydmVyQ29udGV4dCAqY29udGV4dCwgY29uc3QgSGVsbG9SZXF1ZXN0ICpyZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgIEhlbGxvUmVwbHkgKnJlcGx5KSBvdmVycmlkZSB7CiAgICAgICAgc3RkOjpzdHJpbmcgcHJlZml4KCJIZWxsbyAiKTsKICAgICAgICByZXBseS0+c2V0X21lc3NhZ2UocHJlZml4ICsgcmVxdWVzdC0+bmFtZSgpKTsKICAgICAgICByZXR1cm4gU3RhdHVzOjpPSzsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS0+c2V0X2J1ZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2NvbXBpbGVfb3B0aW9ucygtc3RkPWMrKzExKQo=</text>
+        <text encoding="base64">Ly8gTG9naWMgYW5kIGRhdGEgYmVoaW5kIHRoZSBzZXJ2ZXIncyBiZWhhdmlvci4K</text>
       </register>
-      <register name="4" type="4">
-        <text>opt/grpc</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFN0YXR1cyBTYXlIZWxsbyhTZXJ2ZXJDb250ZXh0ICpjb250ZXh0LCBjb25zdCBIZWxsb1JlcXVlc3QgKnJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgSGVsbG9SZXBseSAqcmVwbHkpIG92ZXJyaWRlIHsKICAgICAgICBzdGQ6OnN0cmluZyBwcmVmaXgoIkhlbGxvICIpOwogICAgICAgIHJlcGx5LT5zZXRfbWVzc2FnZShwcmVmaXggKyByZXF1ZXN0LT5uYW1lKCkpOwogICAgICAgIHJldHVybiBTdGF0dXM6Ok9LOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbWluX291dF9yYXRpb3MgPSBzdGQ6OnZlY3Rvcjxkb3VibGU+KDgxOTMsIDAuMyk7IC8vIDIqKjE0LzItMQo=</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgOjpncnBjOjpTdGF0dXMgY2FsbCg6OmdycGM6OlNlcnZlckNvbnRleHQqIGNvbnRleHQsIGNvbnN0IDo6YnVnYV9ycGM6Ok1hcnNoYWxsZWRPYmplY3QqIHJlcXVlc3QsIDo6YnVnYV9ycGM6Ok1hcnNoYWxsZWRPYmplY3QqIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmJlCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHJwY19wcm90by9wcm90by1zcmMvcnBjLnBiLmg+Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>)
-)</text>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInNoaXQucGIuaCIK</text>
       </register>
-      <register name="9" type="8">
-        <text>)
-)</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke1BST1RPX1NSQ19ESVJ9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
