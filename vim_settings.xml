@@ -417,12 +417,12 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1536070703792">
+      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1536077916635">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="37" column="61" />
-        <mark key="." line="37" column="61" />
-        <mark key="^" line="37" column="61" />
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -605,8 +605,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>rp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgL2hvbWUvYnVnYS9Db2RlL2dycGMtYXJtNjQvbGlicy9vcHQvbGliZ3JwY191bnNlY3VyZS5zbwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -621,13 +621,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rp</text>
+        <text>libgpr</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgL2hvbWUvYnVnYS9Db2RlL2dycGMtYXJtNjQvbGlicy9vcHQvbGliZ3JwY191bnNlY3VyZS5zbwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -640,32 +640,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>${PROJECT_SOURCE_DIR}/dependencies/grpc/lib/
+${PROJECT_SOURCE_DIR}/dependencies/grpc/lib/
+${PROJECT_SOURCE_DIR}/dependencies/grpc/lib/
+${PROJECT_SOURCE_DIR}/dependencies/grpc/lib/</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHtQUk9KRUNUX1NPVVJDRV9ESVJ9L2RlcGVuZGVuY2llcy9ncnBjL2xpYi9saWJncnAuc28K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Q01BS0VfSU5TVEFMTF9SUEFUSCAke1BST0pFQ1RfU09VUkNFX0RJUn0vZGVwZW5kZW5jaWVzL2dycGMvbGliLykK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2UoYmF5dXNoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2UoSEFZWVlZWVlZWVlZWVlZWVlZWSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBnUlBDOjpncnBjKytfcmVmbGVjdGlvbgogICAgICAgIHByb3RvYnVmOjpsaWJwcm90b2J1Zg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHtQUk9KRUNUX1NPVVJDRV9ESVJ9L2RlcGVuZGVuY2llcy9ncnBjL2xpYi9saWJqawo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGdSUEM6OmdycGMrK19yZWZsZWN0aW9uCnByb3RvYnVmOjpsaWJwcm90b2J1Zgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBTdGF0dXMgU2F5SGVsbG8oU2VydmVyQ29udGV4dCAqY29udGV4dCwgY29uc3QgSGVsbG9SZXF1ZXN0ICpyZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgIEhlbGxvUmVwbHkgKnJlcGx5KSBvdmVycmlkZSB7CiAgICAgICAgc3RkOjpzdHJpbmcgcHJlZml4KCJIZWxsbyAiKTsKICAgICAgICByZXBseS0+c2V0X21lc3NhZ2UocHJlZml4ICsgcmVxdWVzdC0+bmFtZSgpKTsKICAgICAgICByZXR1cm4gU3RhdHVzOjpPSzsKICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS0+c2V0X2J1ZigpCg==</text>
+        <text encoding="base64">CiAgICBTdGF0dXMgU2F5SGVsbG8oU2VydmVyQ29udGV4dCAqY29udGV4dCwgY29uc3QgSGVsbG9SZXF1ZXN0ICpyZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgIEhlbGxvUmVwbHkgKnJlcGx5KSBvdmVycmlkZSB7CiAgICAgICAgc3RkOjpzdHJpbmcgcHJlZml4KCJIZWxsbyAiKTsKICAgICAgICByZXBseS0+c2V0X21lc3NhZ2UocHJlZml4ICsgcmVxdWVzdC0+bmFtZSgpKTsKICAgICAgICByZXR1cm4gU3RhdHVzOjpPSzsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
