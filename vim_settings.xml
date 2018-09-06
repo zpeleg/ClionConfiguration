@@ -15,12 +15,6 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/e2e_test.cpp" timestamp="1527247338583">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/dummy_buga/dummy_configuration.h" timestamp="1530547192869">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="20" column="43" />
@@ -203,12 +197,6 @@
         <mark key="]" line="21" column="64" />
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/simple_buga_signal.cpp" timestamp="1527503546063">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
@@ -399,12 +387,6 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/misc/fft.cpp" timestamp="1527271686146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1528457446990">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="240" column="11" />
@@ -436,12 +418,6 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1528458631597">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
         <mark key="[" line="7" column="10" />
