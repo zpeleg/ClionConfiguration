@@ -187,6 +187,9 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1538653366626">
+        <mark key="'" line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -443,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
       <jump line="123" column="0" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
@@ -543,6 +545,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/out_ear_detection_state.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
