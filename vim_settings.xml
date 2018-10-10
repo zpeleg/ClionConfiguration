@@ -413,7 +413,7 @@
       <file name="/GDB" timestamp="1539181898561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539181932842">
+      <file name="/Dummy.txt" timestamp="1539185450077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="199" />
@@ -458,12 +458,12 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539183814286">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539185549782">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="520" column="33" />
-        <mark key="]" line="521" column="25" />
-        <mark key="." line="521" column="25" />
-        <mark key="^" line="521" column="25" />
+        <mark key="[" line="520" column="5" />
+        <mark key="]" line="520" column="5" />
+        <mark key="." line="520" column="5" />
+        <mark key="^" line="520" column="5" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -649,7 +649,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>::__single_object</text>
+        <text>O</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -664,7 +664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>::__single_object</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
