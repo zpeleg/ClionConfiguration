@@ -458,12 +458,12 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539181728595">
+      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539183814286">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="157" column="26" />
-        <mark key="]" line="158" column="33" />
-        <mark key="." line="158" column="33" />
-        <mark key="^" line="158" column="33" />
+        <mark key="[" line="520" column="33" />
+        <mark key="]" line="521" column="25" />
+        <mark key="." line="521" column="25" />
+        <mark key="^" line="521" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -768,8 +768,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
