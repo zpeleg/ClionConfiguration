@@ -410,10 +410,10 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
-      <file name="/GDB" timestamp="1539177379310">
+      <file name="/GDB" timestamp="1539181898561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539180018712">
+      <file name="/Dummy.txt" timestamp="1539181932842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="199" />
@@ -458,12 +458,12 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539180304221">
-        <mark key="'" line="506" column="0" />
-        <mark key="[" line="505" column="61" />
-        <mark key="]" line="505" column="61" />
-        <mark key="." line="505" column="61" />
-        <mark key="^" line="505" column="61" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539181728595">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="157" column="26" />
+        <mark key="]" line="158" column="33" />
+        <mark key="." line="158" column="33" />
+        <mark key="^" line="158" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -518,30 +518,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="13" column="38" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="38" column="8" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="43" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
@@ -549,50 +530,7 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="82" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="85" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="88" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="96" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="133" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="138" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="146" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="150" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="157" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="175" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="244" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="251" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="254" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="267" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="301" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="306" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="308" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="311" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="327" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="366" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="371" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="373" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="376" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="391" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="430" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="435" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="437" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="440" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="455" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="494" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="499" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="501" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="504" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="507" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="67" column="21" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
       <jump line="4" column="54" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
@@ -618,6 +556,68 @@
       <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
       <jump line="350" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
       <jump line="358" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
+      <jump line="506" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="504" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="501" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="499" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="494" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="455" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="440" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="437" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="435" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="430" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="391" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="376" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="373" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="371" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="366" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="327" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="312" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="308" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="306" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="301" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="267" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="254" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="251" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="244" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="133" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="157" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="146" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="138" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="150" column="12" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="158" column="33" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -649,7 +649,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>::__single_object</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -664,7 +664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>::__single_object</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
@@ -684,34 +684,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gbW9ja09wcG9CdWdhdG9uZUFwaSA9IHN0ZDo6bWFrZV91bmlxdWU8TW9ja09wcG9CdWdhdG9uZUFwaT4oKTsKICAgIGF1dG8gbW9ja09wcG9EYWVtb24gPSBuZXcgTW9ja09wcG9EYWVtb24obW9ja0RhZW1vbiwgbW9ja09wcG9CdWdhdG9uZUFwaS5nZXQoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBtb2NrT3Bwb0RhZW1vbjsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgOjp0ZXN0aW5nOjpOaWNlTW9jazsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGRlbGV0ZSBtb2NrT3Bwb0RhZW1vbjsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNpbmcgOjp0ZXN0aW5nOjpOaWNlTW9jazsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEVYUEVDVF9DQUxMKCptb2NrT3Bwb0RhZW1vbiwgc2V0VGVhY2hlclN0YXR1cyhfKSkuVGltZXMoMSk7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBtb2NrT3Bwb0RhZW1vbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbW9ja09wcG9CdWdhdG9uZUFwaSA9IHN0ZDo6bWFrZV91bmlxdWU8TW9ja09wcG9CdWdhdG9uZUFwaT4oKTsK</text>
+        <text encoding="base64">ICAgIEVYUEVDVF9DQUxMKCptb2NrT3Bwb0RhZW1vbiwgc2V0VGVhY2hlclN0YXR1cyhfKSkuVGltZXMoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbW9ja09wcG9EYWVtb24gPSBuZXcgTW9ja09wcG9EYWVtb24obW9ja0RhZW1vbiwgbW9ja09wcG9CdWdhdG9uZUFwaS5nZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gbW9ja09wcG9CdWdhdG9uZUFwaSA9IHN0ZDo6bWFrZV91bmlxdWU8TW9ja09wcG9CdWdhdG9uZUFwaT4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gbW9ja09wcG9EYWVtb24gPSBuZXcgTW9ja09wcG9EYWVtb24obW9ja0RhZW1vbiwgbW9ja09wcG9CdWdhdG9uZUFwaS5nZXQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbW9kUHRyID0gbW9ja09wcG9EYWVtb24uZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -768,8 +768,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
