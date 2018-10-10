@@ -348,6 +348,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_commandable.h" timestamp="1539172512569" />
       <file name="$USER_HOME$/Code/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1523273673924">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="48" />
@@ -383,9 +384,9 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1539171520375">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="255" column="23" />
-        <mark key="]" line="255" column="23" />
-        <mark key="." line="255" column="23" />
+        <mark key="[" line="150" column="23" />
+        <mark key="]" line="150" column="23" />
+        <mark key="." line="150" column="23" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.h" timestamp="1539171730344">
         <mark key="[" line="27" column="62" />
