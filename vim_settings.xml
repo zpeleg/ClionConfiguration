@@ -423,6 +423,12 @@
       <file name="/GDB" timestamp="1539190001713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539272162783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="242" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -435,7 +441,7 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539267903040">
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539271862681">
         <mark key="[" line="11" column="100" />
         <mark key="]" line="11" column="100" />
         <mark key="." line="11" column="100" />
@@ -646,7 +652,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>improve latency of autoplay by NOT loading preloaded data when it os not needed. preloaded data is no longer saved to the calibrations file and is only read from the preloaded file for the teacher state. OppoUtils.forget_calibrations() is fixed accordingly</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -664,7 +670,7 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>improve latency of autoplay by NOT loading preloaded data when it os not needed. preloaded data is no longer saved to the calibrations file and is only read from the preloaded file for the teacher state. OppoUtils.forget_calibrations() is fixed accordingly</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
