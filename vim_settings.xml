@@ -717,7 +717,7 @@
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDExLzEwLzE4LgovLwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -768,11 +768,11 @@
         <entry>'</entry>
         <entry>we</entry>
         <entry>d</entry>
-        <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
