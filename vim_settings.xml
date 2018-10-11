@@ -69,12 +69,7 @@
         <mark key="^" line="7" column="80" />
         <mark key="." line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539268522691">
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="10" />
-        <mark key="^" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539274162890" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/dummy_autopause_controller.cpp" timestamp="1523511047359">
         <mark key="[" line="170" column="27" />
         <mark key="]" line="170" column="27" />
@@ -111,23 +106,19 @@
         <mark key="." line="114" column="16" />
         <mark key="^" line="114" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1539266958751">
+      <file name="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" timestamp="1539274425443">
         <mark key="'" line="172" column="19" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="135" column="86" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/vendor/oppo/oppo_daemon_api_tests.cpp" timestamp="1539176653284">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1539180015253">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1539274585672">
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="30" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
@@ -160,11 +151,11 @@
         <mark key="^" line="62" column="74" />
         <mark key="." line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539267916229">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539274901631">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1523880025736">
         <mark key="[" line="121" column="20" />
@@ -221,10 +212,10 @@
         <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539267462125">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="17" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
@@ -299,11 +290,12 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539179744053">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="20" column="40" />
-        <mark key="." line="20" column="40" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539274960839">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="72" column="32" />
+        <mark key="]" line="73" column="15" />
+        <mark key="^" line="73" column="15" />
+        <mark key="." line="73" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -347,18 +339,24 @@
         <mark key="^" line="52" column="63" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1539268469215">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1539273960372">
+        <mark key="'" line="67" column="20" />
         <mark key="[" line="68" column="50" />
         <mark key="]" line="68" column="65" />
         <mark key="^" line="68" column="65" />
         <mark key="." line="68" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.h" timestamp="1539267107152">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="32" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/INotifyExecutor.h" timestamp="1539274385643">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.h" timestamp="1539274864627">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/buga_stream_tests.cpp" timestamp="1522836044465">
         <mark key="[" line="40" column="8" />
@@ -423,7 +421,7 @@
       <file name="/GDB" timestamp="1539190001713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539272162783">
+      <file name="/Dummy.txt" timestamp="1539274880640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="242" />
@@ -441,11 +439,11 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539271862681">
-        <mark key="[" line="11" column="100" />
-        <mark key="]" line="11" column="100" />
-        <mark key="." line="11" column="100" />
-        <mark key="^" line="11" column="100" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539274851649">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1539268140535">
         <mark key="'" line="358" column="0" />
@@ -505,7 +503,7 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="6" />
       </file>
-      <file name="/fragment.mm" timestamp="1539179549841">
+      <file name="/fragment.mm" timestamp="1539274880628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
@@ -541,39 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="99" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="110" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="112" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="114" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="120" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="135" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="141" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="142" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/general_mocks.h" />
-      <jump line="350" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="358" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" />
-      <jump line="506" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="504" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="501" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="499" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="494" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="455" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="440" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="437" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="435" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="430" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="391" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="376" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="373" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="371" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="366" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="327" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="312" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="308" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="306" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="301" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="267" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
@@ -641,6 +606,39 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
+      <jump line="67" column="20" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
+      <jump line="69" column="17" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,8 +649,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>improve latency of autoplay by NOT loading preloaded data when it os not needed. preloaded data is no longer saved to the calibrations file and is only read from the preloaded file for the teacher state. OppoUtils.forget_calibrations() is fixed accordingly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBleGlzdHM7Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -670,13 +668,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>improve latency of autoplay by NOT loading preloaded data when it os not needed. preloaded data is no longer saved to the calibrations file and is only read from the preloaded file for the teacher state. OppoUtils.forget_calibrations() is fixed accordingly</text>
+        <text encoding="base64">ID0gams7</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZ2dlcjo6aW5mbygiT3Bwb0RhZW1vbkFwaSIsICJPcHBvRGFlbW9uQXBpOjpnZXRBdXRvUGxheVNpZ25hbFBhdGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vdmVuZG9yL29wcG8vdGVhY2hlcl9zdGF0dXNfbm90aWZpY2F0aW9uX2RlY2lkZXIuY3BwCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -690,28 +688,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseSYK</text>
+        <text encoding="base64">ICAgIGludCBleGlzdHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZXhwZXJpbWVudGFsOjpvcHRpb25hbCBhc2Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJ1Z2F0b25lQXBpOjpxdWVyeVN0YXR1cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBEdW1teUNvbW1hbmRhYmxlOjpzZXRUZWFjaGVyU3RhdHVzKENoYW5uZWxsZWQ8RWFyVGVhY2hlclN0YXR1cz4gZWFyU3RhdHVzKSB7CiAgICBJQWxnb1Jlc3VsdENvbW1hbmRhYmxlOjpzZXRUZWFjaGVyU3RhdHVzKGVhclN0YXR1cyk7Cn0K</text>
+        <text encoding="base64">ICAgIGdldFN0YXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudAo=</text>
+        <text encoding="base64">ICAgIGJ1Z2EK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEd1aU5vdGlmaWNhdGlvbiAK</text>
+        <text encoding="base64">ICAgIFRlYWNoZXJTdGF0dXNOb3RpZmljYXRpb25EZWNpZGVyKElOb3RpZnlFeGVjdXRvciYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGVhY2hlclN0YXR1c05vdGlmaWNhdGlvbkRlY2lkZQo=</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYWxnb19jb250cm9sbGVycy91dF9zdGF0dXNfYWxnb19yZXN1bHQuaAo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -720,10 +718,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDExLzEwLzE4LgovLwoK</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseSYK</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -775,10 +773,10 @@
         <entry>we</entry>
         <entry>d</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>x</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
