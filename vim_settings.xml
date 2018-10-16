@@ -137,11 +137,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/underground_teacher.h" timestamp="1539682239380">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="135" />
-        <mark key="^" line="46" column="76" />
-        <mark key="." line="46" column="76" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/underground_teacher.h" timestamp="1539688554747">
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="115" />
+        <mark key="^" line="45" column="101" />
+        <mark key="." line="46" column="77" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.h" timestamp="1523972559150">
         <mark key="[" line="4" column="0" />
@@ -563,8 +563,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENoYW5uZWxsZWQ8RWFyVGVhY2hlclN0YXR1cz4gZWFyU3RhdHVzID0ge3suZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZT1JTkZJTklUWSwgLnRlYWNoZXJTdGF0ZT1VbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6SU5WQUxJRH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGU9SU5GSU5JVFksIC50ZWFjaGVyU3RhdGU9VW5kZXJncm91bmRUZWFjaGVyU3RhdGU6OklOVkFMSUR9fTsK</text>
+      <register name="&quot;" type="4">
+        <text>INFINITY</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -582,13 +582,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>List up all the parameters that need to be collected</text>
+        <text>INFINITY</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIENoYW5uZWxsZWQ8RWFyVGVhY2hlclN0YXR1cz4gZWFyU3RhdHVzID0ge3suZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZT1JTkZJTklUWSwgLnRlYWNoZXJTdGF0ZT1VbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6SU5WQUxJRH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGU9SU5GSU5JVFksIC50ZWFjaGVyU3RhdGU9VW5kZXJncm91bmRUZWFjaGVyU3RhdGU6OklOVkFMSUR9fTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RkOjpudW1lcmljX2xpbWl0czxmbG9hdD46OmluZmluaXR5KCk=</text>
       </register>
       <register name="p" type="4">
         <keys>
