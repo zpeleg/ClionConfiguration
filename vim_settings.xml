@@ -57,6 +57,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" timestamp="1539690772038">
+        <mark key="'" line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/out_ear_tests.cpp" timestamp="1523882611447">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="77" column="44" />
@@ -335,6 +338,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/underground_teacher_controller.cpp" timestamp="1539690954584">
+        <mark key="[" line="21" column="105" />
+        <mark key="]" line="21" column="105" />
+        <mark key="." line="21" column="105" />
+        <mark key="^" line="21" column="105" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.h" timestamp="1522846245082">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -453,13 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="301" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="267" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="254" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="251" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="249" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="244" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
@@ -553,6 +555,13 @@
       <jump line="72" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="74" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,7 +573,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>INFINITY</text>
+        <text>EarDete</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -582,7 +591,7 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>INFINITY</text>
+        <text>EarDete</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
@@ -602,37 +611,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB7CiAgICBJTlZBTElEID0gMCwKICAgIFNFQVJDSElOR19GT1JfU1RBQkxFX1BPUyA9IDEsCiAgICBTSU5HTEVfU1RBQkxFX1BPU19GT1VORCA9IDIsCiAgICBSRUFEWSA9IDMKfTsKCnN0cnVjdCBFYXJUZWFjaGVyU3RhdHVzIHsKICAgIGRvdWJsZSBlc3RpbWF0ZWRTZWNzVG9Db21wbGV0ZVN0YXRlOyAvLyBzaG91bGQgYmUgSU5GIGlmIGluIGN1cnJlbnQgdm9sdW1lIGl0IHdpbGwgbm90IGNvbXBsZXRlCiAgICBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB0ZWFjaGVyU3RhdGU7Cn07Cg==</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETzogVGhpcyBhbmQgdGhlIGVudW0gYXJlIHdheSB0b28gY29uZnVzaW5nLCBuZWVkIHRvIGZpbmQgZGlmZmVyZW50ZXIgbmFtZXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gVE9ETzogCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZW51bSBjbGFzcyBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB7CiAgICBJTlZBTElEID0gMCwKICAgIFNFQVJDSElOR19GT1JfU1RBQkxFX1BPUyA9IDEsCiAgICBTSU5HTEVfU1RBQkxFX1BPU19GT1VORCA9IDIsCiAgICBSRUFEWSA9IDMKfTsKCnN0cnVjdCBFYXJUZWFjaGVyU3RhdHVzIHsKICAgIGRvdWJsZSBlc3RpbWF0ZWRTZWNzVG9Db21wbGV0ZVN0YXRlOyAvLyBzaG91bGQgYmUgSU5GIGlmIGluIGN1cnJlbnQgdm9sdW1lIGl0IHdpbGwgbm90IGNvbXBsZXRlCiAgICBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB0ZWFjaGVyU3RhdGU7Cn07Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gVE9ETzogVGhpcyBhbmQgdGhlIGVudW0gYXJlIHdheSB0b28gY29uZnVzaW5nLCBuZWVkIHRvIGZpbmQgZGlmZmVyZW50ZXIgbmFtZXMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
+        <text encoding="base64">Ly8gVE9ETzogCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOyArK2kpIHsKICAgICAgICAKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
