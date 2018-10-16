@@ -213,11 +213,11 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1539693473695">
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="55" />
-        <mark key="^" line="42" column="55" />
-        <mark key="." line="42" column="55" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1539694342300">
+        <mark key="[" line="74" column="56" />
+        <mark key="]" line="74" column="56" />
+        <mark key="^" line="74" column="56" />
+        <mark key="." line="74" column="56" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539267462125">
         <mark key="[" line="6" column="0" />
@@ -293,11 +293,11 @@
         <mark key="^" line="76" column="48" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539693345143">
-        <mark key="[" line="145" column="92" />
-        <mark key="]" line="145" column="110" />
-        <mark key="^" line="145" column="110" />
-        <mark key="." line="145" column="110" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539694601417">
+        <mark key="[" line="77" column="69" />
+        <mark key="]" line="77" column="69" />
+        <mark key="^" line="77" column="69" />
+        <mark key="." line="77" column="69" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -416,7 +416,7 @@
       <file name="/GDB" timestamp="1539190001713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539693292145">
+      <file name="/Dummy.txt" timestamp="1539694512561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
@@ -431,12 +431,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539693586491">
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539694466416">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="32" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
@@ -471,7 +471,7 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="/fragment.mm" timestamp="1539693294444">
+      <file name="/fragment.mm" timestamp="1539694515282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
@@ -618,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3B0aW9uYWw8Q2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPj4oZXRzLCB0cnVlKQ==</text>
+        <text>buga::make_optional</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -636,13 +636,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3B0aW9uYWw8Q2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPj4oZXRzLCB0cnVlKQ==</text>
+        <text>buga::make_optional</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RkOjpudW1lcmljX2xpbWl0czxmbG9hdD46OmluZmluaXR5KCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
