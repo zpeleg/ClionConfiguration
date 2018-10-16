@@ -152,11 +152,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539276809539">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539693276762">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="77" column="71" />
+        <mark key="]" line="77" column="76" />
+        <mark key="." line="77" column="76" />
+        <mark key="^" line="77" column="76" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1523880025736">
         <mark key="[" line="121" column="20" />
@@ -211,6 +212,12 @@
         <mark key="]" line="9" column="39" />
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1539693473695">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="55" />
+        <mark key="^" line="42" column="55" />
+        <mark key="." line="42" column="55" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539267462125">
         <mark key="[" line="6" column="0" />
@@ -271,6 +278,26 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1530547183598">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="159" column="28" />
+        <mark key="]" line="159" column="29" />
+        <mark key="^" line="159" column="29" />
+        <mark key="." line="159" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="76" column="48" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539693345143">
+        <mark key="[" line="145" column="92" />
+        <mark key="]" line="145" column="110" />
+        <mark key="^" line="145" column="110" />
+        <mark key="." line="145" column="110" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -389,6 +416,9 @@
       <file name="/GDB" timestamp="1539190001713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539693292145">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -401,17 +431,25 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539278006569">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539693586491">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_impl.cpp" timestamp="1522232273412">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1536083236001">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539190889433">
         <mark key="'" line="5" column="31" />
@@ -433,7 +471,7 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="/fragment.mm" timestamp="1539274880628">
+      <file name="/fragment.mm" timestamp="1539693294444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
@@ -447,6 +485,13 @@
         <mark key="]" line="17" column="14" />
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" timestamp="1530004200089">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="82" />
+        <mark key="." line="5" column="82" />
+        <mark key="^" line="5" column="82" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1524128394741">
         <mark key="[" line="8" column="4" />
@@ -462,25 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="175" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
@@ -562,6 +588,25 @@
       <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" />
+      <jump line="31" column="31" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="13" column="33" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>EarDete</text>
+        <text encoding="base64">b3B0aW9uYWw8Q2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPj4oZXRzLCB0cnVlKQ==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -591,7 +636,7 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>EarDete</text>
+        <text encoding="base64">b3B0aW9uYWw8Q2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPj4oZXRzLCB0cnVlKQ==</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
@@ -610,38 +655,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoKICogQWRkaXRpb25hbCBwYXJhbWV0ZXJzIGZyb20gZG9jdW1lbnQ6CiAqIHVzZXJfcHJvbXB0ZWRfd2l0aF9tZXNzYWdlID0gU2F2ZSBpbiBUZWFjaGVyU3RhdHVzTm90aWZpY2F0aW9uRGVjaWRlcgogKiBtdXNpY190aW1lX3NpbmNlX2NhbGlicmF0aW9uX3N0YXJ0ZWQgPSBnZXQgZnJvbSBpbml0CiAqIG5lZWRfdG9fcmVtb3ZlX29yX2luc2VydF9ib3RoX2VhcnBob25lcyA9IFNJTkdMRV9TVEFCTEVfUE9TX0ZPVU5EICYmIEVhclRlYWNoZXJTdGF0dXMuZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZSAhPSBpbmYKICogbmVlZF90b19yZW1vdmVfb3JfaW5zZXJ0X2JvdGhfZWFycGhvbmVzLmVzdGltYXRlZF90aW1lX3JlcXVpcmVkID0gRWFyVGVhY2hlclN0YXR1cy5lc3RpbWF0ZWRTZWNzVG9Db21wbGV0ZVN0YXRlCiAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIGJ1Z2EgewogICAgdGVtcGxhdGU8dHlwZW5hbWUgVD4KICAgIHVzaW5nIG9wdGlvbmFsID0gc3RkOjpwYWlyPFQsIGJvb2w+Owp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IENoYW5nZSB0aW1lcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB7CiAgICBJTlZBTElEID0gMCwKICAgIFNFQVJDSElOR19GT1JfU1RBQkxFX1BPUyA9IDEsCiAgICBTSU5HTEVfU1RBQkxFX1BPU19GT1VORCA9IDIsCiAgICBSRUFEWSA9IDMKfTsKCnN0cnVjdCBFYXJUZWFjaGVyU3RhdHVzIHsKICAgIGRvdWJsZSBlc3RpbWF0ZWRTZWNzVG9Db21wbGV0ZVN0YXRlOyAvLyBzaG91bGQgYmUgSU5GIGlmIGluIGN1cnJlbnQgdm9sdW1lIGl0IHdpbGwgbm90IGNvbXBsZXRlCiAgICBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB0ZWFjaGVyU3RhdGU7Cn07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVE9ETzogVGhpcyBhbmQgdGhlIGVudW0gYXJlIHdheSB0b28gY29uZnVzaW5nLCBuZWVkIHRvIGZpbmQgZGlmZmVyZW50ZXIgbmFtZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETzogCg==</text>
+        <text encoding="base64">ZW51bSBjbGFzcyBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB7CiAgICBJTlZBTElEID0gMCwKICAgIFNFQVJDSElOR19GT1JfU1RBQkxFX1BPUyA9IDEsCiAgICBTSU5HTEVfU1RBQkxFX1BPU19GT1VORCA9IDIsCiAgICBSRUFEWSA9IDMKfTsKCnN0cnVjdCBFYXJUZWFjaGVyU3RhdHVzIHsKICAgIGRvdWJsZSBlc3RpbWF0ZWRTZWNzVG9Db21wbGV0ZVN0YXRlOyAvLyBzaG91bGQgYmUgSU5GIGlmIGluIGN1cnJlbnQgdm9sdW1lIGl0IHdpbGwgbm90IGNvbXBsZXRlCiAgICBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZSB0ZWFjaGVyU3RhdGU7Cn07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
+        <text encoding="base64">Ly8gVE9ETzogVGhpcyBhbmQgdGhlIGVudW0gYXJlIHdheSB0b28gY29uZnVzaW5nLCBuZWVkIHRvIGZpbmQgZGlmZmVyZW50ZXIgbmFtZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -697,8 +742,8 @@
         <entry>d</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
