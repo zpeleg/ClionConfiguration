@@ -219,11 +219,11 @@
         <mark key="^" line="74" column="56" />
         <mark key="." line="74" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539699077563">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539701962818">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
@@ -618,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>buga::make_optional</text>
+        <text>(</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -636,7 +636,7 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>buga::make_optional</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
