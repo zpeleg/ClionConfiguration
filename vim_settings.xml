@@ -151,11 +151,11 @@
         <mark key="^" line="62" column="74" />
         <mark key="." line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539274901631">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1539276809539">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1523880025736">
         <mark key="[" line="121" column="20" />
@@ -290,12 +290,12 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539274960839">
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539276451927">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="72" column="32" />
-        <mark key="]" line="73" column="15" />
-        <mark key="^" line="73" column="15" />
-        <mark key="." line="73" column="15" />
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="76" column="43" />
+        <mark key="^" line="76" column="43" />
+        <mark key="." line="76" column="43" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
@@ -421,12 +421,6 @@
       <file name="/GDB" timestamp="1539190001713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539274880640">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="242" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/core/logger.h" timestamp="1522348756285">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -439,11 +433,11 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539274851649">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" timestamp="1539278006569">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/states/identify_earphone_state.cpp" timestamp="1539268140535">
         <mark key="'" line="358" column="0" />
@@ -473,11 +467,10 @@
         <mark key="^" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539190889433">
-        <mark key="'" line="520" column="31" />
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="521" column="0" />
-        <mark key="." line="521" column="0" />
-        <mark key="^" line="507" column="95" />
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
+        <mark key="." line="523" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/test_main.cpp" timestamp="1522009729094">
         <mark key="[" line="12" column="50" />
@@ -650,7 +643,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBleGlzdHM7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzogCg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -668,13 +661,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gams7</text>
+        <text>List up all the parameters that need to be collected</text>
       </register>
       <register name="/" type="4">
         <text>setTeacher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vdmVuZG9yL29wcG8vdGVhY2hlcl9zdGF0dXNfbm90aWZpY2F0aW9uX2RlY2lkZXIuY3BwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJzLmRldGVjdGlvblJlc3VsdExlZnQ9PURldGVjdGlvblJlc3VsdDo6SU4gJiYK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -688,37 +681,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBleGlzdHM7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzogCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6ZXhwZXJpbWVudGFsOjpvcHRpb25hbCBhc2Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJ1Z2F0b25lQXBpOjpxdWVyeVN0YXR1cygpCg==</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldFN0YXQK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOyArK2kpIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1Z2EK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRlYWNoZXJTdGF0dXNOb3RpZmljYXRpb25EZWNpZGVyKElOb3RpZnlFeGVjdXRvciYpOwo=</text>
+        <text encoding="base64">c3RkOjptYXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYWxnb19jb250cm9sbGVycy91dF9zdGF0dXNfYWxnb19yZXN1bHQuaAo=</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wcm92ZSBsYXRlbmN5IG9mIGF1dG9wbGF5IGJ5IE5PVCBsb2FkaW5nIHByZWxvYWRlZCBkYXRhIHdoZW4gaXQgb3Mgbm90IG5lZWRlZC4gcHJlbG9hZGVkIGRhdGEgaXMgbm8gbG9uZ2VyIHNhdmVkIHRvIHRoZSBjYWxpYnJhdGlvbnMgZmlsZSBhbmQgaXMgb25seSByZWFkIGZyb20gdGhlIHByZWxvYWRlZCBmaWxlIGZvciB0aGUgdGVhY2hlciBzdGF0ZS4gT3Bwb1V0aWxzLmZvcmdldF9jYWxpYnJhdGlvbnMoKSBpcyBmaXhlZCBhY2NvcmRpbmdseSYK</text>
+        <text encoding="base64">ICAgIGludCBleGlzdHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -809,7 +802,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
