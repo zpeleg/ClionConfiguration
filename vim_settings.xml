@@ -116,12 +116,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1539274585672">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="30" column="33" />
-        <mark key="^" line="30" column="33" />
-        <mark key="." line="30" column="33" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/new_calibrations_algo_result.h" timestamp="1523510782372">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -287,16 +281,6 @@
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="76" column="48" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1539694601417">
-        <mark key="[" line="77" column="69" />
-        <mark key="]" line="77" column="69" />
-        <mark key="^" line="77" column="69" />
-        <mark key="." line="77" column="69" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
