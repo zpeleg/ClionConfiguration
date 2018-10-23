@@ -207,12 +207,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1540296600665">
-        <mark key="'" line="288" column="0" />
-        <mark key="[" line="290" column="22" />
-        <mark key="]" line="290" column="26" />
-        <mark key="^" line="290" column="26" />
-        <mark key="." line="290" column="26" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1540297376358">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="128" column="36" />
+        <mark key="]" line="121" column="31" />
+        <mark key="^" line="121" column="31" />
+        <mark key="." line="121" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539702698644">
         <mark key="[" line="12" column="0" />
@@ -272,13 +272,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/dummy_buga/dummy_buga.cpp" timestamp="1530547183598">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="159" column="28" />
-        <mark key="]" line="159" column="29" />
-        <mark key="^" line="159" column="29" />
-        <mark key="." line="159" column="29" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
         <mark key="'" line="14" column="0" />
@@ -431,13 +424,6 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/device_communication/cpp/rpc_proto/CMakeLists.txt" timestamp="1536083236001">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="31" />
-        <mark key="^" line="39" column="31" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" timestamp="1539190889433">
         <mark key="'" line="5" column="31" />
       </file>
@@ -473,13 +459,6 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/swig/CMakeLists.txt" timestamp="1530004200089">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="5" column="82" />
-        <mark key="." line="5" column="82" />
-        <mark key="^" line="5" column="82" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/iidentify_earphone_controller.h" timestamp="1524128394741">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="12" />
@@ -494,10 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="150" column="12" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="158" column="33" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="520" column="32" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="523" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
       <jump line="537" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
@@ -594,6 +569,10 @@
       <jump line="258" column="22" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="273" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="288" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -604,8 +583,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>user_experienced_auto_pause</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEJ1Z2F0b25lU3RhdHVzIGJzewogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0UmlnaHQgPSBEZXRlY3Rpb25SZXN1bHQ6OklOLAogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0TGVmdCA9IERldGVjdGlvblJlc3VsdDo6SU4sCiAgICAgICAgICAgIC5lYXJwaG9uZVN0YXRlID0gRWFycGhvbmVTdGF0ZTo6UkVBRFksCiAgICAgICAgICAgIC5idWdhdG9uZVN0YXRlID0gQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04KICAgIH07CgogICAgQ2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPiBldHN7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZSA9IDAsCiAgICAgICAgICAgICAgICAgICAgLnRlYWNoZXJTdGF0ZSA9IFVuZGVyZ3JvdW5kVGVhY2hlclN0YXRlOjpSRUFEWQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGUgPSAwLAogICAgICAgICAgICAgICAgICAgIC50ZWFjaGVyU3RhdGUgPSBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6UkVBRFkKICAgICAgICAgICAgfQogICAgfTsKICAgIGF1dG8gcmVzID0gaW5zdGFuY2UuZ2V0Tm90aWZpY2F0aW9uKGJ1Z2E6Om1ha2Vfb3B0aW9uYWwoZXRzKSwgYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlcHRhYmxlVGltZVRvV2FpdEZvclVzZXJUb1BhdXNlTWFudWFsbHkgKyAyKTsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -629,7 +608,7 @@
         <text>setTeacher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNVVRBVE9SX0ZVTkMoc2hhcmVkU3RhdGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmVkU3RhdGVbInVzZXJfZXhwZXJpZW5jZWRfYXV0b19wYXVzZSJdID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEJ1Z2F0b25lU3RhdHVzIGJzewogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0UmlnaHQgPSBEZXRlY3Rpb25SZXN1bHQ6OklOLAogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0TGVmdCA9IERldGVjdGlvblJlc3VsdDo6SU4sCiAgICAgICAgICAgIC5lYXJwaG9uZVN0YXRlID0gRWFycGhvbmVTdGF0ZTo6UkVBRFksCiAgICAgICAgICAgIC5idWdhdG9uZVN0YXRlID0gQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04KICAgIH07CgogICAgQ2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPiBldHN7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZSA9IDAsCiAgICAgICAgICAgICAgICAgICAgLnRlYWNoZXJTdGF0ZSA9IFVuZGVyZ3JvdW5kVGVhY2hlclN0YXRlOjpSRUFEWQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGUgPSAwLAogICAgICAgICAgICAgICAgICAgIC50ZWFjaGVyU3RhdGUgPSBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6UkVBRFkKICAgICAgICAgICAgfQogICAgfTsKICAgIGF1dG8gcmVzID0gaW5zdGFuY2UuZ2V0Tm90aWZpY2F0aW9uKGJ1Z2E6Om1ha2Vfb3B0aW9uYWwoZXRzKSwgYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlcHRhYmxlVGltZVRvV2FpdEZvclVzZXJUb1BhdXNlTWFudWFsbHkgKyAyKTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
