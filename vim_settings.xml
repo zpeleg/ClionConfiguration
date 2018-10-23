@@ -207,12 +207,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1540297376358">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="128" column="36" />
-        <mark key="]" line="121" column="31" />
-        <mark key="^" line="121" column="31" />
-        <mark key="." line="121" column="31" />
+      <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1540298633813">
+        <mark key="'" line="350" column="0" />
+        <mark key="[" line="342" column="97" />
+        <mark key="]" line="342" column="144" />
+        <mark key="^" line="342" column="144" />
+        <mark key="." line="342" column="144" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1539702698644">
         <mark key="[" line="12" column="0" />
@@ -473,40 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="520" column="32" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="523" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="537" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="297" column="13" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="525" column="31" filename="$USER_HOME$/Code/mobileproduct/tests/states/identify_earphone_state_tests.cpp" />
-      <jump line="171" column="19" filename="$USER_HOME$/Code/mobileproduct/src/CMakeLists.txt" />
-      <jump line="16" column="6" filename="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="68" column="65" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="67" column="20" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" />
-      <jump line="69" column="17" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="49" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
@@ -573,6 +539,40 @@
       <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="163" column="9" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="281" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="315" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="312" column="70" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="306" column="7" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="277" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="252" column="24" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="20" column="109" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="54" column="109" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="165" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="217" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="224" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="239" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="245" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="254" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="261" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="276" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="294" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="310" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="314" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="318" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="319" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,8 +583,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJ1Z2F0b25lU3RhdHVzIGJzewogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0UmlnaHQgPSBEZXRlY3Rpb25SZXN1bHQ6OklOLAogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0TGVmdCA9IERldGVjdGlvblJlc3VsdDo6SU4sCiAgICAgICAgICAgIC5lYXJwaG9uZVN0YXRlID0gRWFycGhvbmVTdGF0ZTo6UkVBRFksCiAgICAgICAgICAgIC5idWdhdG9uZVN0YXRlID0gQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04KICAgIH07CgogICAgQ2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPiBldHN7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZSA9IDAsCiAgICAgICAgICAgICAgICAgICAgLnRlYWNoZXJTdGF0ZSA9IFVuZGVyZ3JvdW5kVGVhY2hlclN0YXRlOjpSRUFEWQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGUgPSAwLAogICAgICAgICAgICAgICAgICAgIC50ZWFjaGVyU3RhdGUgPSBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6UkVBRFkKICAgICAgICAgICAgfQogICAgfTsKICAgIGF1dG8gcmVzID0gaW5zdGFuY2UuZ2V0Tm90aWZpY2F0aW9uKGJ1Z2E6Om1ha2Vfb3B0aW9uYWwoZXRzKSwgYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlcHRhYmxlVGltZVRvV2FpdEZvclVzZXJUb1BhdXNlTWFudWFsbHkgKyAyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Left</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -602,13 +602,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>user_experienced_auto_pause</text>
+        <text>Left</text>
       </register>
       <register name="/" type="4">
-        <text>setTeacher</text>
+        <text>_ORGANICALLY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJ1Z2F0b25lU3RhdHVzIGJzewogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0UmlnaHQgPSBEZXRlY3Rpb25SZXN1bHQ6OklOLAogICAgICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0TGVmdCA9IERldGVjdGlvblJlc3VsdDo6SU4sCiAgICAgICAgICAgIC5lYXJwaG9uZVN0YXRlID0gRWFycGhvbmVTdGF0ZTo6UkVBRFksCiAgICAgICAgICAgIC5idWdhdG9uZVN0YXRlID0gQWxnb1N0YXRlOjpNVVNJQ19ERVRFQ1RJT04KICAgIH07CgogICAgQ2hhbm5lbGxlZDxFYXJUZWFjaGVyU3RhdHVzPiBldHN7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuZXN0aW1hdGVkU2Vjc1RvQ29tcGxldGVTdGF0ZSA9IDAsCiAgICAgICAgICAgICAgICAgICAgLnRlYWNoZXJTdGF0ZSA9IFVuZGVyZ3JvdW5kVGVhY2hlclN0YXRlOjpSRUFEWQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLmVzdGltYXRlZFNlY3NUb0NvbXBsZXRlU3RhdGUgPSAwLAogICAgICAgICAgICAgICAgICAgIC50ZWFjaGVyU3RhdGUgPSBVbmRlcmdyb3VuZFRlYWNoZXJTdGF0ZTo6UkVBRFkKICAgICAgICAgICAgfQogICAgfTsKICAgIGF1dG8gcmVzID0gaW5zdGFuY2UuZ2V0Tm90aWZpY2F0aW9uKGJ1Z2E6Om1ha2Vfb3B0aW9uYWwoZXRzKSwgYnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlcHRhYmxlVGltZVRvV2FpdEZvclVzZXJUb1BhdXNlTWFudWFsbHkgKyAyKTsK</text>
+        <text encoding="base64">ICAgICAgICAuZGV0ZWN0aW9uUmVzdWx0TGVmdCA9IERldGVjdGlvblJlc3VsdDo6T1VULAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -622,46 +622,46 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlWyJtZXNzYWdlc1Nob3duIl0uYXNOdW1iZXIgPT0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlWyJtZXNzYWdlc1Nob3duIl0uYXNOdW1iZXIgPT0gMTsK</text>
+        <text encoding="base64">Ly8gICAgaW5zdGFuY2UuZ2V0Tm90aWZpY2F0aW9uKGJ1Z2E6Om1ha2Vfb3B0aW9uYWwoZXRzX3Byb21wdGVkKSwgYnNfcHJvbXB0ZWQsIHMpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlWyJtZXNzYWdlc1Nob3duIl0uYXNOdW1iZXIgPT0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlWyJtZXNzYWdlc1Nob3duIl0uYXNOdW1iZXIgPT0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmVkU3RhdGVbIm1lc3NhZ2VzU2hvd24iXS5hc051bWJlciA9PSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlWyJtZXNzYWdlc1Nob3duIl0uYXNOdW1iZXIgPT0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbXShzdGQ6Om1hcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmVkU3RhdGVbIm1lc3NhZ2VzU2hvd24iXS5hc051bWJlciA9PSAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmVkU3RhdGVbInVzZXJQcm9tcHRlZFRvUmVtb3ZlRWFycGhvbmVzIl0uYXNOdW1iZXIgPT0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbXShzdGQ6Om1hcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFN0YXRlLmdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setTeacher</last-search>
+      <last-search>_ORGANICALLY</last-search>
       <last-offset />
-      <last-pattern>setTeacher</last-pattern>
+      <last-pattern>_ORGANICALLY</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhdWRpb19kYXRhXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -669,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Android</entry>
         <entry>android</entry>
         <entry>strto</entry>
         <entry>namespace st</entry>
@@ -689,6 +688,7 @@
         <entry>add_de</entry>
         <entry>mnt</entry>
         <entry>setTeacher</entry>
+        <entry>_ORGANICALLY</entry>
       </history-search>
       <history-cmd>
         <entry>e capture.c</entry>
