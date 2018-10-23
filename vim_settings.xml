@@ -146,11 +146,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1540296797750">
-        <mark key="[" line="156" column="88" />
-        <mark key="]" line="156" column="87" />
-        <mark key="^" line="156" column="87" />
-        <mark key="." line="156" column="87" />
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1540301549437">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="69" />
+        <mark key="^" line="55" column="69" />
+        <mark key="." line="55" column="69" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/data_validation_state_machine.h" timestamp="1523880025736">
         <mark key="[" line="121" column="20" />
@@ -579,8 +579,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TW9kaWZ5IHJ1bGVzIHRvIGZpeCBidWdzLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -598,7 +598,7 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIE5PTElOVChjZXJ0LWVycjU4LWNwcCk=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>_ORGANICALLY</text>
