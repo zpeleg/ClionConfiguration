@@ -57,6 +57,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" timestamp="1543820996448">
+        <mark key="'" line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" timestamp="1539690772038">
         <mark key="'" line="61" column="0" />
       </file>
@@ -466,17 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="217" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="203" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="186" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="165" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="122" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="113" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -566,6 +558,17 @@
       <jump line="11" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
