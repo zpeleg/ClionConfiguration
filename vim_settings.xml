@@ -224,6 +224,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" timestamp="1543935824356">
+        <mark key="'" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/algo_controllers/CMakeLists.txt" timestamp="1525966833357">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -445,6 +448,7 @@
       <file name="/fragment.mm" timestamp="1539694515282">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1543935318837" />
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="17" />
@@ -471,12 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="113" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="72" column="50" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="65" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -571,6 +569,12 @@
       <jump line="58" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
       <jump line="63" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" />
+      <jump line="29" column="4" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="30" column="4" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="33" column="4" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
+      <jump line="35" column="4" filename="$USER_HOME$/Code/mobileproduct/src/states/state_machine.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
