@@ -60,7 +60,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/ibugatone_api.h" timestamp="1543820996448">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api_configuration.h" timestamp="1543841747166" />
       <file name="$USER_HOME$/Code/mobileproduct/src/detectors/identify_earphone.cpp" timestamp="1539690772038">
         <mark key="'" line="61" column="0" />
       </file>
@@ -106,7 +105,6 @@
         <mark key="^" line="61" column="74" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1543847827707" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="16" />
@@ -284,6 +282,7 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1544023990714" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="48" />
@@ -448,7 +447,6 @@
       <file name="/fragment.mm" timestamp="1539694515282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1543935318837" />
       <file name="$USER_HOME$/Code/device_communication/cpp/main.cpp" timestamp="1535987268225">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="17" />
