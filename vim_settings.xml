@@ -21,6 +21,12 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/daemon_notify_executor.cpp" timestamp="1544167687106">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/core/CMakeLists.txt" timestamp="1525966839771">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -282,7 +288,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1544023990714" />
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="48" />
@@ -583,8 +588,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IGJ1ZyB3aGVyZSBzZXQgdXAgbWVzc2FnZSB3YXMgbm90IHNob3duIHdoZW4gYSBzaW5nbGUgc3RhYmxlIHBvcyB3YXMgZm91bmQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -602,13 +607,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>_ORGANICALLY</text>
       </register>
-      <register name="0" type="4">
-        <text>DEMO_FIRST_IN_AFTER_CALIBRATION</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXI6OmluZm8oIkRhZW1vbk5vdGlmeUV4ZWN1dG9yIiwgImRhZW1vbkFwaSA9ICIgKyBzdGQ6OnRvX3N0cmluZyhkYWVtb25BcGk9PSBudWxscHRyKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
