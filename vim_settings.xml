@@ -105,12 +105,12 @@
         <mark key="^" line="61" column="74" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1545240149707">
+      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1545241414273">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="51" column="68" />
-        <mark key="." line="194" column="0" />
+        <mark key="[" line="75" column="56" />
+        <mark key="]" line="75" column="58" />
+        <mark key="^" line="75" column="58" />
+        <mark key="." line="75" column="58" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
@@ -593,8 +593,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNUQVJUX1RJTUVSKEF1dG9wbGF5VGltZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ause</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -612,13 +612,13 @@
         <text>jjkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvLyBEZWZpbmUgdGltZXIu</text>
+        <text>ause</text>
       </register>
       <register name="/" type="4">
         <text>_ORGANICALLY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICBMT0dfVElNRVIoQWxsb2NhdGlvblRpbWVyLCBpbmZvLCAiTXlBbGxvY2F0aW9uVGVzdCIsICJ0aW1lIGl0IHRvb2sgdG8gYWxsb2NhdGUiKSAgLy8gUHJpbnQgdG8gbG9nLgo=</text>
+        <text encoding="base64">ICAgIExPR19USU1FUihBdXRvcGF1c2VQdXNoVGltZXIsIGluZm8sIExPR19UQUcoKSwgImF1dG9QYXVzZUFsZ28tPnB1c2giKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
