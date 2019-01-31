@@ -105,13 +105,6 @@
         <mark key="^" line="61" column="74" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1545243159370">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="75" column="56" />
-        <mark key="]" line="75" column="58" />
-        <mark key="^" line="75" column="58" />
-        <mark key="." line="75" column="58" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/e2e_test_daemon/mock_state_test.cpp" timestamp="1522836037763">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="16" />
@@ -283,9 +276,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/src/configuration/runtime_configs.h" timestamp="1539692961118">
-        <mark key="'" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mobileproduct/tests/bugatone_api/CMakeLists.txt" timestamp="1523273646003">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="48" />
@@ -293,10 +283,10 @@
         <mark key="." line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/configuration/config_builder.cpp" timestamp="1530541561853">
-        <mark key="[" line="330" column="54" />
-        <mark key="]" line="330" column="59" />
-        <mark key="." line="330" column="59" />
-        <mark key="^" line="330" column="59" />
+        <mark key="[" line="334" column="54" />
+        <mark key="]" line="334" column="59" />
+        <mark key="." line="334" column="59" />
+        <mark key="^" line="334" column="59" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/data/CMakeLists.txt" timestamp="1523874424734">
         <mark key="[" line="26" column="43" />
@@ -360,9 +350,6 @@
       <file name="$USER_HOME$/Code/mobileproduct/src/core/timer.h" timestamp="1545240489896">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="2" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/src/bugatone_impl/buga_stream.h" timestamp="1522846245082">
         <mark key="[" line="26" column="4" />
