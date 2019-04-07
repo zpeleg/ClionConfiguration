@@ -1,0 +1,501 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1540888736072">
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/CMakeLists.txt" timestamp="1543398764512">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1543498857176">
+        <mark key="'" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.cpp" timestamp="1543812500179">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" timestamp="1546777017088">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="169" column="29" />
+        <mark key="]" line="169" column="29" />
+        <mark key="^" line="169" column="27" />
+        <mark key="." line="169" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/configuration/runtime_configs.h" timestamp="1545929528149">
+        <mark key="[" line="161" column="30" />
+        <mark key="]" line="161" column="37" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
+        <mark key="[" line="369" column="25" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/notify_executor.h" timestamp="1543512998217">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_api.h" timestamp="1542621256254">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1548347937878">
+        <mark key="'" line="379" column="62" />
+        <mark key="[" line="379" column="62" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/underground_teacher.py" timestamp="1541576992747">
+        <mark key="[" line="208" column="35" />
+        <mark key="]" line="208" column="35" />
+        <mark key="." line="208" column="35" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_configuration.h" timestamp="1542620492018">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/daemon_notify_executor.cpp" timestamp="1543811202346">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
+        <mark key="[" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_daemon.cpp" timestamp="1543812425559">
+        <mark key="[" line="133" column="50" />
+        <mark key="]" line="133" column="50" />
+        <mark key="^" line="133" column="50" />
+        <mark key="." line="133" column="50" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" timestamp="1546776826668">
+        <mark key="'" line="591" column="0" />
+        <mark key="[" line="587" column="70" />
+        <mark key="]" line="587" column="69" />
+        <mark key="^" line="587" column="69" />
+        <mark key="." line="587" column="69" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.h" timestamp="1540829643355">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1540223373134">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="58" column="60" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1541671284598">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/daemon_notify_executor.h" timestamp="1543513974694">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1549382453433">
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="74" />
+        <mark key="^" line="58" column="74" />
+        <mark key="." line="58" column="74" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/atomic_status.cpp" timestamp="1540213296069">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/GDB" timestamp="1540979104460">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546777061421">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/notify_executor.cpp" timestamp="1543512839741">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="8" column="82" />
+        <mark key="]" line="8" column="82" />
+        <mark key="." line="8" column="82" />
+        <mark key="^" line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/algo_controllers/dummy_commandable.h" timestamp="1541522039816">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/states/out_ear_detection_state_tests.cpp" timestamp="1546767876119">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1543813696767">
+        <mark key="'" line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_api.cpp" timestamp="1542629529171">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="100" column="1" />
+        <mark key="^" line="160" column="17" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/states/identify_tests.cpp" timestamp="1542040302183">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="207" column="19" />
+        <mark key="]" line="207" column="27" />
+        <mark key="." line="207" column="27" />
+        <mark key="^" line="207" column="27" />
+      </file>
+      <file name="/fragment.mm" timestamp="1542552958938">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/inotify_executor.h" timestamp="1543813173736">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
+        <mark key="[" line="92" column="54" />
+        <mark key="]" line="92" column="54" />
+        <mark key="^" line="92" column="54" />
+        <mark key="." line="92" column="54" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1547993145313">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="172" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="179" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="183" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="202" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="206" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="210" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="166" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="168" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="171" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="174" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="178" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="182" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="201" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="205" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="226" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="230" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="164" column="41" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="6" column="10" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="0" column="25" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="12" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="34" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="36" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="38" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="48" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="54" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="66" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="69" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.h" />
+      <jump line="77" column="37" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="157" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="162" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="169" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="174" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="113" column="31" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="143" column="11" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="158" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="23" column="16" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="92" column="25" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="124" column="40" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="141" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="142" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
+      <jump line="460" column="57" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="133" column="12" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="127" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="120" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="111" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="88" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="63" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="563" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="453" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="378" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="387" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="398" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="403" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="414" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="419" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="428" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="435" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="452" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="473" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="494" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="504" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="515" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="526" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="540" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="562" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="568" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
+      <jump line="313" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="308" column="62" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="95" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjYXNlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZvaWQgbm90aWZ5VGVhY2hlclN0YXR1cyhUZWFjaGVyU3RhdHVzIHRlYWNoZXJTdGF0dXMpIG92ZXJyaWRlOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vVE9ETzogRHJvciwgSSBkaWRuJ3QgYWRkIHRoaXMsIEknbSBub3Qgc3VyZSB3aGF0IHlvdXInZSBkb2luZyBoZXJlLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UmV2aWV3IGNvbW1lbnRzLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF1dG8gcmVzMyA9IGluc3RhbmNlLmdldE5vdGlmaWNhdGlvbihidWdhOjptYWtlX29wdGlvbmFsKGV0cyksIGJzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMtPnRpbWVUb1Byb3Bvc2VTZXR1cCAtIDEwICsgdGhpcy0+dGltZVRvUHJvcG9zZVNldHVwKTsKICAgIEFTU0VSVF9FUShyZXMzLmZpcnN0LENvbnRyb2xNZXNzYWdlczo6TUVTU0FHRV9TRVRfVVBfRUFSUEhPTkVTX0ZPUl9BVVRPX1BBVVNFKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFTU0VSVF9FUShyZXMyLmZpcnN0LCBDb250cm9sTWVzc2FnZXM6Ok1FU1NBR0VfU0VUX1VQX0VBUlBIT05FU19GT1JfQVVUT19QQVVTRSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV0cy5zZWNvbmQpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGV0cy5zZWNvbmQgJiYK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjYXNlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjYXNlXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxjYXNlXD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>SIGTERM</entry>
+        <entry>logg</entry>
+        <entry>er</entry>
+        <entry>config</entry>
+        <entry>Config</entry>
+        <entry>3.8</entry>
+        <entry>create_work</entry>
+        <entry>VEC</entry>
+        <entry>}</entry>
+        <entry>virtu</entry>
+        <entry encoding="base64">OiA=</entry>
+        <entry>ordering</entry>
+        <entry>Orderi</entry>
+        <entry>Out</entry>
+        <entry>Key</entry>
+        <entry>.</entry>
+        <entry>,</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxyZWFkeVN0YXR1c1w+</entry>
+        <entry encoding="base64">XDxjYXNlXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>w\</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>wq</entry>
+        <entry>k</entry>
+        <entry>Q</entry>
+        <entry>.,.+2w</entry>
+        <entry>d</entry>
+        <entry>w'</entry>
+        <entry>A</entry>
+        <entry>Lw</entry>
+        <entry>'</entry>
+        <entry>x</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>:w</entry>
+        <entry>X</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
