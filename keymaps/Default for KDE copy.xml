@@ -9,6 +9,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="Clean">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
   </action>
@@ -34,6 +35,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />

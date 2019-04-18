@@ -1,0 +1,408 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>Build</IdeaActionID>
+          <ShortCut>'Ctrl+9'</ShortCut>
+          <Description>Build</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert' or 'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OppoBugatoneApiTest.NotifyInInAfterCalibration'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'OppoBugatoneApiTest.NotifyInInAfterCalibration'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TeacherStatusNotificationDeciderTests.DemoFlow'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TeacherStatusNotificationDeciderTests.DemoFlow'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'tests'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Directory Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>Directory Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'Ctrl+E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Alt+Shift+L' or 'Ctrl+Alt+F'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TeacherStatusNotificationDeciderTests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'TeacherStatusNotificationDeciderTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TeacherStatusNotificationDeciderTests.runLogic__SET_UP_EARPHONES_FOR_AUTO_PAUSE_inf'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+5'</ShortCut>
+          <Description>Rerun 'TeacherStatusNotificationDeciderTests.runLogic__SET_UP_EARPHONES_FOR_AUTO_PAUSE_inf'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IdentifyStateTests.TestNotifyStatus'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'IdentifyStateTests.TestNotifyStatus'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'NotifyStatusTests-NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'NotifyStatusTests-NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OppoBugatoneApiTest....'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'OppoBugatoneApiTest....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OppoBugatoneApiTest.NotifyInInAfterCalibration'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'OppoBugatoneApiTest.NotifyInInAfterCalibration'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OutEarStateTest.test...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'OutEarStateTest.test...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TeacherStatusNotific...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'TeacherStatusNotific...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TeacherStatusNotificationDeciderTests.DemoFlow'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TeacherStatusNotificationDeciderTests.DemoFlow'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TeacherStatusNotificationDeciderTests.runLogic__SET_UP_EARPHONES_FOR_AUTO_PAUSE1'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TeacherStatusNotificationDeciderTests.runLogic__SET_UP_EARPHONES_FOR_AUTO_PAUSE1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TeacherStatusNotificationDeciderTests.runLogic__TRY_AUTO_PAUSE_WITH_RESERVATION'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TeacherStatusNotificationDeciderTests.runLogic__TRY_AUTO_PAUSE_WITH_RESERVATION'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TeacherStatusNotificationDeciderTests.r…osition__TRY_AUTO_PAUSE_WITH_RESERVATION'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TeacherStatusNotificationDeciderTests.r…osition__TRY_AUTO_PAUSE_WITH_RESERVATION'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'b_autopausealgo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'b_autopausealgo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'tests'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram Popup...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+U'</ShortCut>
+          <Description>Show Diagram Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'NotifyStatusTests.differentEarDetectionsCauseNotifyStatus'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NotifyStatusTests.setStatusDoesntRaiseInsufficient'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'NotifyStatusTests.setStatusDoesntRaiseInsufficient'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OppoBugatoneApiTest.NotifyInInAfterCalibration'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'OppoBugatoneApiTest.NotifyInInAfterCalibration'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'OppoBugatoneApiTest.StateMachineDestroyinedWhenUtIsDone'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OppoBugatoneApiTest.StateMachineReusedBeforeUtIsDone'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'OppoBugatoneApiTest.StateMachineReusedBeforeUtIsDone'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TeacherStatusNotificationDeciderTests.DemoFlow'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'TeacherStatusNotificationDeciderTests.DemoFlow'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TeacherStatusNotificationDeciderTests.runLogic__AUTO_PAUSED_FIRST_TIME_AFTER_PROMPTED'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'TeacherStatusNotificationDeciderTests.runLogic__AUTO_PAUSED_FIRST_TIME_AFTER_PROMPTED'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TeacherStatusNotificationDeciderTests.runLogic__oneEarIsReadyAndOneIsSearchingForPosition__TRY_AUTO_PAUSE_WITH_RESERVATION'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'TeacherStatusNotificationDeciderTests.runLogic__oneEarIsReadyAndOneIsSearchingForPosition__TRY_AUTO_PAUSE_WITH_RESERVATION'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'tests'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click' or 'Alt+Z'</ShortCut>
+          <Description>Back</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
