@@ -219,11 +219,11 @@
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1557918940812">
-        <mark key="[" line="325" column="32" />
-        <mark key="]" line="325" column="39" />
-        <mark key="." line="325" column="39" />
-        <mark key="^" line="325" column="39" />
+      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1557920709243">
+        <mark key="[" line="322" column="16" />
+        <mark key="]" line="322" column="22" />
+        <mark key="." line="322" column="22" />
+        <mark key="^" line="322" column="22" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
@@ -345,8 +345,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
+      <register name="&quot;" type="4">
+        <text>executable</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -361,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>executable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
