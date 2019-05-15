@@ -138,6 +138,11 @@
         <mark key="^" line="58" column="74" />
         <mark key="." line="58" column="74" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/library.h" timestamp="1557918369330">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/bugatone_api/atomic_status.cpp" timestamp="1540213296069">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -173,11 +178,11 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557909002268">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="50" />
+      <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557918372233">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1543813696767">
         <mark key="'" line="82" column="0" />
@@ -214,11 +219,11 @@
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1557908687768">
-        <mark key="[" line="322" column="20" />
-        <mark key="]" line="323" column="7" />
-        <mark key="." line="323" column="7" />
-        <mark key="^" line="323" column="7" />
+      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1557918940812">
+        <mark key="[" line="325" column="32" />
+        <mark key="]" line="325" column="39" />
+        <mark key="." line="325" column="39" />
+        <mark key="^" line="325" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
@@ -341,7 +346,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -365,16 +370,16 @@
         <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTUvMTkuCi8vCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTUvMTkuCi8vCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
@@ -383,13 +388,13 @@
         <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETzogRHJvciwgSSBkaWRuJ3QgYWRkIHRoaXMsIEknbSBub3Qgc3VyZSB3aGF0IHlvdXInZSBkb2luZyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
+        <text encoding="base64">ICAgIC8vVE9ETzogRHJvciwgSSBkaWRuJ3QgYWRkIHRoaXMsIEknbSBub3Qgc3VyZSB3aGF0IHlvdXInZSBkb2luZyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -438,7 +443,6 @@
         <entry>d</entry>
         <entry>w'</entry>
         <entry>A</entry>
-        <entry>Lw</entry>
         <entry>'</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -447,6 +451,7 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
