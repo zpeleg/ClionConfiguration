@@ -178,11 +178,11 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557918372233">
+      <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557922082226">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="5" column="38" />
+        <mark key="^" line="3" column="130" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.h" timestamp="1543813696767">
         <mark key="'" line="82" column="0" />
@@ -218,6 +218,10 @@
         <mark key="]" line="92" column="54" />
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1557921945493">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="71" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1557920709243">
         <mark key="[" line="322" column="16" />
@@ -345,8 +349,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>executable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -361,28 +365,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>executable</text>
+        <text>[201]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgIHZvbGF0aWxlIGNoYXIgdmVyc2lvblN0cltzdHJsZW4oVkVSU0lPTl9TVFJJTkdfUExBQ0VIT0xERVIpXSA9IHswfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpYnJhcnkuaCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTUvMTkuCi8vCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTUvMTkuCi8vCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
@@ -391,10 +395,10 @@
         <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkhlbGxvIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETzogRHJvciwgSSBkaWRuJ3QgYWRkIHRoaXMsIEknbSBub3Qgc3VyZSB3aGF0IHlvdXInZSBkb2luZyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
