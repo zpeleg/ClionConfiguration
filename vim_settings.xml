@@ -54,15 +54,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1548347937878">
-        <mark key="'" line="379" column="62" />
-        <mark key="[" line="379" column="62" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.h" timestamp="1558015260802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.h" timestamp="1558016794298">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
@@ -73,6 +69,12 @@
         <mark key="]" line="587" column="69" />
         <mark key="^" line="587" column="69" />
         <mark key="." line="587" column="69" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/user_info.h" timestamp="1558017857947">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.h" timestamp="1540829643355">
         <mark key="[" line="34" column="26" />
@@ -110,6 +112,14 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/decorrelator_algo_result.cpp" timestamp="1558016399670">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/earphone_algo_result.cpp" timestamp="1558017593042">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_api.cpp" timestamp="1542629529171">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="93" column="0" />
@@ -123,11 +133,12 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1558015278736">
-        <mark key="[" line="99" column="66" />
-        <mark key="]" line="99" column="92" />
-        <mark key="." line="99" column="92" />
-        <mark key="^" line="99" column="92" />
+      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1558017866669">
+        <mark key="'" line="166" column="55" />
+        <mark key="[" line="167" column="55" />
+        <mark key="]" line="167" column="57" />
+        <mark key="." line="167" column="57" />
+        <mark key="^" line="167" column="57" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1540888736072">
         <mark key="[" line="60" column="40" />
@@ -151,6 +162,12 @@
         <mark key="]" line="169" column="29" />
         <mark key="^" line="169" column="27" />
         <mark key="." line="169" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558017603334">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/underground_teacher.py" timestamp="1541576992747">
         <mark key="[" line="208" column="35" />
@@ -201,7 +218,7 @@
       <file name="/GDB" timestamp="1540979104460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557925969260">
+      <file name="/Dummy.txt" timestamp="1558016685015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -215,6 +232,19 @@
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" timestamp="1558016828758">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="92" column="60" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1557926009318">
         <mark key="[" line="354" column="0" />
@@ -234,6 +264,16 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.h" timestamp="1558016514138">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/change_status_algo_result.cpp" timestamp="1558016404737">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
         <mark key="[" line="92" column="54" />
         <mark key="]" line="92" column="54" />
@@ -244,6 +284,11 @@
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="71" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/user_info.cpp" timestamp="1558017859797">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="41" />
@@ -252,21 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="175" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="183" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="202" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="206" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="210" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="166" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="168" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="171" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="174" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="178" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="201" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="205" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="209" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="226" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="230" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
@@ -352,6 +382,21 @@
       <jump line="568" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="313" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="308" column="62" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
+      <jump line="18" column="6" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="68" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="86" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="92" column="60" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="97" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
+      <jump line="166" column="55" filename="$USER_HOME$/mobileproduct/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,7 +410,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>earphone_algo_result</text>
+        <text>h</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -380,40 +425,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>earphone_algo_result</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYWxnb19jb250cm9sbGVycy9hbGdvX3Jlc3VsdHMvZWFycGhvbmVfYWxnb19yZXN1bHQuY3BwCg==</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYXV0aGRlbW8vdXNlcl9pbmZvLmgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTYvMTkuCi8vCgo=</text>
+        <text encoding="base64">dm9pZCB0b19qc29uKG5sb2htYW5uOjpqc29uJiBqLCBjb25zdCBVc2VySW5mbyYgcmVzKSB7CiAgICBqID0gbmxvaG1hbm46Ompzb246Om9iamVjdCgpOwogICAgalsibmFtZSJdID0gcmVzLm5hbWU7Cn0KCnZvaWQgZnJvbV9qc29uKGNvbnN0IG5sb2htYW5uOjpqc29uJiBqLCBVc2VySW5mbyYgcmVzKSB7CiAgICByZXMubmFtZSA9IGdldEtleTxzdGQ6OnN0cmluZz4oaiwgIm5hbWUiKTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDUvMTYvMTkuCi8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKGF1dGggUFJJVkFURSAuKQo=</text>
+        <text encoding="base64">ICAgIGpbInR5cGUiXSA9ICJVc2VySWRlbnRpZmllZEFsZ29SZXN1bHQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcy51c2VySW5mbyA9IGdldEtleTxVc2VySW5mbz4oaiwgInVzZXJJbmZvIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpbInVzZXJJbmZvIl0gPSByZXMudXNlckluZm87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWCIpCg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZXRTdGF0ZShhbGdvU3RhdGVTdHJpbmdUb0VudW0oZ2V0S2V5PHN0ZDo6c3RyaW5nPihqLCAic3RhdGUiKSkpOwogICAgcmVzLnNldExlZnQoZGV0ZWN0aW9uUmVzdWx0U3RyaW5nVG9FbnVtKGdldEtleTxzdGQ6OnN0cmluZz4oaiwgImxlZnQiKSkpOwogICAgcmVzLnNldFJpZ2h0KGRldGVjdGlvblJlc3VsdFN0cmluZ1RvRW51bShnZXRLZXk8c3RkOjpzdHJpbmc+KGosICJyaWdodCIpKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWCIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHJlcy5zZXRTdGF0ZShhbGdvU3RhdGVTdHJpbmdUb0VudW0oZ2V0S2V5PHN0ZDo6c3RyaW5nPihqLCAic3RhdGUiKSkpOwogICAgcmVzLnNldExlZnQoZGV0ZWN0aW9uUmVzdWx0U3RyaW5nVG9FbnVtKGdldEtleTxzdGQ6OnN0cmluZz4oaiwgImxlZnQiKSkpOwogICAgcmVzLnNldFJpZ2h0KGRldGVjdGlvblJlc3VsdFN0cmluZ1RvRW51bShnZXRLZXk8c3RkOjpzdHJpbmc+KGosICJyaWdodCIpKSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJUT1VDSElOR0dHR0ciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJQQVRDSCIqMTApCiAgICBwcmludChnaXRfdmVyc2lvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
