@@ -157,6 +157,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/generated/json_conversions.cpp" timestamp="1558020821171">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -169,7 +175,7 @@
         <mark key="^" line="169" column="27" />
         <mark key="." line="169" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558017603334">
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558020422092">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
         <mark key="." line="1" column="0" />
@@ -415,8 +421,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;ToJson&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -431,13 +437,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;ToJson&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vLi4vZXhlY3V0b3JzL2F1dGhlbnRpY2F0aW9uX2V4ZWN1dG9yLmNwcAo=</text>
+      <register name="0" type="4">
+        <text>&quot;ToJson&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
