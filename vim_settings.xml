@@ -13,12 +13,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1558369480509">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/runtime_configs.h" timestamp="1545929528149">
         <mark key="[" line="161" column="30" />
         <mark key="]" line="161" column="37" />
@@ -83,12 +77,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558368275807">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558369823029">
         <mark key="'" line="93" column="22" />
-        <mark key="[" line="86" column="92" />
-        <mark key="]" line="86" column="92" />
-        <mark key="." line="86" column="92" />
-        <mark key="^" line="86" column="92" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
         <mark key="[" line="34" column="0" />
@@ -133,7 +127,7 @@
       <file name="/GDB" timestamp="1540979104460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558369397906">
+      <file name="/Dummy.txt" timestamp="1558369714081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" timestamp="1558343869902">
@@ -284,8 +278,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -309,31 +303,31 @@
         <text encoding="base64">KEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCwgY29uc3QgQXV0aGVudGljYXRpb25SZXN1bHQmIHJlc3VsdCkgew==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSA8dW5vcmRlcmVkX21hcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8jaW5jbHVkZSA8dW5vcmRlcmVkX21hcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
+        <text encoding="base64">ICAgIHJlcy4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYXV0aGRlbW8vdXNlcl9pbmZvLmgK</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
