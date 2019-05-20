@@ -135,6 +135,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558363671449">
+        <mark key="[" line="94" column="103" />
+        <mark key="]" line="95" column="11" />
+        <mark key="." line="95" column="11" />
+        <mark key="^" line="95" column="11" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -380,8 +386,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cpp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -396,40 +402,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cpp</text>
+        <text>oUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;ToJson&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgYXV0byBzZW5kTm9Vc2VyID0gW10gKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCwgY29uc3QgQXV0aGVudGljYXRpb25SZXN1bHQmIHJlc3VsdCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcy4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYXV0aGRlbW8vdXNlcl9pbmZvLmgK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcy4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImdlbmVyYXRlZC9qc29uX2NvbnZlcnNpb25zLmgiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vYXV0aGRlbW8vdXNlcl9pbmZvLmgK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCB0b19qc29uKG5sb2htYW5uOjpqc29uJiBqLCBjb25zdCBVc2VySW5mbyYgcmVzKSB7CiAgICBqID0gbmxvaG1hbm46Ompzb246Om9iamVjdCgpOwogICAgalsibmFtZSJdID0gcmVzLm5hbWU7Cn0KCnZvaWQgZnJvbV9qc29uKGNvbnN0IG5sb2htYW5uOjpqc29uJiBqLCBVc2VySW5mbyYgcmVzKSB7CiAgICByZXMubmFtZSA9IGdldEtleTxzdGQ6OnN0cmluZz4oaiwgIm5hbWUiKTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
