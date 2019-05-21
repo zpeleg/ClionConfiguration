@@ -127,12 +127,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558425076478">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558438261874">
         <mark key="'" line="93" column="22" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="185" column="15" />
-        <mark key="." line="185" column="0" />
+        <mark key="[" line="164" column="4" />
+        <mark key="]" line="164" column="38" />
+        <mark key="^" line="164" column="38" />
+        <mark key="." line="164" column="38" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
         <mark key="[" line="34" column="0" />
@@ -370,7 +370,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{};</text>
+        <text>event.workingConfig, event.calibrations</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -385,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{};</text>
+        <text>event.workingConfig, event.calibrations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
