@@ -142,18 +142,18 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558454925551">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558455895805">
         <mark key="'" line="116" column="43" />
-        <mark key="[" line="165" column="129" />
-        <mark key="]" line="165" column="130" />
-        <mark key="." line="165" column="130" />
-        <mark key="^" line="165" column="130" />
+        <mark key="[" line="393" column="50" />
+        <mark key="]" line="393" column="50" />
+        <mark key="." line="393" column="50" />
+        <mark key="^" line="393" column="50" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1558455125758">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1558455247113">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="100" />
+        <mark key="^" line="16" column="100" />
+        <mark key="." line="16" column="100" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.h" timestamp="1539870053309">
         <mark key="[" line="34" column="0" />
@@ -216,7 +216,7 @@
       <file name="/GDB" timestamp="1540979104460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558454971125">
+      <file name="/Dummy.txt" timestamp="1558455774225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -395,7 +395,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCB0byBtZXNzYWdlIHF1ZXVlIHRoYXQgY29udGFpbnMgbWVzc2FnZXMgdG8gYmUgc2VudCB3aGVuICJnZXRfbmV4dF9tZXNzYWdlIiBpcyBjYWxsZWQK</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uRXhlY3V0b3JfLT5yZWdpc3RlckV4ZWN1dG9yKHRoaXMpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -410,7 +410,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>push()</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
@@ -419,33 +419,33 @@
         <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCB0byBtZXNzYWdlIHF1ZXVlIHRoYXQgY29udGFpbnMgbWVzc2FnZXMgdG8gYmUgc2VudCB3aGVuICJnZXRfbmV4dF9tZXNzYWdlIiBpcyBjYWxsZWQK</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uRXhlY3V0b3JfLT5yZWdpc3RlckV4ZWN1dG9yKHRoaXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29kZSBpcyBub3cgY29tcGlsaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzVG9TZW5kOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCB0byBtZXNzYWdlIHF1ZXVlIHRoYXQgY29udGFpbnMgbWVzc2FnZXMgdG8gYmUgc2VudCB3aGVuICJnZXRfbmV4dF9tZXNzYWdlIiBpcyBjYWxsZWQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2VzVG9TZW5kOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Q29tcGlsaW5nCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Add messages from rpc into the authentication state
 
 implements the clickedEnroll message</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QWRkIHJlZ2lvbnMsIGFkZCBNdXNpY1BhdXNlZCBldmVudCwgQWRkIGFjdGlvbiB0aGF0IHNlbmRzIHJwYyBtZXNzYWdlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKHByb2NlZHVyZU5hbWU9PSJjbGlja2VkRW5yb2xsIil7CiAgICAgICAgCiAgICB9CiAgICByZXR1cm4gQnVmZmVyKCk7Cg==</text>
+        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -502,8 +502,8 @@ implements the clickedEnroll message</text>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Lw</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
