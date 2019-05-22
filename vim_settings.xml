@@ -16,10 +16,10 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558536041143">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558542529798">
         <mark key="'" line="418" column="53" />
-        <mark key="[" line="120" column="16" />
-        <mark key="]" line="120" column="37" />
+        <mark key="[" line="384" column="26" />
+        <mark key="]" line="384" column="38" />
         <mark key="^" line="120" column="37" />
         <mark key="." line="120" column="37" />
       </file>
@@ -28,6 +28,12 @@
         <mark key="]" line="3" column="60" />
         <mark key="^" line="3" column="60" />
         <mark key="." line="3" column="60" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1558542368482">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="88" column="19" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="88" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1558514248692">
         <mark key="[" line="55" column="0" />
@@ -163,12 +169,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558531120574">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558542930417">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1558537944310">
         <mark key="'" line="160" column="9" />
@@ -356,7 +362,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">VHJ5IGZpeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -371,40 +377,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UFVCTElDIG1lYW5zIHRoYXQgdGhlc2UgaGVhZGVycyBhcmUgbmVlZGVkIA==</text>
+        <text>CorrectRpcMe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2luY2x1ZGVfZGlyZWN0b3JpZXMoCiAgICAgICAgJHtBVVRIREVNT19MSUJfTkFNRX0K</text>
+      <register name="0" type="4">
+        <text>clickedEnroll</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VHJ5IGZpeAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">VHJ5IHRvIGZpeCBjb21waWxhdGlvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi8uLi9kZXBlbmRlbmNpZXMvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UFVCTElDIG1lYW5zIHRoYXQgdGhlc2UgaGVhZGVycyBhcmUgbmVlZGVkIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">UFVCTElDIG1lYW5zIHRoYXQgdGhlc2UgaGVhZGVycyBhcmUgbmVlZGVkIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QmVzaWRlcyB0aGF0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">VEVTVF9GKFYpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">VHJ5IGZpeAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VHJ5IHRvIGZpeCBjb21waWxhdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuLi8uLi9kZXBlbmRlbmNpZXMvCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuLi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">UFVCTElDIG1lYW5zIHRoYXQgdGhlc2UgaGVhZGVycyBhcmUgbmVlZGVkIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UFVCTElDIG1lYW5zIHRoYXQgdGhlc2UgaGVhZGVycyBhcmUgbmVlZGVkIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkIHRlc3QgZml4dHVyZSBmb3IgdGVzdGluZyB0aGUgYXV0aGVudGljYXRpb24gc3RhdGUK</text>
+        <text encoding="base64">QmVzaWRlcyB0aGF0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
