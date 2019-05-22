@@ -124,12 +124,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558455895805">
-        <mark key="'" line="116" column="43" />
-        <mark key="[" line="393" column="50" />
-        <mark key="]" line="393" column="50" />
-        <mark key="." line="393" column="50" />
-        <mark key="^" line="393" column="50" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558519570622">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="186" column="22" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1558517048120">
         <mark key="[" line="61" column="8" />
@@ -195,12 +194,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.h" timestamp="1558455064378">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-        <mark key="." line="26" column="68" />
-      </file>
+      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.h" timestamp="1558455064378" />
       <file name="/fragment.mm" timestamp="1542552958938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -346,7 +340,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2UuZmlyc3Q7IC8vIFRPRE86IFRoaXMgaXMgbm90IGNvcnJlY3QsIG5lZWQgdG8gZGVjaWRlIGhvdyB3ZSBmb3JtYXQgdGhlIG1lc3NhZ2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -361,40 +355,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.userId=userId</text>
+        <text>off</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>userId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIGNsYW5nLWZvcm1hdCBvZmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2UuZmlyc3Q7IC8vIFRPRE86IFRoaXMgaXMgbm90IGNvcnJlY3QsIG5lZWQgdG8gZGVjaWRlIGhvdyB3ZSBmb3JtYXQgdGhlIG1lc3NhZ2VzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvY2VkdXJlTmFtZSA9PSAiZ2V0X25leHRfbWVzc2FnZSIpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChwcm9jZWR1cmVOYW1lID09ICJnZXRfbmV4dF9tZXNzYWdlIikgewogICAgICAgIGF1dG8gbWVzc2FnZSA9IG1lc3NhZ2VzVG9TZW5kLmZyb250KCk7CiAgICAgICAgbWVzc2FnZXNUb1NlbmQucG9wKCk7CiAgICAgICAgcmV0dXJuIG1lc3NhZ2UuZmlyc3Q7IC8vIFRPRE86IFRoaXMgaXMgbm90IGNvcnJlY3QsIG5lZWQgdG8gZGVjaWRlIGhvdyB3ZSBmb3JtYXQgdGhlIG1lc3NhZ2VzCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QWRkIHNlbmRpbmcgb2YgbWVzc2FnZXMgdG8gdWkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFpJVjogQ2hhbmdlZCB0aGlzIHRvIGNvbXBpbGUsIGhvcGVmdWxseSBJIHdhcyBjb3JyZWN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGludDMyX3QgdXNlcklkOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGNsYW5nLWZvcm1hdCBvZmYK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2UuZmlyc3Q7IC8vIFRPRE86IFRoaXMgaXMgbm90IGNvcnJlY3QsIG5lZWQgdG8gZGVjaWRlIGhvdyB3ZSBmb3JtYXQgdGhlIG1lc3NhZ2VzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvY2VkdXJlTmFtZSA9PSAiZ2V0X25leHRfbWVzc2FnZSIpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChwcm9jZWR1cmVOYW1lID09ICJnZXRfbmV4dF9tZXNzYWdlIikgewogICAgICAgIGF1dG8gbWVzc2FnZSA9IG1lc3NhZ2VzVG9TZW5kLmZyb250KCk7CiAgICAgICAgbWVzc2FnZXNUb1NlbmQucG9wKCk7CiAgICAgICAgcmV0dXJuIG1lc3NhZ2UuZmlyc3Q7IC8vIFRPRE86IFRoaXMgaXMgbm90IGNvcnJlY3QsIG5lZWQgdG8gZGVjaWRlIGhvdyB3ZSBmb3JtYXQgdGhlIG1lc3NhZ2VzCiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QWRkIHNlbmRpbmcgb2YgbWVzc2FnZXMgdG8gdWkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIFpJVjogQ2hhbmdlZCB0aGlzIHRvIGNvbXBpbGUsIGhvcGVmdWxseSBJIHdhcyBjb3JyZWN0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoYXV0aCBTSEFSRUQKICAgICAgICBhdXRoL2F1dGhfbWFpbi5jcHApCg==</text>
+        <text encoding="base64">ICAgIGludDMyX3QgdXNlcklkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
