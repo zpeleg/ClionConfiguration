@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.h" timestamp="1558535915918">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="60" />
-        <mark key="^" line="3" column="60" />
-        <mark key="." line="3" column="60" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.h" timestamp="1558620175437">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1558514248692">
         <mark key="[" line="55" column="0" />
@@ -20,6 +26,12 @@
         <mark key="]" line="8" column="6" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/benchmark/CMakeLists.txt" timestamp="1558619770493">
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="26" column="66" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="66" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -41,6 +53,10 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/idetector.h" timestamp="1558622152892">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="79" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
@@ -75,16 +91,23 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1558537944310">
-        <mark key="'" line="160" column="9" />
-        <mark key="[" line="139" column="27" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/detectors/iauthentication_algo.h" timestamp="1558622141385">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="24" column="73" />
+        <mark key="." line="24" column="69" />
+        <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558454920616">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="90" />
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1558621855522">
+        <mark key="'" line="161" column="9" />
+        <mark key="[" line="72" column="49" />
+        <mark key="]" line="72" column="75" />
+        <mark key="^" line="72" column="75" />
+        <mark key="." line="72" column="75" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="40" column="82" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
@@ -94,12 +117,12 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1558536635130">
-        <mark key="'" line="166" column="55" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="27" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="166" column="55" />
+      <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1558619689156">
+        <mark key="'" line="167" column="55" />
+        <mark key="[" line="302" column="58" />
+        <mark key="]" line="302" column="66" />
+        <mark key="." line="302" column="66" />
+        <mark key="^" line="302" column="66" />
       </file>
       <file name="/Clipboard.txt" timestamp="1558454039109">
         <mark key="[" line="0" column="0" />
@@ -111,18 +134,36 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1558619965186">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1540888736072">
         <mark key="[" line="60" column="40" />
         <mark key="]" line="60" column="44" />
         <mark key="." line="60" column="44" />
         <mark key="^" line="60" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558617452093">
-        <mark key="'" line="57" column="26" />
-        <mark key="[" line="74" column="70" />
-        <mark key="]" line="74" column="108" />
-        <mark key="." line="74" column="108" />
-        <mark key="^" line="74" column="108" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558621204494">
+        <mark key="'" line="340" column="64" />
+        <mark key="[" line="327" column="109" />
+        <mark key="]" line="327" column="109" />
+        <mark key="^" line="327" column="109" />
+        <mark key="." line="327" column="109" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="11" column="105" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.cpp" timestamp="1558622063948">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1558542368482">
         <mark key="[" line="87" column="32" />
@@ -130,21 +171,16 @@
         <mark key="^" line="88" column="19" />
         <mark key="." line="88" column="19" />
       </file>
-      <file name="/authentication_state.cpp" timestamp="1558600047417">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="101" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.h" timestamp="1558547269006" />
-      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1558617178753">
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="20" />
+      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1558620822931">
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="46" />
+        <mark key="." line="81" column="46" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
@@ -170,12 +206,13 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="58" column="60" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state_machine.h" timestamp="1558547315761">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.cpp" timestamp="1558620720061">
+        <mark key="[" line="17" column="108" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1558545810709">
+      <file name="/GDB" timestamp="1558623499844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558616753929">
@@ -209,17 +246,22 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558617069306">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="100" column="44" />
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558623546254">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="79" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.h" timestamp="1558619573931">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="41" column="79" />
+        <mark key="." line="41" column="77" />
+        <mark key="^" line="41" column="77" />
       </file>
       <file name="/fragment.mm" timestamp="1542552958938">
         <mark key="[" line="0" column="0" />
@@ -247,12 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="31" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="48" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="143" column="11" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="158" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="47" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="23" column="16" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
       <jump line="92" column="25" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="124" column="40" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
       <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
@@ -335,7 +371,6 @@
       <jump line="160" column="9" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
       <jump line="3" column="2" filename="$USER_HOME$/mobileproduct/src/vendor/bla.md" />
       <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/bla.md" />
-      <jump line="71" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="147" column="26" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
@@ -343,10 +378,17 @@
       <jump line="159" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="165" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="171" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="179" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="90" column="57" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="57" column="26" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/iauthentication_algo.h" />
+      <jump line="170" column="39" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="73" column="102" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="173" column="43" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="156" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="256" column="1" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="340" column="64" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="71" column="12" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -360,7 +402,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>*</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -375,57 +417,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXNlXD4=</text>
+        <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDEwbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJoZWxsbyI8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIHRlc3QgZm9yIHJlYWR5IGJ1dHRvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJiaSI8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBU1NFUlRfRVEocmV0X2pzb25bImVycm9yIl0sICJBQ0siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJoZWxsbyI8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDEwbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnVuaXF1ZV9wdHI8SUF1dGhlbnRpY2F0aW9uQWxnbz4gY3JlYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDEwbXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVNTRQo=</text>
+        <text encoding="base64">dXNpbmcgOjp0ZXN0aW5nOjpNYWtlVW5pcXVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB1c2luZyBuYW1lc3BhY2UgdGVzdGluZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRFU1RfRgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFrZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja0FsZ28uamtkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLldpbGxSZXBlYXRlZGx5KDo6dGVzdGluZzo6UmV0dXJuKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXNlXD4=</last-search>
+      <last-search>overr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXNlXD4=</last-pattern>
+      <last-pattern>overr</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjYXNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SIGTERM</entry>
         <entry>logg</entry>
         <entry>er</entry>
         <entry>config</entry>
@@ -445,6 +486,7 @@
         <entry encoding="base64">XDxjbGFzc1w+</entry>
         <entry encoding="base64">XDxyZWFkeVN0YXR1c1w+</entry>
         <entry encoding="base64">XDxjYXNlXD4=</entry>
+        <entry>overr</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
