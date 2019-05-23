@@ -140,18 +140,18 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1540888736072">
-        <mark key="[" line="60" column="40" />
-        <mark key="]" line="60" column="44" />
-        <mark key="." line="60" column="44" />
-        <mark key="^" line="60" column="44" />
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1558632073589">
+        <mark key="[" line="51" column="39" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558621204494">
-        <mark key="'" line="340" column="64" />
-        <mark key="[" line="327" column="109" />
-        <mark key="]" line="327" column="109" />
-        <mark key="^" line="327" column="109" />
-        <mark key="." line="327" column="109" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558631223317">
+        <mark key="'" line="343" column="64" />
+        <mark key="[" line="144" column="18" />
+        <mark key="]" line="144" column="30" />
+        <mark key="." line="144" column="30" />
+        <mark key="^" line="144" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
@@ -177,10 +177,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1558620822931">
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="46" />
-        <mark key="." line="81" column="46" />
+      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1558626838352">
+        <mark key="[" line="85" column="20" />
+        <mark key="]" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+        <mark key="^" line="85" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
@@ -212,10 +213,10 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1558623499844">
+      <file name="/GDB" timestamp="1558632396962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558616753929">
+      <file name="/Dummy.txt" timestamp="1558626945924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -246,11 +247,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558623546254">
-        <mark key="[" line="79" column="24" />
-        <mark key="]" line="79" column="24" />
-        <mark key="." line="79" column="24" />
-        <mark key="^" line="79" column="24" />
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558633059229">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="8" />
+        <mark key="." line="107" column="8" />
+        <mark key="^" line="107" column="8" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -281,6 +283,11 @@
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/cmake-build-debug/tests/googletest-prefix/src/googletest/googlemock/include/gmock/gmock-more-actions.h" timestamp="1558631725892">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="173" column="1" />
+        <mark key="." line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="41" />
@@ -289,15 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="25" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="124" column="40" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="141" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="180" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="142" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/teacher_status_notification_decider.cpp" />
-      <jump line="460" column="57" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="133" column="12" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="127" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="120" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="111" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -362,16 +360,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/pydetectors.cpp" />
       <jump line="1151" column="4" filename="$USER_HOME$/mobileproduct/src/generated/json_conversions.cpp" />
       <jump line="28" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="32" column="56" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="35" column="32" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="418" column="53" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="160" column="9" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
       <jump line="3" column="2" filename="$USER_HOME$/mobileproduct/src/vendor/bla.md" />
       <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/bla.md" />
-      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="147" column="26" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="153" column="0" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
@@ -389,6 +382,20 @@
       <jump line="256" column="1" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="340" column="64" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="71" column="12" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="104" column="8" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -402,7 +409,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -417,40 +424,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJoZWxsbyI8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">QUNUSU9OX1RFTVBMQVRFKFNhdmVBcmcsCiAgICAgICAgICAgICAgICBIQVNfMV9URU1QTEFURV9QQVJBTVMoaW50LCBrKSwKICAgICAgICAgICAgICAgIEFORF8xX1ZBTFVFX1BBUkFNUyhwb2ludGVyKSkgewogICpwb2ludGVyID0gOjp0ZXN0aW5nOjpnZXQ8az4oYXJncyk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJiaSI8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIEFDVElPTl9URU1QTEFURShTYXZlQnVnYVN0cmVhbSwKICAgICAgICAgICAgICAgICAgICBIQVNfMV9URU1QTEFURV9QQVJBTVMoaW50LCBrKSwKICAgICAgICAgICAgICAgICAgICBBTkRfMV9WQUxVRV9QQVJBTVMocHRyKSkgewogICAgICAgICpwdHIgPSBkeW5hbWljX2Nhc3Q8QnVnYVN0cmVhbSo+KDo6dGVzdGluZzo6Z2V0PGs+KGFyZ3MpKTsKICAgICAgICBzdGQ6OmNvdXQgPDwgIlRha2UgbWUgZG93biB0byBhcHJhZGlzZSBjaXR5IiA8PCBzdGQ6OmVuZGw7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJoZWxsbyI8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIEFDVElPTl9URU1QTEFURShTYXZlQnVnYVN0cmVhbSwKICAgICAgICAgICAgICAgICAgICBIQVNfMV9URU1QTEFURV9QQVJBTVMoaW50LCBrKSwKICAgICAgICAgICAgICAgICAgICBBTkRfMV9WQUxVRV9QQVJBTVMocHRyKSkgewogICAgICAgICpwdHIgPSBkeW5hbWljX2Nhc3Q8QnVnYVN0cmVhbSoqPig6OnRlc3Rpbmc6OmdldDxrPihhcmdzKSk7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJUYWtlIG1lIGRvd24gdG8gYXByYWRpc2UgY2l0eSIgPDwgc3RkOjplbmRsOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnVuaXF1ZV9wdHI8SUF1dGhlbnRpY2F0aW9uQWxnbz4gY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaGVsbG8gZGFya25lc3MiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaGVsbG8gZGFya25lc3MiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgOjp0ZXN0aW5nOjpNYWtlVW5pcXVlOwo=</text>
+        <text encoding="base64">ICAgIEFDVElPTl9URU1QTEFURShKdXN0U2F2ZVRoZVBvaW50ZXIsCiAgICAgICAgICAgICAgICAgICAgSEFTXzFfVEVNUExBVEVfUEFSQU1TKGludCwgayksCiAgICAgICAgICAgICAgICAgICAgQU5EXzFfVkFMVUVfUEFSQU1TKHBvaW50ZXIpKSB7CiAgICAgICAgOjp0ZXN0aW5nOjpnZXQ8az4oYXJncyktPnJlc2V0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2luZyBuYW1lc3BhY2UgdGVzdGluZzsK</text>
+        <text encoding="base64">ICAgICAgICBwb2ludGVyLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFrZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRVhQRUNUX0NBTEwobW9ja0RhZW1vbiwgcmVxdWVzdFN0YXJ0UmVjb3JkaW5nKF8pKS5UaW1lcygxKS5XaWxsT25jZShTYXZlQXJnPDA+KCZidWdhU3RyZWFtKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja0FsZ28uamtkZAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwiaG9sbGxsbGxhYWFhYSIgPDwgcG9pbnRlciA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLldpbGxSZXBlYXRlZGx5KDo6dGVzdGluZzo6UmV0dXJuKCkpCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCJob2xsbGxsbGFhYWFhIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
