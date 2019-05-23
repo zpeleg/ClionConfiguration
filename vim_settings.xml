@@ -117,8 +117,12 @@
         <mark key="." line="60" column="44" />
         <mark key="^" line="60" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558605322604">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558611348953">
         <mark key="'" line="90" column="57" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="77" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1558542368482">
         <mark key="[" line="87" column="32" />
@@ -200,12 +204,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558604360887">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558611358381">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="57" column="65" />
-        <mark key="]" line="57" column="65" />
-        <mark key="." line="57" column="65" />
-        <mark key="^" line="57" column="65" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="85" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -356,8 +360,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getEarphonesDbPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">InNldEVucm9sbGVlIHN1Y2Nlc3MiCiAgICAgICAgRVhQRUNUX0NBTEwobW9ja09ic2VydmFibGVFeGVjdXRvciwgc2VuZE1lc3NhZ2UoXywgVHlwZWRFcSkpLlRpbWVzKDEpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -372,40 +376,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getEarphonesDbPath</text>
+        <text>Equa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRVhQRUNUX0NBTEwobW9ja0RhZW1vbiwgZ2V0RWFycGhvbmVzRGJQYXRoKCkpLlRpbWVzKDEpOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;setEnrollee success&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFWFBFQ1RfQ0FMTChtb2NrRGFlbW9uLCByZXF1ZXN0U3RhcnRSZWNvcmRpbmcoXykpLlRpbWVzKDEpOwo=</text>
+        <text encoding="base64">InNldEVucm9sbGVlIHN1Y2Nlc3MiCiAgICAgICAgRVhQRUNUX0NBTEwobW9ja09ic2VydmFibGVFeGVjdXRvciwgc2VuZE1lc3NhZ2UoXywgVHlwZWRFcSkpLlRpbWVzKDEpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Jm1vY2tEYWVtb24sIGdldFNlcnZpY2VDb25maWcoKSwgc3RhdHVzTWFuYWdlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZtb2NrT2JzZXJ2YWJsZUV4ZWN1dG9y</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnRleHQub2JzZXJ2YWJsZUV4ZWN1dG9yLT5zZW5kTWVzc2FnZSgiYXV0aF9zdGF0ZV9zdGF0dXMiLCAic2V0RW5yb2xsZWUgc3VjY2VzcyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfQ0FMTChtb2NrT2JzZXJ2YWJsZUV4ZWN1dG9yLCBzZW5kTWVzc2FnZShfLCBfKSkuVGltZXMoMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VHJ5IGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfQ0FMTChtb2NrRGFlbW9uLCByZXF1ZXN0U3RhcnRSZWNvcmRpbmcoXykpLlRpbWVzKDEpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIoKSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Jm1vY2tEYWVtb24sIGdldFNlcnZpY2VDb25maWcoKSwgc3RhdHVzTWFuYWdlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZtb2NrT2JzZXJ2YWJsZUV4ZWN1dG9y</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlciBsb2dnZXI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHNtbCA9IGJvb3N0OjpzbWw7CnN0cnVjdCBteV9sb2dnZXIgewogICAgdGVtcGxhdGU8Y2xhc3MgU00sIGNsYXNzIFRFdmVudD4KICAgIHZvaWQgbG9nX3Byb2Nlc3NfZXZlbnQoY29uc3QgVEV2ZW50JikgewogICAgICAgIHByaW50ZigiWyVzXVtwcm9jZXNzX2V2ZW50XSAlc1xuIiwgc21sOjphdXg6OmdldF90eXBlX25hbWU8U00+KCksIHNtbDo6YXV4OjpnZXRfdHlwZV9uYW1lPFRFdmVudD4oKSk7CiAgICB9CgogICAgdGVtcGxhdGU8Y2xhc3MgU00sIGNsYXNzIFRHdWFyZCwgY2xhc3MgVEV2ZW50PgogICAgdm9pZCBsb2dfZ3VhcmQoY29uc3QgVEd1YXJkJiwgY29uc3QgVEV2ZW50JiwgYm9vbCByZXN1bHQpIHsKICAgICAgICBwcmludGYoIlslc11bZ3VhcmRdICVzICVzICVzXG4iLCBzbWw6OmF1eDo6Z2V0X3R5cGVfbmFtZTxTTT4oKSwgc21sOjphdXg6OmdldF90eXBlX25hbWU8VEd1YXJkPigpLAogICAgICAgICAgICAgICBzbWw6OmF1eDo6Z2V0X3R5cGVfbmFtZTxURXZlbnQ+KCksIChyZXN1bHQgPyAiW09LXSIgOiAiW1JlamVjdF0iKSk7CiAgICB9CgogICAgdGVtcGxhdGU8Y2xhc3MgU00sIGNsYXNzIFRBY3Rpb24sIGNsYXNzIFRFdmVudD4KICAgIHZvaWQgbG9nX2FjdGlvbihjb25zdCBUQWN0aW9uJiwgY29uc3QgVEV2ZW50JikgewogICAgICAgIHByaW50ZigiWyVzXVthY3Rpb25dICVzICVzXG4iLCBzbWw6OmF1eDo6Z2V0X3R5cGVfbmFtZTxTTT4oKSwgc21sOjphdXg6OmdldF90eXBlX25hbWU8VEFjdGlvbj4oKSwKICAgICAgICAgICAgICAgc21sOjphdXg6OmdldF90eXBlX25hbWU8VEV2ZW50PigpKTsKICAgIH0KCiAgICB0ZW1wbGF0ZTxjbGFzcyBTTSwgY2xhc3MgVFNyY1N0YXRlLCBjbGFzcyBURHN0U3RhdGU+CiAgICB2b2lkIGxvZ19zdGF0ZV9jaGFuZ2UoY29uc3QgVFNyY1N0YXRlJiBzcmMsIGNvbnN0IFREc3RTdGF0ZSYgZHN0KSB7CiAgICAgICAgcHJpbnRmKCJbJXNdW3RyYW5zaXRpb25dICVzIC0+ICVzXG4iLCBzbWw6OmF1eDo6Z2V0X3R5cGVfbmFtZTxTTT4oKSwgc3JjLmNfc3RyKCksIGRzdC5jX3N0cigpKTsKICAgIH0KfTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">VHJ5IGZpeAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBc3NlcnQK</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlciBsb2dnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -462,8 +466,8 @@
         <entry>Lw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
