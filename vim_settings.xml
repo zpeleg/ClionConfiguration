@@ -247,12 +247,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558635731997">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558638085558">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="193" column="70" />
-        <mark key="]" line="193" column="70" />
-        <mark key="." line="193" column="70" />
-        <mark key="^" line="192" column="24" />
+        <mark key="[" line="193" column="61" />
+        <mark key="]" line="193" column="65" />
+        <mark key="." line="193" column="65" />
+        <mark key="^" line="193" column="65" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -409,7 +409,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ZGNvbnN0IEF1ZGlvRGF0YSY=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -424,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ZGNvbnN0IEF1ZGlvRGF0YSY=</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
@@ -514,8 +514,8 @@
         <entry>Lw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
