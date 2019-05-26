@@ -159,7 +159,7 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558881697379">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558888172112">
         <mark key="'" line="343" column="64" />
         <mark key="[" line="266" column="36" />
         <mark key="]" line="266" column="52" />
@@ -260,7 +260,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558884699298">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558887749271">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
