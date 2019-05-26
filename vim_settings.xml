@@ -140,6 +140,10 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/device_communication/pydcomm/rpc/gen/buga_rpc_pb2_grpc.py" timestamp="1558865716395">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="31" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1558632073589">
         <mark key="[" line="51" column="39" />
         <mark key="]" line="51" column="38" />
@@ -409,7 +413,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Reset</text>
+        <text>DeviceRpcStreamingServicer</text>
       </register>
       <register name="l" type="4">
         <keys>
