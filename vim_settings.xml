@@ -160,10 +160,10 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558634348066">
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558881697379">
         <mark key="'" line="343" column="64" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
+        <mark key="[" line="266" column="36" />
+        <mark key="]" line="266" column="52" />
         <mark key="." line="142" column="0" />
         <mark key="^" line="144" column="30" />
       </file>
@@ -227,7 +227,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1558634923781">
+      <file name="/GDB" timestamp="1558882273487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558874345741">
@@ -260,6 +260,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1558882268514">
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="47" />
+        <mark key="^" line="99" column="47" />
+        <mark key="." line="99" column="47" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -416,7 +422,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>GResponse</text>
+        <text>&quot;hello&quot;, &quot;world!&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -437,7 +443,7 @@
         <text>overr</text>
       </register>
       <register name="0" type="4">
-        <text>GBuffer</text>
+        <text>&quot;hello&quot;, &quot;world!&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U3RhdHVzIEJ1Z2FHUnBjU3RyZWFtaW5nU2VydmljZUltcGw6OmNhbGxTdHJlYW1pbmcoU2VydmVyQ29udGV4dCAqY29udGV4dCwgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiAqc3RyZWFtKSB7CiAgICB0cnkgewogICAgICAgIEdSZXNwb25zZSByZXM7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIG5hbWUgPSByZXMuYnVmKCk7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIHBhcmFtcyA9IHJlcy5idWYoKTsKCiAgICAgICAgYXV0byB3cml0ZXIgPSBzdGQ6Om1ha2VfdW5pcXVlPEdScGNCdWZmZXJTdHJlYW1Xcml0ZXI+KHN0cmVhbSk7CiAgICAgICAgc3RhdGljX2Nhc3Q8SVJlbW90ZVByb2NlZHVyZVN0cmVhbWluZ0V4ZWN1dG9yKj4oJnRoaXMtPmxpc3RlbmVyKS0+ZXhlY3V0ZVByb2NlZHVyZVN0cmVhbWluZyhuYW1lLCBwYXJhbXMsIHN0ZDo6bW92ZSh3cml0ZXIpKTsKICAgIH0gY2F0Y2ggKFJwY0Vycm9yICZleCkgewogICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6VU5LTk9XTiwgc3RkOjpzdHJpbmcoIlJQQyBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoIChzdGQ6OnJ1bnRpbWVfZXJyb3IgJmV4KSB7CiAgICAgICAgcmV0dXJuIFN0YXR1cyhncnBjOjpVTktOT1dOLCBzdGQ6OnN0cmluZygiUnVudGltZSBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoICguLi4pIHsKICAgICAgICByZXR1cm4gU3RhdHVzKGdycGM6OlVOS05PV04sIHN0ZDo6c3RyaW5nKCJFeGNlcHRpb24gaW4gZXhlY3V0ZVByb2NlZHVyZSIpKTsKICAgIH0KCiAgICByZXR1cm4gU3RhdHVzOjpPSzsKfQoK</text>
