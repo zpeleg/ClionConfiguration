@@ -9,9 +9,10 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.h" timestamp="1559061483056">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="58" />
+      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.h" timestamp="1559062779256">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.h" timestamp="1558620175437">
         <mark key="]" line="8" column="23" />
@@ -255,12 +256,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559061694149">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559062812856">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="102" column="97" />
-        <mark key="]" line="102" column="113" />
-        <mark key="." line="102" column="113" />
-        <mark key="^" line="102" column="113" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+        <mark key="^" line="40" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -416,8 +417,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gZGVmYXVsdDs=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -432,7 +433,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Auth</text>
+        <text encoding="base64">ID0gZGVmYXVsdDs=</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
