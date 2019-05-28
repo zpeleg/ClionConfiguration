@@ -9,11 +9,14 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.h" timestamp="1559061483056">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="58" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.h" timestamp="1558620175437">
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
@@ -98,6 +101,11 @@
         <mark key="^" line="58" column="74" />
         <mark key="." line="58" column="74" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.cpp" timestamp="1559061636082">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="52" />
@@ -159,13 +167,6 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558888172112">
-        <mark key="'" line="343" column="64" />
-        <mark key="[" line="266" column="36" />
-        <mark key="]" line="266" column="52" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="144" column="30" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -189,12 +190,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1558626838352">
-        <mark key="[" line="85" column="20" />
-        <mark key="]" line="85" column="20" />
-        <mark key="." line="85" column="20" />
-        <mark key="^" line="85" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
@@ -260,6 +255,13 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559061694149">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="102" column="97" />
+        <mark key="]" line="102" column="113" />
+        <mark key="." line="102" column="113" />
+        <mark key="^" line="102" column="113" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -302,12 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="563" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="453" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="378" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="387" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="398" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="403" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -391,9 +387,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
-      <jump line="3" column="30" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="128" column="26" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
       <jump line="134" column="1" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
       <jump line="137" column="24" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
@@ -402,6 +395,15 @@
       <jump line="150" column="0" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
       <jump line="160" column="0" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
       <jump line="125" column="0" filename="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" />
+      <jump line="73" column="44" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="65" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,7 +417,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
+        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -430,40 +432,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JkR1cmluZ0RldGVjdDo6cHVzaENvdW50VGhyZWFkLCB0aGlz</text>
+        <text>Auth</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;hello&quot;, &quot;world!&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NrQXV0aEVhcnBob25lRGIoKSA9IGRlZmF1bHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
+        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVnYVN0cmVhbT0K</text>
+        <text encoding="base64">ICAgICAgICBNb2NrRWFycGhvbmVEYiBtb2NrRWFycGhvbmVEYjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEJ1Z2FTdHJlYW0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3RhdHVzIEJ1Z2FHUnBjU3RyZWFtaW5nU2VydmljZUltcGw6OmNhbGxTdHJlYW1pbmcoU2VydmVyQ29udGV4dCAqY29udGV4dCwgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiAqc3RyZWFtKSB7CiAgICB0cnkgewogICAgICAgIEdSZXNwb25zZSByZXM7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIG5hbWUgPSByZXMuYnVmKCk7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIHBhcmFtcyA9IHJlcy5idWYoKTsKCiAgICAgICAgYXV0byB3cml0ZXIgPSBzdGQ6Om1ha2VfdW5pcXVlPEdScGNCdWZmZXJTdHJlYW1Xcml0ZXI+KHN0cmVhbSk7CiAgICAgICAgc3RhdGljX2Nhc3Q8SVJlbW90ZVByb2NlZHVyZVN0cmVhbWluZ0V4ZWN1dG9yKj4oJnRoaXMtPmxpc3RlbmVyKS0+ZXhlY3V0ZVByb2NlZHVyZVN0cmVhbWluZyhuYW1lLCBwYXJhbXMsIHN0ZDo6bW92ZSh3cml0ZXIpKTsKICAgIH0gY2F0Y2ggKFJwY0Vycm9yICZleCkgewogICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6VU5LTk9XTiwgc3RkOjpzdHJpbmcoIlJQQyBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoIChzdGQ6OnJ1bnRpbWVfZXJyb3IgJmV4KSB7CiAgICAgICAgcmV0dXJuIFN0YXR1cyhncnBjOjpVTktOT1dOLCBzdGQ6OnN0cmluZygiUnVudGltZSBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoICguLi4pIHsKICAgICAgICByZXR1cm4gU3RhdHVzKGdycGM6OlVOS05PV04sIHN0ZDo6c3RyaW5nKCJFeGNlcHRpb24gaW4gZXhlY3V0ZVByb2NlZHVyZSIpKTsKICAgIH0KCiAgICByZXR1cm4gU3RhdHVzOjpPSzsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVnYVN0cmVhbT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlOjpjYWxsX3N0cmVhbWluZyhjb250ZXh0LCBzdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIHNldEJ1Z2FTdHJlYW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBTdGF0dXMgY2FsbFN0cmVhbWluZyhTZXJ2ZXJDb250ZXh0KiBjb250ZXh0LAogICAgICAgICAgICAgICAgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiogc3RyZWFtKSBvdmVycmlkZTsK</text>
+        <text encoding="base64">U3RhdHVzIEJ1Z2FHUnBjU3RyZWFtaW5nU2VydmljZUltcGw6OmNhbGxTdHJlYW1pbmcoU2VydmVyQ29udGV4dCAqY29udGV4dCwgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiAqc3RyZWFtKSB7CiAgICB0cnkgewogICAgICAgIEdSZXNwb25zZSByZXM7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIG5hbWUgPSByZXMuYnVmKCk7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIHBhcmFtcyA9IHJlcy5idWYoKTsKCiAgICAgICAgYXV0byB3cml0ZXIgPSBzdGQ6Om1ha2VfdW5pcXVlPEdScGNCdWZmZXJTdHJlYW1Xcml0ZXI+KHN0cmVhbSk7CiAgICAgICAgc3RhdGljX2Nhc3Q8SVJlbW90ZVByb2NlZHVyZVN0cmVhbWluZ0V4ZWN1dG9yKj4oJnRoaXMtPmxpc3RlbmVyKS0+ZXhlY3V0ZVByb2NlZHVyZVN0cmVhbWluZyhuYW1lLCBwYXJhbXMsIHN0ZDo6bW92ZSh3cml0ZXIpKTsKICAgIH0gY2F0Y2ggKFJwY0Vycm9yICZleCkgewogICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6VU5LTk9XTiwgc3RkOjpzdHJpbmcoIlJQQyBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoIChzdGQ6OnJ1bnRpbWVfZXJyb3IgJmV4KSB7CiAgICAgICAgcmV0dXJuIFN0YXR1cyhncnBjOjpVTktOT1dOLCBzdGQ6OnN0cmluZygiUnVudGltZSBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoICguLi4pIHsKICAgICAgICByZXR1cm4gU3RhdHVzKGdycGM6OlVOS05PV04sIHN0ZDo6c3RyaW5nKCJFeGNlcHRpb24gaW4gZXhlY3V0ZVByb2NlZHVyZSIpKTsKICAgIH0KCiAgICByZXR1cm4gU3RhdHVzOjpPSzsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPTl9DQUxMKCptb2NrQWxnbywgcHJvY2Vzc19ldmVudCg6OnRlc3Rpbmc6OkFuPFJlc2V0PigpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlOjpjYWxsX3N0cmVhbWluZyhjb250ZXh0LCBzdHJlYW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT05fQ0FMTCgqbW9ja0FsZ28sIHByb2Nlc3NfZXZlbnQoOjp0ZXN0aW5nOjpBbjxSZXNldD4oKSkpOwo=</text>
+        <text encoding="base64">CiAgICBTdGF0dXMgY2FsbFN0cmVhbWluZyhTZXJ2ZXJDb250ZXh0KiBjb250ZXh0LAogICAgICAgICAgICAgICAgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiogc3RyZWFtKSBvdmVycmlkZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDEwbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPTl9DQUxMKCptb2NrQWxnbywgcHJvY2Vzc19ldmVudCg6OnRlc3Rpbmc6OkFuPFJlc2V0PigpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
