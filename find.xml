@@ -17,5 +17,7 @@
     <mask>*.cpp,*.h</mask>
     <mask>*.h</mask>
     <mask>*.h,*.cpp</mask>
+    <mask>*.h,*.txt</mask>
+    <mask>*.h,*.txt,*.cpp</mask>
   </component>
 </application>
