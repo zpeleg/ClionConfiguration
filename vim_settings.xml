@@ -41,12 +41,12 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" timestamp="1559142937876">
+      <file name="$USER_HOME$/device_communication/cpp/rpc_impl/buga_grpc_server.cpp" timestamp="1559144046307">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="170" column="15" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+        <mark key="^" line="199" column="80" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -220,11 +220,12 @@
       <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559120645955">
         <mark key="'" line="52" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559143086458">
-        <mark key="[" line="59" column="110" />
-        <mark key="]" line="59" column="110" />
-        <mark key="^" line="59" column="110" />
-        <mark key="." line="59" column="110" />
+      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559144959637">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="59" column="88" />
+        <mark key="]" line="59" column="89" />
+        <mark key="^" line="59" column="89" />
+        <mark key="." line="59" column="89" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
@@ -405,8 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="568" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="313" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="308" column="62" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="18" column="6" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
@@ -505,6 +504,8 @@
       <jump line="112" column="0" filename="$USER_HOME$/device_communication/cpp/build_linux_release/rpc_proto/proto-src/buga_rpc.pb.h" />
       <jump line="114" column="0" filename="$USER_HOME$/device_communication/cpp/build_linux_release/rpc_proto/proto-src/buga_rpc.pb.h" />
       <jump line="116" column="0" filename="$USER_HOME$/device_communication/cpp/build_linux_release/rpc_proto/proto-src/buga_rpc.pb.h" />
+      <jump line="71" column="20" filename="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,7 +519,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>message.</text>
+        <text encoding="base64">ICsgc3RyaW5nKCIgcGFyYW1zOiAiKSArIG1lc3NhZ2Uuc2Vjb25kKTs=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -533,40 +534,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>message.</text>
+        <text encoding="base64">ICsgc3RyaW5nKCIgcGFyYW1zOiAiKSArIG1lc3NhZ2Uuc2Vjb25kKTs=</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrQXV0aEVhcnBob25lRGIoKSA9IGRlZmF1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKC4uLikgewogICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6VU5LTk9XTiwgc3RkOjpzdHJpbmcoIkV4Y2VwdGlvbiBpbiBleGVjdXRlUHJvY2VkdXJlIikpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcoKSwgIkF2b2NhZG8iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmVhbS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrRWFycGhvbmVEYiBtb2NrRWFycGhvbmVEYjsK</text>
+        <text encoding="base64">ICAgIHN0cmVhbS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
+        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVnYVN0cmVhbT0K</text>
+        <text encoding="base64">ICAgICAgICBNb2NrRWFycGhvbmVEYiBtb2NrRWFycGhvbmVEYjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEJ1Z2FTdHJlYW0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -622,8 +623,8 @@
         <entry>:w</entry>
         <entry>X</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
