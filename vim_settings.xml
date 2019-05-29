@@ -168,6 +168,9 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559120645955">
+        <mark key="'" line="52" column="32" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -192,6 +195,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/auth_sml.h" timestamp="1559120649457" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
       </file>
@@ -286,7 +290,6 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/data/audio_data_pusher.cpp" timestamp="1559063413695" />
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
         <mark key="[" line="92" column="54" />
         <mark key="]" line="92" column="54" />
@@ -306,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="398" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="403" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="414" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -406,6 +408,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
+      <jump line="52" column="32" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
