@@ -131,6 +131,12 @@
         <mark key="." line="8" column="82" />
         <mark key="^" line="13" column="50" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/android_apps/BugatoneAuthenticationDemo/CMakeLists.txt" timestamp="1559222586762">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.cpp" timestamp="1559061636082">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -161,12 +167,12 @@
         <mark key="^" line="160" column="17" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1559211571464">
-        <mark key="'" line="161" column="9" />
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="49" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="49" />
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1559222591390">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="175" column="38" />
+        <mark key="]" line="175" column="51" />
+        <mark key="^" line="175" column="37" />
+        <mark key="." line="175" column="38" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -209,10 +215,11 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/CMakeLists.txt" timestamp="1543398764512">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/mobileproduct/CMakeLists.txt" timestamp="1559222221185">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="41" column="55" />
+        <mark key="." line="41" column="55" />
+        <mark key="^" line="41" column="55" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1543498857176">
         <mark key="'" line="57" column="0" />
@@ -356,6 +363,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/android_apps/smart_ep_demo/CMakeLists.txt" timestamp="1559221895748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -405,26 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="62" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="18" column="6" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="40" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="68" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="86" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="92" column="60" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="97" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="166" column="55" filename="$USER_HOME$/mobileproduct/src/CMakeLists.txt" />
-      <jump line="93" column="22" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
-      <jump line="71" column="54" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="37" column="4" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="70" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="62" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
@@ -505,6 +496,26 @@
       <jump line="71" column="20" filename="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" />
       <jump line="62" column="0" filename="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" />
       <jump line="59" column="89" filename="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" />
+      <jump line="32" column="49" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="55" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="86" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="92" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="103" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="112" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="118" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="124" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="129" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="132" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="147" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="154" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="165" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="167" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="171" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="175" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="186" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,7 +529,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>auth_demo_app</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -533,37 +544,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>execute_process</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vLi4vY29yZS9idWZmZXIuY3BwCg==</text>
+      <register name="0" type="4">
+        <text>auth_demo_app</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeSguLi8uLi9hbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIENvbW1hbmRzIHByb2Nlc3NfZXZlbnQoQWJvcnRFbnJvbGxtZW50IGFib3J0RW5yb2xsbWVudCkgPSAwOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIENvbW1hbmRzIHByb2Nlc3NfZXZlbnQoQWJvcnRFbnJvbGxtZW50IGFib3J0RW5yb2xsbWVudCkgPSAwOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcoKSwgIkF2b2NhZG8iKTsK</text>
+        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcoKSwgIkF2b2NhZG8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
@@ -623,8 +634,8 @@
         <entry>X</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
