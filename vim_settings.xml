@@ -161,12 +161,12 @@
         <mark key="^" line="160" column="17" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1559207590372">
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1559211571464">
         <mark key="'" line="161" column="9" />
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -518,7 +518,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>core/buffer.cpp</text>
+        <text>h</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -533,7 +533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>core/buffer.cpp</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
