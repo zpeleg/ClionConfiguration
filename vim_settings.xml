@@ -161,12 +161,12 @@
         <mark key="^" line="160" column="17" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1558621855522">
+      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1559207590372">
         <mark key="'" line="161" column="9" />
-        <mark key="[" line="72" column="49" />
-        <mark key="]" line="72" column="75" />
-        <mark key="^" line="72" column="75" />
-        <mark key="." line="72" column="75" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -517,8 +517,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
+      <register name="&quot;" type="4">
+        <text>core/buffer.cpp</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -533,34 +533,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>core/buffer.cpp</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="4">
-        <text>AbortEnrollment abortEnrollment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vLi4vY29yZS9idWZmZXIuY3BwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIENvbW1hbmRzIHByb2Nlc3NfZXZlbnQoQWJvcnRFbnJvbGxtZW50IGFib3J0RW5yb2xsbWVudCkgPSAwOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIENvbW1hbmRzIHByb2Nlc3NfZXZlbnQoQWJvcnRFbnJvbGxtZW50IGFib3J0RW5yb2xsbWVudCkgPSAwOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcoKSwgIkF2b2NhZG8iKTsK</text>
+        <text encoding="base64">U2hvdyBzbWFydCBzdXBwb3J0IG5vdGlmaWNhdGlvbiBpZiB1c2VyIGRvZXMgbm90IHRha2Ugb3V0IGVhcnBob25lcyBzbWFydCBzdXBwb3J0IHRpbWUgYWZ0ZXIgdGhlIHByZXZpb3VzIG5vdGlmaWNhdGlvbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjppbmZvKExPR19UQUcoKSwgIkF2b2NhZG8iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzdHJlYW0tPgo=</text>
