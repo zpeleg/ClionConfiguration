@@ -174,12 +174,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1558542368482">
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="88" column="19" />
-        <mark key="^" line="88" column="19" />
-        <mark key="." line="88" column="19" />
-      </file>
       <file name="/usr/include/c++/7/stdexcept" timestamp="1559463345511" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
