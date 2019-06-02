@@ -14,18 +14,13 @@
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.h" timestamp="1558620175437">
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1558514248692">
+      <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1559467380304">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="55" column="59" />
@@ -126,13 +121,6 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" timestamp="1558621855522">
-        <mark key="'" line="161" column="9" />
-        <mark key="[" line="72" column="49" />
-        <mark key="]" line="72" column="75" />
-        <mark key="^" line="72" column="75" />
-        <mark key="." line="72" column="75" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="40" column="82" />
@@ -173,9 +161,6 @@
         <mark key="]" line="51" column="38" />
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559120645955">
-        <mark key="'" line="52" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
@@ -268,10 +253,10 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559062812856">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="48" />
-        <mark key="." line="40" column="48" />
-        <mark key="^" line="40" column="48" />
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="48" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
