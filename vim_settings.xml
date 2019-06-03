@@ -162,11 +162,11 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559568842278">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-        <mark key="^" line="37" column="52" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559572118120">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="352" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559568424398" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
@@ -217,10 +217,10 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1559489190686">
+      <file name="/GDB" timestamp="1559571563726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559490163252">
+      <file name="/Dummy.txt" timestamp="1559571331692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -413,7 +413,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PCAiQXZvY2Fkb1xuIjw8cGFyYW1zIDw8IkF2b2NhZG9cbiI7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -437,22 +437,22 @@
         <text>readyToLearnEars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PCAiQXZvY2Fkb1xuIjw8cGFyYW1zIDw8IkF2b2NhZG9cbiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYXV0byBhdXRoX3VzZXJfZGJfbm90X2VtcHR5ID0gOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">b25fZW50cnk8Xz5bKFtdKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCkgewogICAgcmV0dXJuICFjb250ZXh0LmF1dGhVc2VyRGIudXNlcnMuZW1wdHkoKTsKfSld</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgYXV0byBhdXRoX3VzZXJfZGJfbm90X2VtcHR5ID0gOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">b25fZW50cnk8Xz5bKFtdKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCkgewogICAgcmV0dXJuICFjb250ZXh0LmF1dGhVc2VyRGIudXNlcnMuZW1wdHkoKTsKfSld</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVwbGFjZSBzbGVlcHMgd2l0aCBidWdhc3RyZWFtIHJlYWQgY291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
+        <text encoding="base64">UmVwbGFjZSBzbGVlcHMgd2l0aCBidWdhc3RyZWFtIHJlYWQgY291bnQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
