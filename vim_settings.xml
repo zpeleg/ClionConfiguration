@@ -162,6 +162,12 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559550998318">
+        <mark key="[" line="189" column="83" />
+        <mark key="]" line="189" column="81" />
+        <mark key="." line="189" column="81" />
+        <mark key="^" line="189" column="81" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -174,7 +180,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="/usr/include/c++/7/stdexcept" timestamp="1559463345511" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -196,7 +201,7 @@
         <mark key="^" line="133" column="50" />
         <mark key="." line="133" column="50" />
       </file>
-      <file name="/fragment.cpp" timestamp="1558615680282">
+      <file name="/fragment.cpp" timestamp="1559489396643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1540223373134">
@@ -211,10 +216,10 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1558882273487">
+      <file name="/GDB" timestamp="1559489190686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558955465195">
+      <file name="/Dummy.txt" timestamp="1559490163252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -245,12 +250,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559062812856">
+      <file name="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" timestamp="1559490020175">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="48" />
-        <mark key="." line="41" column="48" />
-        <mark key="^" line="41" column="48" />
+        <mark key="[" line="226" column="48" />
+        <mark key="]" line="226" column="64" />
+        <mark key="." line="226" column="48" />
+        <mark key="^" line="229" column="46" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
         <mark key="[" line="5" column="0" />
@@ -406,8 +411,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qgc3RkOjpleGNlcHRpb24mIGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -422,40 +427,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qgc3RkOjpleGNlcHRpb24mIGU=</text>
+        <text encoding="base64">KFtdKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCkgeyAgICByZXR1cm4gIWNvbnRleHQuYXV0aFVzZXJEYi51c2Vycy5lbXB0eSgpO30p</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrQXV0aEVhcnBob25lRGIoKSA9IGRlZmF1bHQ7Cg==</text>
+      <register name="0" type="4">
+        <text>readyToLearnEars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QXV0aEVhcnBob25lRGI6OkF1dGhFYXJwaG9uZURiKCkge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrRWFycGhvbmVEYiBtb2NrRWFycGhvbmVEYjsK</text>
+        <text encoding="base64">Y29uc3QgYXV0byBhdXRoX3VzZXJfZGJfbm90X2VtcHR5ID0gOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4cGxpY2l0IER1cmluZ0RldGVjdChBdXRoZW50aWNhdGlvblN0YXRlKiBzdGF0ZV8pIDoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">b25fZW50cnk8Xz5bKFtdKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCkgewogICAgcmV0dXJuICFjb250ZXh0LmF1dGhVc2VyRGIudXNlcnMuZW1wdHkoKTsKfSld</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVnYVN0cmVhbT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIHNldEJ1Z2FTdHJlYW0K</text>
+        <text encoding="base64">UmVwbGFjZSBzbGVlcHMgd2l0aCBidWdhc3RyZWFtIHJlYWQgY291bnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3RhdHVzIEJ1Z2FHUnBjU3RyZWFtaW5nU2VydmljZUltcGw6OmNhbGxTdHJlYW1pbmcoU2VydmVyQ29udGV4dCAqY29udGV4dCwgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiAqc3RyZWFtKSB7CiAgICB0cnkgewogICAgICAgIEdSZXNwb25zZSByZXM7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIG5hbWUgPSByZXMuYnVmKCk7CgogICAgICAgIGlmICghc3RyZWFtLT5SZWFkKCZyZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6SU5WQUxJRF9BUkdVTUVOVCwgImNhbGxTdHJlYW1pbmcgbXVzdCBzdGFydCB3aXRoIHByb2NlZHVyZU5hbWUgYW5kIHBhcmFtcyBzZW50IGZyb20gY2xpZW50Iik7CiAgICAgICAgfQogICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nIHBhcmFtcyA9IHJlcy5idWYoKTsKCiAgICAgICAgYXV0byB3cml0ZXIgPSBzdGQ6Om1ha2VfdW5pcXVlPEdScGNCdWZmZXJTdHJlYW1Xcml0ZXI+KHN0cmVhbSk7CiAgICAgICAgc3RhdGljX2Nhc3Q8SVJlbW90ZVByb2NlZHVyZVN0cmVhbWluZ0V4ZWN1dG9yKj4oJnRoaXMtPmxpc3RlbmVyKS0+ZXhlY3V0ZVByb2NlZHVyZVN0cmVhbWluZyhuYW1lLCBwYXJhbXMsIHN0ZDo6bW92ZSh3cml0ZXIpKTsKICAgIH0gY2F0Y2ggKFJwY0Vycm9yICZleCkgewogICAgICAgIHJldHVybiBTdGF0dXMoZ3JwYzo6VU5LTk9XTiwgc3RkOjpzdHJpbmcoIlJQQyBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoIChzdGQ6OnJ1bnRpbWVfZXJyb3IgJmV4KSB7CiAgICAgICAgcmV0dXJuIFN0YXR1cyhncnBjOjpVTktOT1dOLCBzdGQ6OnN0cmluZygiUnVudGltZSBlcnJvciBpbiBleGVjdXRlUHJvY2VkdXJlOiAiKSArIGV4LndoYXQoKSk7CiAgICB9IGNhdGNoICguLi4pIHsKICAgICAgICByZXR1cm4gU3RhdHVzKGdycGM6OlVOS05PV04sIHN0ZDo6c3RyaW5nKCJFeGNlcHRpb24gaW4gZXhlY3V0ZVByb2NlZHVyZSIpKTsKICAgIH0KCiAgICByZXR1cm4gU3RhdHVzOjpPSzsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTZXJ2aWNlOjpjYWxsX3N0cmVhbWluZyhjb250ZXh0LCBzdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBTdGF0dXMgY2FsbFN0cmVhbWluZyhTZXJ2ZXJDb250ZXh0KiBjb250ZXh0LAogICAgICAgICAgICAgICAgZ3JwYzo6U2VydmVyUmVhZGVyV3JpdGVyPEdSZXNwb25zZSwgR1Jlc3BvbnNlPiogc3RyZWFtKSBvdmVycmlkZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPTl9DQUxMKCptb2NrQWxnbywgcHJvY2Vzc19ldmVudCg6OnRlc3Rpbmc6OkFuPFJlc2V0PigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJBdm9jYWRvXG4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -549,7 +554,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -578,6 +583,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
