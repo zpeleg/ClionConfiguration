@@ -89,7 +89,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="79" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/dependencies/device_communication_common/rpc_bindings/bugarpc.h" timestamp="1559141198021" />
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
       </file>
@@ -224,8 +223,8 @@
       <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_status.h" timestamp="1543498857176">
         <mark key="'" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559120645955">
-        <mark key="'" line="52" column="32" />
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1560160008346">
+        <mark key="'" line="67" column="4" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559149963807">
         <mark key="'" line="58" column="89" />
@@ -416,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="70" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="62" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
@@ -516,6 +514,7 @@
       <jump line="171" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
       <jump line="175" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
       <jump line="186" column="0" filename="$USER_HOME$/mobileproduct/src/authdemo/CMakeLists.txt" />
+      <jump line="67" column="4" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
