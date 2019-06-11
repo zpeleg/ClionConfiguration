@@ -227,11 +227,10 @@
         <mark key="'" line="67" column="4" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559149963807">
-        <mark key="'" line="58" column="89" />
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="79" column="109" />
-        <mark key="^" line="79" column="109" />
-        <mark key="." line="79" column="109" />
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="83" column="109" />
+        <mark key="^" line="83" column="109" />
+        <mark key="." line="83" column="109" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
