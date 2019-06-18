@@ -63,6 +63,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/tests/states/authentication_state_tests.cpp" timestamp="1560851523836">
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="21" column="82" />
+        <mark key="." line="21" column="82" />
+        <mark key="^" line="21" column="82" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
         <mark key="[" line="369" column="25" />
       </file>
@@ -231,7 +237,7 @@
       <file name="/GDB" timestamp="1559583340813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559578584146">
+      <file name="/Dummy.txt" timestamp="1560851539923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
@@ -420,7 +426,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIi91c3IvYmluL3B5dGhvbjIgLW0gcHltb2JpbGVwcm9kdWN0LnV0aWxzLnN3aWcuZ2VuZXJhdGVfZmlsZXMgLXIgJHtDTUFLRV9TT1VSQ0VfRElSfSAtYyAke0dFTl9UT19GUk9NX0pTT059IC1xICR7R0VOX0NPTkZJR19QWV9CSU5ESU5HU30gLXAgJHtDTUFLRV9TT1VSQ0VfRElSfS9weW1vYmlsZXByb2R1Y3QvZ2VuZXJhdGVkL2pzb25fY2xhc3Nlcy5weSAtdCAke0NNQUtFX1NPVVJDRV9ESVJ9L3B5bW9iaWxlcHJvZHVjdC90ZXN0cy9jb25maWd1cmF0aW9uL2F1dG9fY29uZmlnc19pbl9jX3Rlc3QucHkgLWIgJHtDTUFLRV9CVUlMRF9UWVBFfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -435,40 +441,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="4">
-        <text>COMMAND /usr/bin/python2 -m pymobileproduct.utils.swig.generate_files -r ${CMAKE_SOURCE_DIR} -c ${GEN_TO_FROM_JSON} -q ${GEN_CONFIG_PY_BINDINGS} -p ${CMAKE_SOURCE_DIR}/pymobileproduct/generated/json_classes.py -t ${CMAKE_SOURCE_DIR}/pymobileproduct/tests/configuration/auto_configs_in_c_test.py -b ${CMAKE_BUILD_TYPE}</text>
+        <text encoding="base64">Y29uc3QgQXVkaW9EYXRhJg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIi91c3IvYmluL3B5dGhvbjIgLW0gcHltb2JpbGVwcm9kdWN0LnV0aWxzLnN3aWcuZ2VuZXJhdGVfZmlsZXMgLXIgJHtDTUFLRV9TT1VSQ0VfRElSfSAtYyAke0dFTl9UT19GUk9NX0pTT059IC1xICR7R0VOX0NPTkZJR19QWV9CSU5ESU5HU30gLXAgJHtDTUFLRV9TT1VSQ0VfRElSfS9weW1vYmlsZXByb2R1Y3QvZ2VuZXJhdGVkL2pzb25fY2xhc3Nlcy5weSAtdCAke0NNQUtFX1NPVVJDRV9ESVJ9L3B5bW9iaWxlcHJvZHVjdC90ZXN0cy9jb25maWd1cmF0aW9uL2F1dG9fY29uZmlnc19pbl9jX3Rlc3QucHkgLWIgJHtDTUFLRV9CVUlMRF9UWVBFfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIi91c3IvYmluL3B5dGhvbjIgLW0gcHltb2JpbGVwcm9kdWN0LnV0aWxzLnN3aWcuZ2VuZXJhdGVfZmlsZXMgLXIgJHtDTUFLRV9TT1VSQ0VfRElSfSAtYyAke0dFTl9UT19GUk9NX0pTT059IC1xICR7R0VOX0NPTkZJR19QWV9CSU5ESU5HU30gLXAgJHtDTUFLRV9TT1VSQ0VfRElSfS9weW1vYmlsZXByb2R1Y3QvZ2VuZXJhdGVkL2pzb25fY2xhc3Nlcy5weSAtdCAke0NNQUtFX1NPVVJDRV9ESVJ9L3B5bW9iaWxlcHJvZHVjdC90ZXN0cy9jb25maWd1cmF0aW9uL2F1dG9fY29uZmlnc19pbl9jX3Rlc3QucHkgLWIgJHtDTUFLRV9CVUlMRF9UWVBFfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PCAiQXZvY2Fkb1xuIjw8cGFyYW1zIDw8IkF2b2NhZG9cbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXV0byBhdXRoX3VzZXJfZGJfbm90X2VtcHR5ID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PCAiQXZvY2Fkb1xuIjw8cGFyYW1zIDw8IkF2b2NhZG9cbiI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">b25fZW50cnk8Xz5bKFtdKEF1dGhlbnRpY2F0aW9uQ29udGV4dCYgY29udGV4dCkgewogICAgcmV0dXJuICFjb250ZXh0LmF1dGhVc2VyRGIudXNlcnMuZW1wdHkoKTsKfSld</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlPE5vVXNlcnNFbnJvbGxlZD4gKyBldmVudDxTdG9wPiAvIHN0b3BNaXhpbmcgPSBzdGF0ZTxJZGxlPgo=</text>
+        <text encoding="base64">Y29uc3QgYXV0byBhdXRoX3VzZXJfZGJfbm90X2VtcHR5ID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
