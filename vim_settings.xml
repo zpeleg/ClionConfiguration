@@ -66,7 +66,6 @@
       <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
         <mark key="[" line="369" column="25" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/authdemo/main.cpp" timestamp="1559582268103" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.h" timestamp="1558025164499">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="45" />
@@ -99,7 +98,6 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1559580229138" />
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1549382453433">
         <mark key="[" line="58" column="74" />
         <mark key="]" line="58" column="74" />
@@ -170,13 +168,6 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1559582188383">
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="^" line="352" column="53" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1559583121083" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -224,6 +215,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1560846623623">
+        <mark key="[" line="44" column="325" />
+        <mark key="]" line="44" column="325" />
+        <mark key="^" line="44" column="325" />
+        <mark key="." line="44" column="325" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.cpp" timestamp="1558620720061">
         <mark key="[" line="17" column="108" />
@@ -423,7 +420,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -438,13 +435,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="4">
-        <text>readyToLearnEars</text>
+        <text>COMMAND /usr/bin/python2 -m pymobileproduct.utils.swig.generate_files -r ${CMAKE_SOURCE_DIR} -c ${GEN_TO_FROM_JSON} -q ${GEN_CONFIG_PY_BINDINGS} -p ${CMAKE_SOURCE_DIR}/pymobileproduct/generated/json_classes.py -t ${CMAKE_SOURCE_DIR}/pymobileproduct/tests/configuration/auto_configs_in_c_test.py -b ${CMAKE_BUILD_TYPE}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
