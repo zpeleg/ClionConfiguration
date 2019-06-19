@@ -45,11 +45,11 @@
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
       </file>
-      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1560958712839">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="52" />
-        <mark key="." line="55" column="52" />
-        <mark key="^" line="55" column="52" />
+      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1560960604522">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -425,8 +425,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Z2FTdHJlYW1UaHJlYWQuam9pbmFibGUoKSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>cs</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -441,40 +441,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>cs</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgQXVkaW9EYXRhJg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVnYV9ycGNfbG9nKHN0ZDo6c3RyaW5nKCJbUlBDQnVnYXRvbmVQcm94eSBnb3QgaW52YWxpZCBCVUdBX1JQQ19QT1JUICIpK2NzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Z2FTdHJlYW1UaHJlYWQuam9pbmFibGUoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIi91c3IvYmluL3B5dGhvbjIgLW0gcHltb2JpbGVwcm9kdWN0LnV0aWxzLnN3aWcuZ2VuZXJhdGVfZmlsZXMgLXIgJHtDTUFLRV9TT1VSQ0VfRElSfSAtYyAke0dFTl9UT19GUk9NX0pTT059IC1xICR7R0VOX0NPTkZJR19QWV9CSU5ESU5HU30gLXAgJHtDTUFLRV9TT1VSQ0VfRElSfS9weW1vYmlsZXByb2R1Y3QvZ2VuZXJhdGVkL2pzb25fY2xhc3Nlcy5weSAtdCAke0NNQUtFX1NPVVJDRV9ESVJ9L3B5bW9iaWxlcHJvZHVjdC90ZXN0cy9jb25maWd1cmF0aW9uL2F1dG9fY29uZmlnc19pbl9jX3Rlc3QucHkgLWIgJHtDTUFLRV9CVUlMRF9UWVBFfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PCAiQXZvY2Fkb1xuIjw8cGFyYW1zIDw8IkF2b2NhZG9cbiI7Cg==</text>
+        <text encoding="base64">ICAgIHN0b2kK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
