@@ -45,11 +45,11 @@
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
       </file>
-      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1561018304601">
-        <mark key="[" line="67" column="82" />
-        <mark key="]" line="67" column="82" />
-        <mark key="." line="67" column="82" />
-        <mark key="^" line="67" column="82" />
+      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1561021419782">
+        <mark key="[" line="61" column="100" />
+        <mark key="]" line="61" column="107" />
+        <mark key="." line="61" column="100" />
+        <mark key="^" line="61" column="36" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -425,7 +425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[RPCBugatoneProxy]</text>
+        <text>Avocado</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -440,40 +440,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cs</text>
+        <text>[RPCBugatoneProxy] Loading default port because I suck</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="4">
-        <text>[RPCBugatoneProxy]</text>
+        <text>Avocado</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0b2kK</text>
+        <text encoding="base64">ICAgIHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
