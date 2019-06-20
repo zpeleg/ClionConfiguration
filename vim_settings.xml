@@ -45,11 +45,11 @@
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
       </file>
-      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1560960604522">
-        <mark key="[" line="61" column="10" />
-        <mark key="]" line="61" column="20" />
-        <mark key="." line="61" column="20" />
-        <mark key="^" line="61" column="20" />
+      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1561018304601">
+        <mark key="[" line="67" column="82" />
+        <mark key="]" line="67" column="82" />
+        <mark key="." line="67" column="82" />
+        <mark key="^" line="67" column="82" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -173,7 +173,6 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.cpp" timestamp="1560935731028" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -426,7 +425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cs</text>
+        <text>[RPCBugatoneProxy]</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -446,8 +445,8 @@
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVnYV9ycGNfbG9nKHN0ZDo6c3RyaW5nKCJbUlBDQnVnYXRvbmVQcm94eSBnb3QgaW52YWxpZCBCVUdBX1JQQ19QT1JUICIpK2NzKTsK</text>
+      <register name="0" type="4">
+        <text>[RPCBugatoneProxy]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
