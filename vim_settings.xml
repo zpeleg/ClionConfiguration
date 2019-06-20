@@ -45,11 +45,11 @@
         <mark key="." line="141" column="14" />
         <mark key="^" line="141" column="14" />
       </file>
-      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1561021419782">
-        <mark key="[" line="61" column="100" />
-        <mark key="]" line="61" column="107" />
-        <mark key="." line="61" column="100" />
-        <mark key="^" line="61" column="36" />
+      <file name="$USER_HOME$/device_communication/cpp/rpc_bugatone_proxy/rpc_bugatone_proxy.cpp" timestamp="1561022562348">
+        <mark key="[" line="63" column="74" />
+        <mark key="]" line="63" column="78" />
+        <mark key="." line="63" column="78" />
+        <mark key="^" line="63" column="78" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
         <mark key="[" line="11" column="6" />
@@ -236,8 +236,11 @@
       <file name="/GDB" timestamp="1559583340813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560851539923">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1561023159011">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
         <mark key="[" line="12" column="31" />
@@ -425,7 +428,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Avocado</text>
+        <text>because I suck</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -440,7 +443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[RPCBugatoneProxy] Loading default port because I suck</text>
+        <text>because I suck</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
@@ -449,31 +452,31 @@
         <text>Avocado</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
