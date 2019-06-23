@@ -210,11 +210,11 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1560848039920">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="325" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1561310084091">
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="25" />
+        <mark key="^" line="45" column="25" />
+        <mark key="." line="45" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.cpp" timestamp="1558620720061">
         <mark key="[" line="17" column="108" />
