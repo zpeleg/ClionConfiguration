@@ -222,7 +222,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1559583340813">
+      <file name="/GDB" timestamp="1561307873682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561023159011">
@@ -416,8 +416,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>because I suck</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -437,8 +437,8 @@
       <register name="/" type="4">
         <text>overr</text>
       </register>
-      <register name="0" type="4">
-        <text>Avocado</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
