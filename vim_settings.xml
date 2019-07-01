@@ -20,7 +20,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.cpp" timestamp="1561907294364" />
+      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.cpp" timestamp="1561966955711">
+        <mark key="[" line="203" column="79" />
+        <mark key="]" line="204" column="7" />
+        <mark key="^" line="204" column="7" />
+        <mark key="." line="204" column="7" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1559467380304">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -419,8 +424,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -435,7 +440,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>because I suck</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
