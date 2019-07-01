@@ -20,7 +20,7 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.cpp" timestamp="1561966955711">
+      <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.cpp" timestamp="1561967728640">
         <mark key="[" line="203" column="79" />
         <mark key="]" line="204" column="7" />
         <mark key="^" line="204" column="7" />
@@ -109,6 +109,7 @@
         <mark key="]" line="43" column="12" />
         <mark key="." line="43" column="12" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo/clip_filter_decorator.h" timestamp="1561967676756" />
       <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.cpp" timestamp="1559061636082">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
