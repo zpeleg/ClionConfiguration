@@ -71,6 +71,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/state_machine.cpp" timestamp="1563702042882">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="110" column="5" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
       </file>
@@ -296,6 +301,12 @@
         <mark key="]" line="173" column="1" />
         <mark key="." line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1563702032888">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="41" />
@@ -304,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
-      <jump line="403" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="414" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="419" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="428" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -404,6 +413,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/tests/auth/authentication_state_tests.cpp" />
       <jump line="52" column="32" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
+      <jump line="60" column="6" filename="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
+      <jump line="196" column="0" filename="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,8 +427,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -438,34 +449,34 @@
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcXJ0Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVjayBpbiBzdG9wXG4iOwogICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcigxcyk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGludCBpPTA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBzcXJ0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9ydDsK</text>
+        <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBwb3J0ID0gc3RkOjpzdG9pKGNzKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyOTk5OTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -518,12 +529,12 @@
         <entry>x</entry>
         <entry>:w</entry>
         <entry>X</entry>
-        <entry encoding="base64">JzwsJz5X</entry>
         <entry>Lw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
