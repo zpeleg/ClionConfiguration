@@ -60,6 +60,12 @@
       <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
         <mark key="[" line="369" column="25" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" timestamp="1563703208173">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="323" column="5" />
+        <mark key="." line="320" column="0" />
+        <mark key="^" line="31" column="36" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.h" timestamp="1558025164499">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="45" />
@@ -71,9 +77,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/state_machine.cpp" timestamp="1563702042882">
+      <file name="$USER_HOME$/mobileproduct/src/states/state_machine.cpp" timestamp="1563702726580">
         <mark key="[" line="107" column="0" />
-        <mark key="]" line="110" column="5" />
+        <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
@@ -455,28 +461,28 @@
         <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVjayBpbiBzdG9wXG4iOwogICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcigxcyk7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBpPTA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcXJ0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVjayBpbiBzdG9wXG4iOwogICAgICAgIHN0ZDo6dGhpc190aHJlYWQ6OnNsZWVwX2Zvcigxcyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGludCBpPTA7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzcXJ0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgIGJ1Z2FfcnBjX2xvZyhzdGQ6OnN0cmluZygiQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG9Bdm9jYWRvQXZvY2Fkb0F2b2NhZG8iKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -532,9 +538,9 @@
         <entry>Lw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
