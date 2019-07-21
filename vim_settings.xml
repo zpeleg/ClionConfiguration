@@ -9,11 +9,6 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.h" timestamp="1559062779256">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="19" column="15" />
@@ -112,20 +107,10 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559581071292">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1563708760322">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/data/auth_earphone_db.cpp" timestamp="1559061636082">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
@@ -241,11 +226,6 @@
         <mark key="^" line="45" column="25" />
         <mark key="." line="45" column="25" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/buga_stream.cpp" timestamp="1563708442878">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.cpp" timestamp="1558620720061">
         <mark key="[" line="17" column="108" />
         <mark key="]" line="18" column="19" />
@@ -255,7 +235,7 @@
       <file name="/GDB" timestamp="1561307873682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563708349262">
+      <file name="/Dummy.txt" timestamp="1563710684452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -292,11 +272,6 @@
         <mark key="." line="226" column="48" />
         <mark key="^" line="229" column="46" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/executors/iobservable_executor.h" timestamp="1558529651611">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication.h" timestamp="1558619573931">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="41" column="79" />
@@ -320,11 +295,6 @@
         <mark key="]" line="92" column="54" />
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/cmake-build-debug/tests/googletest-prefix/src/googletest/googlemock/include/gmock/gmock-more-actions.h" timestamp="1558633435139">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="173" column="1" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1563702032888">
         <mark key="'" line="197" column="0" />
