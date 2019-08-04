@@ -3,20 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/untitled1/library.cpp" timestamp="1564333460144">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+      <file name="$USER_HOME$/CLionProjects/untitled1/library.cpp" timestamp="1564917261811">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIFRpbWVsaW5lQ2xpZW50IHsKcHVibGljOgogICAgVGltZWxpbmVDbGllbnQoUENNIHBjbSkgOiBtX3BjbShwY20pLCBtX2N1cnJlbnRfdGltZSgwKSwgbV9zYW1wbGVzKE1BWF9TQU1QTEVTX1NJWkUpIHt9OwoKICAgIHZvaWQgb3BlbigpIHsKICAgICAgICBzdGQ6OnRocmVhZCBvcGVuX3BjbShtYWluX2xvZ2ljKTsKICAgICAgICBvcGVuX3BjbS5qb2luKCk7CiAgICB9OwoKICAgIGJvb2wgc2V0X3NhbXBsZV9vdXRwdXQodW5pdDY0X3QgdGltZXN0YW1wLCBpbnQ4X3QgdmFsdWUpIHsKICAgICAgICBsb2NrCiAgICAgICAgaWYgKCh0aW1lc3RhbXAgPCBnZXRfY3VycmVudF9zYW1wbGVfdGltZSgpKSB8fCAodGltZXN0YW1wID4gZ2V0X2N1cnJlbnRfc2FtcGxlX3RpbWUoKSArIE1BWF9TQU1QTEVTX1NJWkUpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgbV9zYW1wbGVzW3RpbWVzdGFtcCAtIGdldF9jdXJyZW50X3NhbXBsZV90aW1lKCldID0gdmFsdWU7CiAgICAgICAgdW5sb2NrCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9OwoKICAgIGludDY0X3QgZ2V0X2N1cnJlbnRfc2FtcGxlX3RpbWUoKSB7CiAgICAgICAgcmV0dXJuIG1fY3VycmVudF90aW1lOwogICAgfTsKCnByaXZhdGU6CiAgICBwY20gbV9wY207CiAgICBzdGQ6OmF0b21pYzx1aW50NjRfdD4gbV9jdXJyZW50X3RpbWU7CiAgICBzdGQ6OnZlY3RvcjxpbnQ4X3Q+IG1fc2FtcGxlczsKCiAgICB2b2lkIG1haW5fbG9naWMoKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8aW50OF90PiBidWZmZXIoMTI4KTsKICAgICAgICB3aGlsZSAoaXNBdmFpbGFibGUobV9wY20pKSB7CiAgICAgICAgICAgIHdyaXRlKG1fcGNtLCBidWZmZXIuZGF0YSgpKTsKICAgICAgICB9CiAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgbG9jawogICAgICAgICAgICBidWZmZXIgPSBzdGQ6OnZlY3RvcjxpbnQ4X3Q+KG1fc2FtcGxlcy5iZWdpbigpLCBtX3NhbXBsZXMuYmVnaW4oKSArIDEyOCk7CiAgICAgICAgICAgIHdyaXRlKG1fcGNtLCBidWZmZXIuZGF0YSgpKTsKICAgICAgICAgICAgbV9zYW1wbGVzLmVyYXNlKCBtX3NhbXBsZXMuYmVnaW4oKSwgbV9zYW1wbGVzLnNpemUoKSA+IDEyOCA/ICBtX3NhbXBsZXMuYmVnaW4oKSArIDEyOCA6IG1fc2FtcGxlcy5lbmQoKSApOwogICAgICAgICAgICBtX2N1cnJlbnRfdGltZSArPSAxMjg7CiAgICAgICAgICAgIHVubG9jawogICAgICAgICAgICB3aGlsZSAoIWlzQXZhaWxhYmxlKCkpIHsKICAgICAgICAgICAgICAgIDsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfTs=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmNsYXNzIFRpbWVsaW5lQ2xpZW50IHsKcHVibGljOgogICAgVGltZWxpbmVDbGllbnQoUENNIHBjbSkgOiBtX3BjbShwY20pLCBtX2N1cnJlbnRfdGltZSgwKSwgbV9zYW1wbGVzKE1BWF9TQU1QTEVTX1NJWkUpIHt9OwoKICAgIHZvaWQgb3BlbigpIHsKICAgICAgICBzdGQ6OnRocmVhZCBvcGVuX3BjbShtYWluX2xvZ2ljKTsKICAgICAgICBvcGVuX3BjbS5qb2luKCk7CiAgICB9OwoKICAgIGJvb2wgc2V0X3NhbXBsZV9vdXRwdXQodW5pdDY0X3QgdGltZXN0YW1wLCBpbnQ4X3QgdmFsdWUpIHsKICAgICAgICBsb2NrCiAgICAgICAgaWYgKCh0aW1lc3RhbXAgPCBnZXRfY3VycmVudF9zYW1wbGVfdGltZSgpKSB8fCAodGltZXN0YW1wID4gZ2V0X2N1cnJlbnRfc2FtcGxlX3RpbWUoKSArIE1BWF9TQU1QTEVTX1NJWkUpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgbV9zYW1wbGVzW3RpbWVzdGFtcCAtIGdldF9jdXJyZW50X3NhbXBsZV90aW1lKCldID0gdmFsdWU7CiAgICAgICAgdW5sb2NrCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9OwoKICAgIGludDY0X3QgZ2V0X2N1cnJlbnRfc2FtcGxlX3RpbWUoKSB7CiAgICAgICAgcmV0dXJuIG1fY3VycmVudF90aW1lOwogICAgfTsKCnByaXZhdGU6CiAgICBwY20gbV9wY207CiAgICBzdGQ6OmF0b21pYzx1aW50NjRfdD4gbV9jdXJyZW50X3RpbWU7CiAgICBzdGQ6OnZlY3RvcjxpbnQ4X3Q+IG1fc2FtcGxlczsKCiAgICB2b2lkIG1haW5fbG9naWMoKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8aW50OF90PiBidWZmZXIoMTI4KTsKICAgICAgICB3aGlsZSAoaXNBdmFpbGFibGUobV9wY20pKSB7CiAgICAgICAgICAgIHdyaXRlKG1fcGNtLCBidWZmZXIuZGF0YSgpKTsKICAgICAgICB9CiAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgbG9jawogICAgICAgICAgICBidWZmZXIgPSBzdGQ6OnZlY3RvcjxpbnQ4X3Q+KG1fc2FtcGxlcy5iZWdpbigpLCBtX3NhbXBsZXMuYmVnaW4oKSArIDEyOCk7CiAgICAgICAgICAgIHdyaXRlKG1fcGNtLCBidWZmZXIuZGF0YSgpKTsKICAgICAgICAgICAgbV9zYW1wbGVzLmVyYXNlKCBtX3NhbXBsZXMuYmVnaW4oKSwgbV9zYW1wbGVzLnNpemUoKSA+IDEyOCA/ICBtX3NhbXBsZXMuYmVnaW4oKSArIDEyOCA6IG1fc2FtcGxlcy5lbmQoKSApOwogICAgICAgICAgICBtX2N1cnJlbnRfdGltZSArPSAxMjg7CiAgICAgICAgICAgIHVubG9jawogICAgICAgICAgICB3aGlsZSAoIWlzQXZhaWxhYmxlKCkpIHsKICAgICAgICAgICAgICAgIDsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfTs=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
@@ -29,6 +40,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
