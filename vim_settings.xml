@@ -108,11 +108,13 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1566224332686" />
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1563708760322">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.h" timestamp="1566224278815" />
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="52" />
@@ -126,6 +128,7 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/out_ear_detection_state.h" timestamp="1566224322826" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="40" column="82" />
@@ -256,6 +259,7 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" timestamp="1566224177064" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
