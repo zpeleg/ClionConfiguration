@@ -67,7 +67,6 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/states/state_machine_tests.cpp" timestamp="1564065218726" />
       <file name="$USER_HOME$/mobileproduct/src/states/state_machine.cpp" timestamp="1564303542063">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -108,13 +107,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/out_ear_detection_state.cpp" timestamp="1566224332686" />
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1563708760322">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.h" timestamp="1566224278815" />
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="52" />
@@ -128,7 +125,6 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/states/out_ear_detection_state.h" timestamp="1566224322826" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="40" column="82" />
@@ -170,7 +166,9 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/generated/json_conversions.cpp" timestamp="1564060376075" />
+      <file name="/Python Console" timestamp="1569146189048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_stream.cpp" timestamp="1563708702852">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="47" column="0" />
@@ -189,7 +187,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/CMakeLists.txt" timestamp="1564399434173" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -238,7 +235,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1564071662499">
+      <file name="/GDB" timestamp="1569146333210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563710684452">
@@ -259,7 +256,6 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" timestamp="1566224177064" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
@@ -322,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="435" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="452" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="473" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -422,6 +417,7 @@
       <jump line="196" column="0" filename="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" />
       <jump line="150" column="37" filename="$USER_HOME$/mobileproduct/src/states/record_only_state.cpp" />
       <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_stream.cpp" />
+      <jump line="31" column="41" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
