@@ -73,6 +73,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="450" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/portaudio/src/common/pa_front.c" timestamp="1571237873088" />
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
       </file>
@@ -147,6 +148,13 @@
       <file name="/Clipboard.txt" timestamp="1558454039109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/portaudio/src/common/pa_process.c" timestamp="1571240793285">
+        <mark key="'" line="839" column="56" />
+        <mark key="[" line="891" column="48" />
+        <mark key="]" line="891" column="55" />
+        <mark key="." line="891" column="55" />
+        <mark key="^" line="891" column="55" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/bla.md" timestamp="1558537813908">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="29" column="0" />
@@ -160,6 +168,7 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/portaudio/src/common/pa_debugprint.h" timestamp="1571238414030" />
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1558632073589">
         <mark key="[" line="51" column="39" />
         <mark key="]" line="51" column="38" />
@@ -175,6 +184,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/portaudio/include/portaudio.h" timestamp="1571241132004" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="11" column="105" />
@@ -250,8 +260,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/portaudio/src/hostapi/alsa/pa_linux_alsa.c" timestamp="1571131230483">
+      <file name="$USER_HOME$/Code/portaudio/src/hostapi/alsa/pa_linux_alsa.c" timestamp="1571241012135">
         <mark key="'" line="773" column="66" />
+        <mark key="[" line="4345" column="0" />
+        <mark key="]" line="4345" column="57" />
+        <mark key="." line="4350" column="0" />
+        <mark key="^" line="4351" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/states/out_ear_detection_state_tests.cpp" timestamp="1558524055374">
         <mark key="[" line="86" column="0" />
@@ -321,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="473" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="494" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
       <jump line="504" column="0" filename="$USER_HOME$/mobileproduct/tests/bugatone_api/teacher_status_notification_decider_tests.cpp" />
@@ -421,6 +434,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_stream.cpp" />
       <jump line="31" column="41" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="773" column="66" filename="$USER_HOME$/Code/portaudio/src/hostapi/alsa/pa_linux_alsa.c" />
+      <jump line="838" column="56" filename="$USER_HOME$/Code/portaudio/src/common/pa_process.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -433,8 +447,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>callbackStatusFlags</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -449,40 +463,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>callbackStatusFlags</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEFfREVCVUcoKCAiYnAtPmNhbGxiYWNrU3RhdHVzRmxhZ3MgJXBcbiIsIGJwLT5jYWxsYmFja1N0YXR1c0ZsYWdzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIFBBX0RFQlVHKCggIldobyBhbSBJLiA3XG4iKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQQV9ERUJVRygoICJOb25BZGFwdGluZ1Byb2Nlc3MgMTBcbiIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEFfREVCVUcoKCAiTm9uQWRhcHRpbmdQcm9jZXNzIDFcbiIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBBX0RFQlVHKCggIk5vbkFkYXB0aW5nUHJvY2VzcyAyXG4iKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBBX0RFQlVHKCggIk5vbkFkYXB0aW5nUHJvY2VzcyAzXG4iKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQQV9ERUJVRygoICJOb25BZGFwdGluZ1Byb2Nlc3MgNFxuIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDFzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQQV9ERUJVRygoICJOb25BZGFwdGluZ1Byb2Nlc3MgNVxuIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlN0dWNrXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQQV9ERUJVRygoICJOb25BZGFwdGluZ1Byb2Nlc3MgNlxuIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUEFfREVCVUcoKCAiTm9uQWRhcHRpbmdQcm9jZXNzIDdcbiIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -538,9 +552,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>w</entry>
-        <entry>W</entry>
         <entry>Q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
