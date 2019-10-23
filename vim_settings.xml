@@ -9,6 +9,12 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled1/library.cpp" timestamp="1571840281990">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="19" column="15" />
@@ -51,6 +57,11 @@
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" timestamp="1571838917852">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
         <mark key="[" line="369" column="25" />
@@ -137,7 +148,6 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/portaudio/src/common/pa_stream.h" timestamp="1569425309564" />
       <file name="$USER_HOME$/mobileproduct/src/CMakeLists.txt" timestamp="1559581830566">
         <mark key="'" line="167" column="55" />
         <mark key="[" line="302" column="58" />
@@ -239,7 +249,7 @@
       <file name="/GDB" timestamp="1569146333210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563710684452">
+      <file name="/Dummy.txt" timestamp="1571840110506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -431,8 +441,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>in</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -447,16 +457,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">c3RkOjp1bmlxdWVfcHRyPE1hY2hpbmU+IGNyZWF0ZVByb2R1Y3Qodm9pZCopOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3QgPSBjcmVhdGVQcm9kdWN0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
@@ -471,16 +481,16 @@
         <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDFzKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlN0dWNrXG4iOwo=</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDFzKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlN0dWNrXG4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -496,47 +506,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>logg</entry>
-        <entry>er</entry>
-        <entry>config</entry>
-        <entry>Config</entry>
-        <entry>3.8</entry>
-        <entry>create_work</entry>
-        <entry>VEC</entry>
-        <entry>}</entry>
-        <entry>virtu</entry>
-        <entry encoding="base64">OiA=</entry>
-        <entry>ordering</entry>
-        <entry>Orderi</entry>
-        <entry>Out</entry>
-        <entry>Key</entry>
-        <entry>.</entry>
-        <entry>,</entry>
-        <entry encoding="base64">XDxjbGFzc1w+</entry>
-        <entry encoding="base64">XDxyZWFkeVN0YXR1c1w+</entry>
-        <entry encoding="base64">XDxjYXNlXD4=</entry>
-        <entry>overr</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>q!</entry>
-        <entry>w\</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
-        <entry>k</entry>
-        <entry>Q</entry>
-        <entry>.,.+2w</entry>
-        <entry>d</entry>
-        <entry>w'</entry>
-        <entry>A</entry>
-        <entry>'</entry>
-        <entry>x</entry>
-        <entry>:w</entry>
-        <entry>X</entry>
-        <entry>Lw</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">JzwsJz5X</entry>
         <entry>w</entry>
         <entry>W</entry>
       </history-cmd>
@@ -544,26 +515,29 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
@@ -576,9 +550,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
