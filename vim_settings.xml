@@ -9,11 +9,11 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled1/library.cpp" timestamp="1571840281990">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
+      <file name="$USER_HOME$/CLionProjects/untitled1/library.cpp" timestamp="1571841541280">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
@@ -441,8 +441,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>in</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -457,40 +457,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RkOjp1bmlxdWVfcHRyPE1hY2hpbmU+IGNyZWF0ZVByb2R1Y3Qodm9pZCopOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGF1dG8gJnIgOm1lZGlhUGxheWVyUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgZm9yIChjb25zdCBhdXRvICZyOndvcmxkUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgcHJvZHVjdFJlc3VsdHMgPSBwcm9kdWN0LT5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QgPSBjcmVhdGVQcm9kdWN0Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XbWlzc2luZy1ub3JldHVybiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0UmVzdWx0cyA9IHByb2R1Y3QtPmV4ZWN1dGUoKTsKCiAgICAgICAgZm9yIChjb25zdCBhdXRvICZyIDptZWRpYVBsYXllclJlc3VsdHMpIHsKICAgICAgICAgICAgcHJvZHVjdC0+cXVldWUocik7CiAgICAgICAgfQogICAgICAgIGZvciAoY29uc3QgYXV0byAmcjp3b3JsZFJlc3VsdHMpIHsKICAgICAgICAgICAgcHJvZHVjdC0+cXVldWUocik7CiAgICAgICAgfQogICAgICAgIHByb2R1Y3RSZXN1bHRzID0gcHJvZHVjdC0+ZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGF1dG8gJnIgOm1lZGlhUGxheWVyUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgZm9yIChjb25zdCBhdXRvICZyOndvcmxkUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgcHJvZHVjdFJlc3VsdHMgPSBwcm9kdWN0LT5leGVjdXRlKCk7CgogICAgICAgIGZvciAoY29uc3QgYXV0byAmciA6bWVkaWFQbGF5ZXJSZXN1bHRzKSB7CiAgICAgICAgICAgIHByb2R1Y3QtPnF1ZXVlKHIpOwogICAgICAgIH0KICAgICAgICBmb3IgKGNvbnN0IGF1dG8gJnI6d29ybGRSZXN1bHRzKSB7CiAgICAgICAgICAgIHByb2R1Y3QtPnF1ZXVlKHIpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgZm9yIChjb25zdCBhdXRvICZyIDptZWRpYVBsYXllclJlc3VsdHMpIHsKICAgICAgICAgICAgcHJvZHVjdC0+cXVldWUocik7CiAgICAgICAgfQogICAgICAgIGZvciAoY29uc3QgYXV0byAmcjp3b3JsZFJlc3VsdHMpIHsKICAgICAgICAgICAgcHJvZHVjdC0+cXVldWUocik7CiAgICAgICAgfQogICAgICAgIHByb2R1Y3RSZXN1bHRzID0gcHJvZHVjdC0+ZXhlY3V0ZSgpOwoKICAgICAgICBmb3IgKGNvbnN0IGF1dG8gJnIgOm1lZGlhUGxheWVyUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgZm9yIChjb25zdCBhdXRvICZyOndvcmxkUmVzdWx0cykgewogICAgICAgICAgICBwcm9kdWN0LT5xdWV1ZShyKTsKICAgICAgICB9CiAgICAgICAgcHJvZHVjdFJlc3VsdHMgPSBwcm9kdWN0LT5leGVjdXRlKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjp0aGlzX3RocmVhZDo6c2xlZXBfZm9yKDFzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb2R1Y3QgPSBjcmVhdGVQcm9kdWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlN0dWNrXG4iOwo=</text>
+        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJTdHVja1xuIjsKICAgICAgICBzdGQ6OnRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoMXMpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -508,8 +508,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
