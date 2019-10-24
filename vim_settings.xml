@@ -9,6 +9,12 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/events.h" timestamp="1571921997545">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571920186224">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="74" />
@@ -130,6 +136,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="95" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.cpp" timestamp="1571920301770">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="52" />
@@ -143,11 +155,11 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1571919942367">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="37" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1571920313132">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -236,6 +248,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571920284749">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="72" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
@@ -486,7 +504,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3RkOjptYXA8c3RkOjpzdHJpbmcsIHN0ZDo6dW5pcXVlX3B0cjxQcm9kdWN0RmFjdG9yeT4+IHByb2R1Y3RGYWN0b3JpZXN7fTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgInBsYSIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -501,40 +519,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RkOjptYXA8c3RkOjpzdHJpbmcsIHN0ZDo6dW5pcXVlX3B0cjxQcm9kdWN0RmFjdG9yeT4+IHByb2R1Y3RGYWN0b3JpZXN7fTsK</text>
+        <text encoding="base64">c3RkOjptYXA8c3RkOjpzdHJpbmcsIHN0ZDo6dW5pcXVlX3B0cjxQcm9kdWN0RmFjdG9yeT4+IHByb2R1Y3RGYWN0b3JpZXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBydW5TeW5hcHRpY3MoY29uc3Qgc3RkOjpzdHJpbmcmIGFjdGlvbiwgTWVkaWFQbGF5ZXJGYWN0b3J5KiBtZWRpYVBsYXllckZhY3RvcnkpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgInBsYSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBydW5TeW5hcHRpY3MoY29uc3Qgc3RkOjpzdHJpbmcmIGFjdGlvbiwgTWVkaWFQbGF5ZXJGYWN0b3J5KiBtZWRpYVBsYXllckZhY3RvcnkpCg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwoK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBydW5TeW5hcHRpY3MoY29uc3Qgc3RkOjpzdHJpbmcmIGFjdGlvbiwgTWVkaWFQbGF5ZXJGYWN0b3J5KiBtZWRpYVBsYXllckZhY3RvcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmF3U3RyaW5nRm9ybWF0czogCiAgLSBEZWxpbWl0ZXI6ICAgICAgIHBiCiAgICBMYW5ndWFnZTogICAgICAgIFRleHRQcm90bwogICAgQmFzZWRPblN0eWxlOiAgICBnb29nbGUK</text>
+        <text encoding="base64">dm9pZCBydW5TeW5hcHRpY3MoY29uc3Qgc3RkOjpzdHJpbmcmIGFjdGlvbiwgTWVkaWFQbGF5ZXJGYWN0b3J5KiBtZWRpYVBsYXllckZhY3RvcnkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0tCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI0LzE5LgovLwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnN0cnVjdCBSZWNvcmRlclRoaW5neQpzdHJ1Y3QgTWVkaWFQbGF5ZXJNYWNoaW5lewogICAgTWVkaWFQbGF5ZXJNYWNoaW5lKCkKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -591,8 +609,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
