@@ -9,17 +9,22 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571917248434">
-        <mark key="[" line="39" column="81" />
-        <mark key="]" line="39" column="81" />
-        <mark key="." line="39" column="81" />
-        <mark key="^" line="39" column="81" />
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571918252902">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="53" column="44" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/media_player.cpp" timestamp="1571918160212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1559467380304">
         <mark key="[" line="55" column="0" />
@@ -227,6 +232,9 @@
       <file name="/fragment.cpp" timestamp="1559489396643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Clang-Tidy Info for main.cpp" timestamp="1571918045417">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1540223373134">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -333,8 +341,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/.clang-format" timestamp="1571917756966">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/CLionProjects/untitled/.clang-format" timestamp="1571918260548">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
@@ -456,8 +467,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Product</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnN0cnVjdCBSZWNvcmRlclRoaW5neQpzdHJ1Y3QgTWVkaWFQbGF5ZXJNYWNoaW5lewogICAgTWVkaWFQbGF5ZXJNYWNoaW5lKCkKfTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -472,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Product</text>
+        <text>_synaptics</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
@@ -481,31 +492,33 @@
         <text encoding="base64">c3RydWN0IFByb2R1Y3RGYWN0b3J5IHsKICAgIHZpcnR1YWwgc3RkOjp1bmlxdWVfcHRyPE1hY2hpbmU+IGNyZWF0ZVByb2R1Y3QoKSA9IDA7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RkOjptYXA8c3RkOjpzdHJpbmcsIHN0ZDo6dW5pcXVlX3B0cjxQcm9kdWN0RmFjdG9yeT4+IG1lZGlhUGxheWVyRmFjdG9yaWVze307Cg==</text>
+        <text encoding="base64">CnN0cnVjdCBSZWNvcmRlclRoaW5neQpzdHJ1Y3QgTWVkaWFQbGF5ZXJNYWNoaW5lewogICAgTWVkaWFQbGF5ZXJNYWNoaW5lKCkKfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RyCg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RydWN0IFdvcmxkRmFjdG9yeSB7CiAgICB2aXJ0dWFsIHN0ZDo6dW5pcXVlX3B0cjxSZWNvcmRlclRoaW5neT4gY3JlYXRlUmVjb3JkZXIoKSA9IDA7CgogICAgdmlydHVhbCBzdGQ6OnVuaXF1ZV9wdHI8TWFjaGluZT4gY3JlYXRlV29ybGRNYWNoaW5lKCkgPSAwOwp9OwoK</text>
+      <register name="3" type="4">
+        <text>//
+// Created by buga on 10/24/19.
+/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RkOjptYXA8c3RkOjp1bmlxdWVfcHRyPAo=</text>
+        <text encoding="base64">c3RydWN0IFJlY29yZGVyVGhpbmd5IHsKICAgIHZpcnR1YWwgc3RkOjpvcHRpb25hbDxzdGQ6OnZlY3RvcjxjaGFyPj4gZ2V0QXVkaW9DaHVuaygpID0gMDsKfTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBtZWRpYUV2ZW50cyA9IG1lZGlhUGxheWVyLgogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RSZXN1bHRzID0gcHVzaEFuZEV4ZWN1dGUocHJvZHVjdCwgbWVkaWFQbGF5ZXJSZXN1bHRzLCB3b3JsZFJlc3VsdHMpOwogICAgICAgICAgICB3b3JsZFJlc3VsdHMgPSBwdXNoQW5kRXhlY3V0ZSh3b3JsZCwgcHJvZHVjdFJlc3VsdHMsIG1lZGlhUGxheWVyUmVzdWx0cyk7CiAgICAgICAgICAgIG1lZGlhUGxheWVyUmVzdWx0cyA9IHB1c2hBbmRFeGVjdXRlKG1lZGlhUGxheWVyLCB3b3JsZFJlc3VsdHMsIHByb2R1Y3RSZXN1bHRzKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">c3RkOjp1bmlxdWVfcHRyPE1hY2hpbmU+IGNyZWF0ZU1lZGlhUGxheWVyKHN0ZDo6dW5pcXVlX3B0cjxSZWNvcmRlclRoaW5neT4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIH0KICAgICAgIGNhdGNoIChjb25zdCBFeGl0JikgewogICAgICAgICAgIGJyZWFrOwogICAgICAgfQo=</text>
+        <text encoding="base64">c3RkOjptYXA8c3RkOjpzdHJpbmcsIHN0ZDo6dW5pcXVlX3B0cjxQcm9kdWN0RmFjdG9yeT4+IG1lZGlhUGxheWVyRmFjdG9yaWVze307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">c3RyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhdXRvIHByb2R1Y3RFdmVudHMgPQo=</text>
+        <text encoding="base64">c3RydWN0IFdvcmxkRmFjdG9yeSB7CiAgICB2aXJ0dWFsIHN0ZDo6dW5pcXVlX3B0cjxSZWNvcmRlclRoaW5neT4gY3JlYXRlUmVjb3JkZXIoKSA9IDA7CgogICAgdmlydHVhbCBzdGQ6OnVuaXF1ZV9wdHI8TWFjaGluZT4gY3JlYXRlV29ybGRNYWNoaW5lKCkgPSAwOwp9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -562,8 +575,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
