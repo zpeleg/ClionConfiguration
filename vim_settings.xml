@@ -9,27 +9,17 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/events.h" timestamp="1572174014853">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="41" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/events.h" timestamp="1572180295389">
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="53" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571920186224">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="74" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/media_player.cpp" timestamp="1571918160212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1559467380304">
         <mark key="[" line="55" column="0" />
@@ -146,17 +136,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572174235553">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572180401310">
+        <mark key="'" line="16" column="30" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572172254298">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572179731460">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -175,6 +166,13 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1558454039109">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/portaudio/src/common/pa_process.c" timestamp="1571246951522">
+        <mark key="'" line="839" column="56" />
+        <mark key="[" line="898" column="74" />
+        <mark key="]" line="889" column="63" />
+        <mark key="." line="898" column="74" />
+        <mark key="^" line="889" column="63" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572173845009">
         <mark key="[" line="3" column="10" />
@@ -204,11 +202,23 @@
       <file name="/Python Console" timestamp="1569146189048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/CMakeLists.txt" timestamp="1572179213809">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572171007568">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="30" />
         <mark key="^" line="11" column="50" />
         <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_stream.cpp" timestamp="1563708702852">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/portaudio/include/portaudio.h" timestamp="1571245612705" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
@@ -235,10 +245,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572173479217">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572180814007">
+        <mark key="'" line="26" column="76" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571922599906">
         <mark key="[" line="7" column="0" />
@@ -292,20 +304,27 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="/GDB" timestamp="1569146333210">
+      <file name="/GDB" timestamp="1572180372243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571934022916">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1572180823515">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Code/portaudio/src/hostapi/alsa/pa_linux_alsa.c" timestamp="1571245788168">
+        <mark key="'" line="773" column="66" />
+        <mark key="[" line="4345" column="0" />
+        <mark key="]" line="4345" column="57" />
+        <mark key="." line="4350" column="0" />
+        <mark key="^" line="4351" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/states/out_ear_detection_state_tests.cpp" timestamp="1558524055374">
         <mark key="[" line="86" column="0" />
@@ -349,11 +368,17 @@
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572173417611">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1563702032888">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572180553339">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/algo_api.h" timestamp="1571922388322">
         <mark key="[" line="6" column="41" />
@@ -375,8 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
-      <jump line="308" column="62" filename="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_bugatone_api.cpp" />
       <jump line="18" column="6" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
@@ -475,6 +498,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/mobileproduct/CMakeLists.txt" />
       <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/main.cpp" />
       <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
+      <jump line="21" column="76" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" />
+      <jump line="15" column="30" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -488,7 +513,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfVFJVRShwcm92aWRlci5pc0VtcHR5KCkpOwo=</text>
+        <text encoding="base64">QWRkIGJhc2ljIGFwaSBhbmQgbXAyIGV2ZW50cwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -503,40 +528,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>begin</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfVFJVRShwcm92aWRlci5pc0VtcHR5KCkpOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPEV2ZW50Pj46Oml0ZXJhdG9yIGN1cnJlbnRJbmRleDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm8K</text>
+        <text encoding="base64">QWRkIGJhc2ljIGFwaSBhbmQgbXAyIGV2ZW50cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtTdGFydFBsYXlFdmVudCgpfSwKICAgICAgICAgICAgICAgIHtTdGFydFBsYXlFdmVudCgpLCBTdGFydFBsYXlFdmVudCgpfSwKICAgICAgICAgICAgICAgIHtSZXNldEF1ZGlvRXZlbnQoKX0KICAgICAgICB9Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfRkFMU0UocHJvdmlkZXIuaXNFbXB0eSgpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoaXJkID0gcHJvdmlkZXIuZ2V0KCk7CiAgICAgICAgQVNTRVJUX0VRKHRoaXJkLnNpemUoKSwyKTsKICAgICAgICBBU1NFUlRfRVEodGhpcmRbMV0ubmFtZSwgInN0YXJ0UGxheSIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtTdGFydFBsYXlFdmVudCgpLCBTdGFydFBsYXlFdmVudCgpfSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">YmVnaW4oYWxsRXZlbnRzLmNiZWdpbigpKSwKICAgICAgICBlbmQoYWxsRXZlbnRzLmNlbmQoKSkg</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPEV2ZW50Pj46OmNvbnN0X2l0ZXJhdG9yIGJlZ2luOwogICAgc3RkOjp2ZWN0b3I8c3RkOjp2ZWN0b3I8RXZlbnQ+Pjo6Y29uc3RfaXRlcmF0b3IgZW5kOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBU1NFUlRfRVEoMCwgYWxnby5wcm9jZXNzRXZlbnQoU3RhcnRQbGF5RXZlbnR7fSkuc2l6ZSgpKTsKICAgICAgICBBU1NFUlRfRVEoMCwgYWxnby5wcm9jZXNzRXZlbnQoU3RhcnRQbGF5RXZlbnR7fSkuc2l6ZSgpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBU1NFUlRfRVEoYWxsRXZlbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBBU1NFUlRfRVEoMCwgYWxnby5wcm9jZXNzRXZlbnQoU3RhcnRQbGF5RXZlbnR7fSkuc2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBU1NFUlRfRkFMU0UocHJvdmlkZXIuaXNFbXB0eSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBBU1NFUlRfRkFMU0UocHJvdmlkZXIuaXNFbXB0eSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -593,8 +618,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
