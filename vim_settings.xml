@@ -9,11 +9,18 @@
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/events.h" timestamp="1572180295389">
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="61" column="53" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/events.h" timestamp="1572187410397">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572187861049">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="46" column="93" />
+        <mark key="]" line="46" column="93" />
+        <mark key="." line="46" column="93" />
+        <mark key="^" line="46" column="93" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
@@ -105,17 +112,23 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1572182952025">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="55" column="21" />
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1572186930236">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1549382453433">
         <mark key="[" line="58" column="74" />
         <mark key="]" line="58" column="74" />
         <mark key="^" line="58" column="74" />
         <mark key="." line="58" column="74" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.h" timestamp="1572187641920">
+        <mark key="[" line="19" column="99" />
+        <mark key="]" line="19" column="99" />
+        <mark key="." line="19" column="99" />
+        <mark key="^" line="19" column="99" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/play_api.h" timestamp="1571922354871">
         <mark key="[" line="7" column="0" />
@@ -253,11 +266,11 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572183603975">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
-        <mark key="^" line="27" column="4" />
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572187142758">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
@@ -425,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
@@ -525,6 +537,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
       <jump line="21" column="76" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" />
       <jump line="15" column="30" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
+      <jump line="31" column="11" filename="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -537,8 +550,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -553,49 +566,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UserExitEvent</text>
       </register>
       <register name="/" type="4">
-        <text>overr</text>
+        <text>Pla</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGogPSBhbGdvUmVzdWx0czsKICAgIHN0ZDo6c3RyaW5nIHJlcyA9IGouZHVtcCgpOwogICAgdm9pZCogcmVzX2MgPSBtYWxsb2MocmVzLnNpemUoKSArIDEpOwogICAgbWVtY3B5KHJlc19jLCByZXMuZGF0YSgpLCByZXMuc2l6ZSgpICsgMSk7CiAgICByZXR1cm4gcmVzX2M7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChlLm5hbWUgPT0gInVzZXJFeGl0Iil7CiAgICAgICAgcmV0dXJuIHN0ZDo6bWFrZV9zaGFyZWQ8VXNlckV4aXRFdmVudD4oKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uOjoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4gdG9fZXZlbnQoc3RkOjp2ZWN0b3I8TWVnYUV2ZW50PiBlKSB7CiAgICAKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKGUubmFtZSkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHN3aXRjaCAoZS5uYW1lKXsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi8K</text>
+        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPEV2ZW50PiB0b19ldmVudChNZWdhRXZlbnQgZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y2hhciogCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI3LzE5LgovLwoK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>overr</last-search>
+      <last-search>Pla</last-search>
       <last-offset />
-      <last-pattern>overr</last-pattern>
+      <last-pattern>Pla</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjYXNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -603,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logg</entry>
         <entry>er</entry>
         <entry>config</entry>
         <entry>Config</entry>
@@ -623,6 +635,7 @@
         <entry encoding="base64">XDxyZWFkeVN0YXR1c1w+</entry>
         <entry encoding="base64">XDxjYXNlXD4=</entry>
         <entry>overr</entry>
+        <entry>Pla</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -642,9 +655,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
-        <entry>w</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
