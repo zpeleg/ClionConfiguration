@@ -172,12 +172,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572193620726">
+      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572194714896">
         <mark key="'" line="6" column="48" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/ear_detection_controller_bindings.cpp" timestamp="1572183591326">
         <mark key="[" line="33" column="0" />
@@ -346,11 +346,8 @@
       <file name="/GDB" timestamp="1572180372243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572193488323">
+      <file name="/Dummy.txt" timestamp="1572194798294">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/dummy_buga/dummy_buga_stream.cpp" timestamp="1542131819142">
         <mark key="[" line="12" column="31" />
@@ -559,7 +556,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QWRkIGMrKyBkdW1teSBhbGdvIHRvIG1vYmlsZXByb2R1Y3QyCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -583,31 +580,31 @@
         <text encoding="base64">Y29uc3Qgc3RkOjpzdHJpbmcmIG1lc3NhZ2U=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QWRkIGMrKyBkdW1teSBhbGdvIHRvIG1vYmlsZXByb2R1Y3QyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUV2ZW50Q29tbWFuZGFibGU6OnNldEF1ZGlvQ2h1bmsoY2hhbm5lbGxlZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBzaG93VG9Vc2VyKGNvbnN0IHN0ZDo6c3RyaW5nJiBtZXNzYWdlKSB7fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleHBsaWNpdCBUZXN0aW5nQ29tbWFuZGFibGUoaW50JiBhdWRpb0NodW5rQ291bnRlcikgOiBhdWRpb0NodW5rQ291bnRlcihhdWRpb0NodW5rQ291bnRlcil7fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm1vYmlsZXByb2R1Y3QyL2FwaS9ldmVudHMuaCIK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gaSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvKiBwRXZlbnQgPSBkeW5hbWljX2Nhc3Q8U2hvd1RvVXNlckV2ZW50Kj4oKCpzZWNvbmQpWzBdLmdldCgpKTsKICAgICAgICBBU1NFUlRfTkUocEV2ZW50LCBudWxscHRyKTsKICAgICAgICBBU1NFUlRfRVEocEV2ZW50LT5nZXRNZXNzYWdlKCksICJIZWxsbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYSA9IGl0ZW1Qcm92aWRlci0+Z2V0KCk7CiAgICBpZiAoYS5oYXNfdmFsdWUoKSkgewogICAgICAgIHJldHVybiBhLnZhbHVlKCk7CiAgICB9CiAgICBlbHNlIHsKICAgICAgICByZXR1cm4gc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4oKTsKICAgIH0K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
