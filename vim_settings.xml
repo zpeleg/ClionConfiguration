@@ -146,11 +146,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1571927311103">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572172254298">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.h" timestamp="1558619267501">
         <mark key="[" line="26" column="0" />
@@ -170,11 +170,11 @@
       <file name="/Clipboard.txt" timestamp="1558454039109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572171056532">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572172154176">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1558619965186">
         <mark key="[" line="29" column="28" />
@@ -198,23 +198,11 @@
       <file name="/Python Console" timestamp="1569146189048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/CMakeLists.txt" timestamp="1571919776840">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572171007568">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="30" />
         <mark key="^" line="11" column="50" />
         <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_stream.cpp" timestamp="1563708702852">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/portaudio/include/portaudio.h" timestamp="1571245612705" />
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
@@ -234,6 +222,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572173479217">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571922599906">
         <mark key="[" line="7" column="0" />
@@ -344,11 +337,11 @@
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="54" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/bugatone_api/bugatone_api.cpp" timestamp="1563702032888">
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572173417611">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/algo_api.h" timestamp="1571922388322">
         <mark key="[" line="6" column="41" />
@@ -482,8 +475,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>EventList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vc3RydWN0IFZlY3Rvckl0ZW1Qcm92aWRlciA6IHB1YmxpYyBJdGVtUHJvdmlkZXI8c3RkOjp2ZWN0b3I8RXZlbnQ+PiB7CiAgICBleHBsaWNpdCBWZWN0b3JJdGVtUHJvdmlkZXIoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjp2ZWN0b3I8RXZlbnQ+PiYgYWxsRXZlbnRzKSA6CiAgICAgICAgICAgIGJlZ2luKGFsbEV2ZW50cy5jYmVnaW4oKSksCiAgICAgICAgICAgIGVuZChhbGxFdmVudHMuY2VuZCgpKSB7CiAgICB9Ci8vCi8vICAgIHN0ZDo6dmVjdG9yPEV2ZW50PiBnZXQoKSBvdmVycmlkZSB7Ci8vICAgICAgICByZXR1cm4gKmJlZ2luKys7Ci8vICAgIH0KLy8KLy8gICAgYm9vbCBpc0VtcHR5KCkgb3ZlcnJpZGUgewovLyAgICAgICAgcmV0dXJuIGJlZ2luID09IGVuZDsKLy8gICAgfQovLwovL3ByaXZhdGU6Ci8vICAgIHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPEV2ZW50Pj46OmNvbnN0X2l0ZXJhdG9yIGJlZ2luOwovLyAgICBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxFdmVudD4+Ojpjb25zdF9pdGVyYXRvciBlbmQ7Ci8vfTsKCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -498,40 +491,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EventList</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>overr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFwaS9jb3JlLmgiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBiZWdpbiA9PSBlbmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vc3RydWN0IFZlY3Rvckl0ZW1Qcm92aWRlciA6IHB1YmxpYyBJdGVtUHJvdmlkZXI8c3RkOjp2ZWN0b3I8RXZlbnQ+PiB7CiAgICBleHBsaWNpdCBWZWN0b3JJdGVtUHJvdmlkZXIoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjp2ZWN0b3I8RXZlbnQ+PiYgYWxsRXZlbnRzKSA6CiAgICAgICAgICAgIGJlZ2luKGFsbEV2ZW50cy5jYmVnaW4oKSksCiAgICAgICAgICAgIGVuZChhbGxFdmVudHMuY2VuZCgpKSB7CiAgICB9Ci8vCi8vICAgIHN0ZDo6dmVjdG9yPEV2ZW50PiBnZXQoKSBvdmVycmlkZSB7Ci8vICAgICAgICByZXR1cm4gKmJlZ2luKys7Ci8vICAgIH0KLy8KLy8gICAgYm9vbCBpc0VtcHR5KCkgb3ZlcnJpZGUgewovLyAgICAgICAgcmV0dXJuIGJlZ2luID09IGVuZDsKLy8gICAgfQovLwovL3ByaXZhdGU6Ci8vICAgIHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPEV2ZW50Pj46OmNvbnN0X2l0ZXJhdG9yIGJlZ2luOwovLyAgICBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxFdmVudD4+Ojpjb25zdF9pdGVyYXRvciBlbmQ7Ci8vfTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRXZlbnRMaXN0ID0gc3RkOjp2ZWN0b3I8RXZlbnQ+Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEF1ZGlvQ2h1bmtFdmVudCBhe0NoYW5uZWxsZWQ8c3RkOjp2ZWN0b3I8Y2hhcj4+e319OwogICAgKHN0ZDo6X19jeHgxMTo6c3RyaW5nKCksIENoYW5uZWxsZWQ8c3RkOjp2ZWN0b3I8Y2hhcj4+KCkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxFdmVudD4oKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEF1ZGlvQ2h1bmtFdmVudCBhe0NoYW5uZWxsZWQ8c3RkOjp2ZWN0b3I8Y2hhcj4+e319Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKCn0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Rml4IEMrKyB0ZXN0cwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICByZXR1cm4gYmVnaW4gPT0gZW5kOwogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoKZG9BdXRvcGF1c2UKZG9BdXRvcGxheQpzaG93VG9Vc2VyCmRlYnVnTWVzc2FnZQpzdGFydE1lZGlhUGxheWVyCnByb2R1Y3RWZXJzaW9uCnVzZXJUb2dnbGUKdXNlckV4aXQKZGV2aWNlQ29uZmlnCiAqLwoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHsKICAgICAgICByZXR1cm4gKmJlZ2luKys7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVnaW4oYWxsRXZlbnRzLmNiZWdpbigpKSwKICAgICAgICAgICAgZW5kKGFsbEV2ZW50cy5jZW5kKCkpIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vLy8vLy8vLy8vLy8vLy8vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -588,8 +581,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
