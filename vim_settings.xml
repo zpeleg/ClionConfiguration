@@ -15,12 +15,12 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572187861049">
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572187871466">
         <mark key="'" line="32" column="11" />
-        <mark key="[" line="46" column="93" />
-        <mark key="]" line="46" column="93" />
-        <mark key="." line="46" column="93" />
-        <mark key="^" line="46" column="93" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
         <mark key="[" line="18" column="20" />
@@ -158,12 +158,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572183333452">
+      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572188471094">
         <mark key="'" line="16" column="30" />
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="45" column="23" />
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="49" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/ear_detection_controller_bindings.cpp" timestamp="1572183591326">
         <mark key="[" line="33" column="0" />
@@ -203,11 +203,11 @@
         <mark key="." line="898" column="74" />
         <mark key="^" line="889" column="63" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572173845009">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572188291306">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/e2e_test_daemon/CMakeLists.txt" timestamp="1558619965186">
         <mark key="[" line="29" column="28" />
@@ -266,11 +266,11 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572187142758">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="25" />
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572187911882">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
         <mark key="[" line="14" column="0" />
@@ -278,12 +278,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572183308291">
-        <mark key="'" line="26" column="76" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572188259558">
+        <mark key="'" line="30" column="76" />
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571922599906">
         <mark key="[" line="7" column="0" />
@@ -412,11 +412,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572183298241">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-        <mark key="^" line="22" column="50" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572188276402">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="34" column="50" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="34" column="50" />
+        <mark key="^" line="34" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/algo_api.h" timestamp="1571922388322">
         <mark key="[" line="6" column="41" />
@@ -438,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="40" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
@@ -538,6 +538,7 @@
       <jump line="21" column="76" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" />
       <jump line="15" column="30" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
       <jump line="31" column="11" filename="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" />
+      <jump line="5" column="15" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,8 +551,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -566,40 +567,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserExitEvent</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChlLm5hbWUgPT0gInVzZXJFeGl0Iil7CiAgICAgICAgcmV0dXJuIHN0ZDo6bWFrZV9zaGFyZWQ8VXNlckV4aXRFdmVudD4oKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">SXRlbVByb3ZpZGVyPHN0ZDo6dmVjdG9yPHN0ZDo6c2hhcmVkX3B0cjxFdmVudD4+PiogaXRlbVByb3ZpZGVy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4gdG9fZXZlbnQoc3RkOjp2ZWN0b3I8TWVnYUV2ZW50PiBlKSB7CiAgICAKfQo=</text>
+        <text encoding="base64">VmVjdG9ySXRlbVByb3ZpZGVyOjpWZWN0b3JJdGVtUHJvdmlkZXIoc3RkOjp2ZWN0b3I8c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4+IGFsbEV2ZW50c18pIHsKCn0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4gdG9fZXZlbnQoc3RkOjp2ZWN0b3I8TWVnYUV2ZW50PiBlKSB7CiAgICAKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKGUubmFtZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PigpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHN3aXRjaCAoZS5uYW1lKXsKICAgICAgICAKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKGUubmFtZSkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHN3aXRjaCAoZS5uYW1lKXsKICAgICAgICAKICAgIH0=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPEV2ZW50PiB0b19ldmVudChNZWdhRXZlbnQgZSk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzI3LzE5LgovLwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -656,8 +657,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
