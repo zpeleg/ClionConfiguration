@@ -60,11 +60,11 @@
         <mark key="." line="38" column="21" />
         <mark key="^" line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.cpp" timestamp="1572196928830">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="6" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.cpp" timestamp="1572197223769">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.h" timestamp="1572195730482">
         <mark key="[" line="22" column="51" />
@@ -146,12 +146,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/ear_detection_algo_result.cpp" timestamp="1572195421598" />
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572197027852">
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572197351023">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="28" />
-        <mark key="^" line="52" column="28" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="41" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
         <mark key="[" line="1" column="0" />
@@ -559,7 +559,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>EventNames::AudioChunk</text>
+        <text>&quot;audioChunk&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -574,7 +574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EventNames::AudioChunk</text>
+        <text>&quot;audioChunk&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
@@ -583,33 +583,33 @@
         <text encoding="base64">ICAgIHN0ZDo6dHJhbnNmb3JtKGUuY2JlZ2luKCksIGUuY2VuZCgpLCByZXN1bHQuYmVnaW4oKSwgW10oYXV0byBtZWdhZXZlbnQpIHsgcmV0dXJuIHRvX2V2ZW50KG1lZ2FldmVudCk7IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RydWN0IEV2ZW50TmFtZXN7CgogICAgc3RhdGljIGNvbnN0IHN0ZDo6c3RyaW5nIEF1ZGlvQ2h1bms7Cn07Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBjb25zdCBzdGQ6OnN0cmluZyBBOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEV2ZW50TmFtZXMoY29uc3Qgc3RkOjpzdHJpbmcmIGF1ZGlvQ2h1bmspOwo=</text>
+        <text encoding="base64">c3RydWN0IEV2ZW50TmFtZXN7CgogICAgc3RhdGljIGNvbnN0IHN0ZDo6c3RyaW5nIEF1ZGlvQ2h1bms7Cn07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXZlbnROYW1lczo6RXZlbnROYW1lcyhjb25zdCBzdGQ6OnN0cmluZyYgYXVkaW9DaHVuaykgOiBBdWRpb0NodW5rKGF1ZGlvQ2h1bmspIHt9Cg==</text>
+        <text encoding="base64">ICAgIEV2ZW50TmFtZXMoY29uc3Qgc3RkOjpzdHJpbmcmIGF1ZGlvQ2h1bmspOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">RXZlbnROYW1lczo6RXZlbnROYW1lcyhjb25zdCBzdGQ6OnN0cmluZyYgYXVkaW9DaHVuaykgOiBBdWRpb0NodW5rKGF1ZGlvQ2h1bmspIHt9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">RXZlbnROYW1lczo6Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>//
 // Created by buga on 10/27/19.
 //</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">RXZlbnROYW1lczo6Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY2hhciogQVVESU9fQ0hVTksgPSAiYXVkaW9DaHVuayI7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJRXZlbnRDb21tYW5kYWJsZTo6c2V0QXVkaW9DaHVuayhjaGFubmVsbGVkKTsK</text>
+        <text encoding="base64">Y29uc3QgY2hhciogQVVESU9fQ0hVTksgPSAiYXVkaW9DaHVuayI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
