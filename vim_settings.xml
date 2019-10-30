@@ -15,16 +15,58 @@
         <mark key="." line="24" column="34" />
         <mark key="^" line="24" column="34" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572198290292">
+        <mark key="'" line="33" column="11" />
+        <mark key="[" line="60" column="58" />
+        <mark key="]" line="60" column="58" />
+        <mark key="." line="60" column="58" />
+        <mark key="^" line="60" column="58" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571920186224">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="74" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/media_player.cpp" timestamp="1571918160212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/authentication.h" timestamp="1559467380304">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.cpp" timestamp="1543812500179">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/benchmark/CMakeLists.txt" timestamp="1558619770493">
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="26" column="66" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/External_GTest.cmake" timestamp="1558015301420">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/machine.h" timestamp="1571919976243">
         <mark key="[" line="1" column="31" />
@@ -53,185 +95,6 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="450" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/portaudio/src/common/pa_front.c" timestamp="1571237873088" />
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1572186930236">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.cpp" timestamp="1572197361009">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.h" timestamp="1572198432793">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="16" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1572184188534">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/portaudio/src/common/pa_process.c" timestamp="1571246951522">
-        <mark key="'" line="839" column="56" />
-        <mark key="[" line="898" column="74" />
-        <mark key="]" line="889" column="63" />
-        <mark key="." line="898" column="74" />
-        <mark key="^" line="889" column="63" />
-      </file>
-      <file name="$USER_HOME$/Code/portaudio/src/common/pa_debugprint.h" timestamp="1571238414030" />
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/main.cpp" timestamp="1572192243950">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1558632073589">
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
-      </file>
-      <file name="/Python Console" timestamp="1569146189048">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572192143290">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/portaudio/include/portaudio.h" timestamp="1571245612705" />
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572198241108">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="36" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572192384157">
-        <mark key="'" line="35" column="76" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.h" timestamp="1572183608187">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-      </file>
-      <file name="/fragment.cpp" timestamp="1572192048891">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Clang-Tidy Info for main.cpp" timestamp="1571918045417">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo/weights.cpp" timestamp="1559581899988">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/ialgo_result.h" timestamp="1571925458035" />
-      <file name="/GDB" timestamp="1572180372243">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/ear_detection_algo_result.cpp" timestamp="1572195421598" />
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572198348261">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="4" column="53" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.h" timestamp="1558016514138">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
-        <mark key="[" line="92" column="54" />
-        <mark key="]" line="92" column="54" />
-        <mark key="^" line="92" column="54" />
-        <mark key="." line="92" column="54" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572192367797">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="49" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/algo_api.h" timestamp="1571922388322">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/.clang-format" timestamp="1571919392820">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572198290292">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="60" column="58" />
-        <mark key="]" line="60" column="58" />
-        <mark key="." line="60" column="58" />
-        <mark key="^" line="60" column="58" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1571920186224">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="74" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_runner/CMakeLists.txt" timestamp="1558619796265">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.cpp" timestamp="1543812500179">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/benchmark/CMakeLists.txt" timestamp="1558619770493">
-        <mark key="[" line="26" column="58" />
-        <mark key="]" line="26" column="66" />
-        <mark key="^" line="26" column="66" />
-        <mark key="." line="26" column="66" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/filesystem_notify_executor.h" timestamp="1543514905814">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/tests/External_GTest.cmake" timestamp="1558015301420">
-        <mark key="[" line="5" column="63" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/core.h" timestamp="1572192032772">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -246,6 +109,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/CMakeLists.txt" timestamp="1572186930236">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.h" timestamp="1540829643355">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="30" />
@@ -258,11 +127,23 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.cpp" timestamp="1572197361009">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/oppo_daemon_api.cpp" timestamp="1549382453433">
         <mark key="[" line="58" column="74" />
         <mark key="]" line="58" column="74" />
         <mark key="^" line="58" column="74" />
         <mark key="." line="58" column="74" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.h" timestamp="1572198432793">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_api.cpp" timestamp="1563708760322">
         <mark key="[" line="34" column="0" />
@@ -300,7 +181,7 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572198406118">
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572427298919">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
@@ -324,6 +205,16 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1572184188534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/portaudio/src/common/pa_process.c" timestamp="1571246951522">
+        <mark key="'" line="839" column="56" />
+        <mark key="[" line="898" column="74" />
+        <mark key="]" line="889" column="63" />
+        <mark key="." line="898" column="74" />
+        <mark key="^" line="889" column="63" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572192283703">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -335,6 +226,26 @@
         <mark key="]" line="30" column="15" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/main.cpp" timestamp="1572192243950">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/controller_logger.cpp" timestamp="1558632073589">
+        <mark key="[" line="51" column="39" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
+      </file>
+      <file name="/Python Console" timestamp="1569146189048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572192143290">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
@@ -354,11 +265,36 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="32" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572198241108">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="36" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_identified_algo_result.cpp" timestamp="1558025179218">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.cpp" timestamp="1572192384157">
+        <mark key="'" line="35" column="76" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571922599906">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.h" timestamp="1572183608187">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
@@ -369,11 +305,23 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="17" column="46" />
       </file>
+      <file name="/fragment.cpp" timestamp="1572192048891">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Clang-Tidy Info for main.cpp" timestamp="1571918045417">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_daemon.cpp" timestamp="1563708745127">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="^" line="134" column="50" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo/weights.cpp" timestamp="1559581899988">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/ear_detection_controller.cpp" timestamp="1540223373134">
         <mark key="[" line="86" column="0" />
@@ -381,7 +329,7 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="58" column="60" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1561310084091">
+      <file name="$USER_HOME$/mobileproduct/src/swig/CMakeLists.txt" timestamp="1572427210359">
         <mark key="[" line="45" column="16" />
         <mark key="]" line="45" column="25" />
         <mark key="^" line="45" column="25" />
@@ -393,6 +341,9 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="/GDB" timestamp="1572180372243">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1572198438892">
         <mark key="[" line="0" column="0" />
       </file>
@@ -401,6 +352,13 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572198348261">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Code/portaudio/src/hostapi/alsa/pa_linux_alsa.c" timestamp="1571245788168">
         <mark key="'" line="773" column="66" />
@@ -414,6 +372,12 @@
         <mark key="]" line="99" column="18" />
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.cpp" timestamp="1558017601862">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/executors/authentication_executor.h" timestamp="1558532395638">
         <mark key="[" line="3" column="0" />
@@ -433,10 +397,41 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/user_not_identified_algo_result.h" timestamp="1558016514138">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
+        <mark key="[" line="92" column="54" />
+        <mark key="]" line="92" column="54" />
+        <mark key="^" line="92" column="54" />
+        <mark key="." line="92" column="54" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/dummy_algo.h" timestamp="1572192367797">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="37" column="49" />
+        <mark key="^" line="37" column="49" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/algo_api.h" timestamp="1571922388322">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/logging_buga/logging_buga_signal.cpp" timestamp="1563708782182">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/.clang-format" timestamp="1571919392820">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/bugatone_api/status_manager_tests.cpp" timestamp="1540113626172">
         <mark key="[" line="33" column="33" />
