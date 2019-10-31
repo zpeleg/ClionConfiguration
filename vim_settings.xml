@@ -161,6 +161,11 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product/chunkifying_iterator.cpp" timestamp="1572528301527">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/auth/auth_main.cpp" timestamp="1557929896212">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="52" />
@@ -353,7 +358,7 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572527604935">
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572528456066">
         <mark key="[" line="59" column="39" />
         <mark key="]" line="59" column="39" />
         <mark key="." line="59" column="39" />
@@ -552,8 +557,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>audioChunk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8mIGI6IGxvb3BiYWNrKXsKICAgICAgICAgICAgYi5jCiAgICAgICAgfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -577,31 +582,31 @@
         <text encoding="base64">ICAgICAgICBldmVudC5uYW1lID0gRXZlbnROYW1lczo6ZGVidWdNZXNzYWdlKCk7CiAgICAgICAgZXZlbnQubWVzc2FnZSA9IG1lc3NhZ2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8mIGI6IGxvb3BiYWNrKXsKICAgICAgICAgICAgYi5jCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIGMrKyBkdW1teSBhbGdvIHRvIG1vYmlsZXByb2R1Y3QyCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3ByYWdtYSBidWdhX2pzb24K</text>
+        <text encoding="base64">QWRkIGMrKyBkdW1teSBhbGdvIHRvIG1vYmlsZXByb2R1Y3QyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1vYmlsZXByb2R1Y3QyL2FwaS9jb3JlLmg+Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBidWdhX2pzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1vYmlsZXByb2R1Y3QyL2FwaS9jb3JlLmg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJRXZlbnRDb21tYW5kYWJsZTo6cmVzZXRBdWRpbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJRXZlbnRDb21tYW5kYWJsZTo6c2V0QXVkaW9DaHVuayhjaGFubmVsbGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBJRXZlbnRDb21tYW5kYWJsZTo6cmVzZXRBdWRpbygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR1bW15QWxnbwo=</text>
+        <text encoding="base64">ICAgICAgICBJRXZlbnRDb21tYW5kYWJsZTo6c2V0QXVkaW9DaHVuayhjaGFubmVsbGVkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RHVtbXlBbGdvQ29tbWFuZGFibGU6OkR1bW15QWxnb0NvbW1hbmRhYmxlKER1bW15QWxnbyogZHVtbXlBbGdvKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGR1bW15QWxnbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
