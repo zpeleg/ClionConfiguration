@@ -247,6 +247,11 @@
       <file name="/Python Console" timestamp="1569146189048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.h" timestamp="1572545633738">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572192143290">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -289,11 +294,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1572534075532">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1572545217256">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1571922599906">
         <mark key="[" line="7" column="0" />
@@ -570,7 +575,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/media/avihu/Data/Phones/Sony/xperia-xz/AOSP/android_dev_7.1.2_r17_krn4.4)</text>
+        <text>kagura</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -585,7 +590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/media/avihu/Data/Phones/Sony/xperia-xz/AOSP/android_dev_7.1.2_r17_krn4.4)</text>
+        <text>kagura</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
