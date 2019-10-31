@@ -158,7 +158,6 @@
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.cpp" timestamp="1572546700245">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="67" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product/chunkifying_iterator.cpp" timestamp="1572528301527">
@@ -251,10 +250,11 @@
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572192143290">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572547790549">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/authentication_algo_factory.h" timestamp="1558621281434">
         <mark key="[" line="10" column="74" />
@@ -298,12 +298,6 @@
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product_factories.h" timestamp="1572546682967">
-        <mark key="[" line="7" column="74" />
-        <mark key="]" line="7" column="75" />
-        <mark key="." line="7" column="75" />
-        <mark key="^" line="7" column="75" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.h" timestamp="1572183608187">
         <mark key="[" line="11" column="0" />
@@ -569,7 +563,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>productFactories</text>
+        <text>start</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -584,13 +578,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>productFactories</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5uYW1lID0gRXZlbnROYW1lczo6ZGVidWdNZXNzYWdlKCk7CiAgICAgICAgZXZlbnQubWVzc2FnZSA9IG1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBzdGFydCgpID0gMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -674,8 +668,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
