@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,5 +22,6 @@
     <mask>*.h,*.cpp</mask>
     <mask>*.h,*.txt</mask>
     <mask>*.h,*.txt,*.cpp</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
