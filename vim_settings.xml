@@ -182,11 +182,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572774347682">
-        <mark key="[" line="29" column="72" />
-        <mark key="]" line="29" column="75" />
-        <mark key="." line="29" column="75" />
-        <mark key="^" line="29" column="75" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572778339478">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="28" column="92" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/core/pypool.h" timestamp="1572183747807">
         <mark key="[" line="24" column="13" />
@@ -300,6 +300,7 @@
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/underground_teacher_status_algo_result.cpp" timestamp="1539603438516">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/dependencies/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1572778586095" />
       <file name="$USER_HOME$/mobileproduct/src/vendor/oppo/daemon_notify_executor.cpp" timestamp="1543811202346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -336,6 +337,10 @@
         <mark key="^" line="45" column="25" />
         <mark key="." line="45" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1572778761483">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="54" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/states/auth_state_machine.cpp" timestamp="1558620720061">
         <mark key="[" line="17" column="108" />
         <mark key="]" line="18" column="19" />
@@ -359,6 +364,13 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" timestamp="1572778900526">
+        <mark key="'" line="26" column="36" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/states/out_ear_detection_state_tests.cpp" timestamp="1558524055374">
         <mark key="[" line="86" column="0" />
@@ -396,6 +408,12 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.h" timestamp="1572778712864">
+        <mark key="[" line="34" column="57" />
+        <mark key="]" line="34" column="57" />
+        <mark key="^" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.cpp" timestamp="1549381958618">
         <mark key="[" line="92" column="54" />
         <mark key="]" line="92" column="54" />
@@ -427,8 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
-      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="86" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
       <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/src/algo_controllers/ialgo_result_commandable.h" />
@@ -527,6 +543,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" />
       <jump line="107" column="0" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" />
       <jump line="6" column="48" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" />
+      <jump line="25" column="4" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" />
+      <jump line="26" column="36" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,8 +557,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>recorder/dependencies/lib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -555,40 +573,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-L${AOSP_LIB64}</text>
+        <text>kk</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
       </register>
-      <register name="0" type="4">
-        <text>recorder/dependencies/lib</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXNfdGhyZWFkOjpzbGVlcF9mb3IoY2hyb25vOjptaWxsaXNlY29uZHMoNTAwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldChBTkRST0lEX0xJTktFUl9GTEFHUyAiLVdsLC1ycGF0aC1saW5rPSR7QU9TUF9MSUI2NH0gIC1sdGlueWFsc2EiKQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0gUFJJVkFURSB0aW55YWxzYSkK</text>
+        <text encoding="base64">ICAgIHBjbV9vcGVuKDAsIDAsIDAsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW55X2Fsc2FfcmVjb3JkZXIuY3BwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="8">
+        <text>config
+config
+config
+config
+config</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudW0gcGNtX2Zvcm1hdCBmb3JtYXQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5jaGFubmVscyA9IHRhQ29uZmlnLmNoYW5uZWxzOwogICAgY29uZmlnLnJhdGUgPSB0YUNvbmZpZy5yYXRlOwogICAgY29uZmlnLnBlcmlvZF9zaXplID0gdGFDb25maWcucGVyaW9kX3NpemU7CiAgICBjb25maWcucGVyaW9kX2NvdW50ID0gdGFDb25maWcucGVyaW9kX2NvdW50OwogICAgY29uZmlnLmZvcm1hdCA9IFBDTV9GT1JNQVRfUzE2X0xFOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVpbnQK</text>
+        <text encoding="base64">ICAgIG1lbXNldCgmY29uZmlnLCAwLCBzaXplb2YoY29uZmlnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzMxLzE5LgovLwoK</text>
+        <text encoding="base64">ICAgICAgICBjZXJyIDw8ICJSRUM6IFVuYWJsZSB0byBvcGVuIFBDTSBkZXZpY2UgKCIgPDwgcGNtX2dldF9lcnJvcihwY21TdHJlYW0pIDw8ICIpIiA8PCBlbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzMxLzE5LgovLwoK</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgIlwwMzNbMTszM21SRUM6IE9wZW5pbmcgUENNIGRldmljZTogIiA8PCBkZXZpY2UgPDwgIiBjYXJkOiAiIDw8IGNhcmQgPDwgIlwwMzNbMG0iIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgdGlueV9hbHNhX3JlY29yZGVyIHsKCn07Cg==</text>
+        <text encoding="base64">cGNtKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -645,8 +667,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
