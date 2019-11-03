@@ -182,11 +182,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572773819277">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="51" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/CMakeLists.txt" timestamp="1572774347682">
+        <mark key="[" line="29" column="72" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="29" column="75" />
+        <mark key="^" line="29" column="75" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/core/pypool.h" timestamp="1572183747807">
         <mark key="[" line="24" column="13" />
@@ -285,9 +285,9 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1572773633769">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="18" />
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1572774259069">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="132" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
@@ -539,8 +539,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0gUFJJVkFURSB0aW55YWxzYSkK</text>
+      <register name="&quot;" type="4">
+        <text>recorder/dependencies/lib</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -555,40 +555,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>include_directories(recorder/dependencies/include)</text>
+        <text>-L${AOSP_LIB64}</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKHJlY29yZGVyL2RlcGVuZGVuY2llcy9pbmNsdWRlKQo=</text>
+      <register name="0" type="4">
+        <text>recorder/dependencies/lib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0gUFJJVkFURSB0aW55YWxzYSkK</text>
+        <text encoding="base64">ICAgIHNldChBTkRST0lEX0xJTktFUl9GTEFHUyAiLVdsLC1ycGF0aC1saW5rPSR7QU9TUF9MSUI2NH0gIC1sdGlueWFsc2EiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW55X2Fsc2FfcmVjb3JkZXIuY3BwCg==</text>
+        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0gUFJJVkFURSB0aW55YWxzYSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aW55X2Fsc2FfcmVjb3JkZXIuY3BwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudW0gcGNtX2Zvcm1hdCBmb3JtYXQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVpbnQK</text>
+        <text encoding="base64">ICAgIGVudW0gcGNtX2Zvcm1hdCBmb3JtYXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzMxLzE5LgovLwoK</text>
+        <text encoding="base64">ICAgIHVpbnQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzMxLzE5LgovLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgdGlueV9hbHNhX3JlY29yZGVyIHsKCn07Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDEwLzMxLzE5LgovLwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgdGlueV9hbHNhX3JlY29yZGVyIHsKCn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
