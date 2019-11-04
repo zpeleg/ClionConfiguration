@@ -199,7 +199,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/AOSP/external/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1572549058422">
+      <file name="$USER_HOME$/Code/AOSP/external/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1572857419898">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="111" column="30" />
       </file>
@@ -212,13 +212,13 @@
       <file name="/Python Console" timestamp="1569146189048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/recorder.cpp" timestamp="1572803785909">
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/recorder.cpp" timestamp="1572857466083">
         <mark key="j" line="15" column="22" />
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="51" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="23" column="52" />
         <mark key="m" line="15" column="22" />
-        <mark key="^" line="36" column="51" />
-        <mark key="." line="36" column="51" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="52" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/recoder_tester.cpp" timestamp="1572797586735">
         <mark key="[" line="2" column="17" />
@@ -315,7 +315,7 @@
         <mark key="^" line="45" column="25" />
         <mark key="." line="45" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1572795539134">
+      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" timestamp="1572857462796">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="133" column="26" />
       </file>
@@ -343,11 +343,11 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" timestamp="1572803721196">
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" timestamp="1572803811348">
         <mark key="'" line="39" column="42" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="60" column="120" />
       </file>
       <file name="$USER_HOME$/mobileproduct/tests/states/out_ear_detection_state_tests.cpp" timestamp="1558524055374">
@@ -535,8 +535,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjp0aW0K</text>
+      <register name="&quot;" type="4">
+        <text>raw</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -551,7 +551,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b!=0</text>
+        <text>raw</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
@@ -560,31 +560,31 @@
         <text>std::chrono::high_resolution_clock::now()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjp0aW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHN0YXRpY19jYXN0PGludD4gKGJ1ZmZlclswXSkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc3RhcnQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4oc3RkOjpjaHJvbm86OmhpZ2hfcmVzb2x1dGlvbl9jbG9jazo6bm93KCkgLSBzdGFydCkuY291bnQoKSA8CiAgICAgICAgICAgMTApIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y2hyb25vOjp0aW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGlmZiA9IAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gc3RhcnQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKICAgIHdoaWxlIChzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6c2Vjb25kcz4oc3RkOjpjaHJvbm86OmhpZ2hfcmVzb2x1dGlvbl9jbG9jazo6bm93KCkgLSBzdGFydCkuY291bnQoKSA8CiAgICAgICAgICAgMTApIHsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0ID4gc3RkOjpjaHJvbm86OnNlY29uZHMoNjApKQogICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIGF1dG8gZGlmZiA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbm93ID0gc3RkOjpjaHJvbm86OnN5c3RlbV9jbG9jazo6bm93KCk7CiAgICBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjp0aW1lcG9pbnQgc3RhcnQgPSBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKSAtIHN0YXJ0ID4gc3RkOjpjaHJvbm86OnNlY29uZHMoNjApKQogICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PGEvNzsKICAgICAgICBhPWIqMTA7CiAgICAgICAgYj1hJTc7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gbm93ID0gc3RkOjpjaHJvbm86OnN5c3RlbV9jbG9jazo6bm93KCk7CiAgICBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjp0aW1lcG9pbnQgc3RhcnQgPSBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldGNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQ8PGEvNzsKICAgICAgICBhPWIqMTA7CiAgICAgICAgYj1hJTc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0Owo=</text>
+        <text encoding="base64">ICAgIGdldGNoKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBub25zdGQ6Om9wdGlvbmFsPHN0ZDo6dmVjdG9yPGNoYXI+PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
