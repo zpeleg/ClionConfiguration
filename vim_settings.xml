@@ -95,11 +95,12 @@
         <mark key="^" line="28" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572872220894">
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572872256429">
         <mark key="'" line="33" column="11" />
         <mark key="[" line="68" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="114" column="4" />
+        <mark key="." line="114" column="4" />
+        <mark key="^" line="114" column="4" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product/channel_ordering_machine.cpp" timestamp="1572868840256">
         <mark key="[" line="94" column="85" />
@@ -110,6 +111,12 @@
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/api.h" timestamp="1572791559421" />
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/dummy_algo_tests.cpp" timestamp="1572872467821">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+        <mark key="^" line="8" column="55" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/dependencies/tinyalsa/tinycap.c" timestamp="1572796931315" />
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572871498882">
@@ -260,8 +267,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -276,13 +283,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commandable</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
       </register>
       <register name="0" type="4">
-        <text>dummyAlgoPool.get_object_for_id(id)</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
@@ -366,8 +373,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
