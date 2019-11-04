@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/audio.cpp" timestamp="1572857517593">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="1" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/detectors/underground_teacher.cpp" timestamp="1541577813819">
         <mark key="[" line="369" column="25" />
       </file>
@@ -18,17 +14,12 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/dependencies/boost/sml.hpp" timestamp="1572869135655" />
       <file name="/events.h" timestamp="1572871648805" />
-      <file name="$USER_HOME$/Code/tinyRecordAndPlay/src/audio.h" timestamp="1572857505233">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="59" column="20" />
-      </file>
       <file name="/channel_ordering_machine.cpp" timestamp="1572864237053" />
+      <file name="$USER_HOME$/mobileproduct/tests/mobileproduct2/channel_ordering_machine_tests.cpp" timestamp="1572876932907">
+        <mark key="'" line="159" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1572184188534">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/AOSP/external/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1572857419898">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="111" column="30" />
       </file>
       <file name="/Python Console" timestamp="1569146189048">
         <mark key="[" line="0" column="0" />
@@ -55,10 +46,6 @@
         <mark key="]" line="33" column="132" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/dependencies/tinyalsa/include/tinyalsa/asoundlib.h" timestamp="1572857756066">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="20" />
       </file>
       <file name="/fragment.cpp" timestamp="1572796795493">
         <mark key="[" line="0" column="0" />
@@ -155,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="22" filename="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
       <jump line="71" column="54" filename="$USER_HOME$/mobileproduct/src/detectors/dummy_authentication.cpp" />
@@ -255,6 +241,7 @@
       <jump line="23" column="35" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/tinyRecordAndPlay/src/capture.cpp" />
       <jump line="281" column="41" filename="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" />
+      <jump line="158" column="0" filename="$USER_HOME$/mobileproduct/tests/mobileproduct2/channel_ordering_machine_tests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
