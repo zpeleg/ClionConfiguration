@@ -43,10 +43,11 @@
         <mark key="]" line="37" column="67" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572868278189">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572870145461">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
+        <mark key="^" line="47" column="8" />
       </file>
       <file name="$USER_HOME$/Code/tinyRecordAndPlay/CMakeLists.txt" timestamp="1572774259069">
         <mark key="[" line="33" column="0" />
@@ -72,11 +73,10 @@
       <file name="/GDB" timestamp="1572796973721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572869364223">
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="36" />
-        <mark key="^" line="62" column="36" />
-        <mark key="." line="62" column="36" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572869883235">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/tiny_alsa_recorder.cpp" timestamp="1572861411707">
         <mark key="'" line="38" column="42" />
@@ -253,7 +253,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ClickedEnroll</text>
+        <text>Dummy</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -268,7 +268,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ClickedEnroll</text>
+        <text>Dummy</text>
       </register>
       <register name="/" type="4">
         <text>Pla</text>
@@ -277,31 +277,31 @@
         <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgRmlybXdhcmVDb25maWdFdmVudCYgZSkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgUmVzZXRBdWRpb0V2ZW50JiBlKSB7fQoK</text>
+        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lIEFhYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB0ZW1wbGF0ZSA8dHlwZW5hbWUgRT4KICAgIHZpcnR1YWwgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgRSYgZSkge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgUmVzZXRBdWRpb0V2ZW50JiBlKSB7fQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3RydWN0IER1bW15QWxnb0NvbW1hbmRhYmxlIDogcHVibGljIElFdmVudENvbW1hbmRhYmxlIHsKICAgIGV4cGxpY2l0IER1bW15QWxnb0NvbW1hbmRhYmxlKER1bW15QWxnbyogZHVtbXlBbGdvXykgOiBkdW1teUFsZ28oZHVtbXlBbGdvXyksIHJlc3VsdCgpIHt9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgQXVkaW9DaHVua0V2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgUmVzZXRBdWRpb0V2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgSW5pdGlhbGl6ZUV2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4gcmVzdWx0OwogICAgRHVtbXlBbGdvKiBkdW1teUFsZ287Cn07Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0LT5zZWNvbmQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c3RydWN0IER1bW15QWxnb0NvbW1hbmRhYmxlIDogcHVibGljIElFdmVudENvbW1hbmRhYmxlIHsKICAgIGV4cGxpY2l0IER1bW15QWxnb0NvbW1hbmRhYmxlKER1bW15QWxnbyogZHVtbXlBbGdvXykgOiBkdW1teUFsZ28oZHVtbXlBbGdvXyksIHJlc3VsdCgpIHt9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgQXVkaW9DaHVua0V2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgUmVzZXRBdWRpb0V2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgdm9pZCBwcm9jZXNzRXZlbnQoY29uc3QgSW5pdGlhbGl6ZUV2ZW50JiBlKSBvdmVycmlkZSB7CiAgICAgICAgcmVzdWx0ID0gZHVtbXlBbGdvLT5wcm9jZXNzRXZlbnQoZSk7CiAgICB9CgogICAgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4gcmVzdWx0OwogICAgRHVtbXlBbGdvKiBkdW1teUFsZ287Cn07Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">V29ya2luZyByZWNvcmRlcgo=</text>
+        <text encoding="base64">ICAgIGl0LT5zZWNvbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiT3BlbmluZyBjYXJkICIgPDwgdGFDb25maWcuY2FyZCA8PCAiIGRldmljZSAiIDw8IHRhQ29uZmlnLmRldmljZSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,8 +358,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
