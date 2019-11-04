@@ -72,7 +72,7 @@
         <mark key="]" line="110" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/algo_controllers/algo_results/ialgo_result.h" timestamp="1572871392617" />
-      <file name="/GDB" timestamp="1572796973721">
+      <file name="/GDB" timestamp="1572874113237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/events.h" timestamp="1572872154114">
@@ -95,12 +95,12 @@
         <mark key="^" line="28" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572872256429">
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/mega_event.cpp" timestamp="1572874193532">
         <mark key="'" line="33" column="11" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="114" column="4" />
-        <mark key="." line="114" column="4" />
-        <mark key="^" line="114" column="4" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="53" />
+        <mark key="^" line="71" column="52" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/product/channel_ordering_machine.cpp" timestamp="1572868840256">
         <mark key="[" line="94" column="85" />
@@ -267,8 +267,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4oKTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -288,8 +288,8 @@
       <register name="/" type="4">
         <text>Pla</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4oKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
@@ -373,8 +373,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
