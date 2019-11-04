@@ -96,11 +96,6 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572858035726">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="12" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572874992771">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -252,6 +247,12 @@
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/python_bindings/python_recorder.h" timestamp="1572887968665">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/configuration/config_builder.cpp" timestamp="1538991984068">
         <mark key="[" line="45" column="0" />
@@ -568,7 +569,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -592,31 +593,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEV2ZW50Pj4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL2RhdGEvYXVkaW9fZGF0YS5oIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFwaS9zeW5hcHRpY3NfY29uZmlnLmgiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm1vYmlsZXByb2R1Y3QyL2FwaS9ldmVudHMuaCIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">V29ya2luZyB3YXYgcmVjb3JkZXIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDExLzQvMTkuCi8vCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL2RhdGEvYXVkaW9fZGF0YS5oIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImFwaS9zeW5hcHRpY3NfY29uZmlnLmgiCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIm1vYmlsZXByb2R1Y3QyL2FwaS9ldmVudHMuaCIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">V29ya2luZyB3YXYgcmVjb3JkZXIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RydWN0IEV2ZW50IHsKICAgIHZpcnR1YWwgfkV2ZW50KCkgPSBkZWZhdWx0OwoKICAgIGNvbnN0IHN0ZDo6c3RyaW5nIG5hbWU7CgogICAgdmlydHVhbCBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RXZlbnQ+PiBleGVjdXRlKElFdmVudENvbW1hbmRhYmxlJikgPSAwOwoKcHJvdGVjdGVkOgogICAgZXhwbGljaXQgRXZlbnQoc3RkOjpzdHJpbmcgbmFtZV8pIDogbmFtZShzdGQ6Om1vdmUobmFtZV8pKSB7fQp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
