@@ -108,11 +108,6 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/play.h" timestamp="1572888141735">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="37" column="88" />
-        <mark key="." line="37" column="12" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/src/python_bindings/dummy_algo_bindings.cpp" timestamp="1572874992771">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -360,6 +355,12 @@
         <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/recorder/dependencies/tinyalsa/tinycap.c" timestamp="1572796931315" />
+      <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/event_names.h" timestamp="1572947230580">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/src/mobileproduct2/api/algo.h" timestamp="1572871498882">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="37" />
@@ -598,8 +599,15 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//
+// Created by buga on 11/5/19.
+//
+
+#ifndef MOBILEPRODUCT_EVENT_NAMES_H
+#define MOBILEPRODUCT_EVENT_NAMES_H
+
+#endif //MOBILEPRODUCT_EVENT_NAMES_H</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -622,32 +630,39 @@
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgUHl0aG9uUmVjb3JkZXJDYWxsYmFja3Mm</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>//
+// Created by buga on 11/5/19.
+//
+
+#ifndef MOBILEPRODUCT_EVENT_NAMES_H
+#define MOBILEPRODUCT_EVENT_NAMES_H
+
+#endif //MOBILEPRODUCT_EVENT_NAMES_H</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBub25zdGQ6Om9wdGlvbmFsPHN0ZDo6dHVwbGU8c3RkOjp2ZWN0b3I8Y2hhcj4sIHNpemVfdD4+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBub25zdGQ6Om9wdGlvbmFsPHN0ZDo6dHVwbGU8c3RkOjp2ZWN0b3I8Y2hhcj4sIHNpemVfdD4+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgYm9vbCAoKnJlcXVlc3RTdGFydFJlY29yZGluZykoSUJ1Z2FTdHJlYW0qKTsKLy8gICAgYm9vbCAoKnJlcXVlc3RTdG9wUmVjb3JkaW5nKSgpOwovLyAgICBib29sICgqcmVxdWVzdFN0YXJ0UGxheWluZykoSUJ1Z2FTaWduYWwqIHNpZ25hbCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICB2aXJ0dWFsIG5vbnN0ZDo6b3B0aW9uYWw8c3RkOjp0dXBsZTxzdGQ6OnZlY3RvcjxjaGFyPiwgc2l6ZV90Pj4gZ2V0QXVkaW9DaHVuaygpID0gMDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmlydHVhbCB2b2lkIHN0YXJ0KCkgPSAwOwoKICAgIHZpcnR1YWwgdm9pZCBzdG9wKCkgPSAwOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgYm9vbCAoKnJlcXVlc3RTdGFydFJlY29yZGluZykoSUJ1Z2FTdHJlYW0qKTsKLy8gICAgYm9vbCAoKnJlcXVlc3RTdG9wUmVjb3JkaW5nKSgpOwovLyAgICBib29sICgqcmVxdWVzdFN0YXJ0UGxheWluZykoSUJ1Z2FTaWduYWwqIHNpZ25hbCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBidWdhIG9uIDExLzQvMTkuCi8vCgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICB2aXJ0dWFsIG5vbnN0ZDo6b3B0aW9uYWw8c3RkOjp0dXBsZTxzdGQ6OnZlY3RvcjxjaGFyPiwgc2l6ZV90Pj4gZ2V0QXVkaW9DaHVuaygpID0gMDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgdmlydHVhbCB2b2lkIHN0YXJ0KCkgPSAwOwoKICAgIHZpcnR1YWwgdm9pZCBzdG9wKCkgPSAwOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
