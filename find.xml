@@ -19,5 +19,6 @@
     <mask>*.h,*.cpp</mask>
     <mask>*.h,*.txt</mask>
     <mask>*.h,*.txt,*.cpp</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
