@@ -9,16 +9,23 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/src/cymp2/python_recorder_bindings.h" timestamp="1573140785865">
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="54" />
+      <file name="$USER_HOME$/mobileproduct/src/cymp2/python_recorder_bindings.h" timestamp="1573140937273">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/core/numpyish.h" timestamp="1573140399832">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="80" />
         <mark key="." line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/src/cymp2/python_recorder_bindings.cpp" timestamp="1573141320124">
+        <mark key="'" line="11" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/mobileproduct/src/cymp2/CMakeLists.txt" timestamp="1573140693686">
         <mark key="[" line="8" column="28" />
@@ -36,31 +43,40 @@
         <mark key="^" line="26" column="45" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="12" column="37" filename="$USER_HOME$/mobileproduct/src/cymp2/python_recorder_bindings.cpp" />
+      <jump line="4" column="43" filename="$USER_HOME$/mobileproduct/src/cymp2/python_recorder_bindings.cpp" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRlbGV0ZV9udW1weWlzaF9udW1weWlzaF9jaGFycyhudW1weWlzaDxudW1weWlzaDxjaGFyPj4mIGlucHV0KSB7Cg==</text>
+        <text encoding="base64">ICAgIFB5UG9vbDxQeXRob25SZWNvcmRlcj46Omluc3RhbmNlKCkuZ2V0X29iamVjdF9mb3JfaWQoaWQpLT5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgcHl0aG9uX3JlY29yZGVyX2JpbmRpbmdzIHsKCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgcHl0aG9uX3JlY29yZGVyX2JpbmRpbmdzIHsKCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRlbGV0ZV9udW1weWlzaF9udW1weWlzaF9jaGFycyhudW1weWlzaDxudW1weWlzaDxjaGFyPj4mIGlucHV0KTsK</text>
+        <text encoding="base64">dm9pZCBzdGFydChzaXplX3QgaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRlbGV0ZV9udW1weWlzaF9udW1weWlzaF9kb3VibGVzKG51bXB5aXNoPG51bXB5aXNoPGNoYXI+PiYgaW5wdXQpIHsK</text>
+        <text encoding="base64">Y2xhc3MgcHl0aG9uX3JlY29yZGVyX2JpbmRpbmdzIHsKCn07Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRlbGV0ZV9udW1weWlzaF9udW1weWlzaF9jaGFycyhudW1weWlzaDxudW1weWlzaDxjaGFyPj4mIGlucHV0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXh0ZXJuICJDIiB2b2lkIGRlbGV0ZV9udW1weWlzaF9udW1weWlzaF9kb3VibGVzKG51bXB5aXNoPG51bXB5aXNoPGNoYXI+PiYgaW5wdXQpIHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgYWMuY2hhbm5lbHM7ICsraSkgewovLyAgICAgICAgICAgIGF1ZGlvLmVtcGxhY2VfYmFjayhhYy5kYXRhW2ldWzBdLCBhYy5kYXRhW2ldW2FjLmRhdGFMZW5ndGhdKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>doubles</text>
+        <text>art</text>
       </register>
     </registers>
     <search>
@@ -88,7 +104,13 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
